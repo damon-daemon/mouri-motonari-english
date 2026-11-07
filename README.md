@@ -23,6 +23,15 @@ This repository contains the English text and the tools that build the patch.
 It does **not** contain the game, any of its data, or the Japanese script — you need
 your own copy of the game.
 
+## Screenshots
+
+| | | |
+|:-:|:-:|:-:|
+| ![Dialogue](docs/screenshots/01_dialogue.png) | ![March map](docs/screenshots/02_march.png) | ![Battle](docs/screenshots/03_battle.png) |
+| Event dialogue | March map | Battle |
+| ![Town](docs/screenshots/04_town.png) | ![Merchant](docs/screenshots/05_merchant.png) | ![Biography](docs/screenshots/06_bio.png) |
+| Town map | Merchant | Officer biography |
+
 ## What's translated
 
 - All event scripts: every episode's dialogue, narration, place captions, chapter and
@@ -107,6 +116,7 @@ the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 | `tools/gfx.py`, `mmap.py`, `tinyfont.py` | Redrawn graphics (screen labels, march-map province names) |
 | `tools/package.py` | Makes the release zip (patch + .cue + README.txt with checksums) |
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, DuckStation automation) |
+| `docs/screenshots/` | README screenshots |
 
 ## Known issues
 
