@@ -168,7 +168,7 @@ PROG:8011be28	You have no weapon\nequipped, so you\ncannot spar.
 PROG:8011be60	Cancel sparring?
 PROG:8011be78	A stake is required\nfor each opponent.
 PROG:8011bea0	Not enough for the stake.
-PROG:8011beb8	Pay a stake of %d?
+PROG:8011beb8	Pay a %d gold stake?
 PROG:8011bed0	%s's Luck rose by 1
 PROG:8011beec	Sometimes it is wise\nto withdraw...
 PROG:8011bf0c	Fleeing, too, is\npart of strategy.
