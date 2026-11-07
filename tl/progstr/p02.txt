@@ -42,7 +42,7 @@ PROG:801214cc	Episode 25 "The Crimson Lake Biwa"
 PROG:801214e8	Episode 26 "The Vengeful Ghost of Kyoto"
 PROG:80121500	Final Episode "The Decisive Battle"
 PROG:80121510	There is no profile for this person.
-PROG:80121544	Mōri Retainers
+PROG:80121544	the Mōri retainers
 PROG:80121550	By episode
 PROG:8012155c	People (by name)
 PROG:80121574	%s (%u)

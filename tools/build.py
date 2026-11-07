@@ -8,7 +8,7 @@ usage: .venv/bin/python tools/build.py [clean.bin] [out.bin]
 import os, struct, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import asm, bios, datae3, gfx, imsg, iso, mctitle, mmap, names, progstr, setup, tl, vwf
+import asm, baback, bios, datae3, gfx, imsg, iso, mctitle, mmap, names, progstr, setup, tl, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'build', 'mouri_motonari_en.bin')
@@ -166,6 +166,8 @@ def build_files(disc, recs):
     print('MARK.E3: %d labels' % n)
     out[mmap.ISO_NAME], n = mmap.build(disc.file(mmap.ISO_NAME, recs))
     print('MMAP.E3: %d province labels' % n)
+    out[baback.ISO_NAME], n = baback.build(disc.file(baback.ISO_NAME, recs))
+    print('BA_BACK.BIN: %d icons' % n)
     # program strings last: repointing asserts the clean words (catches clashes with the patches)
     n, moved, pool, strs = progstr.apply({'PROG': exe}, {'PROG': clean_exe}, (STRS, STRS_END - STRS))
     strs += bytes(max(4 - len(strs), 0) + (-len(strs) % 4))
