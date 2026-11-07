@@ -1,0 +1,852 @@
+@0
+Episode 3 "Elder Brother, Younger Brother"
+
+@1
+Episode 3 "Elder Brother, Younger Brother"
+
+@3.0
+Kamei! Is Kamei here?!
+
+@4.0
+Ah, Lord Tsunehisa.
+
+@5.0
+I hear Kagamiyama has fallen. Whose achievement is it?
+
+@6.0
+It is that of Mōri Motonari, standing here.
+
+@7.0
+Oh... So you are Motonari. I had heard rumours of you...
+
+@7.1
+It is an honour just to have my name reach your ears.
+
+@7.2
+Hm. Whatever the case, your work in this battle was splendid. Your speed in the attack above all. Remarkable.
+
+@7.3
+You are too kind.
+
+@7.4
+I never imagined Kagamiyama would fall before I even got here.
+
+@7.5
+(I never thought of it at all. This young upstart...)
+
+@8.1
+Hm?! Who is this?!
+
+@8.2
+Please wait.
+
+@8.3
+This man is Naonobu, uncle of Kurata Fusanobu.
+
+@8.4
+In this battle he led our army into Kagamiyama Castle. He did us great service.
+
+@8.5
+Indeed. I led the Mōri army into the castle and created the opening for victory.
+
+@8.6
+(I took Motonari for a man of nothing but valour...)
+
+@8.7
+(And now he even uses schemes like inducing surrender...)
+
+@8.8
+Now then, about my domain being confirmed...
+
+@8.9
+Denied. To betray one's lord out of greed is outrageous. Cut him down.
+
+@8.10
+Wh-what?!
+
+@9.0
+Poor wretch...
+
+@10.0
+Then, if you will excuse us.
+
+@10.1
+Ah, wait.
+
+@10.2
+What is it, my lord?
+
+@10.3
+For the head inspection, custom demands that Kōmatsumaru, head of the Mōri, attend as well.
+
+@10.4
+With respect, sir. Lord Kōmatsumaru is only nine years old. We cannot seat him at a place for inspecting the heads of the dead.
+
+@10.5
+A child or not, a lord is a lord. Or is Motonari already the real head of the Mōri?
+
+@10.6
+Grr...!
+
+@10.7
+Do you mean to say Motonari disregards his lord?!
+
+@10.8
+Lord Kikkawa!
+
+@10.9
+But, Motonari...!
+
+@10.10
+We accept the head inspection. Now, if you will excuse us.
+
+@11.0
+...
+
+@11.1
+What is it, Grandfather?
+
+@11.2
+Kamei.
+
+@11.4
+That man, Motonari, is dangerous. See that something is done.
+
+@11.5
+Yes, my lord!
+
+@12
+After this scene, Kōmatsumaru sat at the head inspection and looked straight into the dead eyes of the enemy commander Kurata Fusanobu. In his terror he fell ill with a fever called "okori" (malaria), one of the deadliest diseases of the age...
+
+@13
+Kōnomine Castle - Council Hall
+
+@14.0
+I hear Kagamiyama has fallen.
+
+@14.1
+Yes, sir. Mōri Kōmatsumaru's guardian, Motonari, took it with great ease.
+
+@15.0
+I am told Kurata Naonobu betrayed them.
+
+@15.1
+And that too was Motonari's scheme, I hear.
+
+@16.0
+Father!
+
+@17.0
+What is it, Yoshitaka?
+
+@17.1
+Order me to attack Aki. A man like Motonari is nothing to me...
+
+@17.2
+Never, you fool!
+
+@17.3
+Eek...!
+
+@17.4
+What do you intend to do about the Ōtomo army in Buzen?! Where are the troops to invade Aki and fight the Amago now?!
+
+@17.5
+Yes, sir! You are quite right!
+
+@18.0
+Hmm... Motonari, is it...
+
+@18.1
+(Hmph. Motonari, of all people)
+
+@21.0
+Welcome back. It seems it was a satisfying battle.
+
+@21.1
+Hardly, there is far to go yet. But thank you for holding the castle. It let me concentrate on the fighting.
+
+@21.2
+Lord Motonari, you cannot afford to be carried away.
+
+@21.3
+I cannot believe Ōuchi Yoshioki will stay silent.
+
+@21.4
+True. And I am worried about Lord Kōmatsumaru.
+
+@21.5
+He is at the separate residence, being nursed with all possible care...
+
+@21.6
+Even so, I was careless. I should have refused, even by force.
+
+@21.7
+That has given the Amago a reason to attack the Mōri.
+
+@21.8
+Exactly. They might have attacked us, claiming Lord Motonari harboured rebellious intent.
+
+@21.9
+Even knowing that, still...
+
+@22
+Talk to Okata in the living quarters
+
+@35
+Yoshida-Kōriyama Castle - Empty Residence
+
+@37.0
+The Ōuchi worry me, but we cannot let our guard down against the Amago either.
+
+@38.0
+The Amago may be behind this. This battle may not even be Mototsuna's true intent.
+
+@39.0
+If we do not settle on a head soon, the Amago and Ōuchi will meddle in our affairs.
+
+@40.0
+As guardians, it makes no difference whether Lord Motonari or Lord Mototsuna becomes head.
+
+@40.1
+But by blood, Lord Motonari, born of the same mother as Lord Okimoto, is the rightful heir. The head should be Lord Motonari.
+
+@40.2
+But not everyone will accept that. Blood alone will not win the people or the soldiers.
+
+@40.3
+For the clan to be one solid rock, the head must be someone everyone accepts.
+
+@40.4
+Lord Motonari...
+
+@40.5
+(What Lord Motonari says is right)\n\n(But the Mōri have no time to win everyone over)
+
+@40.6
+(If only the Amago and Ōuchi would stay quiet)
+
+@43.0
+I only meant to apply some pressure with that head inspection, and Kōmatsumaru dies of it. It seems I still have fortune on my side.
+
+@43.1
+I will not let this chance slip.
+
+@43.2
+Do you mean to attack the Mōri?
+
+@43.3
+There are ways to take a house without attacking it.
+
+@43.4
+What do you mean, sir?
+
+@43.5
+Motonari has a half-brother, Mototsuna. We will use him.
+
+@43.6
+I have already taken steps in that matter.
+
+@43.7
+As expected. I leave the rest to you.
+
+@43.8
+Yes, my lord!
+
+@44.0
+But do it well. Leave no evidence at all that we were involved.
+
+@44.1
+Understood?
+
+@46
+Aiō Mototsuna's Residence
+
+@47.0
+I have no wish to be head. How many times must I say it?
+
+@47.1
+I meant to keep this quiet, but in fact I have secured a promise of backing from Lord Amago Tsunehisa.
+
+@47.2
+What?! Behind my back?!
+
+@47.3
+You would never have agreed if told. That is why I asked Lord Saka myself.
+
+@47.4
+What have you done...
+
+@47.5
+(Foolish... a foolish mother. Why does she still cling to power...)
+
+@47.6
+Lord Mototsuna, if the Mōri fall into Motonari's hands, the house will be ruined.
+
+@47.7
+Lord Mototsuna! Fight with us!
+
+@47.8
+You have the Amago's backing. Decide, my lord!
+
+@47.9
+(Saka, Katsura, Watanabe... All retainers who have raised me up)
+
+@47.10
+(And my mother... Foolish as she is, she is my mother...)
+
+@47.11
+(Perhaps I could be forgiven by saying I knew nothing of the Amago)
+
+@47.12
+(But I cannot abandon my mother and my retainers)
+
+@48.0
+I understand. Prepare to march!
+
+@50.0
+Will you not become head?
+
+@50.1
+I do not mind becoming it.
+
+@50.2
+But anyone who will not follow me would be a flaw that could destroy the Mōri.
+
+@50.3
+Yet I doubt we can persuade Lord Saka and the others...
+
+@50.4
+Hmm.
+
+@50.5
+Lord Motonari.
+
+@51.1
+There is suspicious activity around Funayama Castle, Lord Mototsuna's seat.
+
+@51.2
+Troops are moving heavily, and provisions are being shifted.
+
+@51.3
+Surely... it cannot be!
+
+@51.4
+All the retainers are gathered in the Council Hall. Please come at once.
+
+@51.5
+Now, excuse me!
+
+@52.0
+Mototsuna, why?
+
+@54.0
+You must have heard Seki's report.
+
+@54.1
+There is no time left. Let us march on Funayama Castle.
+
+@54.2
+We must not let them strike first. March at once!
+
+@54.3
+I will march. But the aim is to persuade Mototsuna.
+
+@54.4
+I will enter Funayama Castle and ask his true intent once more.
+
+@54.5
+Understood. Then please prepare to march.
+
+@56.0
+I wonder very much what Ōuchi Yoshioki made of our fighting.
+
+@57.0
+I would rather avoid strife within the clan, but this time it cannot be helped.
+
+@58.0
+Are you ready?
+
+@60
+Aiō Mototsuna's Residence
+
+@61.0
+They say Motonari's army has already marched...
+
+@61.1
+What?! Is that true?!
+
+@61.2
+We must march at once too!
+
+@61.4
+Will you not surrender?
+
+@61.5
+Lord Mototsuna! Even if we surrender, Motonari will not forgive us!
+
+@61.6
+He will kill you!
+
+@61.7
+(Is it useless to say anything now...)
+
+@61.8
+Lord Saka, send messengers to Katsura and Watanabe at once to request reinforcements!
+
+@61.9
+Come, Mototsuna. Seize the headship of the Mōri!
+
+@61.10
+(Brother... I...)
+
+@61.11
+Lord Mototsuna!
+
+@61.12
+...Very well.
+
+@62.0
+We march. Saka, follow me.
+
+@63.0
+Hurry. Every moment counts.
+
+@64.0
+Okori fever... Does Lord Kōmatsumaru have the strength to bear it? I am so worried.
+
+@65.0
+Saka and the others worry me. Let me have Seki look into it.
+
+@66.0
+Ninja like Seki prove useful at times like this.
+
+@67.0
+Lord Tsunehisa seems to fear Lord Motonari's valour. Be careful.
+
+@68.0
+In terms of achievements, Lord Motonari surely surpasses Lord Mototsuna now. You should take the headship yourself.
+
+@69.0
+Please carry at least a few items that restore Endurance.
+
+@70.0
+Those Amago... Making a child barely out of infancy sit at a head inspection...
+
+@70.1
+I will not forgive it!
+
+@71.0
+We must not fall behind Saka and the others. Lord Motonari, declare yourself head!
+
+@72.0
+Saka, so it came to this in the end! You will pay for dividing the clan on the battlefield!
+
+@73.0
+I doubt the Ōuchi will let things end here, and the Amago are unsettling too.
+
+@74.0
+Lord Motonari, only one path remains. Please succeed Lord Kōmatsumaru.
+
+@75.0
+Have the retainers' units grown strong? Weak units should be sent to the training ground.
+
+@76.0
+If anything happens to Lord Kōmatsumaru, the house may face the crisis of splitting in two.
+
+@77.0
+Now I cannot avoid fighting my father. Is this fate too...
+
+@78.0
+Even if it is my father, I will show no mercy.
+
+@79.0
+Poor Lord Kōmatsumaru... I must raise this child with care.
+
+@80.0
+Will Lord Kōmatsumaru be all right? Lady Sugi and Lady Fuji are both at his bedside.
+
+@81.0
+Lord Kōmatsumaru...!
+
+@82
+Mōri Kōmatsumaru's strength was worn away by the repeated fevers of okori, and he finally passed away at the young age of nine. His early death, following Mōri Okimoto's, was only a sign of new turmoil to come for the Mōri...
+
+@84.0
+What can I even say to you? If only I had refused the head inspection.
+
+@84.1
+It is not your fault, Lord Motonari. It is not your fault...
+
+@84.2
+...I am sorry...
+
+@85.0
+Lord Motonari, please come to the Council Hall. The retainers are all waiting.
+
+@85.1
+...I see. Very well, I will come at once.
+
+@85.2
+Then I will go ahead.
+
+@86
+Talk to Fukuhara Hirotoshi in the Hall
+
+@87.0
+Can the matter not be settled by persuading Lord Mototsuna?
+
+@88.0
+This will stir up the succession dispute again. This time it must be settled clearly.
+
+@89.0
+I did all I could...
+
+@90.0
+The thing I feared most has come at last.
+
+@91.0
+I think I will return to my home country. May I have your permission?
+
+@91.1
+...Yes. Understood.
+
+@92.0
+If anything happens to Lord Kōmatsumaru, the succession dispute may be stirred up again.
+
+@92.1
+He must recover soon.
+
+@93.0
+Lord Kōmatsumaru returned ill... How do you intend to take responsibility?
+
+@94.0
+Lord Mototsuna would have taken a place like Kagamiyama far more easily.
+
+@95.0
+I misjudged Lord Motonari when I thought he lacked valour.
+
+@95.1
+Still, he cannot match Lord Mototsuna's valour.
+
+@96.0
+You were a spear smith, were you not?
+
+@96.1
+Yes, sir, that is right.
+
+@98.0
+I need a skilled spear smith now. Will you lend me your strength?
+
+@98.1
+It is more than I could ask for.
+
+@98.2
+Has the arm you injured healed completely?
+
+@98.3
+Yes, it is fully recovered.
+
+@98.4
+I am counting on you.
+
+@98.5
+Yes, understood.
+
+@100.0
+If fate allows, we will meet again.
+
+@101.0
+Ah, I want to work.
+
+@108.1
+I see... Then, until next time.
+
+@110.0
+I am Ōkura Shinnoshin, a swordsmith.
+
+@115.2
+Then I too would like to join you, as a ninja-gear maker.
+
+@115.6
+I feel a great debt of gratitude.
+
+@121.1
+Forgive me, but could you lend me about 500 gold?
+
+@123.1
+Thank you! Thank you! I will repay you without fail!
+
+@124
+Gave Tsuda Yoichi 500 gold
+
+@125.1
+I see... I am grateful for the thought alone.
+
+@127.0
+I am Yamanoue Tametsugu, a spear smith.
+
+@127.1
+A spear smith, is it...
+
+@127.2
+I will surely prove useful to you, Lord Motonari.
+
+@129.0
+Then by all means, lend me your strength.
+
+@129.1
+Yes, thank you very much.
+
+@131.0
+I am sorry, but I cannot take you on right now.
+
+@131.1
+I see... Then another time...
+
+@132.0
+I am Karashima Michinori, a swordsmith.
+
+@132.2
+My father always said that following Lord Motonari is never a mistake.
+
+@132.4
+Please give me a place to make my name.
+
+@134.0
+Very well. Then I look forward to your work.
+
+@135.1
+I am in your hands.
+
+@136.0
+I am sorry, but I will pass this time.
+
+@139.0
+That child over there seems to have been waiting for you, Lord Motonari, for some time...
+
+@145.0
+Lord Motonari. Please bring us a skilled craftsman.
+
+@146.0
+That man over there, Yamanoue Tametsugu, was looking for you, my lord.
+
+@147.0
+So Yamanoue Tametsugu was a spear smith.
+
+@148.0
+Ah... so busy, so busy.
+
+@149.0
+Lord Motonari, please take these goods.
+
+@150.0
+Heizō? I thought he showed up at the tavern for the first time in ages, but he is gone again.
+
+@151.0
+Heizō? He has shown up at the tavern for the first time in ages.
+
+@152.0
+Samurai or farmer, at the drinking table we are all just men.
+
+@153.0
+Please protect Kōriyama.
+
+@154.0
+Lord Motonari, please take this.
+
+@155.0
+Well, Lord Motonari. Looking for a bargain?
+
+@156.0
+The sake here is the best!
+
+@157.0
+I must work hard at this shop somehow and raise my son well...
+
+@158.0
+Have you come for a drink too, Lord Motonari?
+
+@159.0
+When I have troubles, I find my feet carrying me to the temple.
+
+@160.0
+Lord Motonari, are you looking for something?
+
+@161.1
+Let me see... Hmm... Well, let us open it first.
+
+@164.1
+No, I could not trouble you, Lord Motonari...
+
+@165.0
+My father does not have long left. If only Heizō would come back while he still lives...
+
+@166.3
+By the way, how is his condition?
+
+@166.4
+My father does not have long left. If only Heizō would come back while he still lives...
+
+@167.2
+What is it? Tell me.
+
+@167.3
+I have an eldest brother...
+
+@167.4
+He hardly works at all, and does nothing but loiter in the tavern from daytime.
+
+@167.8
+Now our father is in the state you see. Please tell my brother to come home.
+
+@167.9
+His name is Heizō. He is probably at the tavern today as well.
+
+@168.0
+They say a tactician has all sorts of special skills.
+
+@170.0
+Lord Motonari, please take this.
+
+@171.0
+The sake here is delicious.
+
+@173.0
+This is the training ground, a place to hone one's skills.
+
+@174.0
+So Numata Hachibei joined you after all, Lord Motonari.
+
+@175.0
+Numata Hachibei the spear smith had been resting from work with an injured arm, but I hear he can work again now.
+
+@176.0
+You did not hire Numata Hachibei the spear smith?!
+
+@176.1
+What a waste!
+
+@178.0
+Drink sake, but do not let it drink you.
+
+@179.0
+Please put this to some use.
+
+@181.0
+Lord Motonari. Please let me accompany you to battle.
+
+@182.0
+There is still so much I want to learn from Pa.
+
+@183.0
+Pa. I will do my best too.
+
+@184.0
+This temple is so quiet.
+
+@185.0
+Pa! Get well!
+
+@186.0
+Lord Motonari, I found this at the back of the storehouse. Please take it.
+
+@187.0
+There are still lots of interesting things in the storehouse.
+
+@189.0
+The human heart is hard to measure. Today's ally may be tomorrow's enemy.
+
+@190.0
+Please take this. It is sure to be of some use.
+
+@191.0
+If it concerns medicine, I can help.
+
+@192.0
+Lord Motonari. This is a Defence Tonic. Please take it.
+
+@193.0
+They say Lord Kōmatsumaru's fever will not go down.
+
+@194.0
+Will there be trouble over the succession again?
+
+@195.0
+Half-brothers or not, brothers fighting each other is foolish.
+
+@196.0
+Lady Sugi has no time even to sleep, nursing Lord Kōmatsumaru.
+
+@197.0
+Not only Lord Okimoto, but Lord Kōmatsumaru too...
+
+@198.0
+If Lord Motonari loses, whatever will become of this land?
+
+@199.0
+I hope Lord Kōmatsumaru will be saved...
+
+@200.0
+I was born in this land. I cannot follow Lady Fuji back to her home country.
+
+@201.0
+Lady Fuji has gone back to her home country. Her room is empty now, and it feels so lonely.
+
+@202.0
+I worry about Lady Fuji too. She does not seem to have slept at all.
+
+@203.0
+Lady Fuji is going back to her home country. I plan to go with her.
+
+@204.0
+Well, have you improved your skills at the training ground?
+
+@204.1
+Yes, but I am still unskilled.
+
+@205.0
+Are you Heizō?
+
+@205.1
+That I am, but...
+
+@205.2
+Hm... have I seen you somewhere?
+
+@205.3
+...?
+
+@205.4
+...?
+
+@205.6
+I remember! You are that bandit from before!!
+
+@205.7
+Whoa, you were that man! Damn...
+
+@205.8
+Wait. We can leave that old matter for later.
+
+@205.9
+Then what is it?
+
+@205.10
+Your father has fallen gravely ill and is suffering.
+
+@205.11
+What?! My old man?!
+
+@205.12
+Yes. Go home to him quickly.
+
+@205.13
+But...
+
+@205.14
+I have heard your circumstances. But this is no time to hold on to them.
+
+@206.0
+Hic... bring me sake...
+

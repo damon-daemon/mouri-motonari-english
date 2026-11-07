@@ -1,0 +1,39 @@
+# Never commit Koei's data: disc images, extracted files, saves, build output
+*.iso
+*.bin
+*.BIN
+*.cue
+*.img
+*.chd
+*.xdelta
+*.E4
+*.E3
+*.EEX
+*.PAL
+*.STR
+*.DA
+*.mcd
+*.sav
+build/
+script/
+extract/
+release/
+ref/
+
+# Emulator files (BIOS, memory cards, save states)
+bios/
+memcards/
+sstates/
+
+# Local environment and AI-session notes
+.venv/
+__pycache__/
+*.pyc
+CLAUDE.md
+
+# Local translation notes (Japanese terms)
+notes/
+
+# Claude Code local state
+.claude/
+tl/.lock

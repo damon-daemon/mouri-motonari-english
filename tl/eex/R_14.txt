@@ -1,0 +1,1056 @@
+@0
+Episode 15 "The Maverick of Owari"
+
+@1
+Episode 15 "The Maverick of Owari"
+
+@3.0
+We have taken complete control of Moji Castle. I have begun having the men repair it.
+
+@3.1
+Good. Well done.
+
+@3.2
+The trouble lies ahead. The Ōtomo will surely come to retake Moji Castle.
+
+@3.3
+The greatest question is who will defend it.
+
+@3.4
+I shall stay.
+
+@3.5
+You, our heir, would hold the front line?
+
+@3.6
+It will be fierce fighting. If anything happened to you, it would be a disaster.
+
+@3.7
+Do not worry. I will not be left isolated. Reinforcements can be expected.
+
+@3.8
+Please, give me the order.
+
+@3.9
+Very well. I appoint Takamoto lord of Moji Castle.
+
+@3.11
+The rest of you, return to Kōriyama and prepare at once for the war against the Amago. Understood!
+
+@4
+Kiyosu Castle - Council Hall
+
+@5.0
+The Imagawa army has already surrounded the forts at Washizu and Marune. It is only a matter of time before they fall.
+
+@5.1
+Grr...! We have no choice now but to hold the castle.
+
+@5.2
+How far has the Imagawa army advanced?
+
+@5.3
+Only their vanguard, but it is marching with enough force to crush our domain.
+
+@6.0
+This council is over!
+
+@6.1
+My lord! What do you intend...?
+
+@7.0
+Argh! Now, of all times, he has gone back to being a fool!
+
+@7.1
+The Oda are finished!
+
+@7.2
+He may have something in mind. Let us watch for a while.
+
+@7.3
+We cannot afford that luxury!
+
+@7.4
+I hope it is not too late...
+
+@8
+Kiyosu Castle - Living Quarters
+
+@9.0
+A report has come in that the Imagawa army is resting at Dengaku-hazama.
+
+@9.1
+What was the Imagawa column like?
+
+@9.2
+Eh? The column...?
+
+@9.3
+Tens of thousands of men, strung out in a long line...
+
+@9.4
+Where was Yoshimoto?
+
+@9.5
+Behind the main force, marching slowly at the rear.
+
+@10.0
+Bring me a drum!
+
+@11.0
+Man's life is fifty years
+
+@12.0
+Compared with the realm below the heavens
+
+@13.0
+It is but a dream, an illusion
+
+@14.0
+Is there any who, once born,
+
+@15.0
+Shall never perish?
+
+@16.0
+Bring my horse! We ride out!!
+
+@17
+Kiyosu Castle - Council Hall
+
+@18.0
+Lord Nobunaga has ridden out!
+
+@18.1
+What?! Do not fall behind! Men, follow him!
+
+@19
+Imagawa Main Camp
+
+@20.0
+What dreadful rain.
+
+@20.1
+Still, we are nearly done subduing Owari. For now, let us drink to our fill.
+
+@20.2
+Ho ho ho ho. So we shall.
+
+@21.0
+Wh-what is that?
+
+@22.0
+Charge!
+
+@23
+In the 3rd year of Eiroku, Imagawa Yoshimoto of Suruga set out for Kyōto to give his commands to the realm. Leading a great host of twenty-five thousand, he seemed to have no enemy.\n\nBut Yoshimoto's dream was scattered at Okehazama.
+
+@24
+Oda Nobunaga, a minor lord of Owari. With only two thousand men he defeated twenty-five thousand of the Imagawa. This man would shake the Sengoku world to its core.
+
+@25
+Inside Ōdaka Castle
+
+@26.0
+My lord! Lord Yoshimoto has fallen at Okehazama!
+
+@26.1
+Wh-what!
+
+@26.2
+(Lord Nobunaga won...! Against such a host! What a man...)
+
+@26.3
+Right. We withdraw to Okazaki!
+
+@26.4
+But your wife is still in Sunpu!
+
+@26.5
+It cannot be helped. This is our only chance to escape the Imagawa.
+
+@29.0
+Today I have brought Hiroie.
+
+@29.1
+Ah, what a lively boy. Now that you are a father, you must not be reckless.
+
+@29.2
+Please, tell him that again and again. I worry so much.
+
+@29.3
+You worry too much. I am no longer a child.
+
+@30
+Go to Mōri Takamoto's Residence
+
+@32.0
+All gathered, I see.
+
+@33.0
+Is Seki here?
+
+@35.0
+Tell us about the Amago.
+
+@35.1
+Yes, my lord. Yoshihisa took over as head of the Amago at once, and there has been no great confusion.
+
+@35.2
+As expected of the Amago. A swift response.
+
+@35.3
+However, they do not seem to have a firm grip on the local lords under them. The unrest is greatest in Iwami.
+
+@35.4
+Iwami... that is where the silver mine is.
+
+@35.5
+This is a golden chance! Let us sweep the Amago forces from Iwami and take the silver mine.
+
+@35.6
+Yes. This is indeed our chance. We attack Iwami!
+
+@36.0
+Prepare to march!
+
+@37
+Talk to Fukuhara Sadatoshi, then march
+
+@41.0
+Terumoto, have you been well?
+
+@41.1
+Ah, Grandfather!
+
+@61.1
+All right, well done. I failed last time, you see. This time for sure... Hee hee. Hee hee hee hee.
+
+@92.0
+Hey, it has been a while.
+
+@92.1
+Oh! It is you. It has been a while. How have you been?
+
+@92.2
+Well, thanks for asking.
+
+@92.3
+Huh? What on earth are you wearing?
+
+@92.4
+Ah, from today I work here at the market as a merchant.
+
+@92.5
+I see, so your long-held dream came true.
+
+@92.6
+That is right. I will work hard, so look after me.
+
+@93.0
+In that case, I may as well be your first customer.
+
+@94.0
+Wel... welcome...
+
+@94.1
+Oh, it is only you.
+
+@94.2
+Ha ha ha, you are nervous. Your face is stiff.
+
+@94.3
+I was born this way.
+
+@94.4
+Then I will take this, that, and those.
+
+@94.5
+Y-yes... thank you very much.
+
+@94.6
+Do not be nervous.
+
+@94.7
+I... I am fine.
+
+@94.8
+Well then, do your best.
+
+@96.0
+I wonder if Terumoto is well. He must have grown quite big by now.
+
+@97.0
+They say there is frequent fighting at Moji Castle. I wonder if Lord Takamoto is all right.
+
+@98.0
+Is the decisive battle with the Amago finally coming?
+
+@99.0
+Of course, I have not yet gone to my first battle.
+
+@100.0
+Grandfather, it has been a long time.
+
+@100.1
+Ah, my, how big you have grown.
+
+@100.2
+I have learned to write, and I study riding and archery.\n\nSoon I will be able to go to the battlefield too.
+
+@100.3
+That is reassuring. If there is anything you do not understand, ask me anything. I will teach you.
+
+@100.4
+Then I have one question. When will you let me go to my first battle?
+
+@100.5
+Hmm... I cannot say yet. Very well, I will think about it.
+
+@100.6
+Please do. I am looking forward to it.
+
+@101.0
+What is it, Fukuhara? This is not like you, to be so flustered.
+
+@101.1
+Amago Haruhisa has died.
+
+@101.2
+What! Haruhisa is dead...
+
+@101.3
+I believe this is a golden opportunity. Even the Amago must be thrown into disarray by the sudden death of their head.
+
+@101.4
+Yes. Indeed they must. But...
+
+@101.5
+I wished to settle matters with Haruhisa while he lived.
+
+@101.6
+Lord Motonari...
+
+@101.7
+Gather everyone in the Council Hall at once. I will come shortly.
+
+@103.0
+So at last we shall clash with the Amago in earnest.
+
+@105
+Amago Yoshihisa's Seat - Gassan-Toda Castle
+
+@107.0
+The Iwami Silver Mine is a vital stronghold, the very lifeline of our army. Honjō!
+
+@107.2
+You are renowned as a fierce general. I order you to defend Kanayama Castle in Iwami. Do not hand it to the Mōri, even at the cost of your life!
+
+@107.3
+Yes, my lord! I am honoured to be given so great a duty.
+
+@107.4
+While Lord Honjō defends it, why not carry out a great quantity of silver?
+
+@107.5
+True. There is no telling when Izumo may become the main battlefield. We must move it out of Iwami while we can.
+
+@107.6
+Good. Carry out the silver at the same time.
+
+@107.7
+Why not ask Masuda Fujikane for reinforcements?
+
+@107.8
+Good. We will send a messenger to Nanao Castle to request reinforcements.
+
+@107.9
+That Motonari. I will make him regret attacking the Amago.
+
+@108.0
+Why not check each commander's equipment once more?
+
+@109.0
+The Amago's local lords in Iwami are shaken. Some of them may even come over to our side.
+
+@110.0
+Lord Takamoto has grown into a fine man. If he can hold Moji Castle alone, he will be fully qualified to be our next head.
+
+@111.0
+If we take Iwami, we will gain plentiful funds for the war.
+
+@112.0
+I will raise Hiroie to be a strong warrior.\n\nI would be glad if he became a fiercer general than I.
+
+@113.0
+Haruhisa, dead... I feel as though he has escaped me.
+
+@114.0
+I want to raise Hiroie to be a calm and thoughtful warrior.
+
+@115.0
+They say the skirmishes at Moji Castle never stop.
+
+@116.0
+Let us strike before Yoshihisa tightens his rule. Now is the perfect chance.
+
+@117.0
+The book my husband is reading is quite interesting. It seems to set out the standard tactics of war.
+
+@117.1
+For example... it says one should always fight with the commander-in-chief and the tactician at the centre.
+
+@118.0
+Silver from Iwami... what an appealing sound. It would transform our army's finances.
+
+@119.0
+They say there is fighting at Moji Castle every day. I am sure Lord Takamoto will be fine, but I still worry.
+
+@126.2
+I would be most grateful if you would employ me in your service, Lord Motonari...
+
+@145.0
+Eek, help me!
+
+@145.1
+Shut up! Hand over all your money, and quietly.
+
+@145.2
+Hurry up and hand it over.
+
+@145.3
+You there, what are you doing!
+
+@145.4
+Who are you!?
+
+@145.5
+Stay out of this.
+
+@145.6
+Two of you against one unarmed man. Cowards.
+
+@145.7
+Shut your mouth.
+
+@145.8
+Do you want to get hurt too!
+
+@146.0
+Lord Motonari, if there is some trouble, I will lend you my strength.
+
+@147.0
+You scoundrels! Do you know this is Lord Mōri Motonari!
+
+@148.0
+Lord Motonari, let me join in too.
+
+@149.0
+Lord Motonari, this is hardly worth your trouble.
+
+@150.0
+Grrrr...
+
+@150.1
+Damn. Let us pull out.
+
+@151.0
+Wait!
+
+@152.0
+Phew, I am saved...
+
+@152.1
+Are you unhurt?
+
+@152.2
+Thank you for rescuing me from danger.
+
+@152.3
+I did nothing.
+
+@152.4
+It made me feel once more how deeply Lord Motonari is trusted.
+
+@153.0
+I am Kenmochi Rokurō, a swordsmith.
+
+@153.2
+I would very much like you to make use of my skill.
+
+@155.0
+Then are you willing to work for me?
+
+@155.2
+Yes, we have been in need of a swordsmith.
+
+@155.3
+Thank you. I look forward to serving you.
+
+@158.0
+Hmm, unfortunately my own ranks are already full.
+
+@158.1
+I see... Then perhaps another time...
+
+@172
+Mother has not forgotten you for a single day...
+
+@173
+You have always been stubborn, so perhaps you cannot bring yourself to come back and are in trouble?
+
+@174
+Even if your work is not going well, Mother does not mind in the least. Above all, it is best that you are well.
+
+@175
+In any case, if you come home safe and well, that is enough... I am always waiting eagerly for your return.
+
+@183.2
+But my family has been farmers for generations, and my father will not allow me, the eldest son, to leave the farm.
+
+@185.0
+Are you his father?
+
+@185.3
+Even so, the truth is that we still lack craftsmen.
+
+@188.0
+I understand how you feel, but your duty as eldest son matters too.
+
+@194.1
+It is kind of you to invite me, but I am still unskilled and cannot imagine being of any use.
+
+@194.2
+In truth, I am thinking of setting out on a journey of training.
+
+@194.4
+When the journey is over and I return, I hope you will call on me again...
+
+@194.6
+Understood. I will await your return.
+
+@194.8
+Then I take my leave...
+
+@208.1
+I must get this gold delivered somehow, and I am at my wits' end.
+
+@214
+Gave Chōsuke 100 gold
+
+@218.0
+Hey, you lot... getting drunk in front of Lord Motonari... how rude... hic.
+
+@226.0
+I was only posted here recently. ...I am rather anxious.
+
+@227.0
+I wonder how many craftsmen there are across the land?
+
+@228.0
+Hmm... No, that's not it... Not that either... *mutter mutter*
+
+@230.0
+Lo-lord Motonarishama... g-good day to you...
+
+@230.1
+Hey, you're too drunk... hic. ...Your tongue isn't working.
+
+@231.0
+Not even an ant will get past me into this place.
+
+@234.0
+Lately the stray dogs keep trying to dig up the ground.
+
+@234.1
+It's no joke for us, I tell you.
+
+@234.2
+Mind you, if they turned up some treasure, that would be different...
+
+@234.3
+Hmm, that sounds troublesome.
+
+@235.0
+They dig most around the spot where that boy is standing.
+
+@236.0
+Can nothing be done about it? Really...
+
+@237.0
+Since my wife died, I have been terribly lonely.
+
+@238.0
+People often tell me I'm unsociable. But I've kept company with sake for a long time.
+
+@242.3
+3-Monme Guide... This may prove useful. I shall gratefully accept it.
+
+@250.0
+Someday I mean to open a tavern of my own.
+
+@250.1
+Why? Because I love sake, of course!
+
+@253.0
+I came for a hair of the dog to cure my hangover...
+
+@254.0
+I want to finish work early and go to the tavern.
+
+@255.1
+How about it? Won't you join me?
+
+@257.0
+Our happiness depends on Lord Motonari.
+
+@258.0
+Did you find what you were looking for?
+
+@260.0
+They say money isn't everything in this world.
+
+@261.0
+Coming here reminds me of my brother who fell in battle...
+
+@262.2
+Enough! Can you do something about that way of speaking?
+
+@263.0
+We townsfolk are always fighting the budget.
+
+@265.0
+I'm worn out today...
+
+@270.7
+My son says I must never come to fetch him until he returns on his own...
+
+@271.0
+I come here hoping to meet a fine gentleman... ho ho ho.
+
+@273.0
+The eldest son should take over the family trade, shouldn't he?
+
+@275.0
+Father, you're old now. Don't overdo it...
+
+@275.1
+Quiet, you. I can still move just fine!
+
+@277.0
+Just once, I'd like to drink sake from the morning.
+
+@278.0
+This sake is made from the rice we grew ourselves.
+
+@279.0
+I'm busy all year round.
+
+@281.0
+I once went to Kōriyama. The market there was bustling with even more people.
+
+@284.0
+My father has just recovered from an illness, but he can't seem to sit still...
+
+@285.0
+I wonder if anyone sells a light, sturdy hoe.
+
+@286.0
+Are you looking for a craftsman? A skilled one is hard to come by.
+
+@287.0
+For sake, nothing beats it cold.
+
+@288.0
+Sakurao is a truly fine place.
+
+@289.0
+What I'm drinking is tea.
+
+@289.1
+Oh, a tea stalk is standing up!
+
+@290.0
+I'm still going strong, I'll have you know.
+
+@291.0
+Tools were never meant to take people's lives...
+
+@292.0
+I trust you are in good spirits, Lord Motonari.
+
+@293.0
+Everyone relies on Lord Motonari.
+
+@294.0
+In my youth I was called a famous general, you know...
+
+@295.0
+I don't suppose anyone sells a potion to make one young again?
+
+@296.0
+This is a historic storehouse, built long ago.
+
+@297.0
+We post soldiers of proven skill as storekeepers here. You can count on them.
+
+@299.1
+Come to think of it, I played here a lot as a child too...
+
+@306.0
+Mama says I mustn't play out too late.
+
+@308.0
+They all look happy, with such red faces... Is sake really that tasty?
+
+@309.0
+I wonder if something else is buried here too?
+
+@310
+The boy dug up the ground again
+
+@311
+But nothing came out
+
+@312.0
+...Tch.
+
+@313.0
+There's a mark under here, like someone dug it up.
+
+@314.0
+Hm?! Something like a box is buried here.
+
+@315
+Dug up the ground
+
+@317
+Found a pouch of Nanban silver
+
+@318.0
+Is it true this used to be a big mansion?
+
+@319.0
+I'm going to be a fine soldier, like my dad!
+
+@320.1
+What is it? Why are you crying?
+
+@320.2
+My dad...
+
+@320.3
+Your father?
+
+@320.4
+My dad was a soldier, and he died in the last battle...
+
+@320.5
+...I see... A soldier's son...
+
+@321.0
+Lord Motonari! ...Why?! Why did my dad have to die?!
+
+@321.1
+It is most regrettable that he lost his life.
+
+@321.2
+But your father did his duty admirably, as one of our soldiers.
+
+@321.3
+Lord Motonari! Did my dad fight bravely?
+
+@321.4
+Yes, he did... Be proud of him.
+
+@321.5
+Dad...
+
+@321.6
+Live on strongly, for your father's sake too... Your father would wish for that.
+
+@322.0
+I'm going to play here all day long.
+
+@323.0
+I promised Mama I wouldn't cry any more.
+
+@324.0
+Thank you for buying my flowers.
+
+@325.0
+Would you like some flowers?
+
+@325.1
+A bunch is 20 gold.
+
+@327
+Not enough gold
+
+@328.0
+I would like to buy some, but I have no money on me, I'm afraid. Forgive me.
+
+@328.1
+No, your kind thought is enough.
+
+@329.0
+Working so hard, and you still a child.
+
+@329.1
+Very well, I'll take a bunch.
+
+@330
+Paid 20 gold
+
+@331.0
+They say these flowers bring good luck.
+
+@331.1
+May good luck come to you too, my lord...
+
+@333.0
+Sorry, but I have no need of flowers...
+
+@333.1
+I see. Then perhaps another time, please.
+
+@334.0
+I know a secret... Those merchants over there love sake so much.
+
+@336.0
+Papa says Lord Motonari is a splendid samurai.
+
+@337.0
+It's been a while since I came to the market, but it's the same as ever.
+
+@340.0
+A riddle refreshes the mind while it trains the head.
+
+@341.0
+Well then, shall you take on a riddle again?
+
+@341.1
+Very well, let's hear it.
+
+@341.2
+Then here I go.
+
+@341.3
+Here is a curious little box.\n\nWhen you put pears in, the number grows.
+
+@341.4
+I put in 2 at first, and the next day there were 8.
+
+@341.5
+The day after, 20. The day after that, 44.
+
+@341.6
+Now, if I first put in 3, how many will there be two days later?
+
+@342
+48\n50\n52\n54
+
+@343.0
+As expected of Lord Motonari.
+
+@345.0
+That was a little hard, perhaps. Well, no need to be downhearted.
+
+@346.0
+Ah, Lord Motonari, I trust you are well.
+
+@346.1
+You look well yourself, I am glad to see.
+
+@346.3
+How about it? Will you come over and try a riddle?
+
+@346.4
+Hm, that sounds amusing.
+
+@346.5
+Then here I go. I shall say it only once, so listen closely.
+
+@346.6
+Here is a curious big box.\n\nWhen you put peaches in, the number grows.
+
+@346.7
+I put in 2 at first, and the next day there were 5.
+
+@346.8
+The day after, 11. The day after that, 23.
+
+@346.9
+Now, if I first put in 3, how many will there be two days later?
+
+@347
+13\n15\n17\n19
+
+@348.0
+As expected of Lord Motonari.
+
+@350.0
+That was a little hard, perhaps. Well, no need to be downhearted.
+
+@370.0
+In battle, a unit that restores Endurance should not be pushed too hard.
+
+@371.0
+To strengthen your spirit, you should come here.
+
+@372.1
+Hm, you look well yourself.
+
+@372.3
+That everyone can live in peace is thanks to Lord Motonari's efforts.
+
+@372.4
+No, no, it is thanks to everyone's strength. I am grateful.
+
+@372.5
+Your words are too kind. I am humbled.
+
+@372.6
+Now then, shall I sit in Zen as I did long ago...? Would you oblige me?
+
+@378.0
+To focus the mind, sitting in Zen like this is best.
+
+@379
+Accuracy rose by 5
+
+@380.0
+Why not take the tonsure right now?
+
+@382.0
+Ate breve.
+
+@382.1
+Ate breve?
+
+@382.2
+Means, we meet again.
+
+@385.1
+We physicians are charged with making medicines that conquer disease.
+
+@389.0
+In these parts, at least, it seems I am the strongest... gwahaha.
+
+@392.2
+...No, that was rude of me to say. I got carried away.
+
+@394.0
+I am training near here at present.
+
+@395.0
+I sweated all day yesterday at the training ground. I am exhausted.
+
+@397.0
+A good weapon is a great comfort.
+
+@400.0
+In a drinking contest, I'll lose to no one!
+
+@401.0
+The equipment in this workshop is solid. You could make a weapon to be proud of.
+
+@402.0
+This kunoichi is still green, you see. She is training in ninjutsu.
+
+@402.2
+Hey! You are far from ready yet. Don't get conceited.
+
+@403.0
+You train hard at your drills as ever.
+
+@403.1
+Yes, speed is the foundation of a ninja.
+
+@404.0
+Lord Motonari, welcome.
+
+@404.1
+Your training is as strict as ever.
+
+@404.2
+Not at all. Considering our duty, this is nothing.
+
+@404.3
+We are in the middle of sprint training now.
+
+@404.4
+Then I shall have you train me too.
+
+@404.5
+Gladly. Please copy my movements.
+
+@406.0
+Hah.
+
+@407.0
+Hah.
+
+@408.0
+Hah.
+
+@409.0
+Hah.
+
+@410.0
+Hah.
+
+@411.0
+How was that?
+
+@411.1
+Yes, it clearly works. I feel lighter on my feet.
+
+@412
+Speed rose by 5
+
+@414.0
+Take that! Body-swap technique!
+
+@415.0
+Oh, wow! A superb body swap!
+
+@415.1
+How do I look? Do I look like a lovely lady?
+
+@416.0
+So you're Chōsuke! You rascal!
+
+@419.1
+With such skill, and still he is not satisfied with himself...
+
+@423.0
+Hey, hey! Hand over your gold, quick!
+
+@424.0
+Leave everything valuable behind.
+
+@425.0
+I will soon show you the fruits of the skills I inherited from Ume, the maid of Takamoto's residence.
+
+@425.1
+But for a while I will attend to Motoharu's wife and Hiroie.
+
+@426.0
+It was almost finished...
+
+@426.1
+Still, it has been a while since I could work as a maid, so I'll do my best.
+
+@427.0
+Lord Terumoto grows day by day. I look forward to his future.
+
+@427.1
+I must grow too...
+
+@428.0
+Her ladyship is with Lord Motoharu now, so she must be at ease.
+
+@428.1
+...Perhaps not, though.
+

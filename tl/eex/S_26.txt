@@ -1,0 +1,147 @@
+@0.0
+Sortie at once! We strike them one by one before they can encircle us!
+
+@1
+Pacification of Mino and Owari\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@2.0
+The Mōri, attacking before our encirclement is ready...
+
+@2.1
+That ninja Hanzō failed to kill must have brought them word. They say the Mōri have relied heavily on ninja since Motonari's day.
+
+@2.2
+Given time, Lord Shibata and Lord Tokugawa will arrive with great armies. Until then, we must hold the Mōri back!
+
+@2.3
+As you command!
+
+@2.4
+Oda Nobukatsu and Takigawa Kazumasu...
+
+@2.5
+The Oda vanguard is Takigawa Kazumasu. In Nobunaga's day he was counted among the Four Heavenly Kings of the Oda, a brave man. Oda Nobukatsu, Nobunaga's second son, waits in the castle to the rear.
+
+@2.6
+I see.
+
+@2.7
+Lord Terumoto, please make me the vanguard! I will do better than my father!
+
+@2.8
+Hiroie, bravery is fine, but bravery and recklessness are different things. Your father was never reckless. Remember that.
+
+@2.9
+Y-yes, sir!
+
+@2.10
+Lord Terumoto, give the order to march.
+
+@2.11
+Yes. We march now!
+
+@3
+Pacification of Mino and Owari\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@4.0
+Never mind. The war is not over yet. Heh heh heh...
+
+@5.0
+So their strength in beating Akechi is real. I must report to Lord Ieyasu.
+
+@6.0
+The Mōri army is no easy foe. Pull back!
+
+@8.0
+We cannot win like this! Fall back!
+
+@9.0
+...Gh.
+
+@10.0
+Argh! These Mōri are good!
+
+@11.0
+Nngh, damn! Aaargh!
+
+@12.0
+There is a shrine. Victory to us!\n\nHm? What is this...
+
+@22
+Honda Tadakatsu's army appeared
+
+@23.0
+On Lord Ieyasu's orders, we have come to aid the Oda!
+
+@23.1
+I am Honda Tadakatsu, the finest spearman of the Tokugawa!\n\nBrave general of the Mōri, fight me!
+
+@23.2
+(If that kunoichi serves the Mōri, she must be somewhere on this battlefield...)
+
+@23.3
+Reinforcements from the Tokugawa... Hm! That is...
+
+@24
+Shibata Katsuie's army arrived
+
+@25.0
+Hmm... The Mōri main camp seems thinly guarded.
+
+@25.1
+From here, whether we strike the Mōri rear or their main camp is ours to choose.
+
+@25.2
+Good! All forces, attack the Mōri main camp!\n\nI will repay the debt from Kizugawa-guchi here! Charge!
+
+@25.3
+No! I must defend the main camp...
+
+@26.0
+...Ah!
+
+@26.1
+Tch, I failed. What sharp instincts.
+
+@26.2
+That ninja is very skilled...
+
+@27.0
+I am Sakakibara Yasumasa. You there, Mōri general, give me your name too!
+
+@27.1
+I am Terumoto!
+
+@27.2
+What! The Mōri commander himself!
+
+@28.0
+You, young warrior! I am Honda Tadakatsu, a name known throughout the Tokugawa! Come on!
+
+@29.0
+...You are Terumoto! Damn you, become prey for my bow!
+
+@30.0
+Terumoto! "Matasa of the Spear" will be your opponent!
+
+@31.0
+Damn the Mōri! The realm belongs to the Oda, not the Mōri!
+
+@31.1
+What are you saying! The realm is not for one daimyo to sway!
+
+@31.2
+Curse you, insolent boy!
+
+@32.0
+That Hideyoshi was a cheeky fellow, but he was still a retainer of the Oda! I will avenge that monkey! Raaah!
+
+@32.1
+Whoa! He is strong...!
+
+@33.0
+I thank you for killing Akechi, who slew my father. But I will not hold back!
+
+@36.0
+We have taken heavy losses too. Let us withdraw to Azuchi for now.
+

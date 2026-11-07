@@ -1,0 +1,954 @@
+@0
+Episode 6 "The Tiger of Izumo"
+
+@1
+Episode 6 "The Tiger of Izumo"
+
+@3
+Motonari's campaign to unify Aki came to a close with the Kikkawa and Takeda still on the Amago side.\n\n\n\nThough the Mōri had grown in strength, they were not yet able to stand against the Amago, and for the time being the dream of uniting Aki had to be set aside.\n\n\nSeveral years passed. A third son, Tokujumaru, was born to the Mōri. In the Ōuchi house, Yoshioki died and Yoshitaka became head of the clan. In the Takeda house, Mitsukazu had fallen in battle, and his brother Nobushige took his place as head. The time had come, and the western provinces were about to stir once more...
+
+@6.0
+A letter has come\nfrom Lord Tarō.
+
+@6.1
+Oh? Let me see.
+
+@7.0
+...Hmm, hmm...
+
+@8.0
+Father,\nwhat does it say?
+
+@9.0
+...Oh...
+
+@10.0
+Father! Tell me quickly!
+
+@11.0
+Tarō has come of age.\n\nHe has taken the name Takamoto, and says he is well.
+
+@11.1
+"Taka" from Lord Yoshitaka and "moto" from you... Takamoto...
+
+@11.2
+Tarō has grown so big that he has come of age already.
+
+@11.3
+Lady Okata, he is no longer Lord Tarō. He is Lord Takamoto now.
+
+@11.4
+Oh, so he is. Will I manage to call him that when we next meet?
+
+@11.5
+He must have grown so splendid... *sniff*
+
+@11.6
+Now, now. Stop crying.
+
+@11.7
+Father, give me a name too!
+
+@11.8
+Brother, it is too early for that.
+
+@11.9
+I cannot wait for my coming of age. I want a name soon, so I can announce it on the battlefield!
+
+@11.10
+Honestly, can he not calm down even a little?
+
+@12.0
+Ha ha ha. Being lively is a good thing. Ha ha ha ha!
+
+@12.1
+By the way, Father, what has become of the talk of my marriage?
+
+@12.2
+Ah, yes. So it was.
+
+@13.0
+I am thinking of marrying you to Shishido Takaie, who joined us in the last battle.
+
+@13.1
+Shishido Takaie...
+
+@13.2
+I understand. I shall do my part to keep him with the Mōri.
+
+@13.3
+Good. I count on you.
+
+@14
+Marry her to Motosuke\nMarry her to Naritada
+
+@15.0
+I mean for you to marry Kunishi Motosuke.
+
+@15.1
+The man who is so skilled with the bow. I hear he is learned, too.
+
+@15.2
+He is calm and thoughtful. But he is a little frail, so I want you to look after him well.
+
+@15.3
+I understand. Leave it to me.
+
+@15.4
+Good. I count on you.
+
+@16.0
+I mean for you to marry Kodama Naritada.
+
+@16.1
+The brave one. I hear he has won much merit.
+
+@16.2
+He truly fights well. But he tends to charge ahead too recklessly.
+
+@16.3
+I think that with you as his wife, he might settle down a little...
+
+@16.4
+Hmm, that sounds difficult. I will do my best somehow.
+
+@16.5
+Good. I count on you.
+
+@19.0
+When you say attack Kōriyama...
+
+@19.1
+You mean to challenge the Mōri to a decisive battle.
+
+@19.2
+Exactly. We take Kōriyama in one stroke and wipe the Mōri out of Aki.
+
+@19.3
+Is that not dangerous? Neither Motonari's cunning nor Ōuchi Yoshitaka behind him can be taken lightly.
+
+@19.4
+Uncle, since when have you become a coward?
+
+@19.5
+If we spoke like that, we could never wage war.
+
+@19.6
+True, with Yoshioki dead and Yoshitaka head of the Ōuchi, they are no longer the threat they were.
+
+@19.7
+But Kōriyama lies in the middle of enemy land. If we step in carelessly, there will be no undoing it.
+
+@19.8
+Still, we cannot leave the Mōri alone forever.
+
+@19.9
+As Father says, we will have to settle this sooner or later. Better while the Mōri are still small!
+
+@20.0
+Good, it is decided! We attack Kōriyama! Kamei!
+
+@20.2
+Go and tell Takeda Nobushige and Kikkawa Okitsune the order to attack Kōriyama!
+
+@21.0
+(With the Takeda and Kikkawa added to our army for a full assault, it seems a battle we cannot lose... But the enemy is Motonari... Will it truly...)
+
+@22
+Kikkawa Okitsune's Seat - Ogurayama Castle
+
+@24.0
+An order to attack the Mōri has come from the Amago.\n\nPrepare to march at once.
+
+@24.1
+Wait. Are you serious? Have you forgotten your father's last words? He said never to cut the bond with the Mōri.
+
+@25.0
+Enough! I am sick of hearing "Mōri, Mōri"!
+
+@25.1
+Father and Uncle both keep praising Motonari. Who is the head of the Kikkawa?
+
+@25.2
+Answer me, Tsuneyo!
+
+@25.3
+It is you, my lord. But Myō, your aunt, has also married into the Mōri.
+
+@25.4
+The bond between the Mōri and Kikkawa is not one to be cut so easily!
+
+@25.5
+Silence! I will show you that the Kikkawa can manage perfectly well without Motonari!
+
+@25.6
+We march!
+
+@26
+Riverbank near Kanayama Castle
+
+@27.0
+Lord Nobushige!
+
+@28.0
+Here.
+
+@28.2
+Gather all the retainers in the Council Hall.
+
+@29.0
+Father, is there a war?
+
+@29.1
+Yes, there is. Father has a meeting now, so go home first. Go on.
+
+@30.0
+(Can we win against the Mōri...? If we lose, what will become of my wife and child...)
+
+@33.0
+Come back here!
+
+@33.1
+Wah!
+
+@34.0
+Come back here!
+
+@34.1
+Wah!
+
+@35.0
+Now, now, do not run about so wildly.
+
+@36.0
+Hm! What is it?
+
+@36.1
+Forgive me for intruding on your family gathering. It is urgent.
+
+@36.3
+The Amago army is on the move. Their target is Kōriyama. They have already sent messengers to the Takeda and Kikkawa, and both houses seem to have readily agreed.
+
+@36.4
+They have come at last! Gather all the retainers in the Council Hall!
+
+@49.0
+The difference in numbers is too great. We have no choice but to hold the castle.
+
+@50.0
+There is enough water and food within the castle.
+
+@50.1
+As long as the soldiers' morale is high, Kōriyama is a strong castle and we should surely hold out.
+
+@51.0
+Amago Haruhisa does not seem to fear the Ōuchi.
+
+@52.0
+Could the Ōuchi be planning to delay their reinforcements?
+
+@53.0
+Given the situation, I think nothing but a siege will do.
+
+@53.1
+I think we should first send a messenger to the Ōuchi to request reinforcements.
+
+@53.2
+You are right. I did not want to owe Lord Yoshitaka a debt, but this time it cannot be helped.
+
+@53.3
+I shall send a messenger at once.
+
+@55.0
+This is hardly a matter to discuss by cutting short the funeral of Lord Okifusa.
+
+@55.1
+There is no need to hurry reinforcements to the Mōri.
+
+@55.2
+It cannot be helped. The Mōri are our shield against the Amago.
+
+@55.3
+I do not mean to abandon them. I mean to delay the reinforcements.
+
+@55.4
+That is a remark I cannot ignore.
+
+@56.0
+Lord Sue, what became of your father's funeral?
+
+@56.1
+I cut it short and came at once.
+
+@56.2
+This is a time to send reinforcements immediately. I am sorry for Father, but this is no time to idle away hours on a funeral.
+
+@56.3
+To hurry so, do you have some special reason?
+
+@56.4
+The Mōri are winning the trust of Aki's local lords. If we abandon them,
+
+@56.5
+the Ōuchi name will carry no weight in Aki from now on.
+
+@56.6
+You need not worry about that.\n\nIf our army saves the Mōri from peril, the hearts of Aki's local lords will lean toward the Ōuchi.
+
+@56.7
+Surely not! You mean to delay the reinforcements on purpose!
+
+@56.8
+Precisely. Besides...
+
+@56.9
+The Mōri betrayed the Ōuchi once. We must see here whether they are truly willing to fight the Amago.
+
+@56.10
+That is no different from the Amago's own methods!
+
+@56.11
+Now, wait. Naitō, let me hear your opinion.
+
+@56.12
+If the Mōri drive off the Amago again this time,\n\nall of Aki's local lords will come under the Mōri.
+
+@56.13
+I think the best course is to hold back reinforcements and let the local lords see that the Mōri have no power to resist the Amago.
+
+@56.14
+And then send reinforcements at the right moment, to show the might of the Ōuchi.
+
+@56.15
+I see... We save the Mōri and also make known the Ōuchi's prestige.
+
+@56.16
+Sending reinforcements would be the proper course, I believe... But I will follow Lord Yoshitaka's decision.
+
+@56.17
+...I as well.
+
+@56.18
+Hmm... Then we hold back the reinforcements.
+
+@56.19
+Sagara and Naitō speak sensibly. Refrain from sending reinforcements until the time comes. Understood?
+
+@56.20
+...Tch!
+
+@57
+Kōnomine Castle - Castle Grounds
+
+@58.0
+What of the reinforcements?
+
+@58.1
+I am sorry... No, it is not that we will not send them. But they are to be sent when the moment is right.
+
+@58.2
+...I see.
+
+@58.3
+Rest easy. I will surely come to your rescue.\n\nI will not abandon your father, mother, sister and brothers.
+
+@61.0
+Is there still no reply from the Ōuchi?
+
+@61.1
+No, my lord. Not yet...
+
+@61.2
+According to the report from Seki's ninja, the Amago have already advanced close to the Aki border,
+
+@61.3
+and the Kikkawa and Takeda have marched in answer.
+
+@61.4
+It seems we cannot count on Ōuchi reinforcements.
+
+@61.5
+Lord Jirō! You must not!
+
+@62.0
+Father, I will fight too!
+
+@62.1
+Oh, I am sorry! I could not stop him no matter what I did.
+
+@63
+Talk to Shōyū Jirō
+
+@64.0
+Are the preparations for the siege complete?
+
+@65
+Ready\nNot ready
+
+@66.0
+Be quick.
+
+@67.0
+I never thought even the Kikkawa would join the attack.
+
+@68.0
+If Lord Jirō takes the field, morale will rise all the more.
+
+@70.0
+If we hold the castle, we must rely on the Ōuchi for reinforcements. It is somewhat worrying, but it cannot be helped.
+
+@71.0
+I would like your answer on the marriage with Princess Kiku.
+
+@71.1
+I accept gladly. As Princess Kiku's husband, I will become a warrior worthy of her.
+
+@71.2
+Good. I expect much of you. When this battle is over, hold the wedding.
+
+@72.0
+We cannot afford to lose this battle. I must win for Princess Kiku.
+
+@73.0
+This will be the hardest battle yet.\n\nPlease make your preparations as thorough as you can.
+
+@74.0
+To think even the Kikkawa attack us... What has become of the bond between the Mōri and Kikkawa?
+
+@75.0
+I would like your answer on the marriage with Kiku.
+
+@75.1
+Oh, that matter. Well, I wonder if someone like me is really suitable.
+
+@75.2
+You need not worry about that.\n\nYour valour is more than enough for Kiku's husband.
+
+@75.3
+Yes, but... Would Princess Kiku really be content with a rough man like me?
+
+@75.4
+Kiku has agreed. She did not make a single sour face.
+
+@75.5
+Truly?! Then I shall gladly take her as my wife.
+
+@75.6
+Ha ha ha. Good, it is settled.\n\nWhen this battle is over, hold the wedding.
+
+@76.0
+For Princess Kiku, I will win great glory in this battle.
+
+@77.0
+If Lord Jirō takes the field, I will protect him.\n\nPlease always station me at his side.
+
+@79.0
+...Kikkawa Okitsune... They say he... feels rivalry toward Lord Motonari.
+
+@80.0
+...The townspeople and farmers below the castle... have already been evacuated.
+
+@81.0
+The Takeda still bear the grudge of Motoshige and Mitsukazu being killed.\n\nThey cannot let it go, I suppose.
+
+@82.0
+Make good use of bows and other weapons that can attack from a distance.
+
+@83.0
+They must mean to strike before the Mōri grow any larger.
+
+@84.0
+We must answer Lord Jirō's courage.
+
+@85.0
+This battle may be a good chance to win Aki's local lords over. If we win, they will lean to the Mōri all at once.
+
+@86.0
+This will be a battle of life and death.\n\nWe should gather as much equipment as we can.
+
+@87.0
+If we lose this battle, Aki's local lords may give up on the Mōri.
+
+@87.1
+This is the crucial moment for uniting Aki.
+
+@88.0
+I would like your answer on the marriage with Kiku.
+
+@88.1
+An honour beyond what a newcomer deserves. I accept gladly.
+
+@88.2
+Forget the past, and lend your strength to the Mōri from now on.
+
+@88.3
+Leave it to me. I mean to serve you with my life.
+
+@88.4
+Good. We hold the wedding when this battle is over. Survive it.
+
+@89
+Takaie's Attack rose by 5
+
+@90
+Takaie's Defence rose by 5
+
+@91
+Takaie's Intellect rose by 5
+
+@92
+Takaie's Accuracy rose by 5
+
+@93
+Takaie's Speed rose by 5
+
+@94.0
+I will show you service worthy of Princess Kiku's husband.
+
+@95.0
+Above all, we must hold out. If the Mōri fall, even the Ōuchi will have to fight the Amago directly.
+
+@95.1
+Reinforcements will surely be sent.
+
+@96.0
+That the Kikkawa side with the Amago... why?
+
+@97.0
+Jirō ran out saying he would volunteer to fight. Surely you will not allow it?
+
+@98.0
+If Kōriyama becomes a battlefield, we must first evacuate the townspeople.
+
+@99.0
+We have placed our lives in your hands, Lord Motonari.
+
+@100.0
+I will fight too! I cannot bear to hide away while the house is in peril!
+
+@101.0
+Thank you. I will do my best.
+
+@102.0
+Father. Watch closely how Jirō fights.
+
+@103.0
+I beg you! Let me fight too!
+
+@103.1
+Do you know what a battlefield is? You may die.
+
+@103.2
+I know. Even I am afraid of my first battlefield.
+
+@103.3
+...!!
+
+@103.4
+But if I run away in this hour of crisis,\n\nI will never become a proper man for the rest of my life!
+
+@104
+Talk to Kuchiba and Kodama
+
+@105
+Allow him to go\nForbid him to go
+
+@106.0
+...Very well. Become a man!
+
+@107
+Jirō's Attack rose by 5
+
+@108.0
+No! I understand what you say. But a battlefield is not so forgiving.
+
+@108.1
+It is no use stopping me. Even if it is Father's word, I cannot yield on this!
+
+@109.0
+Will it be a siege? If we do not send the messenger to the Ōuchi early, will they not seize the roads?
+
+@110.0
+Brother Jirō has asked me to look after Mother and Kiku and the others. Father, rest assured and concentrate on commanding.
+
+@111.0
+Father, please do not die.
+
+@111.1
+I know. I cannot die without seeing you as a bride.
+
+@112.0
+It seems Jirō has been saying reckless things, but he seems to have thought it through.
+
+@112.1
+Please understand his feelings.
+
+@112.2
+And here, take this.
+
+@113.0
+Please let Jirō carry it.\n\nIt may protect that rascal a little.
+
+@114.0
+Father, please do not scold Jirō.
+
+@115.0
+My name is Suwa Ganjirō.
+
+@115.1
+Suwa Ganjirō? Who are you?
+
+@115.2
+I come from a family that has been swordsmiths since my father's time.
+
+@115.3
+Oh... Then your skill must be sure.
+
+@115.4
+It would be an honour if you let me lend you my strength.
+
+@117.1
+Leave it to me.
+
+@118.1
+Yes, then if you will excuse me.
+
+@119.1
+I see, that is a pity.
+
+@124.0
+I am sorry, but I must decline for now.
+
+@129.0
+I see, thank you. Then I shall accept with thanks.
+
+@131.0
+I have returned it to you without fail. Now, if you will excuse me.
+
+@132.0
+No, that will not do. Return only the amount that I lent.
+
+@141.2
+Yes, I expect great things of you as a bowyer.
+
+@144.0
+I hear Heizō has become one of Lord Mōri's men.
+
+@144.1
+That is so...
+
+@144.2
+He is a bandit, but he is a very kind-hearted man.
+
+@144.3
+As I thought, my eye did not deceive me.
+
+@144.4
+He has helped us many times.
+
+@144.5
+Please let me too lend my strength to Lord Motonari.
+
+@144.6
+I see. What is your trade?
+
+@144.7
+I am a physician.
+
+@146.1
+Yes, leave it to me.
+
+@147.0
+I am sorry, but we are already supplied.
+
+@148.9
+You are confident in your skill, I trust?
+
+@153.0
+My name is Yamanoue Tametsugu, a spear smith.
+
+@155.1
+Yes, thank you very much.
+
+@166.0
+I am a spear smith...
+
+@168.1
+A-are you sure?! It is more than I could have wished for.
+
+@171.0
+Unfortunately, I cannot make use of you in my service.
+
+@172.2
+I hear you are a quite skilled bowyer.
+
+@172.3
+You honour me with your words.
+
+@178.0
+If that man is to become one of Lord Motonari's men, then I too would like to lend my strength.
+
+@182.0
+I am sorry, but ask me another time.
+
+@184.0
+I am the watchman who keeps thieves from ransacking this place.
+
+@185.0
+Today's sake is tomorrow's vigour!
+
+@186.0
+Weapons and tools are important, whatever else may be said.
+
+@187.0
+If you wish to train, speak to the drill master.
+
+@188.0
+For putting items in or taking them out, ask the storekeeper.
+
+@189.0
+I inspect the back of the storehouse regularly.
+
+@190.0
+I found a hidden treasure at the back of the storehouse.
+
+@190.1
+A hidden treasure?!
+
+@192.0
+The training at the training ground was tough.
+
+@193.0
+When you have gathered the materials to make weapons, bring them to the workshop. The craftsmen will make the weapons for you.
+
+@195.0
+So Iki Hironaga did join Lord Motonari's men.
+
+@196.0
+If you have the materials, leave them with the craftsmen.
+
+@197.0
+As expected of Lord Motonari. To visit the training ground so diligently, what splendid ambition.
+
+@198.0
+Busy, busy, every single day...
+
+@199.0
+If you have materials, you should go to the workshop.
+
+@200.0
+Hic... I can't drink any more...
+
+@201.0
+Yoshida-Kōriyama really is a fine place.\n\nI am happy to have been born here.
+
+@202.0
+When you want weapons or tools made, please come to the workshop.
+
+@203.0
+Lord Motonari, please use this. Here you are.
+
+@204.0
+Let me see... I bought the rice... and the beans... What else was it?
+
+@204.1
+...???
+
+@204.2
+That's it! Sake!
+
+@205.0
+Is that child lost, I wonder?
+
+@206.0
+Lord Motonari, will the war go on much longer?
+
+@207.0
+Our lives are not getting any better at all.
+
+@208.0
+Oh no! Someone has collapsed over there.
+
+@209.0
+They sell all sorts of things at the market.
+
+@210.0
+Get hold of yourself. You have drunk too much.
+
+@210.1
+You let him drink too much.
+
+@210.2
+Yes. I got carried away...
+
+@210.3
+Then take responsibility and see him home.
+
+@210.4
+Yes, understood.
+
+@211.0
+Hic...
+
+@211.1
+Get up. We are going home.
+
+@211.2
+Uuugh.
+
+@212.0
+All right! I am going to be a samurai!
+
+@212.1
+That is out of reach for farmers like us.
+
+@213.0
+Another fine day today.
+
+@214.1
+Please take this.
+
+@215.0
+We pray for your success, Lord Motonari.
+
+@216.0
+Thank you so much for taking my child all the way home.
+
+@216.1
+Think nothing of it, but letting such a small girl go to the market alone is unwise.
+
+@216.2
+Yes, she insisted on going by herself and would not listen...
+
+@216.3
+I should have stopped her.
+
+@216.4
+Well, children grow in the blink of an eye.\n\nSoon she will be free to roam about.
+
+@216.5
+That is true.
+
+@216.6
+By the way, Lord Motonari, it is hardly worth calling a reward, but please accept this.
+
+@217.0
+My daughter still has not come home... I am worried.
+
+@218.0
+Day by day, just getting enough to eat is all we can manage.
+
+@219.0
+Welcome to the workshop, Lord Motonari.
+
+@220.0
+They say that if a ninja uses the skill Training, he gains double experience.
+
+@221.0
+We pray for your safety in battle.
+
+@222.0
+Lord Motonari, shall I pray for your safety in battle?
+
+@222.1
+That is kind of you. Please do.
+
+@222.2
+Mmmmm... Hah!
+
+@223
+Luck rose by 3
+
+@224.0
+The tavern is a place where people mingle.
+
+@225.0
+Lord Motonari, please put this to use in battle.
+
+@226.0
+Take this along as well.
+
+@227.0
+For the sake of my late father, I will do my best in this shop.
+
+@228.0
+My father says he will go to war too. I am so worried...
+
+@229.0
+Lord Motonari, thank you for taking me home.
+
+@230.0
+Waaah, waaah.
+
+@230.1
+What is the matter?
+
+@230.2
+I can't find my way home.
+
+@230.3
+You are the child from that house over there... Come, follow me.
+
+@231
+Took the lost child home
+
+@232.0
+Kunoichi use skills that rely on allure.\n\nBe careful not to be seduced.
+
+@233.0
+God is... watching over you...
+
+@234.0
+A first-rate physician can make effective medicine by using materials well. ...I am still only second-rate, though.
+
+@235.0
+If I get medicine that would help in battle, I will bring it to you again.
+
+@236.0
+Lord Motonari, I give you a Minor Remedy. Please make use of it.
+
+@237.0
+The weapons you use greatly decide the outcome of a battle.
+
+@238.0
+In battle, always judge which weapon is best and use it...
+
+@238.1
+Oh... I am sorry, talking of such things over drinks.
+
+@239.0
+In battle weapons play an important part, but do not forget to use skills as well.
+
+@240.0
+I will surely protect the children.
+
+@241.0
+Is Lord Jirō truly set on going to the battlefield?
+
+@242.0
+If Kōriyama becomes a battlefield, we will help as well.
+
+@243.0
+(Now I cannot go home even if I wanted to.)
+
+@244.0
+Oh... Should I really be in a place like this?
+
+@245.0
+It seems busy outside. Is there a war?
+
+@246.0
+It is dangerous here. Move to the upper floor.
+
+@246.1
+Yes. I will go at once, as soon as I finish cleaning, so we are not ashamed if the enemy sees it.
+
+@246.2
+(...Hmm. What admirable dedication.)
+
+@246.3
+What is your name?
+
+@246.4
+My name is Ume.
+

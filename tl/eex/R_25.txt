@@ -1,0 +1,1047 @@
+@0
+Episode 25 "The Crimson Lake Biwa"
+
+@1
+Akechi Main Camp
+
+@2.0
+Damn the Mōri!
+
+@2.1
+The strength that defeated the Hashiba army was real, my lord.
+
+@2.2
+How can this be?\n\n\nTo be toyed with like this by the likes of the Mōri...!
+
+@2.3
+Let us withdraw for now. If we meet them at Azuchi, defended by Lord Hidemitsu, we have a chance of winning.
+
+@3.0
+Yes. We fall back to Azuchi Castle and regroup. Make ready.
+
+@5
+Kyōto - Nijō Castle - Council Hall
+
+@6.0
+I am finally home at last. Terumoto, you have done well.
+
+@6.2
+Kuchiba, have the Seki told you what Akechi is doing?
+
+@6.3
+He seems to have entered Azuchi Castle. He will probably hold it under siege.
+
+@6.4
+Good. As soon as we are ready, we attack Azuchi at once.
+
+@6.5
+Wait for the order to march.
+
+@18
+Kyōto - Council Hall
+
+@19
+Kyōto - Senior Retainers' Hall
+
+@20
+Kyōto - Living Quarters
+
+@21.0
+Ah, Sis, he's here.
+
+@22.0
+Hm! You again! You will not escape this time!
+
+@22.1
+I am not running. I have something to say.
+
+@22.2
+To me?!
+
+@22.3
+You are the head of the Mōri, I hear. I have a favour to ask.
+
+@22.4
+A favour?
+
+@22.5
+The land around Kyōto has been ruined by the long wars. Farmers and townsfolk alike are suffering.
+
+@22.6
+Below Nijō Castle it looks lively enough, but go a little further out and it is terrible.
+
+@22.7
+I see... I was so taken in by the bustle of Nijō that I never noticed...
+
+@22.8
+They say the Mōri have been blessed with good heads for generations, and build lands where the people can live in peace.
+
+@22.9
+So I am begging you! End this age of war quickly!
+
+@22.10
+Give us a peaceful world, and let everyone live without fear again!
+
+@22.11
+That is my wish... That is all. And one more thing...
+
+@23.0
+I am giving that back. It is the hidden fortune of Okayama Castle. Use it to unite the realm.
+
+@23.1
+You...
+
+@23.2
+Goodbye, boy. Do your best to pacify the realm!
+
+@26.0
+Ow... ......
+
+@26.1
+Do your best!
+
+@27.0
+The tale of the noble thieves I heard in the tavern in Himeji... Could they be the ones?
+
+@28
+Himeji Castle - Council Hall
+
+@29
+Himeji Castle - Senior Retainers' Hall
+
+@30
+Himeji Castle - Living Quarters
+
+@46
+Himeji - Storehouse
+
+@47
+Himeji - Workshop
+
+@48
+Himeji - Tavern
+
+@49.0
+Have you heard? About the thieves who give out money to the villages around Kyōto, ruined by the war?
+
+@49.1
+Of course. My cousin's family was saved by them too.
+
+@49.2
+Truly noble thieves. I wish they would come to our village too.
+
+@50
+Himeji - Market
+
+@51
+Himeji - Training Ground
+
+@52
+Himeji - House
+
+@53
+Kyōto - Storehouse
+
+@54
+Kyōto - Workshop
+
+@55
+Kyōto - Tavern
+
+@56
+Kyōto - Market
+
+@57
+Kyōto - Temple
+
+@58
+Kyōto - House
+
+@59.0
+I hear you have entered Kyōto. The hard part is still to come.
+
+@60.0
+Akechi is no pushover, but the momentum is already ours.
+
+@61.0
+We must at least defeat Akechi before the Oda expeditionary armies return.
+
+@62.0
+Tokugawa Ieyasu seems to be in contact with the Oda forces in every region.
+
+@63.0
+We took Gassan-Toda Castle. We can take Azuchi Castle too.
+
+@64.0
+So we are drawing closer to the realm, little by little.
+
+@65.0
+A man who struck down Nobunaga is not likely to end here.
+
+@66.0
+...Azuchi Castle. ...A magnificent castle.
+
+@67.0
+The Oda generals on campaign must be racing back in desperation by now.
+
+@68.0
+Still, it is remarkable that we beat the Hashiba army.
+
+@69.0
+To think we would march on Kyōto in service of Lord Yoshiaki.
+
+@70.0
+If we take Azuchi, the finest castle in the realm, the Mōri's valour will be known throughout the land.
+
+@71.0
+Motoharu has allowed Hiroie his first battle.\n\nSo Hiroie is going to war at last...
+
+@72.0
+Father has granted me my first battle.\n\nI will miss this one, but I will fight from the next.
+
+@76.0
+The new books are difficult...
+
+@77.0
+Our army will face Akechi across a river. We must cross it carefully.
+
+@78.0
+We fight in service of that shōgun? ...I suppose it cannot be helped.
+
+@79.0
+Tokugawa Ieyasu worries me. That he makes no big move is rather unsettling.
+
+@80.0
+Mmm... Kyōto is truly the best. Ho ho ho ho.
+
+@81.0
+Making a name on the battlefield is a warrior's honour.
+
+@82.0
+My father is a gunsmith. But I have no intention of quitting as a soldier.
+
+@83.0
+I feel we will win the coming battles.
+
+@84.0
+Am I not cut out to be a soldier?
+
+@85.0
+So this is how a famous blade is made.
+
+@87.0
+I am ready to go to war at any time.
+
+@88.0
+Only through training and real battle does one become a full-fledged warrior.
+
+@89.0
+I keep in mind the saying "never forget your first resolve"...
+
+@90.0
+Lord Terumoto, please take this, if you will.
+
+@91.0
+Every craftsman takes pride in his work.
+
+@92.0
+I have yet to see my first battle.
+
+@93.0
+The more I train, the more I see how green I am.
+
+@94.0
+This storehouse will have to be rebuilt soon...
+
+@95.0
+Drink well, eat well. That is the secret to winning battles.
+
+@96.0
+I look forward to the day I can be of use to you, Lord Terumoto.
+
+@97.0
+I mean to live each day to the fullest.
+
+@98.0
+Even training is always a matter of life and death.
+
+@99.0
+I will not let any suspicious person in.
+
+@100.0
+If I must work anyway, I would rather work where the sake is good.
+
+@100.1
+No, I jest.
+
+@101.0
+I stake my life on guarding this storehouse.
+
+@102.0
+Only by judging the strengths and weaknesses of everything can one show one's true power.
+
+@104.0
+Beware of unfair dealers.
+
+@106.1
+I am a merchant who does business in this area.
+
+@106.2
+If you would, I would like you to look at this item.
+
+@106.3
+Very well, show me.
+
+@106.5
+This is the "Fudō Myōō Charm".
+
+@106.6
+I am selling it for 8000 gold. How about it?
+
+@106.7
+Lord Terumoto, a word over here...
+
+@107.1
+That woman is a notorious swindler in these parts.
+
+@107.2
+A swindler?
+
+@107.3
+Yes. With her smooth talk she sells shoddy goods at high prices.
+
+@107.5
+Please be careful.
+
+@108.0
+How about the "Fudō Myōō Charm"?
+
+@108.1
+Only 8000 gold. A bargain.
+
+@111.0
+Unfortunately I have no money on me. I will pass.
+
+@112.0
+It looks quite expensive, but I will take it.
+
+@112.2
+Lord Terumoto?!
+
+@113
+Paid 8000 gold
+
+@114
+Got the Fuda Charm
+
+@115.0
+No, I do not need it. I will pass.
+
+@115.1
+Oh... is that so...
+
+@115.2
+Well, I will come again. Please do consider it then.
+
+@116.0
+Lord Terumoto, I went to the trouble of warning you. Why did you buy it?
+
+@116.1
+Well, the price was high, but I thought I needed it, so I bought it.
+
+@116.2
+Please let me see what you bought.
+
+@116.3
+Ah, this is!
+
+@116.4
+This is not the "Fudō Charm". It says "Fuda Charm".
+
+@116.5
+Just as I thought, a fake.
+
+@116.6
+I was fooled!
+
+@117
+Threw away the Fuda Charm
+
+@118.0
+I used to be a physician.
+
+@118.1
+Now I am a craftsman's apprentice.
+
+@119.0
+This is a "Minor Tome". Please accept it.
+
+@120.0
+May my whole family stay healthy...
+
+@121.0
+My father is a swordsmith called Hiko Shigeharu.
+
+@121.1
+I aim to become a skilled craftsman like my father.
+
+@122.0
+There is no market anywhere as lively as this one.
+
+@123.0
+The bond between parent and child is the strongest of all, is it not?
+
+@124.0
+The old woman in the market has done nothing but sigh lately. ...I wonder if something happened.
+
+@125.0
+Have you seen a physician around here?
+
+@125.1
+Hmm? No, I have not.
+
+@126.0
+Where do people go when war has burned their homes?
+
+@127.0
+The day passes in the blink of an eye.
+
+@128.0
+Gambling is hard to give up.
+
+@129.0
+I was just playing an amusing wager.
+
+@129.1
+Would you like to try it, Lord Terumoto?
+
+@129.2
+What kind of wager?
+
+@129.3
+You guess who will walk into this tavern next.
+
+@129.4
+The stake is 100. If you guess right, I pay back four times that. Well, will you try?
+
+@131.0
+I do not care for gambling. I will pass.
+
+@133.0
+I will not. I have no money on me now.
+
+@134.0
+Then I will take the stake first.
+
+@136.0
+Now then, make your guess.
+
+@136.1
+Choose from these.
+
+@137
+Soldier\nTownsman\nMartial artist\nOther
+
+@138.0
+Now all that is left is to wait and see who comes in.
+
+@139.0
+Oh, everyone is here today.
+
+@140.0
+You turned up at just the right time. You saved me.
+
+@140.2
+So the bet goes to me...
+
+@141.0
+You turned up at the worst time. Honestly.
+
+@141.2
+It seems I have won.
+
+@141.3
+As promised, I will pay you.
+
+@143.0
+A careless mind leads to no good.
+
+@144.0
+I am told I get nasty when I drink, so I limit my sake.
+
+@146.0
+I wish I could find a sake with real body.
+
+@148.0
+Costly medicine is nothing to us common folk.
+
+@149.0
+The heads of the people here are full of nothing but sake.
+
+@151.0
+I am blessed with two children, and I am happy now.
+
+@152.0
+Prices are really low in this market. Let me buy in bulk while I can.
+
+@154.0
+We drink sake partly to forget our sorrows.
+
+@155.0
+My husband died before me, and now I live with my son.
+
+@156.0
+Please take care.
+
+@157.0
+It is a token of our feelings. Please accept it.
+
+@158.0
+I am studying sake brewing right now.
+
+@159.0
+Did a physician come walking by here?
+
+@159.1
+Ah, that person...
+
+@159.2
+They were here until a moment ago...
+
+@159.3
+Said they forgot their purse and went back to the tavern.
+
+@159.4
+Hmm, we must have passed each other.
+
+@160.0
+Why do people start quarrels, I wonder?
+
+@161.0
+My husband works as a storekeeper.
+
+@162.0
+Health comes first.
+
+@163.0
+I would love to visit Kyōto once.
+
+@164.0
+You mean the noble thieves of Kyōto? They say there are two of them.
+
+@166.0
+It would be cheaper to buy in bulk, but I have no funds...
+
+@167.0
+Lovely weather, is it not?
+
+@168.0
+It was fate that you were born Lord Motonari's grandson, Lord Terumoto.
+
+@168.1
+And it was fate that I was born a farmer's son.
+
+@169.0
+To meet you, Lord Terumoto... I am lucky today.
+
+@170.0
+Thrift and frugality are my creed.
+
+@171.0
+I want my children to have a good life.
+
+@172.0
+Farmers have their own kind of worries, you know.
+
+@173.0
+Whenever I am here, I end up wasting money.
+
+@175.2
+Did I see it, or not...
+
+@175.3
+Which is it? Speak plainly.
+
+@175.4
+I feel I saw it, but my memory may be wrong.
+
+@175.5
+I have been drinking all night since yesterday, and my head is in a fog.
+
+@175.6
+...So what were we talking about?
+
+@175.7
+...Never mind.
+
+@176.0
+Keep up the good government, my lord.
+
+@177.0
+When I pray here, I feel my wife who left might come back...
+
+@178.0
+The noble thieves of Kyōto, they say one is a woman. Quite something, I must say.
+
+@180.0
+I hope the world becomes even more peaceful from here on.
+
+@181.0
+Write "bright" and "day", and you read it "tomorrow".\n\nIt means we should live with bright hopes.
+
+@182.0
+I am slowly coming to understand how good sake is.
+
+@183.0
+I often played here as a child.
+
+@184.0
+I am worn out from work every day.
+
+@185.0
+I come here often.
+
+@186.0
+From now on I will live with my mother always.
+
+@187.0
+Thank you so much for finding my mother.
+
+@187.1
+It is only a small thing, but please accept it.
+
+@188.0
+Oh, Mother... I wanted to see you. I wanted to see you so much.
+
+@189.0
+I only wish to know whether my mother is still alive...
+
+@190.0
+Would you hear me out?
+
+@192.2
+I lost my father at three, and after that my mother raised me alone.
+
+@192.3
+But when I was six...
+
+@192.4
+My mother said, "I will be right back..." and left the house.
+
+@192.5
+My life after that was truly miserable.
+
+@192.6
+With no kin, everyone around me was cold, and my days were nothing but hardship and sorrow.
+
+@192.7
+In want, I worked as a live-in servant and somehow survived.
+
+@192.8
+I hated my mother. For leaving a small child all alone...
+
+@192.9
+But more than thirty years have passed, and now I am blessed with a kind husband and two children, and I live happily.
+
+@192.10
+Only after becoming a mother myself could I understand my mother's hardships and feelings.
+
+@192.11
+No parent does not love their child. She must have had reasons she could not help.
+
+@192.12
+Now my resentment is gone, and I wish to see my mother once more.
+
+@192.13
+But I have no idea where she is now.
+
+@192.14
+I hear you have travelled to many lands, Lord Terumoto. If you happen to know anything...
+
+@192.15
+Hmm, I am sorry, but I know nothing.
+
+@192.17
+Is there no clue to your mother?
+
+@192.19
+No wonder... It was over thirty years ago.
+
+@192.23
+My mother, I recall, has a large birthmark on her right arm.
+
+@192.24
+A large birthmark on her right arm...
+
+@192.25
+Yes. That is all I remember.
+
+@192.26
+That is difficult...
+
+@194.0
+I pray for your good fortune in battle, my lord.
+
+@195.0
+*hic*
+
+@195.1
+Listen, war is not won by troop strength alone.
+
+@195.2
+Strategy is what matters. Only if you build your strategy well...
+
+@196.0
+When this old man is drunk, his talk goes on and on. You had better not stay with him.
+
+@197.0
+Only with the drive to aim for the realm can a man become lord of even one province and castle. That is how it is.
+
+@198.0
+The storehouses of old were not nearly so grand.
+
+@200.0
+Do my grandchildren dislike me, I wonder.
+
+@201.0
+Everyone has strengths and weaknesses.
+
+@201.1
+Only one who sees his own abilities clearly can truly rule the realm.
+
+@202.0
+Ah, Lord Terumoto. You have grown into a fine man. Do you remember my face?
+
+@203.0
+Only by overcoming hardship does a man grow.
+
+@204.0
+Ah, my back hurts. One cannot beat age.
+
+@205.0
+Do not drown in sake.
+
+@206.0
+The guards here work very hard.
+
+@207.0
+At my age, I often think of the past.
+
+@208.0
+From now on I will live with my daughter and her husband.
+
+@209.0
+Iku, I was wrong, as your mother.
+
+@209.1
+It is all right. I am so glad you are alive, Mother.
+
+@210.0
+Would you hear my troubles?
+
+@212.1
+Yes, in truth...
+
+@212.2
+I lost my husband when I was young, and I had a daughter whom I raised alone.
+
+@212.3
+But when she was six, worn out by life, I left the house, and of all things, left my daughter all alone.
+
+@212.4
+Later I regretted it and returned home, but my daughter was already gone...
+
+@212.5
+After that I searched for her tirelessly, but in the end I never found her.
+
+@212.6
+I am a failure as a mother.
+
+@212.7
+More than thirty years have passed... Where is my daughter now, and what is she doing...
+
+@213.0
+Do you know anything? Anything at all?
+
+@213.1
+You have been to so many lands, Lord Terumoto. Perhaps you know something...
+
+@213.2
+Could it be...
+
+@213.3
+Show me your right arm.
+
+@213.4
+My right arm?
+
+@214
+The old woman showed her right arm
+
+@215.0
+I knew it! You have a birthmark on your right arm!
+
+@215.1
+Ah, I have had this birthmark since I was young, but...
+
+@215.2
+Your daughter is now in a house in Himeji.
+
+@215.3
+R-really?!
+
+@215.4
+Come with me.
+
+@215.7
+No, I think I will not go.
+
+@215.9
+I am the mother who abandoned her daughter. How could I show my face to her?
+
+@215.10
+She must hate me.
+
+@215.11
+I am a mother who must not meet her.
+
+@215.12
+Your daughter does not hate you.
+
+@215.14
+She no longer hates you. She says she wants to see you now.
+
+@215.15
+Ohh, Iku...
+
+@215.16
+Are you willing to meet her?
+
+@217.0
+We have found your mother.
+
+@217.1
+My mother?!
+
+@218.1
+What is it? Come in.
+
+@218.2
+Mother, is it you?
+
+@219.0
+Iku, is that you...
+
+@219.1
+Mother!
+
+@220.0
+I am sorry, I am sorry.
+
+@220.1
+It is all right, it is all right now. Mother!
+
+@221.0
+...Haa......
+
+@222.0
+...Haa......
+
+@223.0
+I suppose my time to be taken will come soon enough.
+
+@224.0
+Cheap buys waste money, as they say.
+
+@226.0
+To be young is a fine thing.
+
+@227.0
+I turn seventy this very year, and I am still going strong.
+
+@228.0
+I cannot die before I see my grandchild's face.
+
+@229.0
+Playing with Grandpa is no fun.
+
+@230.0
+Sake... what is so good about it?
+
+@231.0
+So Grandma is going to live with us from now on.
+
+@232.0
+This is my grandma?
+
+@233.0
+I have a grandma?
+
+@234.0
+Lately Mom has been looking troubled.
+
+@236.1
+What is a "kusushi"?
+
+@237.0
+When I grow up, I will be a great craftsman.
+
+@239.0
+I will become a strong samurai and protect Mom.
+
+@240.0
+Lord Terumoto, I will give you this.
+
+@240.2
+S-such a large sum, where did you get it?!
+
+@242.0
+I-it vanished...
+
+@242.1
+What on earth is going on...
+
+@242.3
+Th-this is...! It is not gold, only a leaf!
+
+@243
+10000 gold was just a leaf
+
+@244.0
+The work of a tanuki or a fox... I was thoroughly tricked.
+
+@247.0
+I am so happy to have a grandmother!
+
+@248.0
+Are you really my grandmother?
+
+@249.0
+Is she? ...Are you my Grandma, really?
+
+@250.0
+Mom has seemed lonely lately.
+
+@253.0
+Do what you wish to do. Leave no regrets.
+
+@255.0
+Those who stray from the way of men will surely be struck by heaven's wrath.
+
+@256.0
+To command the realm is surely the true aim of a warlord.
+
+@257.1
+I have not seen one.
+
+@257.3
+I am sorry I could not be of help.
+
+@258.0
+To know your enemy and know yourself is the secret of constant victory.
+
+@259.0
+Good and evil are like the front and back of a single sheet of paper.
+
+@259.1
+Even an act meant for good can backfire.
+
+@259.2
+And such things happen quite often in daily life.
+
+@260.0
+Do not underestimate the power of medicine.
+
+@261.0
+I drink sake not for pleasure, but as medicine.
+
+@262.0
+It is not for me to say, but relying too much on medicine is not good either.
+
+@263.0
+You left your purse here a while ago, did you not?
+
+@263.1
+Y-yes! I was about to give it up. Thank you.
+
+@263.2
+You have truly saved me. This is just a small token of thanks. Please accept it.
+
+@265.0
+Well then, time to go...
+
+@266.0
+Hm?! A purse is lying here... That man must have left it behind.
+
+@266.1
+It cannot be helped. I shall deliver it. He is probably still walking around the market.
+
+@267.0
+The art of war runs deep.
+
+@268.0
+Well-trained troops are the ones worth commanding.
+
+@269.0
+I had thought craftsmen were all difficult men, but they are not, after all.
+
+@270.0
+Man is a creature who studies all his life.
+
+@271.0
+Lord Terumoto, please look at this book.
+
+@271.1
+Lord Motonari once read this book too, and used it to improve himself.
+
+@271.2
+I see. I should very much like to read it.
+
+@274.0
+Training never ends. Always keep the will to improve. That is what matters.
+
+@275.0
+It is the heart, not profit and loss, that moves people.\n\nYou have that heart, Lord Terumoto.
+
+@276.0
+It is important to train with a clear purpose.
+
+@277.0
+I am still green, but I will train and grow into a man who will surely be of use in battle.
+
+@278.0
+You there, drink more. It is only polite.
+
+@279.0
+I came to fetch some purified water.
+
+@280.0
+The more I drink, the stronger I get!
+
+@281.0
+The spirit of a craftsman at work is astonishing.
+
+@282.0
+A man's life is short.\n\nI want to live without regrets.
+
+@283.0
+A craftsman's skill is truly splendid.\n\nAn amateur could never imitate it.
+
+@284.0
+The path of the martial arts is still long and without end.
+
+@285.0
+Oh, you have entered Kyōto? When the world is at peace, I would love to go there myself.
+
+@286.0
+I hear the people around Kyōto suffered greatly in the long wars.
+
+@287.0
+Kyōto... A city I long to see.
+
+@288.0
+I hear Lord Motoharu has allowed Hiroie to go to Kyōto as reinforcement. So it is finally his first battle.
+
+@289.0
+This is a newly arrived book... What a difficult book. I can hardly understand it.
+

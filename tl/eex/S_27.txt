@@ -1,0 +1,132 @@
+@0.0
+We meet the Tokugawa army at Sekigahara! Sortie!
+
+@1.0
+So the Mōri have deployed at Sekigahara. Good, we march too! The decisive battle!
+
+@2
+Battle of Sekigahara\nVictory\n  1. Tokugawa Ieyasu retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@3.0
+Sekigahara... I do not know why, but the name stirs my heart.
+
+@3.1
+Is that so? If we win this battle, it will stir hearts forever.
+
+@3.3
+By the way... that masked monk the other day. Who on earth is he?
+
+@3.4
+You will learn in time. You, and the Mōri too.
+
+@3.5
+The fate of the Tokugawa rests on this one battle!
+
+@3.6
+All forces, fight with care! Understood!
+
+@3.7
+As expected of Ieyasu, known as "the finest warrior of the Tōkaidō". He has laid out his formation as if to surround us.
+
+@3.8
+The Tokugawa also seem to have more troops. We cannot deny we are outnumbered.
+
+@3.9
+So the Mōri's tomorrow is decided in this one battle.
+
+@3.10
+Hiroie is right. We cannot afford to lose this battle. It may truly be called the battle that decides the realm.
+
+@3.11
+(Lord Motonari... no, Grandfather. Please watch over me, Terumoto!) Sortie! Our goal is Tokugawa Ieyasu alone!
+
+@3.12
+Hm!
+
+@3.14
+H-Hotaru... I told you to stay in the castle.
+
+@3.15
+Lord Terumoto...
+
+@3.16
+My lord. Please understand Hotaru's feelings.
+
+@3.18
+......\n\n\nVery well, I understand...
+
+@4
+Battle of Sekigahara\n\nVictory\n  1. Tokugawa Ieyasu retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@5.0
+Damn... Father... Mother...
+
+@6.0
+Mōri Terumoto... To have such talent as a general.
+
+@7.0
+At this rate we will be wiped out! Regroup the troops, fall back!
+
+@8.0
+The Mōri army is fearsome. Retreat!
+
+@9.0
+No, the main camp is collapsing! Retreat! Retreat to Gifu Castle!
+
+@16
+A mysterious unit appeared
+
+@17.0
+Heh heh heh... The time has come at last to reveal who I am.
+
+@18.0
+What! Surely not... That banner... The Amago banner! Then... that warrior is...!
+
+@18.1
+I am Yamanaka Shikanosuke!\n\nSince I cannot fulfil my dream of restoring the Amago, I have come from hell to land one blow on Mōri Terumoto! Advance! Crush the Mōri army!
+
+@18.2
+Heh heh, so you came, Shikanosuke.
+
+@18.3
+...No, rather, one who inherited Shikanosuke's valour and hot blood, I should say.
+
+@18.4
+Shikanosuke... He was alive...!
+
+@19.0
+Hm! He resembles Shikanosuke closely, but he is not Shikanosuke!
+
+@19.1
+That is right! The Shikanosuke you know was my father.
+
+@19.2
+On his way to Suō, my father was treacherously murdered by your Mōri retainers. When my mother learned of it, she wasted away day by day and left this world while I was still a child... I have lived until today only to avenge my father and mother!
+
+@19.3
+So you are Shikanosuke's son!
+
+@20.0
+Say nothing more, Terumoto! Become the rust on my sword!
+
+@20.1
+Shikanosuke...!
+
+@21.0
+I am Sakai, one of the Four Heavenly Kings of the Tokugawa! Young warrior, fight me!
+
+@22.0
+Ii Naomasa will be your opponent! Terumoto! Let us fight fair and square!
+
+@23.0
+So you are Terumoto! I am Ishikawa Kazumasa. Here I come!
+
+@24.0
+I am Terumoto, head of the Mōri! Ieyasu, let us settle this honourably!
+
+@24.1
+What! Terumoto! To come all the way to Ieyasu's main camp!
+
+@27.0
+Ieyasu is running! All forces, after Ieyasu!
+

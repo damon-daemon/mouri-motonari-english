@@ -1,0 +1,1218 @@
+@0
+Episode 23 "The End of Shikanosuke"
+
+@1
+Episode 23 "The End of Shikanosuke"
+
+@2
+Kyōto
+
+@3
+Kyōto - Castle Town
+
+@4.0
+Lord Shikanosuke, it is a lovely day again. So pleasant.
+
+@4.1
+(A peaceful life, the first since my defeat in Bitchū... Living each day with Shino is not so bad.)
+
+@4.2
+(But... is this truly enough?)
+
+@4.3
+(Again today, his heart is not here...)
+
+@5.0
+I hear the Oda army was crushed.
+
+@5.1
+Well, that's a shock. The Oda army, beaten! So who was it that beat them?
+
+@5.2
+The Mōri, they say. The Oda fleet couldn't lay a finger on the Mōri navy, apparently.
+
+@5.3
+(Oda, crushed by the Mōri...)
+
+@6
+Shikanosuke's Hideout
+
+@7.0
+Shino, I must speak with you.
+
+@8.0
+I do not want to hear it.
+
+@8.1
+...Shino. I mean to take Oda's backing and raise an army to restore the Amago once more.
+
+@9.0
+Please, don't. I am carrying your child.
+
+@9.1
+What? You are with child?
+
+@9.2
+Please give up this dream of reviving the Amago. I beg you.
+
+@9.3
+Shino, this is the last time. This time I will defeat the Mōri and win back the old Amago lands.
+
+@9.4
+We will raise our child there.
+
+@9.5
+You will go no matter what?
+
+@9.6
+Forgive me, Shino.
+
+@10.0
+Please, come back to me safe.
+
+@13.0
+What a disgrace! To lose so wretchedly!
+
+@13.2
+Monkey! You go! Wipe out every one of the Mōri lands!
+
+@14.0
+Yes, my lord! Leave it to me.
+
+@14.1
+My lord.
+
+@15.0
+There is someone who wishes to see you.
+
+@15.1
+Oh? You are Yamanaka Shikanosuke, are you not?
+
+@15.2
+(This one may be useful...)
+
+@15.3
+So you have yet to bring down the Mōri.
+
+@15.4
+To my shame, yes.
+
+@15.5
+The Monkey now marches to subdue the Mōri. What say you, will you join the campaign?
+
+@15.6
+I could ask for nothing more. Please add me to the expedition!
+
+@15.7
+Very well. Scatter the Mōri alongside the Monkey.
+
+@18.0
+My lord, grave news.
+
+@18.1
+What is it?
+
+@18.2
+Hashiba Hideyoshi has begun his invasion of Harima.
+
+@18.3
+He is already marching on Kōzuki Castle, held by the Ukita.
+
+@18.4
+Send a messenger to the Mōri at once and ask for reinforcements.
+
+@19
+Hashiba Army Main Camp
+
+@20.0
+Ha ha ha ha! What a fragile castle.
+
+@20.1
+Well, that is what comes of facing our army. Wa ha ha ha!
+
+@20.2
+The real fighting is yet to come. We have not met the Mōri. Please do not grow careless.
+
+@20.3
+I know, I know.
+
+@20.4
+(What a man... To take a castle so easily!)
+
+@20.5
+Lord Shikanosuke, I shall hand this castle to the Amago. Guard it well.
+
+@20.6
+Yes, sir. I am most grateful.
+
+@20.7
+And what do you plan to do next?
+
+@20.8
+Once the Mōri have settled in around Kōzuki Castle, I mean to hit them from both sides.
+
+@20.9
+I see. Shall we move the army at once, then?
+
+@20.10
+Come, then. Mōri!
+
+@23.0
+Kōzuki Castle has already fallen. The Amago remnants entered it and seem to be digging in.
+
+@23.1
+So fast! A whole castle... can it be taken so easily?
+
+@23.2
+Hashiba Hideyoshi. He is no ordinary man after all.
+
+@23.3
+Shikanosuke and Hashiba joined hands... This is truly troublesome.
+
+@23.4
+We cannot be afraid. At this rate they will run wild across the western lands.
+
+@24
+Talk to Kobayakawa Takakage
+
+@39.3
+What is this? A map to where the finest horse can be found? Ridiculous... I don't want it.
+
+@42.2
+We're thieves. But we have never once managed to steal from the Mōri.
+
+@43.1
+Good. I shall send soldiers to catch this fine horse later.
+
+@47.0
+Boss, we did it! We found it! This time it's the real thing!
+
+@47.1
+All right, well done! We've had too many duds lately. This time... Hee hee. Hee hee hee hee.
+
+@48.0
+I'm getting used to your laugh, Boss.
+
+@48.1
+Fine, this one's on me. Let's get out of here.
+
+@49.2
+Hey! You treated me like a child last time!
+
+@49.3
+Hee hee... See, that's what makes you a child, getting worked up so fast.
+
+@49.4
+What?!
+
+@49.5
+But I like boys like that.
+
+@49.6
+Grr! You mock me!
+
+@49.7
+Ha ha. Goodbye, little boy. Let's run, Sakichi!
+
+@52.0
+Curses... The fallen ninja got in my way, and I could not chase her. Just wait for next time.
+
+@73.0
+A pillar of the temple...
+
+@75.1
+Oh! This board can be peeled away.
+
+@76
+Peeled the board off the pillar
+
+@78
+Found a hidden treasure
+
+@88
+By Takakage's scheme, Bessho Nagaharu, lord of Oda's Miki Castle, rose in revolt. Hashiba's army turned to Miki Castle to deal with Bessho, and the Amago remnants were cut off from it.
+
+@90.0
+It seems Oda truly means to take on the conquest of Chūgoku.
+
+@91.0
+Ekei called Hashiba quite a man, and it seems he was right.
+
+@92.0
+I never thought it would turn out like this... We are in a fix.
+
+@96.0
+I do not care to fight for the likes of him.
+
+@99.0
+It is about time we settled matters with Shikanosuke.
+
+@100.0
+Hiroie has grown much calmer. It makes me happy.
+
+@101.0
+While Father is away at war, I am keeping watch over Ogurayama Castle.
+
+@102.0
+Bessho will most likely switch sides.
+
+@103.0
+There is a commander named Bessho Nagaharu in Oda's Miki Castle.
+
+@103.1
+They say he has long resented Nobunaga's tyranny.
+
+@103.2
+If we turn him, Hashiba's army will be threatened from behind,
+
+@103.3
+and will have no choice but to march on Miki Castle.
+
+@104
+Turn Bessho Leave him be
+
+@105.0
+Then I shall write to Bessho at once and have the Seki carry it.
+
+@107.0
+This book says that when attacked from both sides, you must defeat the enemy at your rear first,
+
+@107.1
+as securing your line of retreat comes before all else.
+
+@108.0
+That Monkey is no ordinary man.
+
+@110.0
+Facing both Hideyoshi and Shikanosuke is far too dangerous.
+
+@110.1
+Lord Takakage may have a good plan.
+
+@111.0
+Oda's strength surpasses the Mōri's, I think. Rash moves would be dangerous.
+
+@112.3
+Would you not employ me?
+
+@114.0
+I see. Then I leave it to you.
+
+@116.0
+I am sorry, but I will pass this time. If fate allows, we shall meet again.
+
+@124.1
+Yes, please do.
+
+@128.0
+I am Kenmochi Rokurō, a swordsmith.
+
+@130.3
+Thank you. I look forward to working with you.
+
+@134.0
+I am Kojima Zenbei, a bowyer.
+
+@136.2
+Yes, his skill seems sure enough.
+
+@136.3
+Thank you. I look forward to working with you.
+
+@137.0
+I will do my best to meet your expectations. Now, until we meet again.
+
+@139.0
+Sadly, I cannot hire you now, but we may meet again if fate allows.
+
+@140.1
+I just want work. Could you not somehow take me on?
+
+@142.1
+Yes, I will surely live up to your expectations...
+
+@144.0
+I see... What a pity...
+
+@152.0
+The fighting will only grow harsher.
+
+@153.0
+Only through training and real experience does one become a true warrior.
+
+@154.0
+Lord Terumoto is a very sharp-minded man.
+
+@155.0
+The hidden treasure was in the temple pillar, just as I thought.
+
+@155.1
+Was it? Congratulations!
+
+@156.0
+As expected of Lord Terumoto! What remarkable intuition.
+
+@157.0
+Actually, while tidying the back of the storehouse, this turned up.
+
+@157.1
+What is that old scrap of paper?
+
+@158.0
+It marks where bandits buried their hidden treasure.
+
+@158.1
+The bandits' treasure?
+
+@158.2
+Yes. But nobody can make sense of what it says, so it has never been solved.
+
+@158.3
+What does it say?
+
+@158.4
+Please, see for yourself.
+
+@159
+Read the writing on the paper
+
+@160
+Put the letters in order: TSCUNMA.
+
+@161.0
+Put the letters in order: TSCUNMA?
+
+@161.1
+It makes no sense to me at all.
+
+@161.2
+TSCUNMA... Put in order... Hmm...
+
+@161.3
+Do you see what it means?
+
+@161.4
+Could it be!
+
+@161.5
+Have you figured something out?
+
+@162.0
+"Put in order" must mean rearranging the letters, must it not?
+
+@162.1
+The letters?
+
+@162.2
+Yes. Let us try rearranging the letters of "TSCUNMA".
+
+@163.0
+The 1st letter is...
+
+@164
+T S C U N M A
+
+@165.0
+The 2nd letter is...
+
+@166
+T S C U N M A
+
+@167.0
+The 3rd letter is...
+
+@168
+T S C U N M A
+
+@169.0
+The 4th letter is...
+
+@170
+T S C U N M A
+
+@171.0
+The 5th letter is...
+
+@172
+T S C U N M A
+
+@173.0
+The 6th letter is...
+
+@174
+T S C U N M A
+
+@175.0
+And the last, the 7th letter is...
+
+@176
+T S C U N M A
+
+@177.0
+S-A-N-C-T-U-M...
+
+@177.1
+S-A-N-C-T-U-M...
+
+@177.2
+Yes, the sanctum. It points to the pillars of the temple.
+
+@177.3
+I see! So that was it!
+
+@177.4
+Let us examine the temple pillars at once.
+
+@178.0
+??????...
+
+@178.1
+I do not understand...
+
+@180.0
+Lord Terumoto's words do so much to hearten us...
+
+@181.0
+Seeing the people's happy faces is what makes this work worthwhile.
+
+@182.0
+This storehouse needs rebuilding soon.
+
+@184.0
+I look forward to the day I can be of use to Lord Terumoto.
+
+@185.0
+Ah... I wanted some too.
+
+@186.0
+Someone seems to be selling some suspicious medicine.
+
+@187.0
+When the sake tastes good, everything goes right.
+
+@189.0
+Are you Lord Mōri Terumoto? What a reassuring presence.
+
+@190.0
+Is there no doctor here?
+
+@192.0
+Even when I drink, it never shows on my face.
+
+@193.0
+Who knows when this medicine will be available again.
+
+@194.0
+Step right up, everyone! Come and see!
+
+@194.1
+Rare medicine, seen only here in Kōriyama! Take a look!
+
+@194.2
+What's this? What's going on?
+
+@194.3
+Rare medicine, they say.
+
+@194.4
+Medicine? I cannot let that pass.
+
+@194.5
+Why, this medicine gives you strength the moment you drink it, and clears your head besides!
+
+@194.6
+Hmm... Is that true?
+
+@194.7
+Ah, sir, you don't believe me.
+
+@194.8
+Very well.
+
+@194.9
+Then drink some and see for yourself.
+
+@194.10
+This way, please.
+
+@194.11
+Is that medicine safe?
+
+@195.0
+Well, just drink it.
+
+@195.1
+Is that so? ...Here goes.
+
+@196
+The martial artist drank the medicine
+
+@197.1
+How is it?
+
+@197.2
+Nothing's changed...
+
+@197.4
+...Hm?
+
+@197.5
+Huh?
+
+@198.0
+Oh!
+
+@198.1
+Well?
+
+@198.2
+I... I feel... Strength... strength is surging up in me!
+
+@198.3
+Isn't it?
+
+@199
+The martial artist's Attack rose by 3
+
+@200.0
+And my head feels strangely clear... I feel so sharp.
+
+@201
+The martial artist's Intellect rose by 3
+
+@202.0
+My eyes are getting better too... I can see far-off things clearly!
+
+@203
+The martial artist's Accuracy rose by 3
+
+@204.0
+So, what do you think of it?
+
+@204.1
+This... this medicine is amazing.
+
+@205.0
+Now then, everyone. Don't you want some?
+
+@205.1
+Yes, I do.
+
+@205.2
+Me too.
+
+@205.3
+As a physician, I must try it.
+
+@205.4
+What is the price, then?!
+
+@205.5
+This medicine is very rare, so I can sell only one today.
+
+@205.6
+So I will sell it to whoever offers the highest price.
+
+@205.7
+Is that all right? Then, starting at 10 gold...
+
+@205.8
+20 gold!
+
+@205.9
+30 gold!
+
+@205.11
+40 gold!
+
+@205.14
+40 gold! Does anyone else bid?
+
+@206
+50 gold Pass
+
+@207.0
+All right, I bid 50 gold!
+
+@207.1
+Oh, 50 gold! Does anyone else bid?
+
+@208.1
+All right, how about 50 gold!
+
+@208.2
+Oh, 50 gold! Does anyone else bid?
+
+@209.0
+60 gold!
+
+@209.1
+70 gold!
+
+@209.3
+All right, I'll risk it: 100 gold!
+
+@209.4
+Oh, 100 gold! Does anyone else bid?
+
+@210
+110 gold Pass
+
+@211.0
+All right, I bid 110 gold!
+
+@211.1
+Oh, 110 gold! Does anyone else bid?
+
+@212.1
+110 gold!
+
+@212.2
+Oh, 110 gold! Does anyone else bid?
+
+@213.0
+150 gold!
+
+@213.2
+170 gold!
+
+@213.3
+Right, then I'll offer 200 gold!
+
+@213.4
+Oh, 200 gold! Does anyone else bid?
+
+@214
+210 gold 300 gold Pass
+
+@215.0
+All right, I bid 210 gold!
+
+@215.1
+Oh, 210 gold! Does anyone else bid?
+
+@215.2
+Then I say 300 gold.
+
+@215.3
+Oh, 300 gold! Does anyone else bid?
+
+@216.0
+All right, I bid 300 gold!
+
+@216.1
+Oh, 300 gold! Does anyone else bid?
+
+@217.0
+Then I bid 250 gold!
+
+@217.1
+Oh, 250 gold! Does anyone else bid?
+
+@217.2
+Then I say 300 gold.
+
+@217.3
+Oh, 300 gold! Does anyone else bid?
+
+@218.0
+I'll offer 400 gold.
+
+@218.1
+Grrr...
+
+@218.2
+There, 400 gold. Is that the end of it?
+
+@218.3
+401 gold...
+
+@218.4
+450 gold.
+
+@218.6
+451 gold...
+
+@218.7
+500 gold.
+
+@218.9
+501 gold...
+
+@218.10
+600 gold.
+
+@218.12
+...D-damn it!
+
+@218.13
+There, 600 gold. Is that the end of it?
+
+@219
+700 gold 1000 gold Pass
+
+@220.0
+All right, I bid 700 gold!
+
+@220.1
+Oh, 700 gold! Does anyone else bid?
+
+@220.3
+...Nothing to be done. I give up.
+
+@220.4
+If there are no other bids, I will let this gentleman have it for 700 gold.
+
+@222.0
+This is a problem. You can't bid when you have no money...
+
+@222.1
+Then the right goes to this physician.
+
+@222.2
+Ho ho... How kind.
+
+@223.0
+Then I will take 700 gold.
+
+@224
+Paid 700 gold
+
+@225.0
+All right, I bid 1000 gold!
+
+@225.1
+Oh, 1000 gold! Does anyone else bid?
+
+@225.3
+...Nothing to be done. I give up.
+
+@225.4
+If there are no other bids, I will let this gentleman have it for 1000 gold.
+
+@227.0
+This is a problem. You can't bid when you have no money...
+
+@227.1
+Then the medicine goes to this physician.
+
+@227.2
+Ho ho... How kind.
+
+@228.0
+Then I will take 1000 gold.
+
+@230.1
+There, 600 gold. Does no one else bid?
+
+@230.3
+Then I sell it to this physician for 600 gold.
+
+@230.4
+Ho ho... I am delighted.
+
+@231.0
+Now then, let me drink it at once.
+
+@232
+Drank the medicine
+
+@233.1
+How is it?
+
+@234.0
+Oh!
+
+@234.1
+It is working!
+
+@235
+Attack rose by 3
+
+@238.0
+It was worth buying.
+
+@240.0
+It may not be of use, but please take this.
+
+@241.0
+I hear sickness is spreading. Please take good care of yourself.
+
+@242.0
+My dream is to open a shop right here.
+
+@244.0
+Nothing good comes of a wandering mind.
+
+@245.0
+Hmm, I would be of no use if I went.
+
+@246.0
+Are you strong with drink, Lord Terumoto?
+
+@248.0
+What a marvellous medicine. A waste for me to drink it. I am glad I did not buy it.
+
+@249.0
+They say... there is some strange medicine...
+
+@251.0
+It seems he twisted his arm when he fell.
+
+@252.0
+Such things are not for the likes of us commoners.
+
+@253.0
+Is that fellow selling something?
+
+@257.0
+A child badly hurt? What a shame.
+
+@260.0
+My husband passed before me, and now it is just my son and me.
+
+@261.0
+Lord Motonari was a truly splendid man.
+
+@263.0
+Everyone has high hopes for Lord Terumoto.
+
+@264.0
+Lord Terumoto, please take this.
+
+@265.0
+Making weapons is all well and good, but we are short of hoes and sickles.
+
+@267.0
+I have always been a regular at this tavern.
+
+@268.0
+I want my children to work the fields in a world without war.
+
+@269.0
+Hey, hey, that's not a peaceful thing to say.
+
+@270.0
+Please keep it secret that I was drinking here.
+
+@272.0
+This is all we can do, but please take it.
+
+@273.0
+Day after day goes by, never any different...
+
+@275.0
+You are a lord, I am a farmer... Born the same kind of men, and yet so different.
+
+@275.1
+Hey, you! Don't be rude to Lord Terumoto!
+
+@276.0
+Ah, my stomach is bad... Was it last night's fish?
+
+@277.0
+Sipping sake bit by bit is the stylish way.
+
+@278.0
+A child badly hurt?!
+
+@280.0
+I came today to make an offering.
+
+@282.0
+I must stock up... Phew.
+
+@283.0
+They say a few scrapes are good for a child, but a bad injury is a worry.
+
+@286.0
+Lord Terumoto reminds me of my late husband.
+
+@287.0
+Could it be that Lord Terumoto tended to my child?
+
+@287.1
+Well, it was nothing much.
+
+@287.2
+I do not know how to thank you...
+
+@287.3
+No thanks are needed.
+
+@287.4
+Father taught me how to treat injuries long ago. Who would have thought it would prove useful here.
+
+@287.5
+It is hardly worthy of a reward, but please take this home with you.
+
+@288.0
+My child went out to play and has not come back. I am worried.
+
+@289.0
+I am worn out from work every day.
+
+@290.0
+So there are no truly wicked people after all.
+
+@291.0
+If only I had a child too...
+
+@292.0
+They say in my great-grandfather's grandfather's day, warfare was quite different from now.
+
+@294.0
+A sword is like a man: the more you train it, the stronger it grows.
+
+@295.0
+I hear Lord Terumoto tended a child. As one would expect of him.
+
+@296.0
+A child badly hurt! This is terrible.
+
+@297.1
+Come now, this way, please.
+
+@297.2
+Then I shall have a cup.
+
+@298.0
+Terrible! A child has been badly hurt at the market! If there is a doctor here, please go to him!
+
+@299.0
+When it comes to drinking contests, I won't lose to the young ones... Ho ho ho.
+
+@300.0
+Someday someone will put an end to this age of strife. I believe that someone is Lord Terumoto.
+
+@301.0
+Under a general they trust, soldiers do not fear even death.
+
+@302.0
+There was a hidden treasure in the temple pillar after all!
+
+@302.1
+Was there? Congratulations!
+
+@303.0
+Wonderful! Quick, to the temple!
+
+@304.0
+Under a general they trust, soldiers do not fear even death.
+
+@305.0
+"TSCUNMA"???
+
+@306.0
+When my time comes, I'd like to go quietly.
+
+@310.0
+Life is far easier now than in the old days.
+
+@311.0
+If I had drunk it, would I have grown young again...
+
+@312.0
+It seems someone is doing business.
+
+@314.0
+My memory has been failing badly lately.
+
+@315.0
+I'm a merchant's son.
+
+@316.0
+Um, are you Lord Mōri Terumoto?
+
+@316.1
+I am Terumoto...
+
+@316.2
+I was asked to give this to you, Lord Terumoto.
+
+@316.3
+What could it be?
+
+@316.5
+Why, it is money! Who on earth sent this?
+
+@316.6
+An old man I don't know.
+
+@316.7
+He said there is a letter inside, and you will understand when you read it.
+
+@316.8
+A letter?
+
+@317
+Read the letter
+
+@318
+I am someone Lord Mōri Motonari once helped.
+
+@319
+Thanks to that, I achieved a measure of success and came to own some wealth.
+
+@320
+I tried to repay Lord Motonari with money, but in the end he would not accept it.
+
+@321
+He said he had not helped me with such an aim.
+
+@322
+Yet that leaves my feelings unsettled. So I thought I would have Lord Terumoto accept it.
+
+@323
+But I thought that even if I gave it to Lord Terumoto directly, he would not take it, so I decided to hand it over in this way.
+
+@324
+Please accept it just as it is.
+
+@325.0
+Where is that old man?
+
+@325.1
+I don't know.
+
+@325.2
+I see... What a pity. Then the best use for this money is in the war.
+
+@327.0
+Sake... what's so tasty about that stuff?
+
+@330.0
+I'm going to be strong like Lord Terumoto.
+
+@331.0
+Thanks for before.
+
+@331.1
+Oh, you seem much better.
+
+@331.2
+Yep. I'm a boy, after all.
+
+@332.0
+Ow, my arm hurts!
+
+@332.1
+All right, let me see... It may hurt a little, but you are a boy, so bear it.
+
+@332.2
+Ow... I wish I hadn't been born a boy...
+
+@332.3
+What are you saying?
+
+@332.4
+There, you are all right now! I have given you first aid.
+
+@332.5
+I will take the child to a doctor from here.
+
+@332.6
+I see. I leave him to you.
+
+@334.0
+I'm going to be a strong samurai and protect my mum.
+
+@335.0
+What's "spirited away"?
+
+@338.0
+Lord Terumoto, come again!
+
+@339.0
+Everyone says I'm cute.
+
+@341.0
+I wonder if there's anything fun to do...
+
+@352.6
+I will give you something rare, and in return you will give me... ...
+
+@352.9
+Let me think... Would you share your strength with me? If so, I will give you something rare.
+
+@363.0
+Listening to the people's voices is necessary to become a fine general.
+
+@365.0
+In this age, anything could happen.
+
+@368.0
+Do not underestimate the power of medicine.
+
+@369.0
+Next time, I would like to hear in detail how the medicine felt.
+
+@370.0
+I think I will study this medicine's ingredients carefully.
+
+@371.0
+Selling medicine, you say?
+
+@372.0
+If you are ever hurt, I will heal you with my medicine.
+
+@374.0
+The art of war is not about how to kill the enemy, but about not letting your own side die.
+
+@377.0
+When you are stuck, it helps to hear many people's opinions.
+
+@378.0
+I am prepared to lay down my life for the Mōri clan.
+
+@379.0
+I wish I had studied medicine too.
+
+@381.0
+Many people grumble when they drink... I do it all the time.
+
+@382.0
+I intend to serve with all my might, so that the people may live in peace.
+
+@384.0
+I too want to leave my name to posterity.
+
+@385.0
+A man at work is a beautiful sight.
+
+@386.0
+In the next battle I shall show you my merit.
+
+@387.0
+A good weapon makes up for a little clumsiness.
+
+@388.0
+This medicine really works.
+
+@389.0
+That looks interesting.
+
+@390.0
+I train in the art of ninjutsu here.
+
+@391.0
+Damn, I wanted to try it too.
+
+@392.0
+What's all this? What's the crowd for?
+
+@393.0
+The maid from Lord Motonari's day has left, and I have newly taken charge of this room.
+
+@394.0
+In place of the maid from Lord Motonari's day, I have newly taken charge of this room.
+
+@395.0
+I am a newly hired maid. Pleased to meet you.
+
+@396.0
+Lord Hiroie excels in both letters and arms. That too is thanks to his wife.
+
+@397.0
+The basic tactic is to defeat the enemy piecemeal. This book says so too.
+

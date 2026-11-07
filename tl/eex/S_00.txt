@@ -1,0 +1,399 @@
+@0.0
+First we take Arita Castle! Then Yoshida-Kōriyama Castle is next.
+
+@1.0
+Our forces cannot hold this place... We have no choice but to wait for reinforcements...
+
+@2.0
+We march to relieve Arita Castle now!
+
+@3
+Battle of Arita Castle\nVictory\n  1. Takeda Motoshige retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 40 turns pass\n  4. Arita lord Oda Nobutada retreats
+
+@4
+Near Arita Castle (Mōri-Kikkawa border)
+
+@5
+Takeda Motoshige invaded the lands of Kikkawa Mototsune and closed in on Arita Castle, held by Oda Nobutada.\nAfter laying siege to the castle, Motoshige sent Kumagai Motonao to the Mōri border.
+
+@6.0
+Will Lord Kikkawa's reinforcements never come...?\n\nThe castle town is full of Takeda troops, and our provisions are nearly gone...\n\nIs this the end...?
+
+@6.1
+Cut off and alone, Arita Castle has as good as fallen.\n\nMotonao!
+
+@6.2
+Sir!
+
+@6.3
+The Mōri lost their lord Okimoto and are in no state to march out.\n\nInvade Mōri land and raid the villages!
+
+@6.4
+Yes, sir!\n\nWe invade Mōri land now! Vanguard cavalry, raid the Mōri villages and set them ablaze!
+
+@7.0
+Mōri Motonari has arrived!\n\nWe march to relieve Arita Castle now!
+
+@8
+Battle of Arita Castle\n\nVictory\n  1. Takeda Motoshige retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 40 turns pass\n  4. Arita Castle's lord Oda Nobutada retreats
+
+@9.0
+Lord Motonari, please wait.
+
+@10.0
+The forces of Kumagai Motonao, a senior Takeda retainer, are about to invade our land. The enemy means to raid the villages and burn them.\n\nMeet Kumagai's army first and save our people.
+
+@10.1
+Yes, understood!
+
+@10.2
+Kuchiba, Kunishi, Kodama, Iida and the others are waiting at the main camp.\n\nSelect the main camp and send out your units.
+
+@11.0
+Kuchiba, Kunishi, Kodama and Iida are waiting in the main camp.\n\nSelect the main camp to send units out.
+
+@12.0
+Good, set it on fire!
+
+@12.1
+Aaah! My house, my house is burning!
+
+@12.2
+Help us, please!
+
+@13
+A village is being set on fire
+
+@14.0
+Good, set it on fire!
+
+@14.1
+Aaah! Stop it, please!
+
+@14.2
+Mommy! Help!
+
+@15
+A village is being set on fire
+
+@16.0
+Good, set it on fire!
+
+@16.1
+Fire! Run!
+
+@16.2
+H-how dare you burn our village! I'll remember this!
+
+@17
+A village is being set on fire
+
+@18.0
+Good, set it on fire!
+
+@18.1
+Help us!
+
+@18.2
+Oh... The village is burning...
+
+@19
+A village is being set on fire
+
+@20.0
+Good, set it on fire!
+
+@20.1
+R-run!
+
+@20.2
+Don't leave me behind, please don't leave me!
+
+@20.3
+The fields we worked so hard on... *sob*...
+
+@21
+A village is being set on fire
+
+@22.0
+Good, set it on fire!
+
+@22.1
+Our h-homes...
+
+@22.2
+Fire! Run, quick!
+
+@22.3
+H-help!
+
+@23
+A village is being set on fire
+
+@24.0
+Good, set it on fire!
+
+@24.1
+Aaah!
+
+@24.2
+Father! Mother!
+
+@24.3
+Help us, please!
+
+@25
+A village is being set on fire
+
+@26.0
+A shrine! We pray for victory!
+
+@28
+Mine
+
+@29.0
+This looks like a mine.
+
+@30.0
+This is the "Kobuse Manual" handed down in our town. Please use it.
+
+@31.0
+And please take this too.
+
+@32.0
+Hello, is anyone there!?
+
+@33
+This village has already been burned, and everyone seems to be gone.
+
+@34.0
+Our precious fields were not ruined, thank goodness.\n\nPlease, take this.
+
+@35.0
+Hello, is anyone there!?
+
+@36
+This village has already been burned, and everyone seems to be gone.
+
+@37.0
+I am the village elder. Thank you for saving us. This is the village's savings, please use it.
+
+@38
+Gained 200 gold
+
+@39
+Mine
+
+@40.0
+This looks like a mine.
+
+@41
+Mine
+
+@42.0
+This looks like a mine.
+
+@43.0
+Hello, is anyone there!?
+
+@44
+This village has already been burned, and everyone seems to be gone.
+
+@45.0
+This is a treasure handed down in our village. Please use it.
+
+@46
+Mine
+
+@47.0
+This looks like a mine.
+
+@48.0
+Hello, is anyone there!?
+
+@49
+This village has already been burned, and everyone seems to be gone.
+
+@50.0
+Thank you for saving us.\n\nThis is the village's savings, please use it.
+
+@51
+Gained 200 gold
+
+@52.0
+And please take this too.
+
+@53.0
+Hello, is anyone there!?
+
+@54
+This village has already been burned, and everyone seems to be gone.
+
+@55.0
+Oh, someone is here!
+
+@55.1
+Phew, that was close.\n\nThis village almost became prey for the Takeda army. Thank you for saving us.\n\nI am a physician, Naraoka Genza. I may be of use to you someday. I will serve you as a craftsman.
+
+@56.0
+Hello, is anyone there!?
+
+@57
+This village has already been burned, and everyone seems to be gone.
+
+@58.0
+Our houses were not burned and our fields were not ruined, thank goodness. This is our thanks, please use it.
+
+@59.0
+Hello, is anyone there!?
+
+@60
+This village has already been burned, and everyone seems to be gone.
+
+@61.0
+Thank you for saving us.\n\nThis is a book handed down in our village. Please use it.
+
+@62.0
+If you don't mind, please take this too.
+
+@63
+Mine
+
+@64.0
+This looks like a mine.
+
+@65
+Found Materials in the castle town
+
+@66.0
+The Mōri army seems to be closing in.
+
+@66.1
+Is that Mōri whelp in command?
+
+@66.2
+I will take Arita Castle. Lord Kagawa, you meet the Mōri forces.
+
+@66.3
+Understood.
+
+@66.4
+Oh! Those are Mōri troops!\n\nEveryone, reinforcements have come!
+
+@67.0
+We begin our attack on Kōriyama Castle now!
+
+@67.1
+What! The Shishido are on the move!?\n\nDamn! I must defend Kōriyama Castle!
+
+@68
+Shishido Motoyoshi's forces from Goryū Castle appeared
+
+@69.0
+It seems the Mōri have gone to relieve Arita Castle.
+
+@69.1
+My lord, shall we take Kōriyama Castle?
+
+@69.2
+No, wait. Let us watch Mōri Motonari's command for a while.
+
+@69.3
+Yes, sir!
+
+@70
+Reinforcements from Aiō Mototsuna arrived
+
+@71.0
+Brother, I will stand by you!
+
+@71.1
+Oh, Mototsuna! Thank you for coming!
+
+@71.2
+If Mototsuna is marching out, we have no choice...
+
+@71.3
+But we cannot follow the command of Motonari, who has never seen battle.
+
+@71.4
+We will follow Mototsuna's command.
+
+@72.0
+Hm!? The Mōri have left their castle.\n\nThey do not know their place!\n\nWe meet the Mōri forces! Sortie, all of you!
+
+@73.0
+Lord Oda, I'm glad we made it in time!
+
+@73.1
+Lord Motonari! I am grateful...
+
+@74.0
+That Mōri whelp! He should have stayed in his castle and kept out of this.
+
+@74.1
+Kumagai Motonao! I will not forgive this brutality on our land! Prepare yourself!
+
+@75.0
+Lord Mōri! You would do well to withdraw quietly!
+
+@75.1
+I advise you to leave our land at once, Lord Kagawa.
+
+@75.2
+You speak boldly for a boy.
+
+@75.3
+Here I come!
+
+@76.0
+Takeda Motoshige, you are cornered!
+
+@76.1
+This is nothing!
+
+@76.2
+Motoshige, prepare yourself!
+
+@76.3
+Come, Motonari!
+
+@77.0
+Ugh... A blunder...
+
+@77.1
+What! Motonao has been killed!?\n\nImpossible!
+
+@77.2
+I have slain Kumagai Motonao! On to Arita Castle!
+
+@78.0
+How bitter... Lord Motonari...
+
+@78.1
+I have slain Arita Castle's lord, Oda Nobutada!\n\nArita Castle has fallen!
+
+@78.2
+Damn! We were too late!
+
+@79
+Oda Nobutada was slain and Arita Castle fell
+
+@80.0
+We have taken the Mōri's Yoshida-Kōriyama Castle!
+
+@80.1
+Damn!
+
+@81
+Our main camp was taken
+
+@82.0
+Impossible... To be defeated by a Mōri brat like this...
+
+@82.1
+I have slain the enemy commander, Takeda Motoshige!\n\nVictory is ours!
+
+@83
+Slew enemy commander Takeda Motoshige
+

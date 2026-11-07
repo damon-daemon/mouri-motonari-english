@@ -1,0 +1,768 @@
+@0
+Episode 25 "The Crimson Lake Biwa"
+
+@1
+Episode 25 "The Crimson Lake Biwa"
+
+@2
+Himeji Castle
+
+@3
+Himeji Castle - Council Hall
+
+@4.0
+We drove back Hashiba's army... Heaven is on our side.
+
+@4.1
+Let us ride this momentum and strike Akechi.
+
+@4.2
+We must not let this chance slip.
+
+@4.3
+As for Akechi, he is in Kyōto now.
+
+@4.4
+Hosokawa Fujitaka is in Tango, and Tsutsui Junkei in Yamato-Kōriyama. Both are Akechi's allies.
+
+@4.5
+Who else of the Oda side remains in the Home Provinces?
+
+@4.6
+Oda Nobutaka and Niwa Nagahide, in Settsu.
+
+@4.7
+Good. First we strike Mitsuhide in Kyōto!
+
+@4.8
+To march on Kyōto we need a just cause, my lord.
+
+@4.9
+To lead the realm we need a rightful reason.
+
+@4.10
+Force alone would lead us down the same road as Nobunaga.
+
+@4.11
+Why not escort Lord Yoshiaki to the capital?
+
+@4.12
+Summon him from Kōriyama and have him march with our army, and our cause will stand.
+
+@4.13
+Very well. We summon Lord Yoshiaki from Kōriyama and go up to Kyōto. Then we strike Akechi Mitsuhide!
+
+@5
+Akechi Army Main Camp
+
+@6.0
+Still no sign of Nobunaga's body?!
+
+@6.1
+He cannot have escaped, surely.
+
+@6.2
+Impossible. We have him surrounded.
+
+@7.0
+Report! At Himeji the Mōri defeated Hashiba's army.\n\nLord Hashiba Hideyoshi has fallen in battle.
+
+@7.1
+Is that true?!
+
+@7.2
+Yes, my lord. Moreover, they escort Shōgun Yoshiaki and are preparing to march on Kyōto.
+
+@7.3
+Impudent upstarts.
+
+@7.4
+Send an envoy to the Mōri.\n\nSay that we will recognise Lord Yoshiaki's entry into Kyōto, so they must hand him over to our army.
+
+@7.6
+Will the Mōri comply?
+
+@7.7
+Hardly. It seems we will have to cross swords with the Mōri after all.
+
+@8
+Himeji Castle
+
+@9
+Himeji Castle - Council Hall
+
+@10.0
+Then you refuse our demand.
+
+@10.1
+I do. Go back and tell Lord Akechi this.\n\nWe shall take Lord Yoshiaki to Kyōto ourselves.
+
+@10.2
+Just so. Tell Mitsuhide plainly: submit to me.
+
+@10.3
+You will regret this.
+
+@25
+Himeji Castle - Council Hall
+
+@26
+Himeji Castle - Senior Retainers' Hall
+
+@27
+Himeji Castle - Living Quarters
+
+@47
+Himeji - Storehouse
+
+@48
+Himeji - Workshop
+
+@49
+Himeji - Tavern
+
+@50.0
+Have you heard of the bandits who hand out gold to the villages around Kyōto, ruined by the wars?
+
+@50.1
+Of course. My cousin's family was saved by them.
+
+@50.2
+Righteous thieves indeed. If only they would come to us too.
+
+@51
+Himeji - Market
+
+@52
+Himeji - Training Ground
+
+@53
+Himeji - House
+
+@54.0
+Not only the Mōri clan, but the fate of the realm now rests on your shoulders.
+
+@55.0
+The man who killed Nobunaga. I am curious what sort of fellow he is.
+
+@56.0
+Tsutsui Junkei and Hosokawa Fujitaka will likely come to his aid.
+
+@57.0
+I have the Seki tracking the movements of the Oda armies away on campaign.
+
+@58.0
+The battle will likely be fought around Yamazaki.
+
+@59.0
+A battle for the realm! I feel the strength surging in me!
+
+@60.0
+Nobunaga's fierce nature raised him to the rank of ruler of the realm, and then took his own life...
+
+@60.1
+How ironic.
+
+@61.0
+...Akechi Mitsuhide. ...He did well to kill Nobunaga.
+
+@62.0
+The Oda generals on campaign must be rushing back in desperation now.
+
+@63.0
+Still, it is remarkable that we beat Hashiba's army.
+
+@64.0
+To think we would march on Kyōto escorting Lord Yoshiaki.
+
+@65.0
+We have come this far at last. From here we go as far as we can.
+
+@66.0
+Hiroie should be about ready for his first battle.\n\nNow I might send him to war with a little more peace of mind.
+
+@67.0
+Lord Terumoto, please give me a chance at my first battle.\n\nI will win glory without fail.
+
+@68.0
+Shall we march on Kyōto?
+
+@71
+Kyōto - Akechi's Seat, Nijō Castle
+
+@72
+Nijō Castle - Living Quarters
+
+@73.0
+The Mōri have begun their advance.
+
+@73.1
+We march out too. We must stop the Mōri from entering Kyōto at all costs.
+
+@73.2
+Send envoys to Hosokawa Fujitaka in Tango and Tsutsui Junkei in Yamato-Kōriyama, asking for reinforcements!
+
+@74.0
+The new book is very difficult.
+
+@75.0
+There is Lake Biwa, you see. Lake Biwa. Hehehehe.
+
+@75.1
+The navy's time has come.
+
+@76.0
+We fight escorting that shōgun? ...It cannot be helped, I suppose.
+
+@77.0
+The first thing is to reach Kyōto.
+
+@78.0
+Ho ho ho. Do your best for me, won't you?
+
+@79.0
+You look like a craftsman. What can you make?
+
+@96.0
+When I drink, I feel truly alive.
+
+@103.0
+A man becomes fully fledged only through training and real battle.
+
+@104.0
+Thanks to you, Lord Terumoto, we can work in peace.
+
+@105.0
+Every craftsman takes pride in his work.
+
+@106.0
+I have not yet seen my first battle.
+
+@107.0
+Lord Terumoto, a skilled martial artist has come to the training ground.
+
+@107.1
+Why not cross swords with him?
+
+@107.2
+Is that so? Then I shall go to the training ground.
+
+@108.0
+The more I train, the more I see how green I am.
+
+@109.0
+We must rebuild this storehouse soon.
+
+@112.0
+A sound mind dwells in a sound body, they say, and it is quite true.
+
+@113.0
+I will not allow suspicious persons in.
+
+@114.0
+If I must work, let it be where the sake is good. No, I jest.
+
+@117.0
+So you are Lord Terumoto. What a reassuring figure.
+
+@119.0
+Even when I drink, it does not show on my face.
+
+@121.0
+In thanks for your patronage, I am handing out small gifts. Please take one.
+
+@121.2
+Now, choose one of these three bags.
+
+@122
+Left bag\nMiddle bag\nRight bag
+
+@123.0
+Here, please have this.
+
+@124.0
+The bond between parent and child is stronger than anything, is it not?
+
+@125.0
+The old woman in the market has done nothing but sigh lately. ...I wonder if something is wrong.
+
+@126.0
+Where should those whose homes were burned in the war go?
+
+@127.0
+They say it is best to put something in your stomach when you drink.
+
+@129.0
+...Light-fingered brat.
+
+@129.1
+Ow, that hurts! Let go!
+
+@129.3
+This boy stole from me. Honestly, I would like to see his parents.
+
+@129.4
+It wasn't me!
+
+@129.5
+Don't lie! I looked away for a moment, and two blocks of dried bonito were gone.
+
+@129.6
+You were the only one standing nearby! You took them. It must be you.
+
+@129.7
+No, it wasn't!
+
+@129.8
+The boy says it was not him.
+
+@129.9
+Of course he lies. Ill-bred children like these lie without a care.
+
+@130.0
+What is all this noise about?
+
+@130.1
+Oh, it is nothing, sir.
+
+@130.2
+Then all is well...
+
+@130.3
+If people squabble over trifles, the cats will laugh at us.
+
+@130.4
+A mother cat and her kitten were happily eating bonito at the corner over there.
+
+@130.5
+Such a peaceful sight. Well, good day to you.
+
+@131.1
+H-ha ha... A cat, was it...
+
+@131.3
+Sorry I doubted you, lad.
+
+@131.5
+That is the wrong way to apologise.
+
+@131.6
+Sorry.
+
+@131.7
+Apologise with more sincerity.
+
+@132.0
+I am very sorry.
+
+@132.1
+Will that do?
+
+@132.2
+...It's all right...
+
+@133.0
+This is what comes of accusing people without proof.
+
+@133.1
+Yes, my lord. I shall be careful from now on.
+
+@134.0
+Are you a strong drinker, Lord Terumoto?
+
+@136.0
+I wish to find a sake worth savouring.
+
+@138.0
+Costly medicine is nothing we commoners can hope for.
+
+@143.0
+I will never raise my son to be a drunkard.
+
+@144.0
+I lost my husband, and now I live alone with my son.
+
+@145.0
+Lord Motonari was a truly splendid man.
+
+@146.0
+I am studying sake brewing now.
+
+@147.0
+Why do people start quarrels, I wonder?
+
+@149.0
+The righteous thieves of Kyōto? I hear there are two of them.
+
+@151.0
+We are rooting for you, Lord Terumoto.
+
+@152.0
+It is a token of our feelings. Please take it.
+
+@154.0
+What luck to meet you, Lord Terumoto.
+
+@155.0
+Ah... I feel ill... Let's go home...
+
+@156.0
+I want my children to have a good life.
+
+@157.0
+I want to live without regrets.
+
+@158.0
+Ugh, my stomach hurts... Was it last night's fish?
+
+@160.0
+Lord Terumoto, please take this sake. It will help in battle.
+
+@162.0
+Please keep governing us well.
+
+@164.0
+I hear one of the righteous thieves of Kyōto is a woman. Truly remarkable.
+
+@165.0
+I have a feeling this year will bring a good harvest.
+
+@170.0
+I am worn out from work every day.
+
+@171.0
+Are you really Lord Terumoto?
+
+@172.0
+From now on I will live with my mother always.
+
+@173.0
+Thank you so much for finding my mother.
+
+@173.1
+It is only a small token, but please accept it.
+
+@174.0
+Oh, Mother... I wanted to see you. I wanted to see you so much.
+
+@175.0
+I only wish to know whether my mother is alive.
+
+@176.0
+Will you hear my troubles?
+
+@178.2
+I lost my father at three, and my mother raised me alone.
+
+@178.3
+But when I was six...
+
+@178.4
+my mother said "I'll be right back" and left the house.
+
+@178.5
+My life after that was miserable.
+
+@178.6
+With no relatives, everyone around me was cold to me.\n\nDay after day was hard and sad.
+
+@178.7
+Struggling to live, I worked as a live-in servant, and somehow survived.
+
+@178.8
+I hated my mother, who left a small child all alone...
+
+@178.9
+But thirty years and more have passed.\n\nNow I have a kind husband and two children, and I live happily.
+
+@178.10
+Having become a mother myself, I have come to understand my mother's hardships and feelings.
+
+@178.11
+No parent does not love their child. My mother must have had her reasons.
+
+@178.12
+Now my resentment is gone, and I long to see my mother once more.
+
+@178.13
+But I have no idea where she is now.
+
+@178.14
+I heard you travel to many lands, Lord Terumoto. I thought perhaps you might know something...
+
+@178.15
+Hmm, I am sorry, but I know nothing.
+
+@178.17
+Do you have any clue about your mother?
+
+@178.19
+No wonder... It was over thirty years ago.
+
+@178.23
+My mother, I recall, has a large birthmark on her right arm.
+
+@178.24
+A large birthmark on her right arm...
+
+@178.25
+Yes. That is all I remember.
+
+@178.26
+That is difficult...
+
+@182.0
+In the days of my great-grandfather's grandfather, they say, battles were fought very differently from now.
+
+@187.0
+Someday someone will put an end to this age of war. I believe that person is you, Lord Terumoto.
+
+@188.0
+Lord Terumoto, you have the makings of a great general.
+
+@192.0
+From now on I will live with my daughter and her husband.
+
+@193.0
+Iku, I am so sorry. It was my fault.
+
+@193.1
+It is all right. I am just so glad you are alive, Mother.
+
+@194.0
+Would you hear my troubles?
+
+@196.2
+When I was young I lost my husband, and I raised a daughter alone.
+
+@196.3
+But worn out by life, I did the unthinkable: I left my six-year-old daughter alone and walked out.
+
+@196.4
+I regretted it and went back after a while, but my daughter was already gone without a trace.
+
+@196.5
+After that I searched for her endlessly, but never found her.
+
+@196.6
+I am a failure as a mother. Thirty years and more have passed... Where is she, and how is she...
+
+@197.0
+Do you know anything? Anything at all?!\n\nYou travel through so many lands, Lord Terumoto. I thought you might know...
+
+@197.1
+Could it be...
+
+@197.2
+Show me your right arm.
+
+@197.3
+My right arm?
+
+@198
+The old woman showed her right arm
+
+@199.0
+I knew it! You have a birthmark on your right arm!
+
+@199.1
+Yes, I have had this mark since I was young...
+
+@199.2
+Your daughter is now in a house in Himeji.
+
+@199.3
+R-really?!
+
+@199.4
+Come with me.
+
+@199.7
+No, I think I will stay away.
+
+@199.9
+I am a mother who abandoned her daughter. How can I show myself to her?
+
+@199.10
+She must hate me. I am a mother who must not meet her child.
+
+@199.11
+Your daughter does not hate you.
+
+@199.13
+She says she wants to see you now.
+
+@199.14
+Oh... Iku...
+
+@199.15
+Are you ready to go?
+
+@200
+Himeji - House
+
+@201.0
+We have found your mother.
+
+@201.1
+My mother?!
+
+@202.1
+What is it? Come in.
+
+@202.2
+Mother, is that you?
+
+@203.0
+Iku, is that you...
+
+@204.0
+I am sorry, so sorry.
+
+@204.1
+It is all right, it is all right now. ...Mother!
+
+@205.0
+...Haah...
+
+@206.0
+...Haah...
+
+@210.0
+Ow, that hurts! Let go!
+
+@210.1
+Quiet, you thief!
+
+@210.2
+I don't know anything!
+
+@212.0
+So Grandma will live with us from now on.
+
+@213.0
+Is this my grandma?
+
+@214.0
+I have a grandma?
+
+@215.0
+Mum has had a worried look lately.
+
+@217.0
+I'm going to be strong like you, Lord Terumoto.
+
+@221.0
+I'm so happy to have a grandma.
+
+@222.0
+Is she really my grandma?
+
+@223.0
+Grandma?
+
+@224.0
+Mum seems lonely lately.
+
+@225.0
+Lord Terumoto, come again!
+
+@226.0
+I wonder if there's anything fun to do...
+
+@232.0
+Knowing your enemy and knowing yourself is the secret of constant victory.
+
+@235.0
+The air around here is so delicious.
+
+@237.0
+The art of war is not for killing enemies.\n\nIt is for keeping your own men alive.
+
+@238.0
+Everyone here adores you, Lord Terumoto.
+
+@239.0
+I too would like to command thousands of troops.
+
+@240.0
+Please use this book.
+
+@243.0
+For the Mōri clan, I am ready to give my life.
+
+@245.0
+Many men grumble when they drink... Why, I do it all the time.
+
+@248.0
+Things are scattered everywhere here, so watch your step.
+
+@249.0
+The sake here is the best in the realm, like my martial skill.
+
+@250.0
+I will go and hone my skills. When I return, I ask for a bout with you again.
+
+@251.0
+Pleased to meet you.
+
+@251.1
+I beg a bout with you, by all means.
+
+@252.0
+Very well. I accept.
+
+@253.0
+Hyah! Yaa!
+
+@253.1
+Hah! Tooo!
+
+@254.1
+Indeed, he is quite skilled.
+
+@256.1
+It is my great joy to have crossed swords with you, Lord Terumoto.
+
+@259.0
+Please watch the result of my training.
+
+@259.1
+Oh? The result of your training...
+
+@259.2
+Please stand back a little.
+
+@260.0
+Clone Technique!
+
+@262.0
+What?!
+
+@263.0
+Magnificent! I would like you to use that power in the Mōri army.
+
+@263.1
+No... I am sorry.\n\n\nI wish to devote myself to more training.
+
+@263.2
+Then I take my leave.
+
+@264.0
+What a pity...
+
+@265.0
+They say Kyōto is near. I would like to go there once.
+
+@266.0
+I hear Oda Nobunaga was killed. What a relief.
+
+@267.0
+Lord Terumoto, will you seize the realm?
+
+@268.0
+When Lord Hiroie goes to war, her ladyship will be worried every day again.
+
+@269.0
+The new book is difficult.
+

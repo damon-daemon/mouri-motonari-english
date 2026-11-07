@@ -1,0 +1,369 @@
+@0.0
+Now is our chance! We attack the Iwami Silver Mine!
+
+@1
+Battle of Iwami Silver Mine\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@2.0
+Iwami's silver is the source of the Amago house's wealth.\n\nIf we take it, the Amago's strength will be halved.
+
+@2.1
+And ours will be doubled... is that it?
+
+@2.2
+Yes, exactly.
+
+@2.3
+...Lord Motonari. Allow me to report on the present situation.
+
+@2.4
+Oh, Seki.
+
+@2.5
+Onmei Castle has already sent a request for reinforcements to the Amago. Amago Yoshihisa has dispatched Honjō Tsunemitsu to defend the Iwami Silver Mine. Honjō has already arrived in Iwami.
+
+@2.6
+Damn the Mōri! To aim for the silver mine as soon as Lord Haruhisa dies...
+
+@2.7
+Listen! We cannot hand this silver mine over to the Mōri! Carry out all the silver here!
+
+@2.9
+Also, Yoshihisa has ordered a sortie from Nanao Castle, west of Iwami. Beware of an attack from the west. Now, excuse me...
+
+@2.10
+Right, all forces, sortie! Bring Iwami's silver into our hands!
+
+@3
+Battle of Iwami Silver Mine\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@4
+Supply train beaten: got silver bars
+
+@5
+Supply train beaten: got silver bars
+
+@6
+Supply train beaten: got silver bars
+
+@7
+Supply train beaten: got silver bars
+
+@8
+Supply train beaten: got silver bars
+
+@9
+Supply train beaten: got silver bars
+
+@10
+Supply train beaten: got silver bars
+
+@11
+Supply train beaten: got silver bars
+
+@12
+Supply train beaten: got silver bars
+
+@13
+Supply train beaten: got silver bars
+
+@14.0
+N-no! Aaargh!
+
+@15.0
+Is Motonari to take Iwami from us? Damn it, how bitter!
+
+@26.0
+There is a shrine! Grant us victory!
+
+@38
+Mine Entrance
+
+@39
+Enemy supply train carried out silver
+
+@40
+Mine Entrance
+
+@41
+Enemy supply train carried out silver
+
+@42
+Mine Entrance
+
+@43
+Enemy supply train carried out silver
+
+@44
+Mine Entrance
+
+@45
+Enemy supply train carried out silver
+
+@46
+Mine Entrance
+
+@47
+Enemy supply train carried out silver
+
+@48
+Mine Entrance
+
+@49
+Enemy supply train carried out silver
+
+@50
+Mine Entrance
+
+@51
+Enemy supply train carried out silver
+
+@52
+Mine Entrance
+
+@53
+Enemy supply train carried out silver
+
+@54
+Mine Entrance
+
+@55
+Enemy supply train carried out silver
+
+@56
+Mine Entrance
+
+@57
+Enemy supply train carried out silver
+
+@58
+Mine Entrance
+
+@59
+Enemy unit wrecked the mine entrance
+
+@60
+Mine Entrance
+
+@61
+Enemy unit wrecked the mine entrance
+
+@62
+Mine Entrance
+
+@63
+Enemy unit wrecked the mine entrance
+
+@64
+Mine Entrance
+
+@65
+Enemy unit wrecked the mine entrance
+
+@66
+Mine Entrance
+
+@67
+Enemy unit wrecked the mine entrance
+
+@68
+Mine Entrance
+
+@69
+Enemy unit wrecked the mine entrance
+
+@70
+Mine Entrance
+
+@71
+Enemy unit wrecked the mine entrance
+
+@72
+Mine Entrance
+
+@73
+Enemy unit wrecked the mine entrance
+
+@74
+Mine Entrance
+
+@75
+Enemy unit wrecked the mine entrance
+
+@76
+Mine Entrance
+
+@77
+Enemy unit wrecked the mine entrance
+
+@78
+This was already destroyed
+
+@79
+This was already mined out
+
+@80
+Mine Entrance
+
+@81
+This was already destroyed
+
+@82
+This was already mined out
+
+@83
+Mine Entrance
+
+@84
+This was already destroyed
+
+@85
+This was already mined out
+
+@86
+Mine Entrance
+
+@87
+This was already destroyed
+
+@88
+This was already mined out
+
+@89
+Mine Entrance
+
+@90
+This was already destroyed
+
+@91
+This was already mined out
+
+@92
+Mine Entrance
+
+@93
+This was already destroyed
+
+@94
+This was already mined out
+
+@95
+Mine Entrance
+
+@96
+This was already destroyed
+
+@97
+This was already mined out
+
+@98
+Mine Entrance
+
+@99
+This was already destroyed
+
+@100
+This was already mined out
+
+@101
+Mine Entrance
+
+@102
+This was already destroyed
+
+@103
+This was already mined out
+
+@104
+Mine Entrance
+
+@105
+This was already destroyed
+
+@106
+This was already mined out
+
+@107
+Mine Entrance
+
+@108
+Enemy supply train headed for Izumo
+
+@109
+Enemy supply train headed for Izumo
+
+@110
+Enemy supply train headed for Izumo
+
+@111
+Enemy supply train headed for Izumo
+
+@112
+Enemy supply train headed for Izumo
+
+@113
+Enemy supply train headed for Izumo
+
+@114
+Enemy supply train headed for Izumo
+
+@115
+Enemy supply train headed for Izumo
+
+@116
+Enemy supply train headed for Izumo
+
+@117
+Enemy supply train headed for Izumo
+
+@118.0
+Damn the Mōri, coming this far. We cannot hand the silver mine to them. Destroy the mine!\n\n\nBlock the entrance so the Mōri cannot mine it!
+
+@119.0
+Right, carry the silver out of the mine. Transport unit, head for the mine at once!
+
+@120.0
+Invading while the late Lord Haruhisa's death is fresh! Motonari, I will not forgive you!
+
+@121.0
+Damn Motonari! I will not give up Onmei Castle or Iwami's silver!
+
+@122.0
+I am Kikkawa Motoharu! I have words for Masuda Fujikane, lord of Nanao Castle!
+
+@122.1
+Motoharu... Mōri Motonari's second son? What could he want...!?
+
+@122.2
+I will be blunt. If you are willing to submit to the Mōri, withdraw your troops at once! Your rank and your safety, I guarantee on my honour as a warrior. Now, yes or no?
+
+@122.3
+(What spirit. Motonari's sons are no ordinary men... Very well!) Understood. I, Fujikane, will submit to the Mōri house.
+
+@123
+Masuda Fujikane joined the party
+
+@124
+Reinforcements from Nanao lord Masuda arrived
+
+@125.0
+I answered the call for reinforcements, but the Amago have lost their old momentum... If I could, I would raise the Mōri banner, but if I submit without a reason I may be suspected. What a bother...
+
+@125.1
+That banner is Masuda Fujikane's. So Seki's report was right.
+
+@126.0
+Father.\n\n\nThe report says Masuda Fujikane is torn between the Amago and the Mōri. Let me speak with Fujikane.
+
+@129.0
+The victory is ours!
+
+@129.1
+With this, Iwami is ours!
+
+@129.2
+However, the Amago still hold great power. If we let our guard down, we will suffer a painful counterattack.
+
+@129.3
+Yes, we must watch the Amago's movements closely.
+

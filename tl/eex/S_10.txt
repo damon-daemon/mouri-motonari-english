@@ -1,0 +1,171 @@
+@0.0
+First we take the Ōuchi-side castles of Aki! Sally forth!
+
+@1.0
+Curse Motonari! He defies the Ōuchi! There is no need for Lord Sue to come, we will crush him with our own forces!
+
+@2
+Westward Advance into Aki\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@3.0
+We now take the Ōuchi-side castles of Aki and aim to occupy Sakurao Castle!
+
+@3.1
+So Motonari has finally bared his fangs. Until the reinforcements arrive, I must hold this Sakurao Castle...
+
+@3.2
+From Koi Castle's position, I will be the first to meet the Mōri army... Lord Motonari is a great general. I cannot think I could win. Now then, what to do...
+
+@3.3
+That Motonari seems to plan to go from Koi Castle to Sakurao Castle. I will watch for a while.
+
+@3.4
+All forces, sortie!
+
+@4.0
+I hear Koi Naoyuki is taken with Lord Motonari's valour and character.\n\nPerhaps if I persuade him...
+
+@5
+Westward Advance into Aki\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@6
+The Shingūtō led by Amago Kunihisa appeared
+
+@7.0
+Damn! The Amago have struck our rear!\n\nThis will be the blunder of Motonari's life.
+
+@7.1
+Motonari! Ignoring us and marching west! And they call you a wise general!
+
+@7.2
+Kōriyama Castle must be thinly held. Take it and leave Motonari and his men no castle to return to!
+
+@7.3
+We must quickly strengthen Kōriyama's defence...
+
+@8
+Miyagawa's rear units arrived
+
+@9
+Miyagawa's rear units arrived
+
+@10
+Miyagawa's rear units arrived
+
+@11
+Miyagawa's rear units arrived
+
+@12.0
+Rear units!
+
+@13
+Sue's retainer Miyagawa Fusanaga's forces arrived
+
+@14.0
+Motonari! You have defied the Ōuchi house yet again!
+
+@14.1
+I have not defied the Ōuchi. I come to punish the rebel Sue Harukata. Do you side with the rebel too?
+
+@14.2
+Lord Sue acts for the good of the Ōuchi house. What would you know! We will meet the Mōri army here on Oshikibata Mountain!
+
+@14.3
+Everyone, Lord Sue's reinforcements have arrived!
+
+@15
+Westward Advance into Aki\nVictory\n  1. Miyagawa Fusanaga retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@16
+Westward Advance into Aki (Victory condition changed)\n\nVictory\n  1. Miyagawa Fusanaga retreats\n\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@39.0
+I am the shield maker Majima Jūbei.\n\nPlease let me work in your workshop.
+
+@41.0
+Now we leave the castle and attack the Mōri force!\n\nAdvance!
+
+@42
+Noma Takazane's forces sortied
+
+@43.0
+Guh!\n\nMagoshirō...
+
+@44.0
+Guh... Impossible...
+
+@44.1
+I have slain Amago Kunihisa!
+
+@45.0
+It's no use, fall back, fall back!
+
+@46.0
+Did I underestimate Motonari's army... Aaargh!
+
+@47.0
+Argh, I let my guard down...
+
+@47.1
+Miyagawa Fusanaga, slain!
+
+@48.0
+Turning your back on my Shingūtō to march out! Motonari, did a grandson make you careless!? Ha ha ha ha!
+
+@49.0
+This is the punishment for underestimating us Amago! Suffer to your heart's content!
+
+@50.0
+Motonari, it is not too late even now. Join us of the Ōuchi house! I will speak to Lord Sue for you.
+
+@50.1
+Whatever you say, we have no intention of following Lord Sue.
+
+@50.2
+Grrr... Do not forget those words!
+
+@51.0
+Motonari! Why do you defy us! Meekly submit to our banner!
+
+@52.0
+Lord Takazane. Do you really mean to aid Sue to the end?
+
+@52.1
+Of course. Sue Harukata is the fiercest general of the western provinces. No one can defy that man.
+
+@53.0
+Lord Naoyuki. Do you really mean to aid Sue to the end?
+
+@53.2
+Sue Harukata is a rebel who killed his lord. Heaven's punishment will surely fall on him. If you stay with Sue as you are, you too...
+
+@53.3
+...I understand. I think Lord Kagawa is right. Let us withdraw.
+
+@54
+Koi Naoyuki joined the party
+
+@55.0
+Lord Naoyuki. Do you really mean to aid Sue to the end?
+
+@55.2
+Sue Harukata is a rebel who killed his lord. Heaven's punishment will surely fall on him. If you stay with Sue as you are, you too...
+
+@55.3
+...I understand. I think Lord Kumagai is right. Let us withdraw.
+
+@56
+Koi Naoyuki joined the party
+
+@59.0
+The first battle is our victory.
+
+@59.1
+Yes, Takamoto is right. But now...
+
+@59.2
+A full confrontation with Sue Harukata is unavoidable, then.
+
+@59.3
+Can we fight the fiercest general of Suō and Nagato... My sword arm itches!
+

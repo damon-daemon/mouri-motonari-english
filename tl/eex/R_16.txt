@@ -1,0 +1,1461 @@
+@1
+The Road to Kōriyama
+
+@2.0
+Forgive me, there is a place I wish to visit. Wait for me here.
+
+@2.1
+You are going alone?
+
+@2.2
+It is fine. It is an acquaintance's.
+
+@2.4
+I will be back soon.
+
+@4.0
+It has been a long time.
+
+@5.0
+...You came again. I did not expect it.
+
+@5.1
+And alone, too.
+
+@5.2
+...You noticed, then.
+
+@5.3
+I said my doubts were gone... but now my heart is troubled.
+
+@5.4
+I never meant to deceive you. I truly came only to see the garden.
+
+@5.6
+I do not ask to be forgiven.
+
+@5.7
+I only wish you to know that the heart that loved your garden was truly mine.
+
+@6.0
+Then, I take my leave.
+
+@7
+The Road to Kōriyama
+
+@8.0
+Sorry to keep you. Let us return to camp.
+
+@8.1
+Is something wrong? You look pale...
+
+@8.2
+No, it is nothing.
+
+@8.3
+A local chieftain is holding a welcome feast tonight, but if you are unwell, I will decline.
+
+@8.4
+No need to worry. Everyone is looking forward to it. Let us gladly accept.
+
+@9
+Residence of an Aki Local Chieftain
+
+@10.0
+Mmm, delicious.
+
+@10.1
+Yes, it is all good.
+
+@10.2
+Oh, locals are bringing dishes.
+
+@11.0
+Lord Takamoto, this is sure to be tasty. Please eat.
+
+@11.1
+Yes, thank you. I will gladly eat.
+
+@11.2
+Lord Takamoto, let me go first.
+
+@11.3
+What are you saying? After all their kindness...
+
+@11.4
+But a taste test is needed.
+
+@11.5
+Forgive me. I do not doubt you.
+
+@11.6
+No, no, it is no trouble.
+
+@11.7
+Then, one bite.
+
+@11.8
+Oh, take it from this bowl, please. Flavours mixed would spoil it.
+
+@11.9
+I see. Then... ...
+
+@11.10
+Yes, it is safe.
+
+@11.11
+Good, then give me some too.
+
+@11.12
+Yes, here is your bowl.
+
+@11.13
+... Oh... delicious.
+
+@11.14
+Thank you. Praise from Lord Takamoto will be our family pride.
+
+@11.15
+Then, we will take our leave.
+
+@12.0
+(... Heh.)
+
+@12.1
+(Hehehe...)
+
+@14.0
+Master, it is terrible!
+
+@14.1
+What is the matter?
+
+@14.2
+Lord Takamoto! Someone poisoned Mōri Takamoto, the Mōri heir...
+
+@14.3
+What! Him...
+
+@14.4
+Then I must go.
+
+@15
+A House in Aki
+
+@16.0
+We have both lived through this age of war. We surely sense when death is near.
+
+@17.0
+Poisoned... what a sorry end. But if I must die...
+
+@18.0
+Master Ekei, I meant for you to see how I die.
+
+@19.0
+You must hold a grudge against the Mōri. Then let my pitiful death ease your heart.
+
+@20.0
+What nonsense!
+
+@21.0
+Ugh, urgh...
+
+@22.0
+Lord Takamoto!
+
+@23.0
+Ugh... urgh...!
+
+@24.0
+My one regret... is Terumoto...
+
+@25.0
+Lord Takamoto! Lord Takamoto!
+
+@26
+Episode 17 "The Fall of Toda"
+
+@27
+Episode 17 "The Fall of Toda"
+
+@30.1
+Oh, my husband...
+
+@30.2
+Probably Amago ninja. The bowls seem to have been soaked in poison.
+
+@30.3
+Did Lord Takamoto suffer?
+
+@30.4
+No. He trusted the people to the end and died in peace.
+
+@30.5
+What did Father say at the end?
+
+@30.6
+"Look after Terumoto"...
+
+@30.7
+(Father... To think I cannot show you my first battle in glory...!)
+
+@31.0
+Mother, I am going to Grandfather.
+
+@31.1
+I will tell him of Father's death and avenge him.
+
+@32.0
+Ah, Terumoto!
+
+@33
+Shiraga Castle
+
+@34
+Shiraga Castle - Council Hall
+
+@35.0
+Has Takamoto still not arrived?
+
+@35.1
+We have had no word.
+
+@35.2
+What is he doing...
+
+@35.3
+Shall we hold off on the Toda attack until he arrives?
+
+@35.4
+No. Continue preparations. We must not let morale drop.
+
+@35.5
+Now, do we know Toda Castle's structure in detail?
+
+@35.6
+The Seki report says a river and the town form its front line, with sheer cliffs on both sides.
+
+@35.7
+Only two routes lead to the keep: the front and the rear.
+
+@35.8
+We do not yet know the way to the keep in detail,
+
+@35.9
+but both paths are narrow, and a forced breakthrough does not look easy.
+
+@35.10
+It will be a hard fight.
+
+@36.0
+Terumoto? Why have you come? Do not act on your own.
+
+@36.2
+What on earth is wrong?
+
+@36.3
+...Father has died.
+
+@37.0
+Wh-what...!
+
+@37.1
+Impossible... what happened!
+
+@37.2
+Seki! Where is Seki!
+
+@37.3
+Here!
+
+@38.0
+Is the news that Lord Takamoto died true?
+
+@38.1
+The report just came in.
+
+@38.2
+On the way here from Moji Castle, he was feasted by a local chieftain and seems to have been poisoned.
+
+@38.3
+Surely the work of Amago ninja.
+
+@38.4
+How terrible...
+
+@38.5
+Lord Takamoto...!
+
+@39.0
+Takamoto...\n\n\nWhy? Why must Takamoto die?
+
+@39.1
+Ngh...
+
+@40.0
+Brother...!
+
+@41.0
+How terrible!
+
+@41.1
+Curse the Amago, the cowards!
+
+@41.2
+To think this would happen...
+
+@41.3
+...Damn the Amago!
+
+@42.0
+Seki! What were your men doing!
+
+@43.0
+Enough, Kuchiba. I am the one who had many ninja sent to scout Toda Castle.
+
+@43.1
+The fault is mine.
+
+@44.0
+...Forgive me, Seki. I lost myself in the shock.
+
+@44.1
+Grandfather, prepare to march.
+
+@44.2
+Lord Terumoto...
+
+@45.0
+Terumoto, you...
+
+@45.1
+Defeating the Amago was Father's dearest wish.\n\nTo keep his death from being in vain, we must destroy the Amago!
+
+@45.2
+Exactly. The Toda attack is a battle to mourn Takamoto!
+
+@45.3
+We will defeat the Amago and unite the west!
+
+@46.0
+All-out attack on Gassan-Toda Castle! Men, march!
+
+@47.0
+...Takamoto!
+
+@48.0
+Grandfather, please do not cry. From today, I will take Father's place.
+
+@53
+Yoshida-Kōriyama Castle - Mōri Terumoto's Residence
+
+@81
+Shiraga Castle - Senior Retainers' Hall
+
+@82
+Shiraga Castle - Living Quarters
+
+@83.1
+All right, well done. I failed last time too. This time for sure... Hehehe.
+
+@84.1
+You nag every time! Come on, let us scram!
+
+@85.2
+Oh, are you well?
+
+@85.3
+Damn! Caught again!
+
+@85.4
+Ayame the great thief-ninja, caught off guard three times! You really are something.
+
+@85.5
+But they say the third time is the charm. Sakichi, run!
+
+@88.0
+What happens twice happens thrice. Oh, they dropped something again. Thank you, as always.
+
+@89.0
+Shiraga Castle's hidden treasure... What a find.
+
+@89.1
+Let us meet again somewhere, Ayame, Sakichi.
+
+@115
+Shiraga - Storehouse
+
+@116
+Shiraga - Tavern
+
+@117
+Shiraga - Market
+
+@118
+Shiraga - House
+
+@119.0
+Lord Takamoto was a kind man. Could that have been his undoing?
+
+@120.0
+Your first battle will decide the Mōri's fate. Mine was the same.
+
+@120.2
+Win great honour and make the name Mōri Terumoto known.
+
+@121.0
+At last we settle things with the Amago.
+
+@123.0
+Our losses in this battle will be considerable.
+
+@123.1
+We should give our commanders a way to restore Endurance.
+
+@124.0
+Toda is a mountain castle, so attacks from the heights will be troublesome.
+
+@125.0
+The time has finally come to settle things with the Amago.
+
+@126.0
+My heart is calm. When anger and grief grow too strong, one becomes calmer instead.
+
+@126.1
+With these hands I will finish the Amago.
+
+@127.0
+Hiroie is a lively, good boy. But I worry about his future. Will he turn out like Lord Motoharu?
+
+@128.0
+Mother only makes me read books. I would rather swing a spear than read.
+
+@129.0
+To take Toda Castle, we must break it from within.
+
+@129.1
+Do we have a commander we can use?
+
+@129.2
+Uyama Hisanobu. We will spread word inside Toda that he is in league with the Mōri and his lands are secured.
+
+@130
+Carry it out\nDo not carry it out
+
+@132.0
+At times like this, we must calmly create the conditions for victory.
+
+@133.0
+I plan to use Seki to spread false information.
+
+@133.1
+Whether it works depends on Yoshihisa's ability, but we can sow confusion.
+
+@134.0
+A new book has arrived.
+
+@134.1
+It says when attacking a mountain castle, plan your route well and advance outside the enemy's range on the heights.
+
+@137.6
+If your aim is to restore a peaceful world without war, I will lend you my strength.
+
+@143.9
+I swore it firmly in my heart.
+
+@143.15
+...I still cannot make swords anymore... Please give up.
+
+@163.4
+What! Who are you!?
+
+@176.0
+Hmm, sadly I have enough hands myself.
+
+@177.0
+We meet again.
+
+@177.1
+Thank you for all you have done.
+
+@179.0
+I think the best thing is for you to work in peace in Kōriyama, the land you know well.
+
+@179.1
+What do you say?
+
+@179.2
+Yes. Then I leave it in your hands.
+
+@183.0
+We meet again.
+
+@183.2
+I heard from your master...
+
+@183.3
+That man is no master of mine anymore.
+
+@183.4
+No, about that, it was a misunderstanding.
+
+@183.5
+A misunderstanding...?
+
+@184
+Told Kumon Murashige the truth
+
+@185.1
+Your master was threatened by an Amago envoy.
+
+@185.2
+Was that it...? I said terrible things to him...
+
+@187.0
+I think the best thing is for you to work in peace in Kōriyama, the land you know well...
+
+@187.1
+What do you say?
+
+@187.2
+You mean serve the Mōri army...?
+
+@187.3
+Yes. With me you can work in peace.
+
+@187.4
+I can protect your family too.
+
+@187.5
+Th-then, I ask this of you...
+
+@190.0
+Go and see your master.
+
+@191.0
+I have had enough. Leave me alone.
+
+@192.0
+Hey, answer me.
+
+@192.2
+I hear you are a ninja-gear maker.
+
+@192.4
+...Noisy...
+
+@192.5
+What?
+
+@192.6
+I said you are noisy, jabbering in my ear all this time.
+
+@192.7
+At last you speak.
+
+@192.9
+If you are a skilled ninja-gear maker, would you work for me?
+
+@192.10
+...Stop it...
+
+@192.12
+I trust no one anymore. I will never work under anyone.
+
+@192.13
+I have heard your story... but not everyone in the world is untrustworthy.
+
+@192.14
+I have had enough. Leave me alone.
+
+@193.0
+Hey, you can hear me, can you not?
+
+@193.2
+You could at least answer.
+
+@193.4
+What is the meaning of this!?
+
+@194.0
+Why not answer?
+
+@194.2
+Why do you not answer?
+
+@194.4
+Are you not being rude?
+
+@194.6
+Hey! Say something!
+
+@195.0
+I do not recognise you.
+
+@195.2
+By your look, a craftsman?
+
+@195.4
+A man of few words.
+
+@195.6
+Why not answer?
+
+@195.8
+Why do you not answer?
+
+@195.10
+Are you not being rude?
+
+@195.12
+Hey! Say something!
+
+@208
+How many years has it been since you left home, vowing to return a fully grown man?
+
+@212
+Whatever happens, if you come home safe, that is enough... I wait for your return always.
+
+@214.10
+I cannot find the work I want, and a decent income still eludes me.
+
+@226.4
+I only take work from someone who values my skill highly.
+
+@226.8
+I want you to buy my skill.
+
+@234.5
+I-is that so...
+
+@252.1
+I must deliver this money, but I am at my wits' end.
+
+@262.0
+Guarding the storehouse every day... I'd go mad without a drink.
+
+@262.1
+I wish they'd move me somewhere else.
+
+@262.2
+Something to complain about?
+
+@262.3
+Ah! L-Lord Motonari!
+
+@262.4
+No, no, nothing at all. Hahaha...
+
+@270.0
+I haven't been posted here long...
+
+@272.0
+Hmm... no, that's not it... nor that...  *mutter mutter*
+
+@273.1
+Oh no, not me. Not at all...
+
+@274.0
+They say some men ruin themselves with drink.
+
+@275.0
+Not even an ant gets past me.
+
+@277.0
+A quiet watch is a good watch.
+
+@278.0
+We'll be fine if we follow Lord Motonari, right?
+
+@279.0
+The more goods in the storehouse, the more worth guarding it is.
+
+@280.0
+Time for the changing of the guard?
+
+@281.0
+Time to change.
+
+@281.1
+I leave the rest to you.
+
+@283.0
+Fine weather. A perfect day to sit in the sun.
+
+@285.0
+I wanted to be a swordsmith, but I'm too clumsy for it.
+
+@286.0
+Lord Motonari, please take this.
+
+@287.0
+I'd like a storehouse this big myself.
+
+@290.0
+Ah, Lord Motonari.
+
+@290.3
+The 3-Monme Guide... It may prove useful. I gratefully accept.
+
+@299.2
+A cannon smith called Yukimi Kazetsuna lives around here.
+
+@302.0
+Only at times like this can I relax...
+
+@302.1
+When I get home...
+
+@303.0
+You! How long are you going to keep drinking?
+
+@304.0
+We're going home! Get ready, now!
+
+@304.1
+All right, all right...
+
+@304.2
+Don't "all right" me!
+
+@307.0
+Do your best, Lord Motonari.
+
+@307.1
+But best of all would be if war disappeared altogether.
+
+@308.0
+Our livelihoods depend on you, Lord Motonari.
+
+@309.0
+A lot of people gather at the market.
+
+@310.0
+Ah, Lord Motonari. How about a rice ball?
+
+@310.1
+Oh, a rice ball...
+
+@310.2
+It's 100 gold each.
+
+@313.0
+On second thought, no.
+
+@313.1
+I see. Come again.
+
+@314.0
+All right, I'll take one.
+
+@317.0
+Hm!
+
+@318.0
+Ah! He stole my rice ball!
+
+@319.0
+I'll go after him.
+
+@322.0
+Found you! So here you were.
+
+@323.0
+Light-fingered brat! Come here!
+
+@324.0
+Stop!
+
+@325.0
+Lord Motonari, I've caught him!
+
+@325.1
+I said stop.
+
+@325.2
+Huh? ...Why, my lord?
+
+@325.3
+This child did not steal anything.
+
+@325.4
+But... the rice ball...
+
+@325.5
+I gave it to him myself.
+
+@325.7
+Now that you understand, be off with you.
+
+@325.8
+But...
+
+@325.9
+I said go.
+
+@325.10
+Yes, my lord...
+
+@326.0
+Is that your little brother there?
+
+@326.1
+...
+
+@326.2
+That rice ball is what I gave you. Eat it without hesitation.
+
+@327.0
+Here, eat. It's a rice ball.
+
+@328.0
+Yay, yay!
+
+@329.0
+Huh? What about yours, Brother?
+
+@329.1
+I already ate.
+
+@329.2
+Hmm... Then can I eat this one?
+
+@329.3
+Yes, go ahead.
+
+@329.4
+Yay! Thank you!
+
+@329.6
+*munch munch* ...Mmm, it's good.
+
+@329.7
+Is it good?
+
+@329.8
+Yeah!
+
+@330.1
+You came to catch me, didn't you?
+
+@330.2
+Catch you? Did you do something bad, Brother?!
+
+@330.3
+No, nothing of the kind. Your brother did nothing wrong.
+
+@330.5
+Is that all right...?
+
+@330.6
+There seems to be a reason behind this... Tell me.
+
+@330.8
+My father was a soldier.
+
+@330.9
+But he died in battle...
+
+@330.10
+Mother died of illness, so I have to live on with just him.
+
+@330.11
+I see. That is hard. If you are ever in trouble, come to me.
+
+@330.12
+...I had an elder brother once. Blood of my blood. ...Live in peace together.
+
+@330.13
+Well, then...
+
+@330.14
+Wait!
+
+@330.15
+What is it?
+
+@330.16
+To thank you for letting me go, take this.
+
+@331.0
+Are you sure?
+
+@331.1
+Yes. It was my father's keepsake, but he would be glad if a samurai used it.
+
+@332.0
+I'm not hungry now, so I'll pass.
+
+@332.1
+I see... Come again.
+
+@334.0
+They say money isn't everything.
+
+@334.1
+...But it's still good to have.
+
+@336.0
+In this tavern all sorts of people come and go. Meetings come with partings.
+
+@337.0
+Did Kumon Murashige join your ranks?
+
+@338.0
+That craftsman Kumon Murashige seems to have his reasons.
+
+@339.0
+I would like to meet the master who betrayed him.
+
+@339.1
+They say he is an old man living in a house in Shiraga.
+
+@340.0
+Can that man really hear?
+
+@340.1
+He won't answer me at all.
+
+@340.2
+That is Kumon Murashige. He was a ninja-gear maker famous in these parts, but...
+
+@340.3
+He was betrayed by the master he trusted, and now he trusts no one.
+
+@340.4
+These days he speaks to nobody.
+
+@340.5
+A ninja-gear maker... I want him. But a man who trusts no one...
+
+@341.0
+That man over there won't answer whatever I say.
+
+@341.1
+Could he be hard of hearing?
+
+@341.2
+No, nothing of the sort.
+
+@342.0
+In this tavern all sorts of people come and go. Meetings come with partings.
+
+@343.0
+Oh my, Lord Motonari! I have longed for you.
+
+@343.1
+Spare me. That is revolting.
+
+@346.0
+Thank you for always speaking to us.
+
+@347.0
+My husband eats so much. Shopping is a chore.
+
+@348.0
+Since the pirates started coming, I'm too scared to walk outside.
+
+@349.0
+My husband eats so much. Shopping is a chore.
+
+@355.0
+The rice cakes here are delicious.
+
+@359.0
+Father, you're old now. Don't overdo it.
+
+@359.1
+Quiet! I can still move just fine.
+
+@360.0
+There's so much I want, but no money to buy it.
+
+@361.0
+With a skilled craftsman, we could make fine weapons.
+
+@363.0
+I wish gold would fall from the sky.
+
+@367.1
+I hear they've stopped making weapons lately.
+
+@368.0
+That is a fine hoe you have.
+
+@371.0
+I've lived safely to this day thanks to my ancestors. Bless them, bless them.
+
+@372.0
+Today there's no rank, right?
+
+@373.0
+Samurai really are strong.
+
+@374.0
+Pirates have been prowling around here lately. Everyone is frightened.
+
+@374.1
+Pirates... Do they do harm?
+
+@374.2
+Yes. Some are robbed of money, others of rice...
+
+@374.3
+I even heard of young girls being carried off.
+
+@374.4
+Hmm. How dreadful.
+
+@375.1
+They're here! It's them!
+
+@375.3
+Eek! Everyone, run!
+
+@376.0
+Hey! Anyone here with valuables?
+
+@377.0
+Tch, they've already run off...
+
+@378.0
+Hey, this one looks rich.
+
+@378.1
+Leave all your money.
+
+@378.2
+Are you the pirates ravaging this area?
+
+@378.3
+What did you say?!
+
+@378.4
+Looks like he needs a taste of pain.
+
+@378.5
+All right, get him!
+
+@378.7
+??
+
+@378.8
+Hey, what is it?
+
+@378.9
+I thought I knew that face. That's Mōri Motonari.
+
+@378.10
+Mōri...?!
+
+@378.11
+So what? Is he strong?
+
+@378.12
+Yeah... Anyway, he's trouble to have as an enemy.
+
+@378.13
+Pull back!
+
+@378.14
+Tch.
+
+@379.0
+Thank goodness you were here, samurai.
+
+@380.0
+My father has just recovered, but he can't sit still.
+
+@381.0
+I wish I'd been born in a time without war.
+
+@384.0
+I'm happy just to have food every day.
+
+@385.0
+My husband can't drink at all. It's pathetic.
+
+@386.0
+Lord Motonari! What an honour to meet you.
+
+@387.0
+My husband drinks, but he never gambles.
+
+@389.0
+Tools were never meant to take lives...
+
+@393.0
+Thank you so much for everything.
+
+@394.0
+Murashige came by earlier. It seems the misunderstanding is cleared up.
+
+@394.1
+I am glad.
+
+@394.2
+It is all thanks to you.
+
+@395.0
+First, I will meet Murashige once more and clear up the misunderstanding about you.
+
+@395.1
+Would you do that for me?
+
+@396.0
+You know a man called Kumon Murashige.
+
+@396.1
+I-I do not.
+
+@396.2
+Do not lie. I came because I heard you were his master.
+
+@396.4
+What does this mean? Explain.
+
+@396.6
+Like Murashige, you shut your mouth too...
+
+@396.7
+What, you met Murashige?!
+
+@396.8
+There must be some reason.
+
+@396.10
+...The truth is...
+
+@396.11
+Kumon Murashige was indeed my best pupil.
+
+@396.12
+Of all my pupils, he was the most skilled.
+
+@396.13
+But...
+
+@396.14
+Word of his superb skill spread, and daimyo everywhere took notice of him.
+
+@396.15
+They stopped at nothing to obtain Murashige.
+
+@396.16
+The Amago envoy even threatened to cut down Murashige's parents in Kōriyama if he refused.
+
+@396.17
+Fearing the worst, I quietly sent Murashige to another craftsman.
+
+@396.18
+But the Amago envoy must have talked him round,
+
+@396.19
+and he was made to believe that I had sold him out.
+
+@396.20
+How awful... So that was the reason.
+
+@396.21
+What on earth should I do?
+
+@397.0
+Oh, what should I do?
+
+@400.0
+If you meet a skilled craftsman, please bring him along.
+
+@404.0
+The food and drink at this tavern are the best.
+
+@408.0
+You look just like my son.
+
+@410.0
+The old storehouse was never this grand.
+
+@411.0
+If you are ever in trouble, come to me anytime.
+
+@411.1
+Yes, thank you.
+
+@414.0
+Father looks happiest when he's drinking.
+
+@416.0
+I'll be a fine soldier like Father!
+
+@417.0
+I don't really get it, but thank you.
+
+@418.0
+Murashige came by just now. And then Grandpa suddenly perked up.
+
+@419.0
+Is there a reason Grandpa is in trouble?
+
+@420.0
+Grandpa... he looks troubled somehow.
+
+@421.0
+Grandpa... he looks troubled somehow.
+
+@422.0
+Brother, I'll do my best too.
+
+@423.0
+I'm hungry...
+
+@426.0
+I know something. The merchants over there love sake.
+
+@427.0
+Lord Motonari, please take this.
+
+@428.0
+Father told me it's useful in battle.
+
+@431.0
+My dad does nothing but drink from morning on.
+
+@432.0
+Whew, that was scary. Those pirates come every so often.
+
+@433.0
+My dad does nothing but drink from morning on.
+
+@437.0
+People should be able to live without fighting...
+
+@437.1
+Why can't they grasp something so simple?
+
+@438.0
+We meet again... Well? Have you changed your mind?
+
+@440.0
+That's more like it... Then I will leave the horse in the storehouse.
+
+@443.1
+Wait! What do you want?!
+
+@443.2
+I will tell you in time. Heh heh.
+
+@444.0
+That man... Why on earth does he want my life...
+
+@445.0
+A pity. Well, I will back off this time.
+
+@445.2
+Until we meet again.
+
+@446.0
+A strange fellow. Who on earth is he...
+
+@447.0
+Heh heh. Have you been well?
+
+@447.1
+You again.
+
+@447.2
+This time I brought a horse. A fine one. Now, will you share your life?
+
+@449.0
+That's more like it... Then I will leave the horse in the storehouse.
+
+@452.1
+Wait! What do you want?!
+
+@452.2
+I will tell you in time. Heh heh.
+
+@453.0
+That man... Why on earth does he want my life...
+
+@454.0
+A pity. Well, I will back off this time.
+
+@454.2
+Until we meet again.
+
+@455.0
+A strange fellow. Who on earth is he...
+
+@456.0
+It is very sad that people must fight each other.
+
+@458.0
+In battle, it is best not to overwork units that restore endurance.
+
+@461.0
+Training does not forge the body alone. Training mind and body together is what matters.
+
+@462.0
+I believe those pirates will repent one day.
+
+@463.0
+Training does not forge the body alone. Training mind and body together is what matters.
+
+@465.0
+Japanese people, all hard worker.
+
+@466.0
+Medicine plays an important role on the battlefield.
+
+@467.0
+Lord Motonari, I give you a Major Remedy. Make good use of it.
+
+@474.0
+In battle, attack is important,
+
+@474.1
+but charging blindly at the enemy only wastes our own troops.
+
+@475.0
+To win a battle, use your head.
+
+@476.0
+Would you like to read this book of tactics? It is quite instructive.
+
+@476.1
+Thank you. I will look it over.
+
+@477
+Read the Tactics Manual
+
+@479.0
+At least around here, I seem to be the strongest. Gahahaha.
+
+@482.2
+No, I only said it aloud. I was getting above myself.
+
+@484.0
+I am training near here right now.
+
+@485.0
+I sweated all day yesterday at the drill ground. I'm exhausted.
+
+@486.0
+If it were a drinking contest instead of war, I wouldn't lose.
+
+@487.0
+My wife drinks more than I do.
+
+@488.0
+I'd like to give my swordsmanship a cool name.
+
+@489.0
+P-pirates don't scare me one bit.
+
+@489.1
+Next time they come, I'll deal with them.
+
+@490.0
+I'd like to give my swordsmanship a cool name.
+
+@495.0
+In a drinking contest, I lose to no one!
+
+@497.0
+If you don't want to lose, don't fight. But once you do, win without fail.
+
+@498.2
+Hey! You're nowhere near good enough. Don't get conceited.
+
+@501.1
+...What is that?
+
+@501.2
+Ninja art! Playing dead!
+
+@501.4
+Do not scorn the ninja arts...
+
+@503.0
+I'm closed for today. I'll bring more when I get something good.
+
+@504.0
+Today I'll sell the goods I've earned so far, as a special deal.
+
+@505.0
+Looks like your storehouse is full. Then I can't sell, even if I want to.
+
+@505.1
+Come back when you have room.
+
+@506.0
+Selling them normally would be boring.
+
+@506.1
+Let's see...
+
+@506.2
+Choose from a large, medium or small box! It's more fun that way.
+
+@506.3
+The goods are all genuine, so don't worry.
+
+@506.4
+500 gold per box. Want to buy?
+
+@508.0
+This smells fishy. I will pass.
+
+@508.1
+And they're all such good things. What a waste.
+
+@509.0
+All right, I'll take one box.
+
+@509.1
+That's the spirit.
+
+@510
+Paid 500 gold
+
+@511.0
+Then choose which box you want.
+
+@512
+Large box\nMedium box\nSmall box
+
+@513.0
+The large box, here you go.
+
+@514.0
+The medium box, here you go.
+
+@515.0
+The small box, here you go.
+
+@520.0
+Lord Motonari, please take this...
+
+@521.0
+I made this for Lord Takamoto. Please, avenge him...!
+
+@522.0
+Please, you must avenge Lord Takamoto!
+
+@523.0
+Lord Motonari, wear this in the decisive battle with the Amago.
+
+@524.0
+May Buddha protect you.
+
+@525.0
+They killed Lord Takamoto by foul means. Please be careful.
+
+@526.0
+Lord Takamoto is dead... Why do those I serve keep passing away, one after another?
+
+@527.0
+Lord Hiroie is a healthy boy, but her ladyship cannot simply rejoice.
+
+@528.0
+How to attack a mountain castle... Enemy cannon will cut us down, so do not bunch up.
+

@@ -1,0 +1,183 @@
+@0.0
+We go now to Okayama Castle!
+
+@1.0
+Motonari gave us great trouble, but Terumoto is still a greenhorn. We take this chance to strike the Mōri!
+
+@2
+Bizen Campaign\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@3.0
+I can see the Mōri army. Brother, please give the order to sortie.
+
+@3.1
+Motonari may be dead, but Kikkawa and Kobayakawa are the finest commanders of the age. I would rather avoid meeting them head on...
+
+@3.2
+So that is Okayama Castle...
+
+@3.3
+Ukita Naoie's younger brother Tadaie has drawn up his troops before the castle and waits for us.
+
+@3.4
+Lord Terumoto. Whether the Mōri win or perish rests on your command alone. Take heed!
+
+@3.5
+Yes, sir! ...The whole army, sally forth!
+
+@4
+Bizen Campaign\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@5
+Murakami Takeyoshi's force, the Inland Sea pirates, appeared
+
+@6.0
+Hey, hey! Today our enemy is the Mōri lot! Don't mistake your targets!
+
+@6.1
+...That flag is the Murakami navy! Murakami Takeyoshi has accepted the Ōtomo's offer. Is he unprincipled, or simply simple-minded?
+
+@7.0
+Damn! R-retreat! Back to Noshima!
+
+@8.0
+Ugh...\n\n\nTo restore our lord's house... is it a dream that will never come true...\n\nMy lord... Shikanosuke... Farewell...
+
+@9.0
+Defeated yet again...
+
+@10.0
+N-not again...
+
+@11.0
+Eeek!
+
+@12.0
+Brother... I leave the rest to you...
+
+@20.0
+Oh? What is this...
+
+@21.0
+I am Fukunobe Daizen, a physician. Please let me join your company.
+
+@24.0
+As expected of Lord Terumoto. You fight in a way that does credit to your grandfather Lord Motonari. I, Naoie, am impressed.\n\nTo fight on and burden the soldiers further is not my wish.
+
+@24.2
+I, Naoie, surrender to the Mōri clan. Please accept it.
+
+@24.3
+Very well. I understand.
+
+@25
+Ukita Naoie's force retreated
+
+@26.0
+...Hm!\n\n\nWhat is that army?!
+
+@27
+Mimura Motochika's force appeared
+
+@28.0
+What is this! The Ukita make peace with the Mōri and come under their banner...\n\nThen I cannot avenge my father! ...Very well! Hear me, all troops! We shall now turn to the Oda side, who have long sought us. Having joined with the Ukita, the Mōri are our enemy! Men, advance!
+
+@28.1
+Curse you, Mimura Motochika! Have you forgotten the favour Lord Motonari showed you? Why did you betray us?!
+
+@28.2
+No more talk! Come, boy!
+
+@28.3
+Hm! Th-that army is...?!
+
+@29
+Amago remnants led by Yamanaka Shikanosuke appeared
+
+@30.0
+The Mōri army seems to be struggling.
+
+@30.1
+No wonder, with young Terumoto as commander. This is our chance!
+
+@30.2
+Terumoto, I, Shikanosuke, am your opponent!
+
+@31
+Murakami Takeyoshi's force, the Inland Sea pirates, appeared
+
+@32.0
+Well now, I've cut ties with the Mōri, but what shall I do with them...
+
+@32.1
+...That flag is the Murakami navy! Murakami Takeyoshi has accepted the Ōtomo's offer. Is he unprincipled, or simply simple-minded?
+
+@33.0
+So you are Terumoto. Heh, that is a fine face you have.
+
+@34.0
+You there, boy! Give your name! Fight me, Shikanosuke!
+
+@34.1
+I am Terumoto, supreme commander of the Mōri! You are worthy of me. Come!
+
+@34.2
+What! You are Terumoto...?!\n\nThis boy is Motonari's heir?!
+
+@35.0
+Murakami, do you mean to oppose the Mōri? Then I show no mercy.
+
+@35.1
+They asked for my help, so I lent it. That is all.
+
+@35.2
+You are truly unprincipled. I cannot even be angry.\n\nWill you not side with the Mōri once more?\n\nYour base is the Inland Sea. You do not wish to fight us.
+
+@35.3
+The Mōri again, eh... Hmm, well, why not.\n\nLads! I'm backing the Mōri once more! Pull back!
+
+@36
+Murakami Takeyoshi joined the party
+
+@37.0
+Murakami Takeyoshi!
+
+@37.1
+(Damn, Kikkawa Motoharu! The last man I wanted to see.)
+
+@37.2
+Return to the Mōri now and all is well! If not, we strike you with the entire Mōri army!
+
+@37.3
+All right, all right. I'll go back, that's what you want, isn't it? Lads! I'm backing the Mōri once more! Pull back!
+
+@38
+Murakami Takeyoshi joined the party
+
+@39.0
+Murakami Takeyoshi! You served my grandfather. Why did you betray the Mōri?!
+
+@39.1
+Hey now, I never meant to betray anyone.\n\nThey asked me to lend a hand, so I did.\n\nNow that Lord Motonari is gone, who I lend my strength to is my own business!
+
+@39.2
+Then lend it to me, Terumoto. Takeyoshi, am I not enough of a chief for you?!
+
+@39.3
+What? You'd use me again after I betrayed the Mōri?
+
+@39.4
+Did you not say yourself, "I never meant to betray anyone"?
+
+@39.5
+Ha ha ha! You got me there. All right. Lads! I'm backing the Mōri once more! Pull back!
+
+@40
+Murakami Takeyoshi joined the party
+
+@43.0
+The victory is ours...
+
+@43.1
+A splendid command.
+

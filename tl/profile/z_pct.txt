@@ -1,0 +1,13 @@
+# entries 88/89/649/650 (officers 48/49): '%s' = the officer who won six bouts in a row at the
+# Training Ground; it must end the paragraph alone on its row ('\n%s.'); one '%s' only
+@90
+A genin. The last opponent beaten in a six-bout winning streak at the Training Ground. Until then a lone wolf serving no lord, he joins the Mōri army, moved by the prowess of\n%s.
+
+@91
+A jōnin. The last opponent beaten in a six-bout winning streak at the Training Ground. Until then a lone wolf serving no lord, he joins the Mōri army, moved by the prowess of\n%s.
+
+@667
+A swordsman. The last opponent beaten in a six-bout winning streak at the Training Ground. Until then a lone wolf serving no lord, he joins the Mōri army, moved by the prowess of\n%s.
+
+@668
+A sword master. The last opponent beaten in a six-bout winning streak at the Training Ground. Until then a lone wolf serving no lord, he joins the Mōri army, moved by the prowess of\n%s.

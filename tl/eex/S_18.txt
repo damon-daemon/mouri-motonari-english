@@ -1,0 +1,120 @@
+@0.0
+We go now to relieve Hōmanzan Castle and Koshosan Castle!
+
+@1.0
+We go now to relieve Hōmanzan Castle!
+
+@2.0
+We have already retaken Tachibana Castle. Only Hōmanzan Castle, where Takahashi Akitane is holed up, remains.
+
+@2.1
+Lord Dōsetsu, Hōmanzan Castle has very few troops. Let us go.
+
+@2.2
+Good. I leave it to you.
+
+@2.3
+Damn it, where is the Mōri relief force? We cannot hold out like this!
+
+@2.4
+We march now! Cross the Kanmon Strait and save Hōmanzan Castle!
+
+@3.0
+We have already taken Tachibana Castle. That leaves Takahashi Akitane and Akizuki Tanezane.
+
+@3.1
+Lord Dōsetsu, both Hōmanzan and Koshosan Castles have few troops. Let us go to both.
+
+@3.2
+Good. I leave it to you.
+
+@3.3
+Damn it, where is the Mōri relief force? We cannot hold out like this!
+
+@3.4
+Lord Motonari will surely come. Until then, even if Dōsetsu is my opponent, I will hold Koshosan Castle to the end!
+
+@3.5
+We march now! Cross the Kanmon Strait and save Takahashi and Akizuki!
+
+@4
+Chikuzen Campaign\nVictory\n  1. Tachibana Dōsetsu retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@5
+Chikuzen Campaign\n\nVictory\n  1. Tachibana Dōsetsu retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@6
+Ōuchi Teruhiro's reinforcements appeared
+
+@7.0
+Good, the Mōri army seems absorbed in the fighting in Chikuzen. Now we sail north up the Bungo Channel! Our target is Katsuyama Castle!
+
+@7.1
+What! Ōuchi Teruhiro is aiming at Katsuyama Castle?! I must ready the navy...
+
+@8.0
+Hmm... How could this be...
+
+@9.0
+The Mōri army is this strong? No wonder Lord Sōrin fears them...
+
+@11.0
+Curse you... curse you...
+
+@13.0
+Ugh... what a bitter defeat.
+
+@16.0
+A shrine! We pray for our victory!
+
+@33.0
+Now is the time! The whole army out of Tachibana Castle! Strike the Mōri! Charge, charge, charge!
+
+@33.1
+So Tachibana Dōsetsu has moved. This will be a hard fight.
+
+@34
+Ōtomo Sōrin's main army arrived
+
+@35.0
+Motonari comes in person... Today we settle this once and for all. Shigenobu! Sortie at once!
+
+@35.1
+Yes, my lord! I will beat Motonari down.
+
+@36
+Chikuzen Campaign\nVictory\n  1. Ōtomo Sōrin retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@37
+Chikuzen Campaign (Victory condition changed)\n\nVictory\n  1. Ōtomo Sōrin retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@39.0
+Yoshihiro Shigenobu, retainer of the Ōtomo, is your opponent! Prepare yourself, Motonari!
+
+@40.0
+That is Motonari! Strike him down and the Mōri are finished! Charge!
+
+@41.0
+You traitor who destroyed the Ōuchi house! Prepare to die!
+
+@42.0
+(So this is Motonari. No wonder he pacified the western lands in a single lifetime.)
+
+@43.0
+I am Tachibana Dōsetsu! Commander of the Mōri, I am your opponent!
+
+@44.0
+Thank you for coming to our aid. I believed you would come. From now on I, Tanezane, serve under the Mōri command. Please give your orders!
+
+@47.0
+As expected of Motonari. I shall yield the victory today.
+
+@48.0
+The Ōtomo seem to have withdrawn.
+
+@48.1
+The victory is ours. Let us return to Katsuyama Castle too.
+
+@48.2
+Indeed. Takakage, arrange the withdrawal.
+

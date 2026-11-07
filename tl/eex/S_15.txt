@@ -1,0 +1,159 @@
+@0.0
+We have no more worries behind us. All forces, attack the Amago! First we take Shiraga Castle!
+
+@1.0
+We join the attack on the Amago too. First head for Yoshida-Kōriyama Castle!
+
+@2.0
+We will not give up Shiraga Castle! Hurry!
+
+@2.1
+At last it begins... Motonari, wash your neck and wait!
+
+@3
+Siege of Shiraga Castle\nVictory\n  1. Shiraga Castle is taken\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@4.0
+Shiraga Castle was a branch castle of Gassan-Toda Castle, was it not?
+
+@4.1
+To attack Gassan-Toda Castle, we must take this Shiraga Castle.
+
+@4.2
+Yes, indeed. We cannot bear being attacked from behind while we besiege Gassan-Toda Castle.
+
+@4.3
+If this castle falls, Gassan-Toda Castle will be isolated.\n\nWe must drive the Mōri army back at all costs...
+
+@5.0
+Damn Motonari, getting carried away. This is where you die!
+
+@5.1
+Reinforcements from Izumo will surely come! Just hold out until then!
+
+@6.0
+It seems the Mōri have made peace with the Ōtomo.\n\nHad the Amago and Ōtomo caught them in a pincer, we would have had a good chance...
+
+@6.1
+It is over... The ship called Amago is sinking. Should we flee before it sinks completely...?
+
+@7
+Siege of Shiraga Castle\n\nVictory\n  1. Shiraga Castle is taken\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@8
+Enemy reinforcements from Gassan-Toda arrived
+
+@9.0
+Amago reinforcements. They seem to have gathered elite troops indeed.
+
+@9.1
+Damn Motonari! I will not give up Shiraga Castle! I, Amago Michihisa, will be your opponent!
+
+@9.2
+(So that is... Mōri Motonari...)
+
+@9.3
+Shikanosuke, what are you doing?! Our opponent is the cunning Motonari. If you let your guard down, you will pay for it!
+
+@9.4
+Y-yes!
+
+@10.0
+The Mōri army has come to attack. Right, leave the castle and sortie.
+
+@10.1
+So Misawa has left his castle.
+
+@11.0
+Hmm, it cannot be helped... Back to Toda Castle!
+
+@12.0
+Ugh! Damn the Mōri... Remember this!
+
+@13.0
+This is bad. If I fall here... Shiraga will... fall...
+
+@21.0
+There is a shrine! Grant us victory!
+
+@31.0
+Please use this!
+
+@35
+Enemy reinforcements from Gassan-Toda arrived
+
+@36.0
+Amago reinforcements. They seem to have gathered elite troops indeed.
+
+@36.1
+Damn Motonari! I will not give up Shiraga Castle! I, Amago Michihisa, will be your opponent!
+
+@36.2
+(So that is... Mōri Motonari...)
+
+@36.3
+Shikanosuke, what are you doing?! Our opponent is the cunning Motonari. If you let your guard down, you will pay for it!
+
+@36.4
+Y-yes!
+
+@37.0
+All forces, leave the castle! We fight the Mōri army outside the walls.
+
+@37.1
+It seems Mitoya means to leave his castle.
+
+@38.0
+The Mōri army has come to attack. Right, sortie.
+
+@38.1
+So Misawa has left his castle.
+
+@39.0
+Motonari, fight me, Michihisa!
+
+@40.0
+I am Shikanosuke, son of Yamanaka Mitsuyuki! Mōri Motonari, let us settle this in fair combat!
+
+@40.1
+Yamanaka... Shikanosuke?
+
+@41.0
+Matsuda Masayasu, you have fought well.\n\nHow about surrendering at last?
+
+@41.1
+What! You old wretch!\n\nEven if I am left alone, I will not submit to the Mōri! I will fall together with this castle!
+
+@42.0
+With no reinforcements from the Ōtomo to hope for, the Amago have no tomorrow.\n\nIf only we had had the Ōtomo's help, a pincer attack would have been possible...\n\nIn this situation, it cannot be helped.\n\nLord Takakage, I, Tamekiyo, surrender to the Mōri house.
+
+@42.1
+A very wise decision. I will tell my lord so.
+
+@43
+Misawa Tamekiyo joined the party
+
+@44.0
+I have fought until now as the lord of one Amago castle, but the decline of the Amago house is beyond what a single castle lord can hold back. Please accept my surrender.
+
+@44.1
+Yes, understood.
+
+@45
+Mitoya Hisasuke joined the party
+
+@46.0
+We have taken Shiraga Castle!
+
+@46.1
+The victory is ours!
+
+@49.0
+Fighting on enemy ground is hard indeed.
+
+@49.1
+But if we take Shiraga Castle, only Gassan-Toda Castle remains.
+
+@49.2
+True. Only Gassan-Toda Castle remains... It has been a long road.
+

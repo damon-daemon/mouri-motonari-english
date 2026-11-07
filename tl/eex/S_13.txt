@@ -1,0 +1,159 @@
+@0.0
+We now go to take Moji Castle!
+
+@1.0
+We must not let the Mōri take Moji Castle. Hurry!
+
+@2
+Battle for Moji Castle\nVictory\n  1. Moji Castle is taken\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@3.0
+Moji Castle is the castle where Kyūshū meets Suō and Nagato. True to its name, it is the gate to Kyūshū. We will now seize Moji Castle. Sortie!
+
+@3.1
+Moji Castle is guarded by Tawara Chikahiro and Chikakata, senior retainers of the Ōtomo house.
+
+@3.2
+According to Seki's report, reinforcements led by Tachibana Dōsetsu have left Usuki.
+
+@3.3
+The Ōtomo have also moved pirates. The navy of the Masaki clan waits for us off Buzen.
+
+@3.4
+The Masaki, pirates of Bungo!
+
+@3.5
+Munekatsu! Do you know them?
+
+@3.6
+They are pirates rooted around the Kunisaki Peninsula in Bungo.\n\nThey are smaller than the Murakami and Kurushima, but a quite valiant force. They seem to serve the Ōtomo now, but they say they are privately discontented because Sōrin has taken their sea trade rights.
+
+@3.7
+I see... If we persuade them well, we may be able to make them withdraw their troops.
+
+@4.0
+We must hold this castle at all costs until the reinforcements from Usuki arrive!
+
+@4.1
+I have stationed Usuki Akihaya and the Masaki navy at sea. We have left nothing to chance.
+
+@4.2
+With the pirates, we will stop the Mōri landing! ...Damn, are the Masaki still not here? Send a messenger and urge them to sortie! Tell them I will show no mercy if they are late!
+
+@4.3
+Boss! The Mōri army seems to have started moving!
+
+@4.4
+...Good grief. To think the great Masaki navy would be helping the Ōtomo.
+
+@5
+Battle for Moji Castle\n\nVictory\n  1. Moji Castle is taken\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@6.0
+Hmm... How should I report this to my lord...
+
+@7.0
+This is bad... At this rate Moji Castle will be his.
+
+@8.0
+Retreat! Retreat at once!
+
+@9.0
+Hmm, that Motonari. He is quite capable.
+
+@10.0
+Damn! Fall back here!
+
+@11.0
+Ugh... I blundered.
+
+@24.0
+Is this a shrine...? I will pray for victory!
+
+@26.0
+I am the swordsmith Saitō Koroku.\n\nPlease let me work in your workshop!
+
+@31.0
+Good! We have seized Moji Castle!
+
+@32.0
+Attack the Mōri army from two directions! Take Moji Castle back! Drive the Mōri army into the Kanmon Strait!
+
+@33
+Battle for Moji Castle\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. Moji Castle is taken\n  3. The Mōri main camp is taken\n  4. More than 60 turns pass
+
+@34
+Battle for Moji Castle (Victory condition changed)\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. Moji Castle is taken\n  3. The Mōri main camp is taken\n  4. More than 60 turns pass
+
+@35
+Ōtomo reinforcements under Tachibana Dōsetsu arrived
+
+@36.0
+Good! It seems we made it in time.
+
+@36.1
+Shiga, head for Moji Castle.
+
+@36.2
+Understood.
+
+@37.0
+!\nHurry and take Moji Castle.
+
+@38.0
+I, Akitada, will be your opponent! Motonari, let us fight!
+
+@39.0
+Not content with the old Ōuchi lands, he means to take Kyūshū too... I will not allow it!
+
+@40.0
+That is Motonari! Aim at him, shoot him with the matchlocks!
+
+@41.0
+Hm! So you are Tachibana Dōsetsu, the "Incarnation of the Thunder God".
+
+@41.1
+I am Tachibana Dōsetsu! Where is the enemy commander? Advance, advance!
+
+@42.0
+Damn the Mōri... I will not give Moji Castle to you!
+
+@43.0
+So you are Mōri Motonari! I will not give up Moji Castle. Come at me!
+
+@44.0
+You are Masaki, are you not?
+
+@44.1
+Yes. I am Masaki. What do you want?
+
+@44.2
+Would you not serve the Mōri house? The Mōri need a stronger navy. Will you lend us your strength?
+
+@44.3
+...Hmm. The Ōtomo lot only worked us like dogs... But you seem better than they are. All right, I'll join you. You lot, go back to Kunisaki! I can handle this fight alone!
+
+@45
+Masaki Ken'ichirō joined the party
+
+@46.0
+We have taken Moji Castle back!
+
+@47.0
+Damn! Moji Castle...
+
+@48
+Moji Castle was retaken by the enemy
+
+@49.0
+We have taken the Mōri main camp!
+
+@51.0
+As expected of the Ōtomo army... Unlike the Ōuchi forces thrown into confusion by Sue's rebellion, they were a formidable enemy.
+
+@51.1
+Tachibana Dōsetsu was the strongest of them. He must be the finest general even among the Ōtomo.
+
+@51.2
+At any rate, Moji Castle is in our hands. The victory is ours.
+

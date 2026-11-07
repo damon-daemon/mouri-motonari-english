@@ -1,0 +1,228 @@
+@0.0
+Hurry to Funayama Castle! I must persuade Mototsuna.
+
+@0.1
+Heh heh heh. Mōri, fight among your own kin until you are ruined.
+
+@1
+Battle of Funayama Castle\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@2.0
+I will ride into Funayama Castle and persuade Mototsuna.
+
+@2.1
+Lord Mototsuna, Lord Motonari's army seems to have marched out of Kōriyama Castle.
+
+@2.3
+Watanabe and Katsura are deployed on the right and left wings of Funayama Castle. Lord Kamei's reinforcements from Izumo will arrive in time too.
+
+@2.4
+I acted because I thought Lord Mototsuna, who has a commander's stature, was a better heir to the Mōri than Lord Motonari... But if we lose to Lord Motonari's army, as traitors our whole clan and followers will be put to death...\n\n...\n\nToraichi... He is still so young.\n\nShould I arrange to smuggle Toraichi to Lord Yamanouchi Takamichi at Kōzan Castle...
+
+@2.5
+Lord Watanabe's army seems to be ready to march already. As soon as we are ready, we leave the castle to Motozumi and advance!
+
+@3
+Battle of Funayama Castle\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@4.0
+Mototsuna!
+
+@4.1
+B-Brother...
+
+@4.2
+I do not want to fight you. Please, sheathe your sword!
+
+@4.4
+Mototsuna!
+
+@4.5
+Mother...
+
+@4.6
+Saka has made the arrangements.\n\nWe flee to Izumo and try again under Lord Amago Tsunehisa.
+
+@4.7
+Mototsuna!
+
+@4.8
+...\n\nBrother, farewell!
+
+@4.9
+Mototsuna...
+
+@5
+Aiō Mototsuna retreated
+
+@6.0
+Motozumi!
+
+@6.1
+L-Lord Motonari...
+
+@6.2
+I cannot cut you down. Surrender.
+
+@6.3
+...\n\nI understand. I surrender.
+
+@7
+Katsura Motozumi joined the party
+
+@8.0
+Saka!
+
+@8.1
+Lord Mototsuna is the one fit to head the Mōri. Lord Motonari, prepare yourself!
+
+@9.0
+Watanabe!
+
+@9.1
+Lord Motonari... I was waiting for you...
+
+@10.0
+Mototsuna!
+
+@10.1
+B-Brother...
+
+@10.2
+I do not want to fight you. Please, sheathe your sword!
+
+@10.4
+Mototsuna!
+
+@10.5
+Mother...
+
+@10.6
+Saka has made the arrangements.\n\nWe flee to Izumo and try again under Lord Amago Tsunehisa.
+
+@10.7
+Mototsuna!
+
+@10.8
+...\n\nBrother, farewell!
+
+@10.9
+Mototsuna...
+
+@11
+Aiō Mototsuna retreated
+
+@12.0
+Gaah! A blunder...
+
+@13.0
+F-Father!\n\nSooner or later Lord Motonari will attack this castle.\n\nWhen he does, we will have to fight him too.
+
+@13.1
+Motozumi is too valuable a man to kill...\n\nDo not lay a hand on Motozumi! I will persuade him myself!
+
+@14.0
+We begin our advance too!\n\nMotozumi! I leave the castle to you.
+
+@14.1
+Yes, Father!
+
+@14.2
+Motozumi...\n\nIf we should lose, surrender to Lord Motonari.
+
+@14.3
+What...!?\n\nFather! What are you saying? In that case I will cross swords with Lord Motonari too.
+
+@14.4
+I see...\n\nWe meet Motonari! Men, march out!
+
+@15
+Found a treasure
+
+@16
+Found Materials in the village
+
+@17.0
+This is the village's savings. Please use it.
+
+@19.0
+And please take this too.
+
+@20
+Mine
+
+@21
+Found a treasure
+
+@22
+Storeroom
+
+@23
+Mine
+
+@24
+Storeroom
+
+@25
+Gained 150 gold
+
+@26
+Found a treasure
+
+@27
+Found Materials in the village
+
+@28.0
+They say there's a treasure 6 steps north of the easternmost mine entrance. And this looks like a medicinal herb. You can have it.
+
+@29
+Found Materials in the village
+
+@30
+Found Materials in the village
+
+@31.0
+I saved up my allowance little by little. Please use it for Lord Motonari.
+
+@32
+Gained 10000 gold
+
+@33
+But then...
+
+@34.0
+What is this! It's just a leaf!
+
+@34.1
+Hm? Where did that child go? He's nowhere to be seen...\n\n...\n\nCan a fox or a tanuki have tricked me?
+
+@35
+Mine
+
+@36
+Found a treasure
+
+@37
+Found a treasure
+
+@38.0
+We have taken Lord Motonari's main camp!
+
+@38.1
+Damn!
+
+@39
+Our main camp was taken
+
+@40
+The Mōri army won
+
+@41
+Gained 300 gold
+
+@42
+The Mōri army won
+
+@43
+Gained 300 gold
+

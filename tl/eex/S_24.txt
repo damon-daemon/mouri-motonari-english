@@ -1,0 +1,123 @@
+@0.0
+We now march on Kyōto, escorting the shōgun, Lord Yoshiaki!
+
+@1
+Advance on the Home Provinces\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@2.0
+Curse Mitsuhide, killing my father! I took him for a soft man, all scheming and no spine. I was wrong!
+
+@2.1
+That Mitsuhide would commit such an outrage... even I, Nagahide, did not foresee it.
+
+@2.2
+On top of that, the Mōri army attacks too. What on earth are we to do?!
+
+@2.3
+For now, let us focus on the Mōri advancing on us. Mitsuhide is desperate to hold Kyōto and will not move easily.
+
+@2.4
+...Lord Mitsuhide, what troubles you? Are you thinking of Hosokawa and Tsutsui?
+
+@2.5
+Yes... I was thinking of them too.
+
+@2.6
+If we win them over, we can defeat the Mōri. And once the Mōri fall, Tokugawa and Shibata will surely come over to us.
+
+@2.7
+It is about Tokugawa. Had it not been for a word from him, I would have quietly marched to the Monkey's aid. And where is Tokugawa now? Before I knew it he crossed Iga and returned to his base at Okazaki. It is as if he knew I would rebel against Lord Nobunaga...
+
+@2.8
+You think too much. First we must strike the Mōri army before us.
+
+@2.9
+True... I wonder if it will be clear tomorrow.
+
+@2.10
+To reach Kyōto, we must defeat the Oda army in the Home Provinces and the Akechi army behind it.
+
+@2.11
+So we face both. A hard task.
+
+@2.12
+If we miss this chance, entering Kyōto will be impossible forever. This is no time to call it hard.
+
+@2.13
+We now enter Kyōto, escorting the shōgun, Lord Yoshiaki! The whole army, advance!
+
+@3
+Advance on the Home Provinces\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@4.0
+Lord Nobunaga, please forgive me...
+
+@5.0
+Father... I am sorry...
+
+@6.0
+Damn! Back to Yamato! Retreat, retreat!
+
+@7.0
+Have we failed?! Retreat, retreat!
+
+@8.0
+Terumoto's command is this good? We cannot underestimate him.
+
+@9.0
+Curse them! Did I take the Mōri army lightly?! Withdraw!
+
+@17
+Hosokawa Fujitaka's army appeared
+
+@18.0
+...Phew. That Mitsuhide, what an audacious thing to do. To dare strike down Lord Nobunaga... and to succeed. How fierce a man's life can be. It is frightening...
+
+@19
+Tsutsui Junkei's army appeared
+
+@20.0
+I had only just settled as master of Yamato, and now war again. Yet I cannot just stand by and watch.
+
+@20.1
+Hosokawa of Tango and Tsutsui of Yamato. Attacked from three sides, we are at a disadvantage. We must find some countermeasure...
+
+@21.0
+Mōri army, you will not reach Kyōto! I, Nagahide, am your opponent!
+
+@22.0
+I am Oda Nobutaka! Leader of the Mōri, fight me!
+
+@22.1
+Nobunaga's third son, Nobutaka.
+
+@23.0
+So the Mōri have come all this way. I would have preferred to stay out of it...
+
+@24.0
+(So this is Mōri Terumoto. Indeed, he is young.)\n\n(The age of old hands like us seems to be over.)
+
+@24.1
+So this is Hosokawa Fujitaka. I hear he descends from the noble Hosokawa house...
+
+@25.0
+Such a young man as head of the Mōri. Have I grown old too?
+
+@25.1
+Mitsuhide's right-hand man, Saitō. A battle-hardened veteran, it seems.
+
+@26.0
+Ho, so you are Terumoto. The head of the Mōri is this young?
+
+@26.1
+So you are Akechi Mitsuhide...!
+
+@29.0
+Is there no news of Akechi Mitsuhide?
+
+@29.1
+It seems he escaped somewhere.
+
+@29.2
+First, let us hurry into Kyōto.
+

@@ -1,0 +1,267 @@
+@0.0
+Whoever survives this one battle will become the master of the western lands. Advance!
+
+@1.0
+We have made every move we could. The rest depends on each man's efforts. Sally forth!
+
+@2.0
+So that is Miyao Castle. ...Hmph, a small castle indeed.\n\nA castle like that will not last a moment against an army this large. Miyao Castle is our target! Smash it to pieces, castle and all!
+
+@2.1
+The only thing the Mōri have that could be called a navy is the Kobayakawa's few men. They are no match for us.
+
+@2.2
+Quite so. Ha ha ha.
+
+@2.3
+This is bad... They already seem to feel they have won. Our enemy is Motonari. We must never let down our guard.
+
+@2.5
+...Phew, so that is the Sue army. To lead such a host, he is no ordinary commander after all.
+
+@2.6
+When he was on our side, he was nothing but reassuring.\n\nBut as an enemy, there is no more fearsome commander.
+
+@2.7
+All that remains is whether we can hold out until Lord Motonari arrives...
+
+@2.8
+Sue Harukata's army has already landed on Itsukushima.\n\nWe must strike the Sue army by surprise before Miyao Castle falls!
+
+@3.0
+So that is Miyao Castle. ...Hmph, a small castle indeed.\n\nTo think Motonari of all people would fixate on such a castle.\n\nThe well of his cunning must have run dry.\n\nIgnore Miyao Castle on Itsukushima! Our targets are Sakurao Castle, and then Aki!
+
+@3.1
+The only thing the Mōri have that could be called a navy is the Kobayakawa's few men. They are no match for us.
+
+@3.2
+Quite so. Ha ha ha.
+
+@3.3
+This is bad... They already seem to feel they have won. Our enemy is Motonari. We must never let down our guard.
+
+@3.5
+...Phew, so that is the Sue army. To lead such a host, he is no ordinary commander after all.
+
+@3.6
+When he was on our side, he was nothing but reassuring.\n\nBut as an enemy, there is no more fearsome commander.
+
+@3.7
+This is bad. That Sue seems to have chosen the land route.
+
+@3.8
+I see, Sue... He saw through Miyao Castle on Itsukushima as a decoy. There is nothing for it now. Turn the troops back at once and fight Sue decisively along the coast at Sakurao Castle! Sortie at once!
+
+@4.0
+So that is Miyao Castle. ...Hmph, a small castle indeed.\n\nA castle like that will not last a moment against an army this large. Miyao Castle is our target! Smash it to pieces, castle and all!
+
+@4.1
+The only thing the Mōri have that could be called a navy is the Kobayakawa's few men. They are no match for us.
+
+@4.2
+Quite so. Ha ha ha.
+
+@4.3
+This is bad... They already seem to feel they have won. Our enemy is Motonari. We must never let down our guard.
+
+@4.5
+...Phew, so that is the Sue army. To lead such a host, he is no ordinary commander after all.
+
+@4.6
+When he was on our side, he was nothing but reassuring.\n\nBut as an enemy, there is no more fearsome commander.
+
+@4.7
+All that remains is whether we can hold out until Lord Motonari arrives...
+
+@4.8
+Sue Harukata's army has already landed on Itsukushima.\n\nWe must strike the Sue army by surprise before Miyao Castle falls!
+
+@5.0
+So that is Miyao Castle. ...Hmph, a small castle indeed.\n\nA castle like that will not last a moment against an army this large. Miyao Castle is our target! Smash it to pieces, castle and all!
+
+@5.1
+The only thing the Mōri have that could be called a navy is the Kobayakawa's few men. They are no match for us.
+
+@5.2
+Quite so. Ha ha ha.
+
+@5.3
+This is bad... They already seem to feel they have won. Our enemy is Motonari. We must never let down our guard.
+
+@5.5
+...Phew, so that is the Sue army. To lead such a host, he is no ordinary commander after all.
+
+@5.6
+When he was on our side, he was nothing but reassuring.\n\nBut as an enemy, there is no more fearsome commander.
+
+@5.7
+All that remains is whether we can hold out until Lord Motonari arrives...
+
+@5.8
+Sue Harukata's army has already landed on Itsukushima.\n\nWe must strike the Sue army by surprise before Miyao Castle falls!
+
+@6.0
+So that is the Sue army...\n\nThe numbers are great indeed. I wonder if our men alone can win...
+
+@6.1
+Kurushima, what a timid thing to say! Crushing a fleet that size would be a thrill! Come on, let's fight!
+
+@6.2
+(Good grief... Murakami is born to love battle. I am rough myself, but I cannot match this fellow.)
+
+@7.0
+So that is the Sue army...\n\nThe numbers are great indeed. I wonder if our men alone can win...
+
+@8.0
+Motonari, you shall not return to Sakurao Castle now. Rot away here on Itsukushima!
+
+@8.1
+What! Damn, it is Era Fusahide's army...
+
+@8.2
+Advance! Drive Motonari's army into the sea!
+
+@9
+Battle of Itsukushima\nVictory\n  1. Sue Harukata retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. Miyao Castle is taken\n  3. Sakurao Castle is taken\n  4. The Mōri main camp is taken\n  5. More than 90 turns pass
+
+@10
+Battle of Itsukushima\n\nVictory\n  1. Sue Harukata retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. Miyao Castle is taken\n  3. Sakurao Castle is taken\n  4. The Mōri main camp is taken\n  5. More than 90 turns pass
+
+@11.0
+...So the master of the western lands is decided... at last...
+
+@12.0
+Aaargh!
+
+@13.0
+H-help me...
+
+@14.0
+Ugh, aaargh...
+
+@15.0
+...This too is fate...
+
+@16.0
+So this is the end...
+
+@17.0
+Begin the advance on Miyao Castle!\n\n\nVanguard, Takakane!
+
+@17.2
+Go!
+
+@17.3
+Yes, my lord!\n\n\nMen! Take Miyao Castle!
+
+@18.0
+Begin the advance on Miyao Castle!\n\n\nVanguard, Takakane!
+
+@18.2
+Go!
+
+@18.3
+Yes, my lord!\n\n\nMen! Take Miyao Castle!
+
+@19
+Itsukushima Shrine
+
+@20.0
+We have defiled the sacred ground...\n\nWe shall surely purify it later, so we pray that you grant us victory.
+
+@21
+Great Torii Gate
+
+@22
+Era Fusahide's ambush appeared
+
+@23.0
+Motonari! I, Fusahide, saw through your tactics long ago!
+
+@23.1
+Era Fusahide... So he read my plan after all.
+
+@23.2
+I thought you would attack along this road, so I hid troops here. Men, go for Motonari's head!
+
+@24.0
+I did not want you as my enemy...
+
+@24.1
+The feeling is mutual. I did not want to face you, Lord Fusahide, who knows our methods.
+
+@24.2
+This too is the way of the Sengoku age... Here I come!
+
+@25.0
+That is... the Murakami navy! Could they have lent a hand to the Mōri?!
+
+@25.1
+Out of the way! Murakami Takeyoshi is passing through! Move, or you'll regret it!
+
+@26.0
+My name is... a retainer of the Ōuchi house, Hironaka Takakane! Lord Motonari, taste my sword!
+
+@27.0
+Hmm, is that Motonari...
+
+@27.1
+Lord Harukata... Why did you commit regicide...
+
+@27.2
+Say no more, Motonari... It is over and done.\n\nNow I only have to defeat you! Here I come, Motonari!
+
+@28.1
+Our main camp has been taken!\n\nWe are beaten! All forces, retreat!
+
+@30.0
+We have taken Miyao Castle!
+
+@30.1
+Miyao Castle has been taken!\n\nWe are beaten! All forces, retreat!
+
+@31
+Miyao Castle fell and the Mōri army was defeated
+
+@32.0
+We have taken Sakurao Castle!
+
+@32.1
+Sakurao Castle has been taken!\n\nWe are beaten! All forces, retreat!
+
+@33
+Sakurao Castle fell and the Mōri army was defeated
+
+@34.0
+We seem to have... won.
+
+@34.1
+...Yes, the victory is ours.
+
+@34.2
+By the way, what became of Sue Harukata?
+
+@34.3
+Regrettably, he got away.\n\nBut we hold all the waterways and boats. He will be caught sooner or later.
+
+@34.4
+It was a fierce battle all the same. It is a wonder we won.
+
+@34.5
+Our holing up in Miyao Castle was not in vain, after all.
+
+@34.6
+Indeed, quite so... Ugh.
+
+@34.7
+Hiroyoshi! What is it?
+
+@34.8
+It is nothing. I only felt a little dizzy. I suppose the victory made me relax.
+
+@34.9
+I see, of course. You won. Rest as much as you like.
+
+@35
+Gained 700 gold
+

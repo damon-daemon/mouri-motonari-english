@@ -1,0 +1,219 @@
+@0.0
+We take Yoshida-Kōriyama Castle! I will make an offering of Motonari's blood!
+
+@1.0
+All forces, prepare for a siege! Send quickly for reinforcements from Lord Ōuchi!
+
+@2.0
+We go to relieve Yoshida-Kōriyama Castle now!
+
+@3
+Battle of Yoshida-Kōriyama Castle\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@4
+The army led by Amago Haruhisa took position on Aomitsuiyama, facing Kōriyama. On its wings stood the Amago-side forces of Takeda Nobushige and Kikkawa Okitsune, and Haruhisa's uncle Kunihisa was ordered to lead the assault on Kōriyama.\nBut the reinforcements of Ōuchi Yoshitaka had still not appeared at Kōriyama...
+
+@5.0
+The Ōuchi reinforcements have still not come...
+
+@5.1
+Hmph... Such a small castle will fall in a moment against this great army. Today I will finish Motonari!
+
+@5.2
+Lord Haruhisa, do not be careless. Motonari is quite a sharp man...
+
+@5.3
+You are tiresome, Uncle! Too much caution is only cowardice!
+
+@5.4
+Father and Uncle both go on about Motonari, Motonari...\n\nAm I supposed to be inferior to Motonari! How thoroughly unpleasant...
+
+@5.5
+We are a great army and the Mōri are few. However great a general Motonari may be, he cannot match this host.\n\nBut...
+
+@5.6
+As expected of the Amago, impressive. To gather such a force.
+
+@6
+Shōyū Jirō marched out
+
+@7.0
+Father! I cannot wait for the Ōuchi reinforcements! I will fight alongside you!
+
+@7.1
+Jirō!
+
+@7.2
+We take Kōriyama Castle before the Ōuchi reinforcements arrive!\n\nKunihisa, begin the assault on the castle!
+
+@7.3
+Yes, sir!
+
+@7.4
+Heh heh heh... Motonari, I will make you regret betraying the Amago!
+
+@8
+Battle of Yoshida-Kōriyama Castle\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@9
+Ōuchi reinforcements under Sue Harukata arrived
+
+@10.0
+Hm? That banner... Is it not the Ōuchi's!?
+
+@10.1
+Sue Harukata has arrived! I have brought reinforcements to save the Mōri from danger!\nLord Motonari, you held out well.\n\nAmago Haruhisa, prepare yourself!
+
+@10.2
+Lord Motonari, rest easy. We will crush the Amago forces.
+
+@10.3
+What, Ōuchi reinforcements!? Damn, damn...\n\nThere is no help for it, retreat! Back to Izumo, men, follow me!
+
+@10.4
+This is our chance. Pursue Amago Haruhisa!
+
+@11.0
+The Mōri have sallied out of the castle!
+
+@11.1
+What?! So they came out.\n\nGood! We sally out too! Let's go!
+
+@12
+Ōuchi reinforcements under Sue Harukata arrived
+
+@13.0
+Hm? That banner... Is it not the Ōuchi's!?
+
+@13.1
+Sue Harukata has arrived! I have brought reinforcements to save the Mōri from danger!\nLord Motonari, you held out well.\n\nAmago Haruhisa, prepare yourself!
+
+@13.2
+Lord Motonari, rest easy. We will crush the Amago forces.
+
+@13.3
+What, Ōuchi reinforcements!? Damn, damn...\n\nThere is no help for it, retreat! Back to Izumo, men, follow me!
+
+@13.4
+This is our chance. Pursue Amago Haruhisa!
+
+@14
+Found a charm at the shrine
+
+@15
+Storeroom
+
+@16
+Storeroom
+
+@17
+Found Materials in the village
+
+@18
+Found Materials in the village
+
+@19.0
+This is the village's savings. Please use it.
+
+@20
+Gained 250 gold
+
+@21.0
+And please take this too.
+
+@22.0
+I am a craftsman. Please let me work in the Kōriyama workshop.
+
+@23
+Found Materials in the village
+
+@24
+Found Materials in the village
+
+@25
+Found Materials in the village
+
+@26.0
+We have taken the Amago fort!
+
+@27.0
+We have taken the Amago fort!
+
+@28.0
+We have taken the Amago fort!
+
+@29.0
+We have taken the Amago fort!
+
+@30.0
+Ugh... Ōuchi reinforcements arriving this fast! Retreat! Retreat to Izumo!
+
+@31.0
+...Ugh! As expected of Motonari, to fight so well against this great army...
+
+@31.1
+Withdraw to Kanayama!
+
+@32.0
+Damn that Motonari, damn him...!
+
+@33.0
+To think I could do nothing myself. I will repay this debt without fail!
+
+@34.0
+Mm... That Motonari is quite capable.
+
+@35.0
+...Watch the end of this coward well! Uoooooh!
+
+@36.0
+Lord Motonari. It seems we made it in time.
+
+@36.1
+Lord Harukata, I am grateful. Please give my regards to Lord Yoshitaka.
+
+@36.2
+...Y-yes.
+
+@37.0
+...\n\nThe Mōri forces are indeed strong... But I cannot afford to lose. I have a beloved wife and child. If I am beaten by the Mōri here, my wife and child will be... I absolutely cannot lose!
+
+@38.0
+So you have come, Motonari!
+
+@38.1
+Lord Okitsune, you are Lady Okata's nephew. I did not want to fight you... Lord Okitsune... Please turn your army back.
+
+@38.2
+I cannot! Now is the chance to raise the Kikkawa name! Motonari! Here I come!
+
+@39.0
+Ha, there is Mōri Motonari! Masahisa of the Shingūtō will be your opponent!
+
+@40.0
+Is that Motonari there? It is my lord's command too, prepare yourself!
+
+@41.0
+Damn you, Motonari, so you were here! I will punish you myself!
+
+@41.1
+Lord Haruhisa... A green youth like you will not be the one to punish Motonari.
+
+@41.2
+Y-you, damn you! I will not forgive this!
+
+@42.0
+We have taken the Mōri's home castle!
+
+@42.1
+Damn!
+
+@43
+Our main camp was taken
+
+@44.0
+The Amago forces seem to have withdrawn. Victory is ours.
+
+@45
+Gained 1000 gold
+

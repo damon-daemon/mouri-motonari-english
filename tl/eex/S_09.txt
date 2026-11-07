@@ -1,0 +1,180 @@
+@0.0
+Now we go to subdue Hiraga and Asonuma!
+
+@1.0
+With the Ōuchi house in turmoil, now is the chance! We take Bingo!
+
+@2
+Pacification of Aki and Bingo\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@3.0
+Motonari, have you forgotten Lord Yoshitaka's kindness!\n\nSiding with the likes of Sue Harukata! I will not forgive it!
+
+@3.1
+Hmm... So Harukata did set the Mōri in motion. I do not want to fight Lord Motonari.
+
+@3.2
+So Motonari has moved. I cannot submit to the Amago now... Perhaps I should join hands with Motonari instead...
+
+@3.3
+We now go to subdue the Ōuchi-side Hiraga and Asonuma clans.
+
+@3.4
+My lord. Amago Haruhisa, hearing of Sue's rebellion, has turned his troops toward Bingo.
+
+@3.5
+What! Haruhisa.
+
+@3.6
+In eastern Bingo there are Yamanouchi Takamichi and Eda Takatsura... If those two turn their coats, it will be serious!
+
+@3.7
+The Amago are attacking!?\n\nWith my strength, I have no hope even if I sortie... All I can do is hold the castle and drag it out...
+
+@3.8
+...I see. The Amago...
+
+@4.0
+Let's go!
+
+@4.1
+(Asonuma Hirohide and Hiraga Hirosuke are far too valuable to kill...)\n(Is there some way to persuade them...)
+
+@5
+Pacification of Aki and Bingo\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@28.0
+Oh! There is gold in a place like this!
+
+@30.0
+I am the spear smith Noma Heizaburō. Please let me work in your workshop.
+
+@31.0
+Please accept this.
+
+@34.0
+Hm? What is it!
+
+@35
+Seki Masakiyo's men appeared
+
+@36.0
+My lord! Lord Takamoto's main wife has given birth to a healthy boy!
+
+@36.1
+Is that so! I have a grandson!\n\nWe must win this battle, whatever it takes!
+
+@37
+Attack and Defence rose
+
+@38.0
+Hm!
+
+@39
+The main Amago army under Amago Haruhisa arrived
+
+@40.0
+Amago Haruhisa has finally reached Bingo!
+
+@40.1
+Ha ha ha ha! You Ōuchi-side local lords of Aki and Bingo!\n\nWith Sue's rebellion, the Ōuchi reinforcements will be late! Surrender now while you can! Ha ha ha ha!
+
+@40.2
+...Yes, my lord! I, Takatsura, surrender to Lord Haruhisa! Please, please forgive me...
+
+@40.3
+Then, as proof, take the Mōri's Kōriyama Castle for me.
+
+@40.4
+Understood.
+
+@41
+Eda Takatsura went over to the Amago
+
+@42.0
+You turned your coat, Eda Takatsura!
+
+@42.1
+Eda has turned!
+
+@42.2
+We now leave the castle and attack Yoshida-Kōriyama, home of the Ōuchi-side Mōri Motonari! Follow me!
+
+@42.3
+Damn! Eda is aiming at Kōriyama! We must strengthen the castle's defence!
+
+@43
+Pacification of Aki and Bingo\nVictory\n  1. Amago Haruhisa retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@44
+Pacification of Aki and Bingo (Victory condition changed)\n\nVictory\n  1. Amago Haruhisa retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@45.0
+Motonari! No Ōuchi reinforcements are coming! Surrender at once!
+
+@45.1
+How strange. With Lord Haruhisa's army, we could drive you back easily even without Ōuchi reinforcements.
+
+@45.2
+M-Motonari...! Spouting such big talk. I will not forgive it!
+
+@46.0
+Lord Eda...
+
+@46.1
+I have nothing to say to you!
+
+@47.0
+Lord Motonari! I believed you would come without fail. From now on I serve under your command! Please give your orders!
+
+@48
+Yamanouchi Takamichi joined the party
+
+@49.0
+Lord Asonuma, why do you defy Lord Sue? Do you think you can beat Sue as he is now?
+
+@49.1
+...I cannot trust Sue Harukata. That is all.
+
+@49.2
+...Even I, Takamoto, do not trust Lord Sue entirely. If you cannot trust Sue, then trust me.
+
+@49.3
+...I understand. I will trust you, Takamoto.\n\nHowever... I will not submit to Sue. I submit to the Mōri clan.
+
+@50
+Asonuma Hirohide joined the party
+
+@51.0
+Lord Hiraga Hirosuke, why do you defy Lord Sue? Do you think you can beat Sue as he is now?
+
+@51.1
+My head house, Takayasu, is rebelling, so I cannot go against the head house.
+
+@51.2
+Ignore the head house's wishes. Is it not enough to act as you yourself think best?
+
+@51.3
+...You are right.\n\nFrom now on we follow the Mōri clan. Everyone, withdraw!
+
+@52
+Hiraga Hirosuke joined the party
+
+@53.0
+Aaargh!
+
+@53.1
+It seems Eda Takatsura has been beaten... Useless fellow. Well, no matter, we have Hatagaeshi Castle.\n\nNext is Kōzan Castle! Send part of the army to Kōzan Castle!
+
+@54.0
+Wh-what! Waaah!
+
+@55.0
+Beaten again...\n\nMotonari...! Retreat! Back to Izumo!
+
+@56.0
+We took Kōriyama Castle!
+
+@58.0
+It is our victory!\n\nWe return to Kōriyama Castle!
+

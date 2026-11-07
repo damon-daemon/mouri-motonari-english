@@ -1,0 +1,1365 @@
+@0
+Episode 7 "The Foolish March"
+
+@1
+Episode 7 "The Foolish March"
+
+@2
+Mountains near Gassan-Toda Castle
+
+@3.0
+What became of Hisayuki?
+
+@3.1
+He fell in battle.
+
+@3.2
+Damn... If only I had heeded Hisayuki's warning back then!
+
+@4.0
+Hm, are we being pursued?
+
+@4.1
+My lord!
+
+@5.0
+Mōri forces under Kuchiba, Kodama and Kunishi have set out to attack Kanayama Castle.
+
+@5.1
+If we are to slip through Mōri land, now is the only time, while it is thinly guarded.
+
+@5.2
+Yes. Hurry, we escape!
+
+@6
+Takeda Nobushige's Seat - Kanayama Castle - Living Quarters
+
+@8.0
+Prepare to flee at once. The Mōri army will be here soon.
+
+@8.1
+Have we lost?
+
+@8.2
+Forgive me... I could not beat Motonari.
+
+@8.3
+I will stay and fight too!
+
+@8.4
+No. Take your mother and the others and flee to Ankoku-ji in Aki.
+
+@8.5
+Father...
+
+@8.6
+Take him away.
+
+@9.0
+Father...
+
+@9.1
+Takewakamaru, you must live. Even if your father is slain, do not think of avenging me.
+
+@9.2
+Live on, for my share as well.
+
+@9.3
+Lord Takewakamaru, hurry!
+
+@9.4
+Go, Takewakamaru!!
+
+@10.0
+Ugh...
+
+@11.0
+Live. Live and live, and survive to the end...
+
+@12
+Before the fierce assault of the Mōri, the Takeda could do nothing.\n\nThe battle ended with Takeda Nobushige's suicide, and the Aki Takeda clan came to its end...
+
+@15.0
+Lord Sue, I thank you for your aid.
+
+@15.1
+Ha ha ha. Would you not have driven off the Amago even without our help?
+
+@15.2
+Surely not. I could never have managed that...
+
+@15.3
+Hm. It looked that way to me.
+
+@15.4
+By the way, about Takamoto. He will soon be returning to Kōriyama.
+
+@15.5
+What! Truly?
+
+@15.6
+After this war, it seems he is judged to be no longer needed as a hostage.
+
+@15.7
+Takamoto... I see. So that is how it is.
+
+@15.8
+Look forward to your reunion at Kōriyama.
+
+@15.9
+Then, if you will excuse me.
+
+@16
+Go to Living Quarters, Retainers', Council
+
+@18.0
+Lord Motonari, a messenger has come from Ōuchi Yoshitaka. He orders you to join the attack on the Amago.
+
+@18.1
+I see. So he judges that now is the time to finish off the Amago.
+
+@19.0
+I will take the field in this war too.
+
+@19.1
+Yes. I am counting on your service.
+
+@22.0
+Hm...? Is that Seki?
+
+@23.0
+Kanayama Castle has fallen. Takeda Nobushige took his own life. The Takeda are, in effect, destroyed.
+
+@23.1
+I see. Tell Kuchiba, Kodama and Kunishi they did well.
+
+@25.0
+Okata!
+
+@26.0
+What is it? Why are you in such a rush?
+
+@26.1
+Rejoice! Takamoto is coming back to Kōriyama.
+
+@26.2
+Oh, is it true?
+
+@26.3
+Lord Sue sent word. The day is not yet set, but he says he will return soon.
+
+@26.4
+At last... At last...
+
+@35.0
+I hear Gassan-Toda Castle is an impregnable mountain fortress.
+
+@35.1
+Do you mean to settle in for a long siege?
+
+@35.2
+I would like to, but Lord Yoshitaka is supreme commander. There is no telling how it will go.
+
+@36.0
+Nearly all the Ōuchi-side local lords will join this campaign.
+
+@36.1
+Besides ourselves, the Kikkawa name was among them.
+
+@37.0
+That Takamoto is being sent home means the Ōuchi have come to trust the Mōri. Your years of hardship have borne fruit.
+
+@38.0
+They say no trace of Takeda's surviving child was found at Kanayama Castle.
+
+@39.0
+Ah, Lord Shiji has come.
+
+@40.0
+Lord Motonari, a messenger from the branch Kobayakawa is waiting in the Council Hall.
+
+@40.1
+From the branch Kobayakawa? That would be Lord Okikage...
+
+@40.2
+My niece is married to Okikage. What can this be about?
+
+@40.3
+It seems Lord Okikage died of illness recently. They have a most earnest request regarding that.
+
+@40.4
+Lord Okikage has died!
+
+@40.5
+Understood. I will go to the Council Hall at once.
+
+@42.0
+Forgive this sudden visit to your castle.
+
+@43.0
+I was astonished to hear that Lord Okikage has died.
+
+@43.1
+In truth, we are still keeping his death secret.\n\nLord Okikage had no children, and there is no heir.
+
+@43.2
+So before the Ōuchi or the Amago learn of his death, we wish to take an adopted son from the Mōri clan.
+
+@43.3
+An adopted son...
+
+@43.4
+This is a letter signed by all our retainers. Please give it your consideration.
+
+@43.5
+I have received your letter. You shall have my reply another day.
+
+@43.6
+We beg your favour. Now, farewell.
+
+@44
+Hear the retainers, go to Living Quarters
+
+@45.0
+It is fortunate Lord Sue is not our enemy.\n\nThat army could not be beaten by any half measure.
+
+@46.0
+The Kobayakawa are in a complicated position, with a main house and a branch house.
+
+@46.1
+If you send someone, I recommend Lord Tokujumaru, who is calm and thoughtful.
+
+@47.0
+Are you ready?
+
+@49
+The Ōuchi-side local forces of Aki and Bingo, the Mōri among them, joined Ōuchi Yoshitaka's army.\n\nThey took the Amago branch castle Akana with irresistible force and entered Izumo under the guidance of Kikkawa Okitsune.\n\nBefore the attack on Gassan-Toda Castle, Yoshitaka gathered his generals for a council of war.
+
+@50
+Talk to the commanders
+
+@51
+Ōuchi Army Main Camp
+
+@52.0
+Prepare thoroughly. It will be a great battle.
+
+@53.0
+Gassan-Toda will not fall like Kanayama. It will be troublesome.
+
+@54.0
+Lord Takamoto has grown splendid, has he not?\n\nHis build is sturdy too. He must have kept training.
+
+@55.0
+With Lord Takamoto here, we are worth a hundred men. I look forward to fighting together.
+
+@56.0
+The Takeda are, in effect, destroyed. I will report it to Lord Shiji and the others later.
+
+@57.0
+I hear Lord Takamoto is coming home. What a joy.
+
+@58.0
+The Ōuchi side will be a great host, but Gassan-Toda cannot be taken by numbers alone.
+
+@59.0
+That was a hard fight. Once Lord Kuchiba and the others take Kanayama Castle, the unification of Aki will advance another step.
+
+@60.0
+The Kobayakawa adoption is not a bad offer. You should accept it.
+
+@61.0
+It seems the Ōuchi mean to destroy the Amago in this war.
+
+@62.0
+...The unification of Aki... It is no longer a dream.
+
+@63.0
+...The adoption from the Kobayakawa... Whom do you intend to send?
+
+@64.0
+...The local lords on the Amago side... Most of them have gone over to the Ōuchi.
+
+@65.0
+The Amago must have taken heavy damage this time. They will keep quiet for a while.
+
+@66.0
+So the Kobayakawa are desperate too.\n\nTo have no heir is fatal in an age of war.
+
+@67.0
+Almost all the Aki local gentry have sworn obedience to the Mōri.
+
+@67.1
+Only the local lords such as the Kikkawa seem unwilling.
+
+@68.0
+I would like to strike the Amago in one blow, but Gassan-Toda is an impregnable mountain castle. A frontal assault will not work.
+
+@69.0
+The Kobayakawa seat is Takayama Castle, near the Bingo border.
+
+@69.1
+If we win them over, we gain a position on the front line against the Amago.
+
+@70.0
+Kikkawa Okitsune is utterly inconsistent, and his retainers seem to distrust him.
+
+@71.0
+I am truly glad...
+
+@72.0
+About the adoption...
+
+@72.1
+If it is for the Mōri, Tokujumaru will go gladly.
+
+@72.2
+...Is that all right?
+
+@72.3
+Yes. Everything is for the sake of the house.
+
+@73
+Ankoku-ji
+
+@74.0
+Did you sleep well?
+
+@74.1
+No... I kept worrying about Father.\n\nWhat of Father? And the castle? Please tell me, Lord Eshin.
+
+@74.2
+First, sit down.
+
+@75.0
+Your father took his own life when Kanayama Castle fell.
+
+@75.1
+...!!\nUgh...
+
+@76.0
+Do you remember your father's words? Did he not tell you to live on for his share as well?
+
+@76.2
+Takewakamaru, become a monk. Become a monk, and learn what it is to live.
+
+@76.4
+(Now... Now I have no power at all. But someday... I will avenge my father!)
+
+@79.0
+Grandfather!
+
+@80.0
+You fool... You ignored both my warning and Hisayuki's...
+
+@80.1
+You forced the attack on the Mōri... *cough* And this is the result!
+
+@80.2
+I am sorry...!
+
+@80.3
+Hisayuki... *cough* and so many retainers lost... What do you mean to do about it...
+
+@80.4
+I have no words...!
+
+@80.5
+...Listen... I am going to die. This is my last warning. Take it to heart.
+
+@80.6
+Grandfather, why such weak talk?
+
+@80.7
+...Listen. The one who will threaten the Amago in the future is not Ōuchi Yoshitaka, but Mōri Motonari. ...Never forget that!
+
+@80.8
+Grandfather!
+
+@80.9
+...If you were a head of the house like Motonari... I could die in peace...
+
+@80.10
+...
+
+@81.0
+Ugh...
+
+@82.0
+Motonari... I will not lose to you...!
+
+@83.0
+(The Amago's future... Perhaps this dark cloud can no longer be swept away...)
+
+@85.0
+Amago Tsunehisa is dead, and Kikkawa Okitsune, Mitoya Hisasuke, Misawa Tamekiyo and others on the Amago side have come over to us.
+
+@85.1
+The Amago are now barely breathing. The Kikkawa ask us to subdue them. Now, what shall we do?
+
+@86.0
+Never miss a chance! We should strike the Amago at once.
+
+@86.1
+It is too early.
+
+@86.2
+Though their neighbours betrayed them, the Amago still have strength to spare.
+
+@86.3
+Indeed. Forcing an attack would only repeat the Amago's own mistake.
+
+@86.4
+Yet if they regain strength later, it will be troublesome.
+
+@86.5
+All the same, I think we should launch a full attack now and finish them.
+
+@86.6
+I agree.
+
+@87.0
+Very well. We attack the Amago. Sue, Sugi, Naitō and Hironaka, follow me.
+
+@87.1
+Send requests for reinforcements to the Mōri, Kobayakawa, Miyoshi, Yamanouchi and Yamana!
+
+@90.0
+I hear Lady Sugi has taken to her bed.
+
+@90.1
+It does not seem serious, but she is of an age now. Even small things worry me.
+
+@90.2
+I worry too. I owe Lady Sugi a debt I can never repay.
+
+@90.3
+She must live a good deal longer, or I cannot show her my filial duty.
+
+@91.0
+Ah...!
+
+@92.0
+It is Lord Takamoto.
+
+@92.1
+Father, Mother... I have returned.
+
+@93.1
+Oh dear. That's right, it is Takamoto now.
+
+@93.2
+Tarō is fine too, Mother. I am glad you are well.
+
+@94.0
+Welcome... home.
+
+@94.1
+At last I can fight beside you for the Mōri, Father.
+
+@94.2
+I have waited for this day too.
+
+@94.3
+By the way, I do not see Kiku...
+
+@95.0
+She became Kunishi's wife. She is doing well.
+
+@95.1
+I see.
+
+@96.0
+She became Naritada's wife. She is doing well.
+
+@96.1
+I see.
+
+@97.0
+She became Shishido's wife. She is doing well.
+
+@97.1
+Shishido's... I see. Kiku is doing her best for the Mōri, then.
+
+@98.0
+Brother!
+
+@99.0
+Let us have a match! Teach me martial arts!
+
+@99.1
+Ah, you must be Jirō. Very well, your brother will train you.
+
+@99.2
+Tokujumaru, you come too! I will train you both.
+
+@99.3
+Yes, Brother!
+
+@100.0
+He has grown so fine...
+
+@102.0
+In truth, an offer of adoption has come from the branch Kobayakawa.
+
+@102.1
+Adoption... Just when Takamoto is coming home...
+
+@102.2
+It is not to be done at once.
+
+@102.3
+After his coming of age, he would be adopted as their heir.
+
+@102.4
+Whom do you have in mind?
+
+@102.5
+Tokujumaru.
+
+@103.0
+So from now on I shall see Takamoto every day.
+
+@104.0
+I am all right. Rather than worry about me, worry now about the Mōri's future.
+
+@105.0
+I am truly glad. Now the Mōri have their heir back, and the house will be bound still more tightly together.
+
+@105.1
+*cough* *cough*
+
+@105.2
+Oh, have you caught a cold? If it pains you, you must rest.
+
+@105.3
+No, it is not enough to need rest. I am all right.
+
+@106.0
+An offer of adoption has come from the branch Kobayakawa.
+
+@106.1
+You should accept.
+
+@106.2
+Friendship with the Kobayakawa would be as good as a bond with the Kikkawa.
+
+@106.3
+Jirō and Tokujumaru will not complain.
+
+@106.4
+Those boys already understand what the age of war is.
+
+@106.5
+But would Okata accept it? As a mother, to lose another child after Takamoto...
+
+@106.6
+For the sake of the Mōri... Okata is not one who cannot understand that.
+
+@106.7
+And Takamoto is coming home.
+
+@106.8
+...True. I will ask her.
+
+@107.0
+Brother? Hmm... What sort of person is he?
+
+@108.0
+If it is for the Mōri, I will go as an adopted son too.
+
+@108.1
+If anything happens to the Mōri, I will surely send reinforcements.
+
+@109.0
+I want to meet him soon. I have so much to learn from him.
+
+@110.0
+If I am to be adopted as an heir, I will have to study how to be a clan head.
+
+@111.0
+After the battle at Kōriyama, I never thought the time would come to fight side by side.
+
+@112.0
+Thank you for deciding on the branch adoption. I ask your continued favour.
+
+@113.0
+I am Yamanouchi Takamichi, lord of Kōzan Castle. The one beside me is Watanabe Tōru, son of the late Watanabe Suguru, known as Toraichi.
+
+@114.0
+I am Miyoshi Takasuke, lord of Hieoyama Castle. Pray remember me.
+
+@115.0
+I am Mitoya Hisasuke, lord of Mitoya Castle.\n\nI have heard of your fame, Lord Motonari.
+
+@116.0
+I am Misawa Tamekiyo, lord of Misawa Castle.\n\nThis must be fate. I ask your favour.
+
+@117.0
+I am Watanabe Suguru's son. After my father's death, the Yamanouchi looked after me.
+
+@117.1
+I was sorry about your father.
+
+@117.2
+I know there were complicated circumstances. The Amago, Lord Saka...
+
+@117.3
+I think it could not be helped.
+
+@118.0
+I am Sugihara Masaoki, lord of Kannabe Castle. I ask your favour.
+
+@119.0
+Thank you all for gathering. We now begin the attack on Gassan-Toda Castle, but in truth I am troubled over how to go about it.
+
+@119.1
+So I wish to hear everyone's opinion.
+
+@119.2
+The Amago no longer have the strength to withstand our great host.
+
+@119.3
+We should simply storm it at once.
+
+@119.4
+True, the Amago have no strength, but a frontal assault on the solid Toda Castle seems reckless.
+
+@119.5
+Lord Motonari, how timid. There is nothing for it but a frontal assault.
+
+@119.6
+Numbers mean nothing before Toda Castle.
+
+@119.7
+Narrow paths and steep slopes keep us from committing large numbers. We must settle in for a long siege and wait for the enemy to wear themselves out.
+
+@119.8
+There is a limit to how long an army this size can be kept up.
+
+@119.9
+Besides, with our home provinces left empty, we cannot afford a leisurely siege.
+
+@119.10
+Sue is right. Very well, we launch a full assault on Toda Castle.
+
+@119.11
+(This is bad... This plays right into the Amago's hands...)
+
+@120
+Despite Motonari's fears, the Ōuchi army's full assault began.\n\n\n\n\nBut the steep roads of Toda Castle allowed only part of the troops to fight, the great host lost its meaning, and time and men's lives were spent in vain.\n\n\nMeanwhile the Amago cut the Ōuchi supply line and in an instant threw the great army into disadvantage. Numbers turned against them, and the tide of battle tilted to the Amago. At this point the Kikkawa, Mitoya and Misawa, who had turned from the Amago to the Ōuchi, went back over to the Amago, and the Ōuchi army was forced to retreat.\n\nCovering the retreat were Mōri Motonari and Kobayakawa Masahira. The Amago pursuit was right on their heels...
+
+@150.0
+I hear Heizō has joined the Mōri.
+
+@150.5
+Please let me lend my strength to you too, Lord Motonari.
+
+@150.6
+I see. What is your trade?
+
+@154.0
+I am Mikasa Jinza, a spear smith.
+
+@154.1
+Will you put my skill to use in the Mōri army?
+
+@156.1
+Then I shall take my leave.
+
+@157.0
+Sorry, but ask me another time.
+
+@158.0
+Sorry, but ask me another time.
+
+@159.0
+Please beat my father at shōgi. He is always at the tavern.
+
+@160.0
+So you lost to my father at shōgi. Please try hard and beat him.
+
+@161.0
+You seem to have trained at shōgi. Please challenge my father again.
+
+@162.0
+I did as you asked. I beat your father.
+
+@162.1
+As expected of you! Please, may I join your company?
+
+@162.2
+Very well. I count on you.
+
+@163.1
+Then I shall take my leave.
+
+@164.0
+Sorry, but ask me another time.
+
+@164.1
+I see... Then I shall take my leave.
+
+@165.0
+I am a bowyer.
+
+@165.1
+Oh, a bowyer...
+
+@167.0
+Will you lend me your strength?
+
+@167.1
+Yes. If my skill can be of use, gladly.
+
+@167.3
+Only...
+
+@167.4
+Only? If you have something to say, do not hold back.
+
+@167.5
+I wish to serve under someone with a gift for tactics and command.
+
+@167.6
+A gift for tactics and command... It depends on my skill, then?
+
+@167.7
+Yes, forgive my rudeness.
+
+@167.8
+I wish to see whether you, Lord Motonari, excel in war.
+
+@167.9
+I see. I understand what you mean.
+
+@167.10
+Then tell me concretely what I must do.
+
+@167.11
+Yes. I believe the basis of tactics lies in shōgi.
+
+@167.12
+Hmm... That may well be so.
+
+@167.13
+If you can beat my father at shōgi, Lord Motonari, I would like to join your company.
+
+@167.14
+Your father?
+
+@167.15
+Yes. In the past my father was famed as a tactician of great skill.
+
+@167.16
+Hmm, he sounds a formidable foe.
+
+@167.17
+Try hard and beat my father. He is always at the tavern.
+
+@173.0
+...Sorry, but I cannot take you on now.
+
+@187.0
+Unfortunately, I cannot put you to use either.
+
+@194.0
+If that man is to join you, Lord Motonari, I would like to lend my strength too.
+
+@201.0
+No, no... I keep thinking about war without meaning to.
+
+@202.0
+By the way, did you get the secret of shōgi from the old man at the training ground?
+
+@203.0
+They say the old man at the training ground is a shōgi master.
+
+@205.0
+This is the training ground.
+
+@206.0
+Having a skilled craftsman on our side is very reassuring.
+
+@208.0
+What fine iron. It will make good material...
+
+@208.1
+But looking closely, there is a little rust on it.
+
+@208.2
+Do not worry. He will be here soon.
+
+@208.3
+He is coming? Who?
+
+@208.4
+A spear smith.
+
+@208.5
+A spear smith...
+
+@208.6
+Ah, here he comes!
+
+@209.0
+I am Mikasa Jinza, a spear smith.
+
+@209.1
+Lord Motonari, please let me look at that iron.
+
+@209.2
+That is fine, but can it be mended?
+
+@209.3
+There is no rust I cannot remove.
+
+@210
+Mikasa Jinza removed the rust
+
+@211.0
+Oh, truly a fine skill.
+
+@211.1
+I am honoured by your praise.
+
+@212.0
+Will you put me to use under the Mōri?
+
+@214.1
+Then I shall take my leave.
+
+@215.0
+Sorry, but ask me another time.
+
+@215.1
+I see... Then I shall take my leave.
+
+@216.0
+Sorry, but ask me another time.
+
+@217.0
+A spy once sneaked in here, so we have tightened our watch.
+
+@218.0
+I am no good at using my head... All I need is to drink here like this.
+
+@219.0
+Shōgi? I am bad at it.
+
+@220.0
+A man named Yamanoue Tametsugu was looking for you, Lord Motonari.
+
+@222.0
+This fellow's drinking habits are always a trouble.
+
+@223.0
+If you have the materials, hand them to a craftsman.
+
+@224.0
+As ever, so many people about.
+
+@225.0
+This should work as material. Please take it.
+
+@226.0
+Merchants never give a discount.
+
+@227.0
+Damn... Why... *hic* *hic*
+
+@227.1
+Oh, never mind him. He weeps when he drinks.
+
+@228.0
+My love of drink will never be cured.
+
+@229.0
+To buy, or not to buy... that is the question.
+
+@230.0
+If I were a man, I would surely have become a craftsman. What would my life have been then...
+
+@231.0
+Oh no! There is a person collapsed over there.
+
+@232.0
+This shop has finally settled in lately.
+
+@233.0
+Oh, Lord Motonari. I have something to give you.
+
+@233.1
+Oh? What might it be?
+
+@233.2
+Um... huh? Where was it...
+
+@233.3
+I am sorry. I must have left it at home.
+
+@233.4
+I will go and fetch it right now.
+
+@234.0
+Huh? Is that not what she wanted to give Lord Motonari?
+
+@234.1
+Is it?
+
+@234.2
+Yes, she asked me to keep it for her a while ago.
+
+@234.3
+She is as scatterbrained as ever... Anyway, please take this.
+
+@237.0
+Please take care of yourself.
+
+@238.0
+Please use this.
+
+@239.0
+Lord Motonari, have you finished your shopping?
+
+@240.0
+I give you this. Please put it to good use.
+
+@241.0
+Lord Motonari, will there be another battle soon?
+
+@242.0
+I was astonished by the monk at the temple.\n\nI would like my luck raised too.
+
+@243.0
+I have worked in this workshop for many years, and I suppose it is time to retire. My body aches so badly lately...
+
+@244.0
+Everyone surely grows by gaining experience.
+
+@245.0
+I know little of war... But whatever you do, if you throw yourself into it with passion, you will surely manage it well.
+
+@246.0
+I will not lose to the young ones yet.
+
+@247.0
+You have improved a great deal. Challenge me again.
+
+@248.0
+I want to beat the former tactician at the tavern in shōgi.
+
+@248.1
+I shall teach you the secret.
+
+@249
+Learned the secret of shōgi
+
+@250.0
+You see, staying true to the basics is what matters.
+
+@250.1
+I see. That was most helpful.
+
+@251
+Intellect rose by 5
+
+@252.0
+I will not lose to the young ones yet.
+
+@253.0
+I will not lose to the young ones yet.
+
+@254.0
+So you beat him at shōgi! Congratulations.
+
+@255.0
+The temple is so restful.
+
+@256.0
+Lord Motonari, please take this.
+
+@257.0
+I must enjoy the taste of sake while my tongue has not faded...
+
+@258.0
+Lord Motonari, were you sent on an errand too? So was I.
+
+@259.0
+I wonder if that ninja lady will come here again...
+
+@260.0
+That lady really was a ninja, wasn't she?
+
+@261.0
+Is the lady who comes here a ninja?
+
+@262.0
+A lady in funny clothes has been coming here for a while.
+
+@262.1
+Funny clothes?
+
+@262.2
+Oh, she's back!
+
+@263.0
+You are a kunoichi, are you not?
+
+@263.1
+Yes, I am the kunoichi Ran.
+
+@263.2
+How did your training go since then?
+
+@263.3
+I have improved further and returned.
+
+@264
+Take her in\nNot this time
+
+@265.0
+Sending you to train was worth it.\n\nI would very much like your help.
+
+@265.1
+Understood. I look forward to serving you.
+
+@266
+Ran joined the party
+
+@267.1
+Yes. Then I shall take my leave.
+
+@268.0
+Then train a little longer, and I shall ask again.
+
+@268.1
+Yes, I will surely master the ninja arts and prove useful.
+
+@268.2
+Then I shall take my leave for tonight.
+
+@269.0
+However, my ninja arts are already complete.
+
+@269.1
+I beg you to take me into your service now.
+
+@270
+Take her in\nNot this time
+
+@271.0
+I see. Then I count on you.
+
+@271.1
+Understood. I look forward to serving you.
+
+@272
+Ran joined the party
+
+@273.1
+Yes. Then I shall take my leave.
+
+@274.0
+A pity. If fate allows, we shall meet again.
+
+@274.1
+Then I shall take my leave.
+
+@275.0
+No, hone your skills further.
+
+@275.1
+No. If you do not trust me, I have no wish to serve you any longer.
+
+@275.2
+I shall take my leave.
+
+@276.0
+You are a kunoichi, are you not?
+
+@276.1
+Yes, I am.
+
+@276.2
+How did your training go since then?
+
+@276.3
+I have steadily improved since before.
+
+@277
+Take her in\nNot this time
+
+@278.0
+Then I would very much like your help.
+
+@278.1
+Understood. I look forward to serving you.
+
+@279
+Ran joined the party
+
+@280.1
+Yes. Then I shall take my leave.
+
+@281.0
+Then train a little while, and I shall ask again.
+
+@281.1
+Yes. I will surely master the ninja arts and prove useful.
+
+@281.2
+Then I shall take my leave for tonight.
+
+@282.0
+Train further, until you are satisfied with your skill.
+
+@282.1
+Yes, understood. I will return having mastered the ultimate ninja arts.
+
+@282.2
+Then I shall take my leave for tonight.
+
+@283.0
+You are a kunoichi, are you not?
+
+@283.1
+Indeed I am.
+
+@283.2
+My army has no capable kunoichi, so I would like your help.
+
+@283.3
+Your kind words... I am still in training, but please take me into your service.
+
+@284
+Take her in\nNot this time
+
+@285.0
+Yes, I want your help right now.
+
+@285.1
+Understood. I am still inexperienced, but I look forward to serving you.
+
+@286
+Ran joined the party
+
+@287.1
+Yes. Then I shall take my leave.
+
+@288.0
+Then train a little longer, and I shall ask again.
+
+@288.1
+Yes, I will surely master the ninja arts and prove useful.
+
+@288.2
+Then I shall take my leave for tonight.
+
+@289.0
+Then train a little longer, and I shall ask again.
+
+@289.1
+Yes, I will surely master the ninja arts and prove useful.
+
+@289.2
+Then I shall take my leave for tonight.
+
+@290.0
+Come play again.
+
+@291.0
+Lord Motonari, I'll give you something nice.
+
+@291.1
+What is it?
+
+@291.2
+If you guess which hand it's in, right or left, I'll give it to you.
+
+@291.3
+Let me see.
+
+@292
+Right hand\nLeft hand
+
+@293.0
+Too bad...
+
+@293.1
+But I'll give it to you anyway.
+
+@294.0
+You got it! As expected of Lord Motonari. Here, I'll give it to you.
+
+@295.0
+They say luck is part of strength.
+
+@296.0
+Lord Motonari, let me raise your luck.
+
+@298.0
+Believe in God. Then you surely be saved.
+
+@299.0
+Even I cannot make a medicine to cure a drunkard.
+
+@300.0
+Use medicine well, according to its purpose.
+
+@301.0
+Lord Motonari, this is a Defence Tonic. Please take it.
+
+@302.0
+Never let your guard down in war.
+
+@303.0
+Lord Motonari, please do use this.
+
+@304.0
+If Lord Motonari's popularity grows, people will gather naturally.
+
+@305.0
+What sort of young man has Lord Takamoto become? I look forward to meeting him.
+
+@306.0
+Now it is an adoption. Well, he will not be a hostage, so we can go and visit him.
+
+@307.0
+Lord Takamoto... how fine he has become...
+
+@308.0
+Princess Kiku is preparing for her wedding.
+
+@309.0
+So the adoption cannot be refused after all.
+
+@310.0
+I am glad Lord Takamoto is back, but... Is Lady Sugi all right?
+
+@311.0
+I am bored. Shall I do something?
+
+@312.0
+When Lord Takamoto takes a wife, please let her live in this residence. I beg you, Lord Motonari.
+
+@312.1
+Until then, I will pass the time with some piecework.
+
+@313.0
+Shall I take up some piecework?
+
+@314.0
+As expected of Lord Motonari. Now Sanjūrō can serve you with an easy mind.
+
+@315.0
+Please play shōgi with me.
+
+@315.1
+I accept.
+
+@316.0
+I will not lose so easily now.
+
+@317.0
+You have already perfected the standard openings.
+
+@318.0
+I am beginning to see how to build a solid defence.
+
+@319.0
+Hmm, I see.
+
+@320.0
+Shall we settle this soon?
+
+@321.0
+Whoa, I am beaten.
+
+@322.0
+Good, that is checkmate.
+
+@323
+Won a game of shōgi
+
+@324.0
+Well, I yield. As expected of Lord Motonari. I am no match for you now.
+
+@324.1
+I have come to see the fun of shōgi. It will help in strategy too.
+
+@325.0
+Would you be Murata Sanjūrō's father?
+
+@325.1
+I am.
+
+@326.0
+I would like to play you at shōgi.
+
+@326.1
+I see. I accept.
+
+@326.2
+Then I begin.
+
+@327.0
+First, stay true to the basics.
+
+@328.0
+Hmm, you play rather well.
+
+@329.0
+Do not rush for the win; build a solid defence...
+
+@330.0
+Oh, your skill has risen.
+
+@331.0
+And from here, attack all at once.
+
+@332.0
+Oh, so that is your move.
+
+@333.0
+Good, that is checkmate.
+
+@334
+Won a game of shōgi
+
+@335.0
+Well, I yield. As expected of Lord Motonari.\n\nTo improve this much in so short a time!
+
+@335.1
+Thank you for the game.
+
+@336.0
+Good, how is this?
+
+@337.0
+Heh heh... Your attack is still too soft.
+
+@338.0
+Hmm, he is strong indeed...
+
+@339.0
+How about this?
+
+@340.0
+Ugh, I blundered.
+
+@341.0
+It seems the game is decided.
+
+@342
+Lost a game of shōgi
+
+@343.0
+I yield. Well, I was no match at all.
+
+@343.1
+Come again any time. I will play you.
+
+@344.0
+Oh, I want to play shōgi... Is there a strong opponent somewhere...
+

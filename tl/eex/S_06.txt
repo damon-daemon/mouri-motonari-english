@@ -1,0 +1,303 @@
+@0.0
+All forces, retreat! Mōri Motonari and Kobayakawa Masahira, you take the rear guard!
+
+@0.1
+Can we really shake off the Amago pursuit...
+
+@1.0
+Motonari! Not one soldier of yours will escape!
+
+@2
+Retreat from Izumo\nVictory\n  1. Motonari reaches the southeast point\nDefeat\n  1. Mōri Motonari retreats\n  2. More than 40 turns pass
+
+@3.0
+After them! Chase the Mōri and Kobayakawa!
+
+@3.1
+So it has come to this after all...
+
+@3.2
+Lord Motonari, leave this to us and flee quickly!
+
+@3.3
+B-but...
+
+@3.4
+If we go on like this, both the Kobayakawa and the Mōri will be wiped out... We will catch up soon. Now, go!
+
+@3.5
+...Understood! Masahira, good fortune in battle!\n\nWe begin our retreat to Aki now!
+
+@3.6
+Heh heh heh, Motonari... I will not let you go back to Aki alive!
+
+@4
+Retreat from Izumo\n\nVictory\n  1. Motonari reaches the southeast point\nDefeat\n  1. Mōri Motonari retreats\n  2. More than 40 turns pass
+
+@5.0
+Lord Motonari! Please, get away!
+
+@5.1
+Please... stay safe... guh.
+
+@6.0
+Argh! A blunder... they broke through.\n\nLord Motonari, please get away...
+
+@7.0
+D-defeated by Motonari again...
+
+@8.0
+Tch. To be beaten by a routed Mōri force.
+
+@9.0
+Hmm... Motonari has outwitted me. And I had such a chance...
+
+@10.0
+Argh! It is no use...
+
+@10.1
+Lord Motonari...
+
+@10.2
+...!? L-Lady Sugi!
+
+@10.3
+Lord Motonari, you must not give up until the end.
+
+@10.4
+Lady Sugi...\n\nIs this an illusion...?
+
+@11.0
+Lord Motonari, you have the great duty of supporting the Mōri clan... And Aki, the Chūgoku region and the realm all need you. You must not give up until the end.\n\nSugi will always be at your side...
+
+@11.1
+!\n\nLady Sugi, can it be...\n\nVery well! I will return to Aki without fail!
+
+@12
+Endurance rose by 100
+
+@13.0
+Fool, defying the Amago! Go beg Lord Tsunehisa's pardon in the next world!
+
+@13.1
+The chief of the Amago Shingū-tō, Amago Kunihisa!
+
+@13.2
+Motonari! I will make you repay the debt from Kōriyama!
+
+@14.0
+Motonari! You cannot run any more! Give up!
+
+@15.0
+You are a Mōri officer, aren't you. If you value your life, leave your valuables here! Or I'll cut you down!
+
+@15.1
+Interesting. Can you cut down this Motonari?
+
+@15.2
+What!? So... you are Mōri Motonari...! ............\n\n(No good. I can't cut him at all... What a man. To lose to him in sheer spirit...)
+
+@15.3
+What is it, can you not cut me?
+
+@15.4
+...I yield. I surrender to you, Lord Motonari.\n\nPlease use me as one of your men.
+
+@15.5
+...Very convenient. Then I shall ask you to guide us to Aki.
+
+@15.6
+Y-yes, sir!
+
+@16
+Kunitomi Ryūzō joined the party
+
+@17.0
+M-Motonari!
+
+@17.1
+Yesterday the Ōuchi, today the Amago... With such inconstancy you will never win your retainers' trust.
+
+@17.2
+I won't be lectured by the likes of you!
+
+@18.0
+Lord Motonari, what is the matter!
+
+@18.1
+We cannot go back alone. Masahira, come, quickly!
+
+@18.2
+Lord Motonari. If we all flee, we cannot hold back the Amago pursuit. We stay here. Now go!
+
+@18.3
+...!
+
+@18.4
+You need not worry about us!\n\nTo fall here is my loyalty to the Ōuchi! Now go!
+
+@18.5
+............Masahira.
+
+@19.0
+Tōru... how strong you have grown... How happy Suguru would be to see you.
+
+@19.1
+Lord Motonari...
+
+@19.2
+Say nothing. How about it? Join my army now and lend your strength to the Mōri?
+
+@19.3
+I am grateful. But I cannot.\n\nLook. There are enemies beyond this valley too...\n\nThey will arrive soon. I will hold them here...\n\nLord Motonari, hurry on ahead!
+
+@19.4
+Tōru...
+
+@19.5
+Go quickly! Even if I joined you, if you died I would have no face to show Father in the next world.\n\nNow, hurry!
+
+@19.6
+Forgive me, Tōru...
+
+@19.7
+Father, I will have a tale to bring to the next world...
+
+@20.0
+Hm!?\n\nHeizō, is that you! What are you doing in a place like this!
+
+@20.1
+It's been a while, brother.
+
+@20.2
+Are you hunting stragglers too?!
+
+@20.3
+No, I'm not that man any more.\n\nI serve Lord Mōri Motonari now.
+
+@20.4
+Which means...
+
+@20.5
+Right, we're running from the Amago.
+
+@20.7
+Brother. Please let us pass.
+
+@20.9
+I beg you!
+
+@20.10
+If my sworn brother asks, there's no helping it. Hey, you lot, pull out!
+
+@20.11
+Yes, boss!
+
+@20.12
+From now on I cover the Mōri army's retreat.
+
+@20.13
+Thanks, brother.
+
+@21
+Kunitomi Ryūzō joined the party
+
+@22.0
+It's been a while. Is my brother here?
+
+@22.1
+Ah! H-Heizō! Boss, it's Heizō!
+
+@23.0
+Heizō! What are you doing in a place like this!
+
+@23.1
+It's been a while, brother.
+
+@23.2
+Are you hunting stragglers too?!
+
+@23.5
+Right, we're running from the Amago.
+
+@23.7
+Brother. Please let us pass.
+
+@26.10
+If my sworn brother asks, there's no helping it. Hey, you lot, pull out!
+
+@49.0
+So they have run this far! After so much pursuit, Motonari must have no will left to fight. Good, all forces advance!
+
+@49.1
+Hm, the Kikkawa forces!
+
+@50
+Amago Kunihisa's forces appeared
+
+@51.0
+Motonari, here we come!
+
+@52
+Enemy reinforcements appeared
+
+@53.0
+What is that pack of bandits?
+
+@53.1
+Looks like the Mōri army retreating from Izumo. Prey at last... If we take Motonari's head, Amago Haruhisa will reward us! You lot, don't botch it!
+
+@53.2
+Yes, boss!
+
+@54.0
+Lord Motonari! Those are my old comrades. Let me talk them round.
+
+@55.0
+So the Mōri army did come this way!
+
+@55.1
+Damn! An ambush!
+
+@56.1
+Oh, Watanabe Suguru's son, Tōru!
+
+@56.2
+I will be the decoy and draw the enemy off. Flee in the meantime!
+
+@56.4
+I always meant to win great honour one day and clear my father's name. I know the danger well.
+
+@56.5
+Tōru...
+
+@56.6
+Now, flee quickly!
+
+@57.0
+My lord! A commander is fleeing over there!
+
+@57.1
+What?\n\nThat helmet is Motonari's...\n\nAfter him! Chase Motonari!
+
+@73.0
+Please take this too.
+
+@74.1
+I am a craftsman who drifted here from Izumo, Ejiri Matazō.\n\nI have been hiding until now, but I would like to work under Lord Mōri Motonari. Please make use of me.
+
+@78.0
+Please accept this too.
+
+@86.0
+Good, we are safe if we get this far!
+
+@87
+Gained 400 gold
+
+@88.0
+Good, retreat!
+
+@88.1
+...What a bad fight that was.
+

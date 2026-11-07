@@ -1,0 +1,918 @@
+@331
+Men, follow me!
+
+@332
+Eldest son Takamoto, advancing! I want only the enemy general's head!
+
+@333
+I am Terumoto! Watch me, Lord Motonari!
+
+@334
+Motoharu has arrived! Whoever blocks my way dies by my sword!
+
+@335
+Kikkawa Hiroie is here! See the valour I inherited from Father!
+
+@336
+Takakage advances! Behold my plan for certain victory!
+
+@337
+Now we sortie! The glory will be mine!
+
+@338
+Come, we sortie! I will scatter the enemy!
+
+@339
+Our efforts will decide the battle.
+
+@340
+Let's go! No enemy can stand against my unbeaten strategy!
+
+@341
+Watch closely. My archery is a marvel!
+
+@342
+I am the finest archer of the Mōri! I will shoot down their general!
+
+@343
+I will show a bow arm worthy of my father.
+
+@344
+The first spear's glory is mine! Charge for the main camp!
+
+@345
+The first spear is mine! I'll race straight to their camp!
+
+@346
+I am Iida Yoshitake! Let me show off my spear!
+
+@347
+Where is the enemy? Narikata will face you!
+
+@348
+I'm Nomi Munekatsu! I'll show you pirate warfare!
+
+@349
+I shall show you the power of the Buddha.
+
+@350
+With this bow I'll seize victory! Let's sortie!
+
+@351
+I'm with you! Fight to your heart's content!
+
+@352
+I aim for one thing only: the enemy general's head! I'll hit it!
+
+@353
+Heh... Let me show you the secrets of ninjutsu.
+
+@354
+Now to battle, let's go! I won't leave the glory to others!
+
+@355
+I am Takaie of Goryū Castle! Come, fight me!
+
+@356
+So the battle is here at last... My blood stirs...
+
+@357
+Whoever blocks the Mōri advance will rust on my blade!
+
+@358
+The battle begins... I tremble with eagerness...
+
+@359
+None can stand before me! Scum, prepare yourselves!
+
+@360
+Boys, it's war! Bring me my weapon!
+
+@361
+So it's war... How long will it last...
+
+@362
+I sortie! My lord, watch my deeds!
+
+@363
+A battle, ha ha ha! I'm looking forward to it!
+
+@364
+It seems to have begun. Right, let's go!
+
+@365
+Naoyuki, lord of Koi Castle, advances!
+
+@366
+I am Murakami Takeyoshi, chief of the Murakami navy, the best in the west!
+
+@367
+In the name of the Kurushima navy...
+
+@368
+The Kurushima navy serves the Mōri! Come near and be fish food!
+
+@369
+With this foreign piece, I'm invincible.
+
+@370
+Right, we sortie! I'll blow them to bits!
+
+@371
+I mastered the sword for revenge. Now I use it for the Mōri!
+
+@372
+I'll teach you the terror of the Buzen pirates.
+
+@373
+Now is the time to sortie! This gun will riddle them full of holes.
+
+@374
+Well now, who will win this battle?
+
+@375
+Time to sortie, then. Bring my spear!
+
+@376
+Now then, a battle! Time to cause some havoc!
+
+@377
+Let my flute's music lead us to victory.
+
+@378
+Akizuki Tanezane, head of the great Chikushi house, advances!
+
+@379
+You called for me?
+
+@380
+Heh heh, my arm itches. I'll show you my secret sword.
+
+@381
+Don't take me lightly because I'm a woman. See a kunoichi's arts.
+
+@382
+Another battle, is it...
+
+@383
+Looks like a battle is starting. Well, let's give it a go.
+
+@384
+Another battle... Buddha, forgive me...
+
+@385
+A battle! My turn at last!
+
+@386
+Don't worry about provisions. Leave it to Chōsuke here.
+
+@391
+The Mōri house ends here... Forgive me, all...
+
+@392
+To fall in a place like this... I've shamed my brothers...
+
+@393
+I can't face Lord Motonari...
+
+@394
+You made Motoharu retreat! I'll repay this debt one day!
+
+@395
+Damn! Can I not fill Father's place?
+
+@396
+You outwitted me... Well done...
+
+@397
+My blunder! My lord, forgive me.
+
+@398
+I can't die in a place like this! Fall back! Fall back!
+
+@399
+Withdraw at once!
+
+@400
+Before I could use Father's teachings...
+
+@401
+Damn, pull out!
+
+@402
+It has come to this. A retreat is unavoidable.
+
+@403
+Just as it was starting... Father, forgive me.
+
+@404
+Damn! I rushed for glory too eagerly!
+
+@405
+Father, forgive your unworthy son.
+
+@406
+Oh no, this is bad! Retreat!
+
+@407
+My blunder! I never thought they'd be this good...
+
+@408
+Tch, not bad! You won't get away with it next time!
+
+@409
+I must train harder...
+
+@410
+So this is it... I was careless! Next time, no mercy!
+
+@411
+No match for them. Fall back!
+
+@412
+What a disaster... I underestimated the enemy.
+
+@413
+Damn, I must retreat! Ninpō: Vanishing Smoke!
+
+@414
+How frustrating... We have no choice but to withdraw.
+
+@415
+To have to retreat here, how bitter!
+
+@416
+We'll lose at this rate. Flee before the retreat is cut off.
+
+@417
+Is this all my swordsmanship is? No! Next time...
+
+@418
+Tch, the tide has turned. Guess we have to retreat.
+
+@419
+They are this strong... We'll be wiped out at this rate...
+
+@420
+Pathetic, losing like this. Sorry, forgive me...
+
+@421
+My blunder, my blunder.
+
+@422
+The losses are worse than I thought... Let's pull out for now.
+
+@423
+I've lost, I see.
+
+@424
+Hmm... It can't be helped.
+
+@425
+A retreat? This can't be...
+
+@426
+The strongest pirate of the west retreats?! Damn them!
+
+@427
+In the name of the Kurushima navy... Next battle, for sure...
+
+@428
+Let's pull out. Life is worth more than anything.
+
+@429
+It can't be helped. We withdraw here.
+
+@430
+Even this cannon can't turn the tide...
+
+@431
+Not enough training... I must train all over again.
+
+@432
+Damn it! I've tarnished the pirates' name.
+
+@433
+Did I get too close? We have no choice but to retreat!
+
+@434
+Damn, surrounded? Retreat at once!
+
+@435
+Not yet, I can't die yet... Retreating is the only way.
+
+@436
+Still so green... I want more strength.
+
+@437
+My flute's music did not reach them...
+
+@438
+So my ambition ends here.
+
+@439
+Damn, at this rate... Ninpō: Tengo Escape!
+
+@440
+Damn, I underestimated them! Next time, no mercy.
+
+@441
+Eek! That's it, I can't!
+
+@442
+You'll remember this!
+
+@443
+Ow, it's no use... Sorry, I'm pulling out.
+
+@444
+Is this a trial? The Buddha's path is hard.
+
+@445
+My turn is over. I'll go home and think up a new tune.
+
+@446
+Hmm, will his lordship be all right without the baggage train?
+
+@451
+Battle of Arita Castle
+
+@452
+Siege of Kagamiyama Castle
+
+@453
+Battle of Funayama Castle
+
+@454
+Battle of Kanayama Castle
+
+@455
+Subjugation of Aki
+
+@456
+Battle of Yoshida-Kōriyama
+
+@457
+Retreat from Izumo
+
+@458
+Battle of Bingo
+
+@459
+Siege of Kannabe Castle
+
+@460
+Pacification of Aki and Bingo
+
+@461
+Westward Advance into Aki
+
+@462
+Battle of Itsukushima
+
+@463
+Advance on Suō and Nagato
+
+@464
+Battle for Moji Castle
+
+@465
+Battle of Iwami Silver Mine
+
+@466
+Siege of Shiraga Castle
+
+@467
+Siege of Gassan-Toda Castle
+
+@468
+Battle of Ōzu Castle
+
+@469
+Chikuzen Campaign
+
+@470
+Battle of Nunobeyama
+
+@471
+Bizen Campaign
+
+@472
+Battle of Kizugawa-guchi
+
+@473
+Battle of Kōzuki Castle
+
+@474
+Pursuit of Hashiba's Army
+
+@475
+Advance on the Home Provinces
+
+@476
+Battle of Azuchi Castle
+
+@477
+Pacifying Mino and Owari
+
+@478
+Battle of Sekigahara
+
+@479
+Battle of Gifu Castle
+
+@655
+I'll show no mercy. Are you ready?
+
+@656
+I won't hold back. Are you ready?
+
+@657
+I won't hold back. Are you ready?
+
+@658
+Facing you, young lord, is awkward. Ha ha ha.
+
+@659
+Well, well. Training, young lord?
+
+@661
+A skilled fighter, I see. Let us have a fair bout.
+
+@662
+He's good... That swordwork is no ordinary man's.
+
+@664
+A ninja, are you? You'll make a worthy opponent.
+
+@665
+Not a samurai... not a bandit... a ninja!
+
+@667
+Hm, he's good. Who is he?!
+
+@668
+A kunoichi... Can't let my guard down.
+
+@670
+You'll make a worthy opponent.
+
+@671
+You look quite skilled.
+
+@673
+Heh. Come at me from anywhere.
+
+@674
+There's always someone better. I'll show you!
+
+@675
+Heh heh. Come at me from anywhere.
+
+@676
+Don't go easy on me just because it's me.
+
+@677
+No need to hold back. Come at me!
+
+@678
+No holding back! Strike with all you've got!
+
+@679
+Even in practice it's a real fight. Don't go easy.
+
+@680
+Taste my swordsmanship!
+
+@681
+You dare challenge me? Laughable!
+
+@682
+...Let's fight!
+
+@683
+Here I come!
+
+@684
+Learn a kunoichi's skill!
+
+@685
+Prepare yourself!
+
+@686
+Heh, your stance is full of openings.
+
+@687
+The outcome is already clear.
+
+@688
+Looking down on me! That carelessness will kill you.
+
+@689
+Nonsense! I'll beat you back!
+
+@690
+Here I go, %
+
+@691
+Take this! %
+
+@692
+See this technique! %!
+
+@693
+Right! %!
+
+@694
+Swordsmanship secret! %
+
+@695
+Yaaah! %!
+
+@696
+Now, %
+
+@697
+Secret art, %...
+
+@698
+A kunoichi's art! %!
+
+@699
+I'll have to use %, it seems.
+
+@700
+I never thought I'd have to use %...
+
+@701
+I must use %, it seems.
+
+@702
+Finished? Then I'll sheathe my sword.
+
+@703
+I see. Then let us end it here.
+
+@705
+You still lack training. Ha ha ha.
+
+@706
+Young lord, a bout is fought to the end.
+
+@708
+Running away? What, is your sword a decoration?
+
+@709
+Heh, you only look strong.
+
+@710
+Heh, you only look strong.
+
+@711
+Hm, running? How cowardly...
+
+@712
+True ninja. Quick to flee...
+
+@714
+He fled! All talk, that one.
+
+@715
+He fled... Oh well.
+
+@716
+He fled! All talk, that one.
+
+@717
+Afraid? Heh, with that skill, no wonder.
+
+@718
+Ha ha ha. He tucked his tail and fled.
+
+@719
+Afraid? Hmph, with that skill, no wonder.
+
+@720
+Is this all, then?
+
+@721
+Quitting halfway is not admirable.
+
+@723
+Young lord, are you hurt?
+
+@724
+I nearly lost to you, young lord.
+
+@726
+Running? ...No, I won't pursue.
+
+@727
+Phew, that was close... I got off lucky.
+
+@728
+Phew, that was close... I got off lucky.
+
+@729
+Why did you run? You were winning...
+
+@730
+I think they had the upper hand...
+
+@731
+Why run? The fight was just starting...
+
+@732
+I almost lost there.
+
+@733
+That kunoichi is quite good.
+
+@734
+Even running, that kunoichi is better than me.
+
+@735
+Pathetic. And you call yourself a Mōri warrior?
+
+@736
+Phew... That was close.
+
+@738
+I seem to have managed a win somehow.
+
+@739
+You are quite skilled.
+
+@740
+A good workout. My thanks.
+
+@741
+That was a hard fight.
+
+@742
+I got through it somehow... Phew.
+
+@743
+A terrifying skill. I never thought I'd win.
+
+@744
+...A tough opponent.
+
+@745
+A highly skilled one.
+
+@746
+Tch, to push me this far...
+
+@747
+Phew, that was close.
+
+@748
+You are good, but no match for me.
+
+@749
+Foolish... Can't you see the gap in skill?
+
+@750
+I can't lose that easily!
+
+@751
+I win. Well, don't lose heart.
+
+@752
+You need more training. Practise hard.
+
+@753
+With that skill you're no match. Anyone else?
+
+@754
+Ten years too early to face me.
+
+@755
+Now, who's next?
+
+@756
+...Weak! Not enough training!
+
+@757
+Fool! To fight me with that skill!
+
+@758
+I win! Haven't you trained enough?
+
+@759
+You'd better sharpen your skills.
+
+@760
+Weak, weak. No match for me.
+
+@761
+I wasted my time.
+
+@762
+Splendid. The fruit of daily training?
+
+@763
+You're this strong? As expected.
+
+@764
+I'm impressed by your strength.
+
+@765
+Hmm... I never thought I'd lose to you, young lord.
+
+@766
+I was just a little careless.
+
+@767
+You've grown strong, young lord.
+
+@768
+Hm, strong indeed. I lacked training.
+
+@769
+I thought I could almost win...
+
+@770
+As I thought. He's quite skilled.
+
+@771
+...Ninja are strong.
+
+@772
+Damn! Losing to a mere ninja!
+
+@774
+What?! Why did I lose?!
+
+@775
+Losing to such a one is humiliating...
+
+@776
+To be beaten by a fellow kunoichi...
+
+@777
+I shouldn't have lost to him...
+
+@778
+Damn, I was careless. One more bout! Don't run!
+
+@780
+I yield. A complete defeat.
+
+@781
+Please fight me again.
+
+@783
+As expected of you, young lord. So strong.
+
+@784
+I'm no match for you, young lord.
+
+@785
+As expected of you, young lord. So strong.
+
+@786
+...Strong.
+
+@787
+Please, take me as your pupil...
+
+@789
+So this is a ninja... Impressive.
+
+@790
+I should never have challenged a ninja.
+
+@791
+I still need more training, it seems.
+
+@792
+Beaten by a fellow ninja... Shameful.
+
+@793
+What strength. I can't match it.
+
+@794
+A kunoichi... I'd hate to have you as an enemy.
+
+@795
+Kunoichi both, yet such a gap in skill...
+
+@796
+I lost?! Who is he?
+
+@797
+I'm humbled. This bout is entirely my loss.
+
+@798
+I'm humbled. This bout is entirely my loss.
+
+@799
+I win. Well, don't lose heart.
+
+@800
+Train harder.
+
+@801
+Let this spur you to train.
+
+@802
+Your attacks are soft, young lord.
+
+@803
+Young lord, with such skill you can't fight in war.
+
+@804
+With such skill you can't shine in war.
+
+@805
+At that level, your sword weeps.
+
+@806
+Weak! A warrior? Don't make me laugh.
+
+@807
+All talk. Come back later.
+
+@808
+Not yet. Use this chance to improve.
+
+@809
+Weakling... I'll train you myself.
+
+@810
+Weak. Are you really a ninja?
+
+@811
+Ten years too early to face me!
+
+@812
+I win. Come back later.
+
+@813
+Weak like that, you can't be a kunoichi. Come back later.
+
+@814
+Don't blame yourself. You had a bad opponent.
+
+@815
+I'm ready any time.
+
+@816
+Once you can beat me, we'll fight again.
+
+@817
+On the battlefield, one moment's slip means death!
+
+@818
+I thought you were stronger. How disappointing.
+
+@820
+You should train daily for battle...
+
+@821
+His lordship will laugh at you like that!
+
+@823
+I beat one so strong! I'll boast to everyone.
+
+@824
+I thought you strong, but it was a show.
+
+@825
+You only looked strong.
+
+@826
+Full of openings, for a ninja.
+
+@827
+Weak. Is he really a ninja?
+
+@829
+Heh, I can't lose that easily.
+
+@830
+Not worth the talk. No match for me.
+
+@831
+Heh heh, I can't lose that easily.
+
+@832
+Heh, you noticed too late. No match for me.
+
+@833
+Wasted my time again.
+
+@834
+You need training. Come back later.
+
+@835
+Take this % as a keepsake.
+
+@836
+I lost. Take my %.
+
+@837
+Use this % well.
+

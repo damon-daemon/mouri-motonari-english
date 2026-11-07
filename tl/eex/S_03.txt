@@ -1,0 +1,264 @@
+@0.0
+Advance! We take Kanayama Castle!
+
+@1.0
+We go to relieve Kanayama Castle now!
+
+@2
+Battle of Kanayama Castle\nVictory\n  1. Ōuchi Yoshitaka retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 70 turns pass\n  4. Takeda Mitsukazu retreats
+
+@3
+The advance force led by Kumagai Nobunao and Kikkawa Mototsune headed for Kanayama Castle, held by Takeda Mitsukazu.\nOn the way, however, they were surrounded by an ambush set by Ōuchi Yoshitaka.
+
+@4.0
+D-damn!
+
+@4.1
+An ambush!
+
+@4.2
+Ōuchi Yoshitaka's main army seems to lie across the river that flows beside Kanayama Castle.
+
+@4.3
+My lord! The advance force of Kikkawa and Kumagai is surrounded by Ōuchi troops!
+
+@4.4
+What!\n\nVery well, we go to their rescue. March out!
+
+@4.5
+Damn! Are the Amago reinforcements still not here!
+
+@4.6
+The Amago reinforcements are nothing to fear!\n\nShigenori! The Amago reinforcements seem to have started moving. As soon as you are ready, begin the attack on Kanayama Castle.
+
+@4.7
+Yes, sir!
+
+@4.8
+Heh heh heh... Motonari, you will surely regret turning to the Amago.
+
+@5
+Battle of Kanayama Castle\n\nVictory\n  1. Ōuchi Yoshitaka retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 70 turns pass\n  4. Takeda Mitsukazu retreats
+
+@6.1
+Oh! Is that not Hirotoshi's son, Sadatoshi?
+
+@6.2
+My father passed away last night.
+
+@6.3
+What, Hirotoshi!\n\n...\n\nI see...
+
+@6.4
+From now on I will join the ranks in my father's place.
+
+@7
+Fukuhara Hirotoshi's son Sadatoshi joined the party
+
+@8
+Enemy reinforcements arrived
+
+@9.0
+My service in this battle may win me a place with the Ōuchi. I must, at all costs...
+
+@10.0
+Damn! Retreat!
+
+@11.0
+Ugh! It seems I took a deep wound... Lord Motonari, I leave the rest to you.
+
+@11.1
+My lord! Lord Mototsune!
+
+@11.2
+Hurry! At this rate the vanguard will be wiped out!
+
+@12.0
+Mōri Motonari, I will remember that name well!
+
+@13.0
+Impossible! To be beaten by the likes of the Mōri!
+
+@14
+Found a treasure
+
+@15
+Found a treasure
+
+@16
+Found a treasure
+
+@17
+Found a treasure
+
+@18
+Found a treasure
+
+@19
+Found a treasure
+
+@20
+Found a treasure
+
+@21
+Found a treasure
+
+@22
+Found a treasure
+
+@23
+Storeroom
+
+@24
+Storeroom
+
+@25
+Storeroom
+
+@26
+Storeroom
+
+@27
+Found Materials in the village
+
+@28
+Found Materials in the village
+
+@29
+Found Materials in the village
+
+@30
+Found Materials in the village
+
+@31
+Found Materials in the village
+
+@32
+Found Materials in the village
+
+@33
+Found Materials in the village
+
+@34
+Found Materials in the village
+
+@35
+Found Materials in the village
+
+@36.0
+I am the craftsman Taji Hikoichi. Please let me work in your workshop.
+
+@37.0
+This is the town's savings. Please use it.
+
+@38
+Gained 200 gold
+
+@39.0
+Yoshitaka's main camp is right ahead! This battle is as good as won!
+
+@39.1
+It seems I rather underestimated the Mōri forces. Okifusa, strike down those pests!
+
+@39.2
+We cannot let the Mōri forces get any more arrogant. Begin the attack!
+
+@40
+Sue Okifusa's forces arrived
+
+@41.0
+Oh! Okifusa has arrived!\n\nI was tired of waiting, Okifusa! Now this battle is as good as won!
+
+@41.1
+Enemy reinforcements!
+
+@42.0
+The Amago reinforcements seem to have drawn near Kanayama Castle.\n\nShigenori! It is about time. Begin the attack on Kanayama.
+
+@42.1
+Yes, sir!\n\n...\n\nMen! We begin the assault on Kanayama Castle now! Advance!
+
+@42.2
+Sugi's army below the castle has started moving!\n\nAre the reinforcements still not here!
+
+@42.3
+The Ōuchi army has finally moved!\n\nIf Takeda's castle falls, we will be forced to withdraw too. We must defend it at all costs!
+
+@43.0
+Lord Motonari, thank you for coming such a long way to help us. What is in the storeroom is a small token of thanks. Take whatever you like.
+
+@44.0
+Are you Mōri Motonari?
+
+@44.1
+I am indeed!
+
+@44.2
+Your work at Kagamiyama was admirable, though you are our enemy.\n\nBut you made the Ōuchi your enemy, and that was your misfortune. I, Okifusa, will take your head!
+
+@45.0
+Boy! This time it will not go as it did at Kagamiyama!
+
+@46.0
+Lord Kumagai!
+
+@46.1
+The Mōri forces...
+
+@46.2
+Leave this to my army.
+
+@47
+Kumagai Nobunao retreated
+
+@48.0
+Mōri Motonari, prepare yourself!
+
+@49
+Saitō Tatsuyoshi's sword broke
+
+@50.0
+D-damn!\n\nMy sword broke! Curse it! I am beaten. Cut me down...
+
+@50.1
+Saitō, you seem quite skilled.\n\nHow about it, will you not serve our house?
+
+@50.3
+Put that swordsmanship to use for the Mōri.
+
+@50.4
+Understood. From now on I will work for the Mōri.
+
+@51
+Saitō Tatsuyoshi joined the party
+
+@52.0
+Ugh, how bitter...
+
+@52.1
+I have slain the castle lord Takeda Mitsukazu!\n\nHa ha ha ha, Kanayama Castle has fallen!
+
+@52.2
+The castle has fallen!\n\nWe are beaten! Retreat! All forces retreat!
+
+@53
+Takeda Mitsukazu's Kanayama Castle fell
+
+@54.0
+We have taken the Mōri main camp!
+
+@54.1
+Damn!
+
+@55
+Our main camp was taken
+
+@56.0
+Eeek!\n\nThe Mōri forces are this strong! R-retreat!
+
+@56.1
+The enemy commander, Ōuchi Yoshitaka, has retreated!\n\nVictory is ours!
+
+@57
+Gained 250 gold
+

@@ -1,0 +1,252 @@
+@0.0
+To unify Aki, we will subdue the castles of Takeda, Shishido, Kagawa and Kumagai!
+
+@1.0
+That Mōri, betraying the Amago is outrageous. We will cut him down!
+
+@1.1
+Lord Motonari has the strength to unite Aki. Perhaps we should follow the Mōri...
+
+@1.2
+I cannot bow to him without a fight! Let's go!
+
+@2
+Subjugation of Aki\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 70 turns pass
+
+@3
+Learning that the Mōri had marched out, Kumagai Nobunao and Kagawa Mitsukage, vassals of the Takeda, each prepared to meet them at their own castles. Takeda Mitsukazu deployed behind them.
+
+@4.0
+We now begin the campaign to subdue Aki.
+
+@4.1
+Kumagai Nobunao at Takamatsu Castle and Kagawa Mitsukage at Yagi Castle are ready to meet us in their castles. Takeda Mitsukazu has also come as backup.
+
+@4.2
+(I would like to win over both Kumagai and Kagawa as retainers, if possible...)
+
+@5.0
+The Mōri have left their castle...\n\nI do not want to fight the Mōri... But this too is my fate. It cannot be helped. I will avenge my father Motonao, who was killed by the Mōri and died in bitterness!
+
+@5.1
+So the Mōri have finally moved!
+
+@5.2
+Our army waits here and watches the course of the battle for a while.
+
+@5.3
+I will never lose to the likes of the Mōri.\n\nIf there is an opening, I will leave the castle and attack Kōriyama Castle! Be ready to march out at any time!
+
+@6
+Subjugation of Aki\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 70 turns pass
+
+@7.0
+We march out now and take the Mōri's Kōriyama Castle!\n\nMen, follow me!
+
+@8.0
+The Mōri seem to have gone to attack the Shishido. We seize the chance to take Kōriyama Castle!
+
+@8.1
+Follow Kumagai's army, all of you!
+
+@9.0
+Eek! R-retreat!
+
+@11.0
+How bitter...
+
+@12.0
+Father!\n\n...How bitter.
+
+@13
+Found a treasure
+
+@14.0
+I knew you would come here.\n\nI buried all this treasure. Please don't be angry that it is not much. Well, we meet again!\n\nI go to "Bingo". Adios!
+
+@15
+Mine
+
+@16
+Mine
+
+@17
+Mine
+
+@18
+Mine
+
+@19
+Mine
+
+@20.0
+Whoa! *cough* *cough*\n\nThe ceiling fell in. That was close...
+
+@21
+Mine
+
+@22
+Mine
+
+@23
+Mine
+
+@24
+Mine
+
+@25.0
+Whoa! *cough* *cough*\n\nThis smoke seems to be poison. That was close...
+
+@26
+Found Materials in the village
+
+@27
+Found Materials in the village
+
+@28
+Bandits appeared
+
+@29.0
+You are the one from that time...
+
+@29.1
+Lord Motonari, we'll back you up! You saved my daughter, and I'll repay that debt in full!
+
+@30
+Found Materials in the village
+
+@31.0
+This is the village's savings. Please use it.
+
+@32
+Gained 300 gold
+
+@33.0
+And please take this too.
+
+@34
+Found Materials in the village
+
+@35
+Found Materials in the village
+
+@36
+Found Materials in the village
+
+@37
+Bandits appeared
+
+@38.0
+I'll settle that score from the tavern right here and now!\n\nI'll make you learn how terrible a grudge over money is! Get ready!
+
+@39.0
+This is the village's savings. Please use it.
+
+@40
+Gained 300 gold
+
+@41.0
+And please take this too.
+
+@42.0
+I am a missionary from Portugal, Resu.\n\nSamurai, do you believe in God?\n\nIf you believe, I tell you something good.\n\nCross this bridge, go down the river, and where the river runs fast, there is treasure. If it is gone, I am sorry.
+
+@43.0
+Our army has reached its end...\n\nLord Mōri, I will commit seppuku. Will you spare the lives of my soldiers?
+
+@43.1
+Lord Kagawa...\n\nLord Kagawa, do not take your own life. Lend me your strength to subdue Aki.
+
+@43.2
+Lord Mōri...\n\nUnderstood. I, Mitsukage, will serve the Mōri clan.
+
+@44
+Kagawa Mitsukage joined the party
+
+@45.0
+Motonari, prepare yourself!
+
+@45.1
+Lord Shishido Takaie, please wait!\n\nLord Takaie, ever since the days of my father Hiromoto, the Mōri and the Shishido have been fighting.
+
+@45.2
+What do you say now!
+
+@45.3
+As long as we Aki local lords stay divided and scatter our strength, we will have to remain under the rule of the Ōuchi and the Amago forever.
+
+@45.5
+I mean to unite this Aki and build a province that can stand as an equal to the Ōuchi and the Amago.
+
+@45.6
+What!?
+
+@45.7
+To break free of Ōuchi and Amago rule, lend me your strength, Lord Takaie.
+
+@45.8
+Indeed, you are right, Lord Mōri...\n\nUnderstood. Let us join forces and build a province that can stand against the Ōuchi and the Amago.
+
+@46
+Shishido Takaie joined the party
+
+@47.0
+Will you not work for the Mōri?
+
+@47.1
+I place myself in your hands.
+
+@48
+Kumagai Nobunao joined the party
+
+@49.0
+So he was an opponent I could not match...\n\nWith no reinforcements, this castle has as good as fallen.\n\nLord Motonari, witness Kumagai Nobunao's end!
+
+@49.1
+Lord Kumagai, if you mean to take your own life, please stop.
+
+@49.2
+...!?
+
+@49.3
+I have come to ask for your strength, Lord Kumagai.
+
+@49.4
+What!?
+
+@49.5
+To bring peace to this Aki worn down by war, no, to bring peace to the whole Chūgoku, lend me your strength.
+
+@49.6
+To m-me...
+
+@49.7
+Yes.
+
+@49.8
+...\n\nLord Motonari, understood. My grudge against the Mōri is gone. From now on I serve the Mōri clan.
+
+@50
+Kumagai Nobunao joined the party
+
+@51.0
+We have taken the Mōri's home castle!
+
+@51.1
+Damn!
+
+@52
+Our main camp was taken
+
+@53.0
+The enemy is wiped out! Victory is ours!
+
+@54
+Gained 300 gold
+
+@55.0
+The enemy is wiped out! Victory is ours!
+
+@56
+Gained 300 gold
+

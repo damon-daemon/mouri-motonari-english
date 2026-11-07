@@ -1,0 +1,129 @@
+@0.0
+To relieve Ishiyama Hongan-ji, we carry provisions in by sea! Sally forth!
+
+@1.0
+Curse the Mōri, I will not let them interfere!
+
+@1.1
+A fight at sea is just what I want! The Kuki navy will be your opponent!
+
+@2.0
+Soon the Mōri supply train will bring us provisions. Everyone, endure until then! Trust in the Buddha's protection!
+
+@2.1
+A Mōri supply train, is it! They mean to carry in provisions! Have the Kuki navy at sea attack the train! We wait here and meet the Mōri force!
+
+@2.2
+Yes, sir! I will wring the Mōri out with ease.
+
+@3.0
+We will deliver these provisions without fail! Rest easy, Lord Terumoto!
+
+@3.1
+Good, I count on you. But avoid needless fighting. Leave the Oda army to us.
+
+@4.0
+So that is the Mōri supply train... Let's sink it before the Kuki chief arrives!
+
+@5
+Battle of Kizugawa-guchi\nVictory\n  1. Supply train reaches Hongan-ji\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The supply train is wiped out\n  3. The Mōri main camp is taken\n  4. More than 60 turns pass
+
+@6
+Battle of Kizugawa-guchi\n\nVictory\n  1. Supply train reaches Hongan-ji\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Terumoto retreats\n  2. The supply train is wiped out\n  3. The Mōri main camp is taken\n  4. More than 60 turns pass
+
+@7.0
+Damn! Fall back, retreat!
+
+@8.0
+Aaah!
+
+@9.0
+Damn! The supply train is wiped out...
+
+@10.0
+Aaah!
+
+@11.0
+Damn! The supply train is wiped out...
+
+@12.0
+Aaah!
+
+@13.0
+Damn! The supply train is wiped out...
+
+@20.0
+I am Kagura Sōen, a swordsmith. Please let me join your company.
+
+@22.0
+Crush the supply train! Men, charge the train!
+
+@22.1
+Reinforcements from south of Hongan-ji... Everyone, protect the supply train!
+
+@23.0
+Crush the supply train! Men, charge the train!
+
+@23.1
+Reinforcements from south of Hongan-ji... Everyone, protect the supply train!
+
+@24.0
+Crush the supply train! Men, charge the train!
+
+@24.1
+Reinforcements from south of Hongan-ji... Everyone, protect the supply train!
+
+@25
+Oda navy led by Kuki Yoshitaka appeared
+
+@26.0
+Chief! That fleet must be the supply train!
+
+@26.1
+A banner of one line and three stars... Indeed, the Mōri fleet. Right, men! Attack the Mōri ships!
+
+@27
+Oda navy led by Kuki Yoshitaka appeared
+
+@28.0
+Boss! That fleet must be the supply train!
+
+@28.1
+A banner of one line and three stars... Indeed, the Mōri fleet. Right, men! Attack the Mōri ships!
+
+@29
+Oda navy led by Kuki Yoshitaka appeared
+
+@30.0
+Boss! That fleet must be the supply train!
+
+@30.1
+A banner of one line and three stars... Indeed, the Mōri fleet. Right, men! Attack the Mōri ships!
+
+@31.0
+Phew... We got the provisions through somehow!
+
+@31.1
+A hard duty, well done. You did your best.
+
+@32.0
+We did it! We finally reached Hongan-ji!
+
+@32.1
+Well done! I, Terumoto, thank you from my heart.
+
+@33.0
+Lord Terumoto, rejoice! We delivered the provisions safely!
+
+@33.1
+Ah! Well done!
+
+@36.0
+Now the people of Hongan-ji will be saved.
+
+@36.1
+The sea transport plan succeeded splendidly.
+
+@36.2
+Lord Mōri, I am grateful. May the Buddha's protection be with you.
+

@@ -1,0 +1,1593 @@
+@0
+Episode 11 "Schemes"
+
+@1
+Episode 11 "Schemes"
+
+@2
+Usuki Castle - Council Hall
+
+@3.0
+Sue Harukata asks that you become head of the Ōuchi. Do you truly mean to accept?
+
+@3.1
+Of course. Is there some problem?
+
+@3.2
+You are Lord Ōuchi Yoshitaka's nephew, true.\n\nWith the Ōuchi main line cut off, it stands to reason that you should lead the house.
+
+@3.3
+But...
+
+@3.4
+But...? What is it?
+
+@3.5
+He fears that Sue Harukata is only using you.
+
+@3.6
+What! Brother, do you think I cannot keep Sue in check?
+
+@3.7
+Sue is a general who killed his own lord. Caution is only natural.
+
+@3.8
+Yet if it goes well, we might draw Sue over to the Ōtomo side.
+
+@3.9
+Sue only wants a justification. If he sets Lord Yoshinaga up, he will at least save face for now.
+
+@3.10
+So he has no intention of obeying Lord Yoshinaga.
+
+@3.11
+A puppet, then. Just what a rebel general would think of.
+
+@3.12
+I understand what you say, Brother. But if I refuse a man who asks for me, the Ōtomo's honour will suffer.
+
+@3.13
+Please leave this matter to me.
+
+@4.0
+If you insist, there is nothing to be done. Go, then.
+
+@4.1
+Yes. I am most grateful.
+
+@4.2
+Then I take my leave.
+
+@6.0
+We have nearly taken the whole domain. Now we only wait for Lord Yoshinaga to arrive.
+
+@6.1
+He should be here shortly.
+
+@6.2
+Listen well. Yoshinaga is merely a puppet to give us a just cause.
+
+@6.3
+The rebuilding of the Ōuchi will be done by our own strength alone.
+
+@6.4
+Understood.
+
+@6.5
+That is why we rebelled. We could never forget it.
+
+@6.7
+Lord Ōuchi Yoshinaga has arrived.
+
+@6.8
+Good. Show him in.
+
+@7.0
+Sorry to keep you waiting.
+
+@7.1
+We have been awaiting you.
+
+@7.2
+We intend to join forces and serve you, my lord.
+
+@7.3
+Good. Let us raise up the Ōuchi together, now that Lord Yoshitaka is gone.
+
+@7.4
+So, how do matters stand?
+
+@7.5
+The local lords in Aki who rose against you have already been put down by the Mōri, and the situation is coming under control.
+
+@7.6
+The Mōri also drove back Amago Haruhisa's army, which invaded Bingo. The Amago should leave us alone for a while.
+
+@7.7
+(As expected of Motonari. He has already taken Aki, apart from the southwest, and Bingo...)
+
+@7.8
+(Someday we will have to fight...\n\nNow that I bear the name of a rebel general, Motonari cannot join hands with me.)
+
+@7.9
+(For us and for the Mōri, the only way to survive is to become the master of the west.)
+
+@7.10
+(And... there can be only one master...)
+
+@8.0
+F-Father, terrible news!
+
+@8.1
+Do not panic. Report calmly.
+
+@8.2
+Yoshimi Masayori has raised an army! Sanbonmatsu Castle in Iwami is where the late lord's brother-in-law must be...!
+
+@8.3
+What! I thought the situation was coming under control!
+
+@8.4
+Do not worry, my lord. We expected this.
+
+@8.5
+We will form our army as planned long ago and strike at once!
+
+@8.6
+Sortie!
+
+@9
+Kiyosu Castle - Oda Nobuhide's Funeral
+
+@10.0
+How can we begin the funeral with no chief mourner?!
+
+@10.1
+After all, would it not be better if his younger brother succeeded to the headship, rather than that fool of a lord...
+
+@12.0
+Even at Lord Nobuhide's funeral, he comes in that usual getup...!
+
+@13.0
+(Dying so easily...)
+
+@14.0
+Far too soon!
+
+@15
+The headship of the Oda passed to Nobunaga.\nBut it would be some time yet before Nobunaga appeared on the stage of history.
+
+@18.0
+Both Sue and Yoshimi, now at war, have sent us requests for reinforcements.
+
+@18.1
+Both have asked...
+
+@18.2
+Sue Harukata is a rebel general who killed his lord, Ōuchi Yoshitaka. Heaven's punishment will surely fall on him.
+
+@18.3
+To side with Sue Harukata is to invite disaster upon ourselves.
+
+@18.4
+If instead we raise the banner to overthrow Sue Harukata, many generals will rise beneath it, and we can show the Mōri sense of honour.
+
+@18.5
+I understand what Brother says. But Sue Harukata's power is still great. He is not an enemy we can beat in battle.
+
+@18.6
+I agree. Fighting him head-on would mean certain annihilation.
+
+@18.7
+If Sue grows stronger, we will have to fight him someday. But that time has not yet come.
+
+@18.8
+Is there no way but to fight?\n\nWe owe Lord Sue a debt as well.
+
+@18.9
+Takamoto, I understand how you feel, but we cannot join hands with a rebel general.
+
+@18.10
+But...
+
+@18.11
+Wait, all of you.
+
+@18.12
+If we fight Sue now, Amago Haruhisa will not stay quiet either. He will surely attack Aki.
+
+@18.13
+Then the Mōri would be caught in a pincer between Sue and the Amago.
+
+@18.14
+Even so, I cannot accept just standing by!
+
+@18.16
+Lord Motonari, please decide.
+
+@19.0
+...Forgive me, but let me think for a while.
+
+@19.1
+Understood. Then I shall return to my castle for now.
+
+@19.2
+I will do the same. We await Father's decision.
+
+@19.3
+Then we will wait in the Senior Retainers' Hall.
+
+@20.0
+What should I do? Perhaps I should visit each of my sons.
+
+@21
+Visit your sons' castles
+
+@47
+Sakurao Castle - Council Hall
+
+@48
+Sakurao Castle - Senior Retainers' Hall
+
+@49
+Sakurao Castle - Living Quarters
+
+@50
+Sakurao - Storehouse
+
+@51
+Sakurao - Workshop
+
+@52
+Sakurao - Tavern
+
+@53
+Sakurao - Market
+
+@54
+Sakurao - Temple
+
+@55.0
+First we must deal with the Shingūtō, or we cannot remove the threat at our back.
+
+@56.0
+So you mean to settle matters with Lord Sue after all?
+
+@56.1
+Yes. It cannot be avoided.
+
+@56.2
+Our long-held wish is to unify Aki and break free of Amago and Ōuchi rule.
+
+@56.3
+To achieve either one, Sue Harukata will stand in our way as an enemy.
+
+@56.4
+I see... Very well. I will set aside private feelings.
+
+@56.5
+I am sorry to burden you.
+
+@56.6
+Then let me state my thoughts on fighting Sue Harukata.
+
+@56.7
+To face the Sue army with all our strength, we must first silence the Amago.
+
+@56.8
+For that, the first step is to remove the Shingūtō, the Amago's strongest fighting force.
+
+@56.9
+Everything else comes after.
+
+@57.0
+(I see...)
+
+@57.1
+(If Haruhisa and the Shingūtō are on bad terms,\n\nI may be able to use that to remove the Shingūtō.)
+
+@57.2
+(Then the Amago threat would be wiped away, and I could bring on the decisive battle with Sue.)
+
+@58.0
+Father, do you accept even stratagems?
+
+@58.1
+To avoid losing our own men, stratagems are necessary too.
+
+@59.0
+Revenge for my father-in-law, Lord Yoshitaka... I want you to take it.
+
+@60.0
+I would like to fight Lord Sue. It is a warrior's nature. When I see a strong opponent, my blood runs hot.
+
+@61.0
+War with Lord Sue... I have not trembled with battle fever like this since my first battle.
+
+@62.0
+What will you do?
+
+@63
+Fight Sue Harukata\nThink a bit more
+
+@64.0
+Sue Harukata is an enemy we cannot avoid after all. We march out. Everyone, prepare!
+
+@65.0
+There is still time to spare. Please think it over carefully.
+
+@68.0
+Please decide quickly. Every moment counts now.
+
+@69.0
+According to the report from the ninja under Seki, Haruhisa does not seem to like the Shingūtō very much.
+
+@70.0
+We may march out to different places, but we are still your men, my lord. Use us as you always have.
+
+@71.0
+We cannot join hands with Sue. Yet he is still too mighty to fight. We cannot simply make an enemy of him...
+
+@72.0
+What is Sue to us! We cannot let a rebel general live!
+
+@73.0
+Whatever you decide, my lord, I will simply wield my spear.
+
+@74.0
+...I do not want... to join hands with a rebel general.
+
+@75.0
+We will have to settle matters with Sue sooner or later.
+
+@75.1
+Father surely knows that as well.
+
+@76.0
+Father, do you know that Amago Haruhisa is at a loss over what to do with the Shingūtō?
+
+@76.1
+The Shingūtō is the Amago's strongest corps. He should rely on it, not shun it.
+
+@76.2
+They say it is because of their arrogance that he cannot handle them.
+
+@76.3
+The word comes from the Seki, so it is almost certainly true.
+
+@77.1
+(If Haruhisa and the Shingūtō are on bad terms, I may be able to use that to remove the Shingūtō.)
+
+@78.0
+I admire Sue Harukata's strength as a warrior. And now I get to fight such a man.
+
+@78.1
+Heh heh... I cannot stop trembling.
+
+@79.0
+Lord Motoharu can be reckless.\n\nIf someone does not take the reins, I worry for him...
+
+@80.0
+With the Amago's Shingūtō assassinated, there is nothing left to fear behind us.
+
+@81.0
+Father, why not send the Shingūtō a false secret letter?
+
+@81.1
+Make Haruhisa think that Amago Kunihisa, who leads the Shingūtō, has defected to the Mōri.
+
+@81.2
+Hm.
+
+@81.3
+I forge a secret letter addressed to Kunihisa, so that it looks as if he is in secret contact with us.
+
+@81.4
+And I arrange for the letter to fall into Haruhisa's hands... The rift between the Shingūtō and Haruhisa should deepen.
+
+@81.5
+Very well. I shall have the Seki do it at once.
+
+@83
+Amago Territory - Highway
+
+@84.0
+Hey, there is a rumour the Shingūtō is plotting a rebellion.
+
+@84.1
+No way. That cannot be true.
+
+@84.2
+But I hear Lord Haruhisa does not think well of the Shingūtō.
+
+@84.3
+Even so, do not say such reckless things as rebellion.
+
+@84.4
+Hm...?
+
+@85.0
+Hey, who are you? What are you doing here?
+
+@86.0
+Ah, hey, wait!
+
+@87.0
+Hey, where have you come from?
+
+@87.1
+No... it is nothing to do with me.
+
+@87.2
+Dodging the question? Suspicious.
+
+@87.3
+We will search you.
+
+@88.0
+You dare resist!
+
+@89.0
+Damn... I did not mean to...
+
+@89.1
+Hm? This fellow is carrying something. It looks like a scroll...
+
+@89.2
+......T-this is!
+
+@89.3
+What is it?
+
+@89.4
+A letter addressed to Lord Kunihisa. The sender is... Mōri Motonari!
+
+@89.5
+What! Report to the castle at once!
+
+@90.0
+Deliver it well...
+
+@92.0
+Unforgivable! I will crush the Shingūtō!
+
+@92.1
+Please wait, my lord. Could this be some mistake?
+
+@92.2
+It may be another province's stratagem.
+
+@92.3
+First let us confirm whether it is true...
+
+@92.4
+Silence! You know well how much trouble they have given me!
+
+@92.5
+Even after the Mōri made them swallow bitter defeat, they kept up their arrogant ways. I will show no mercy now!
+
+@92.6
+But if we lose the Shingūtō, our army's strength will fall greatly.
+
+@92.7
+I do not care! If you do not want the same fate, march out at once!
+
+@95.0
+Is there still no report from the Seki?
+
+@95.1
+Not yet.
+
+@95.2
+Hmm...
+
+@95.3
+Sorry to keep you waiting.
+
+@96.0
+Ah, we have been waiting. So, how did it go?
+
+@96.1
+Amago Haruhisa has put the Shingūtō to death.
+
+@96.2
+Put to death! He killed them?!
+
+@96.3
+His own kin, so easily... What coldness...!
+
+@96.4
+Even kin must be put to death if suspected... For the head of a province, that is not wrong.
+
+@96.5
+But still...
+
+@96.6
+Iida is right. I would have done the same and killed Mototsuna.
+
+@96.7
+My lord, that is a different matter!
+
+@96.8
+No, it is the same. Back then, I killed Mototsuna.
+
+@96.9
+Thinking of it now, perhaps the Amago were dancing me on a string.
+
+@96.10
+But it could not be helped, in order to protect the Mōri.
+
+@96.12
+I have finally begun to understand what it means to fight for a province's survival.
+
+@97.0
+Now that the threat of the Amago Shingūtō is gone, I have no hesitation in crossing swords with Sue.
+
+@97.1
+We advance west, aiming for Itsukushima.
+
+@97.2
+At last.
+
+@97.3
+First we unify Aki. After that we defeat Sue and the Amago and unify the western provinces.
+
+@97.4
+This is the first step.
+
+@97.5
+Everyone, prepare to march out!
+
+@99.0
+If you mean to fight Sue, we must first hold the Amago in check.
+
+@99.1
+If we fight the Amago by brute force, it will sap our strength against Sue.
+
+@99.2
+Is there no good move to be found?
+
+@100.0
+Please do not forget that against Sue we are still at an overwhelming disadvantage.
+
+@101.0
+Lord Takakage reads nothing but difficult books.
+
+@101.1
+What on earth do they say?
+
+@102.0
+Lord Takakage seemed to be deep in thought in his residence.
+
+@103.0
+The coming battle will decide the fate of the Mōri, Kikkawa and Kobayakawa.
+
+@104.3
+When I was a child, Lord Motonari saved my life in this market.
+
+@104.5
+That is right. I hear he shared a cure-all medicine with me...
+
+@104.7
+Years have passed... My mother has died, but until her last breath she kept saying she wanted to repay Lord Motonari's kindness.
+
+@109.0
+Then, I am sorry, but another time...
+
+@145.1
+I see... Then, I am sorry, but another time...
+
+@151.1
+I see... Then, I am sorry, but another time...
+
+@152.0
+Are you not... Nemoto Jinsuke, the armourer?
+
+@152.1
+Have you returned from your training journey?
+
+@152.2
+Lord Mōri Motonari. I have just returned.
+
+@152.3
+Glad to see you well. Do you remember the promise from before you left?
+
+@152.4
+Of course.
+
+@152.5
+Then will you put your skill to work for me this time?
+
+@152.6
+Yes, gladly...
+
+@154.0
+Then, I am sorry, but another time.
+
+@155.0
+I am Mōri Motonari. I have heard you are a craftsman of fine skill...
+
+@155.1
+Me? Fine skill? Not at all.
+
+@157.0
+Would you put your skill to work for me?
+
+@157.1
+It is a kind offer, but I am still far from skilled. I cannot imagine I would be of any use.
+
+@157.2
+In truth, I was thinking of setting out on a training journey.
+
+@157.3
+I mean to hone myself on the road and improve my craft.
+
+@157.4
+When the journey ends and I return, if you would call on me again...
+
+@157.5
+Then I would like to be of service to you.
+
+@157.6
+I understand. I will wait for your return.
+
+@157.7
+Forgive my selfishness.
+
+@157.8
+Then I shall be on my way...
+
+@158.0
+If fate allows, we shall meet again.
+
+@186.3
+Yes. Ever since we were parted, I searched desperately for this child...
+
+@186.7
+Samurai-sama. I know it is selfish of me, but could I still accept what you offered earlier?
+
+@189.0
+I have given up working for good. Go on home.
+
+@194.0
+I heard about you from the old man at the temple...
+
+@194.1
+...Please leave me alone.
+
+@196.0
+Your dead wife and child would not want to see you like this.
+
+@196.2
+Why not settle your regret over the war on the battlefield?
+
+@196.4
+...............\nYes, perhaps you are right.
+
+@196.5
+Will you lend me your strength?
+
+@196.6
+Yes...\nFor my dead wife and children, too!
+
+@197
+Saiei joined the party
+
+@199.0
+I understand how you feel...\nBut you must recover as soon as you can.
+
+@199.2
+We shall meet again...
+
+@200.0
+Ah... the sake is good.
+
+@201.0
+I came because I heard you are a very capable warrior monk.
+
+@201.1
+You are too kind.
+
+@201.2
+Would you not show that strength in the Mōri army?
+
+@201.3
+I have no interest. Please excuse me.
+
+@201.4
+I truly need your strength.
+
+@201.5
+I am better suited to drinking my sake here.
+
+@201.6
+Is he really a fine warrior monk...?
+
+@202.0
+Is this the flute that was your father's keepsake?
+
+@202.1
+Ah! Y-yes, my lord. This is the flute.
+
+@203
+Returned the flute to Kyōshirō
+
+@204.0
+Thank you!\nI will devote myself to the drum corps!
+
+@205
+Kyōshirō joined the party
+
+@207.0
+Without my father's keepsake flute, I am of no use to you.
+
+@207.1
+It was certainly bandits in Kōriyama who took it?
+
+@208.0
+That is it! I quit this work! I quit!
+
+@208.1
+Why are you so upset?
+
+@208.2
+Oh, Lord Motonari...
+
+@208.3
+I have worked as an armourer all this time, but...
+
+@208.4
+No matter how long I try, I can only make third-rate goods...
+
+@208.5
+Not everyone is born to the work he does.
+
+@208.6
+Why not take a bold step and try another trade?
+
+@208.7
+Eh?
+
+@208.8
+Is there nothing you are good at?
+
+@208.9
+If I must say, long ago I played instruments in taverns here and there with my father.
+
+@208.10
+Hmm... That may be of use.
+
+@208.12
+Go into battle as a drum corps.
+
+@208.13
+You think I can be of use?
+
+@208.14
+Yes. The drum corps is an important unit in battle.
+
+@208.15
+Make use of your strengths.
+
+@208.16
+Yes, but...
+
+@208.17
+What is it? Is something troubling you?
+
+@208.18
+No, the thing is, I have lost my father's keepsake, a treasured flute.
+
+@208.19
+Lost it?
+
+@208.20
+Yes... Bandits in Kōriyama took it along with my baggage.
+
+@208.21
+Hmm... how awful.
+
+@208.22
+I cannot play with any flute but that one.
+
+@208.23
+I see...
+
+@211.0
+Even the same sake tastes different depending on how you feel.
+
+@212.0
+By the way, did you learn the secret of shōgi from the old man at the training ground?
+
+@213.0
+They say the old man at the training ground is a shōgi master.
+
+@214.0
+Welcome to the workshop.
+
+@215.0
+Tools you left in the storehouse can be taken out any time.
+
+@216.0
+I am the guard of the storehouse.
+
+@217.0
+Ah, Lord Motonari. Good day to you.
+
+@219.0
+Each craftsman has his own field of expertise.
+
+@222.0
+This is splendid iron. It will make fine material...
+
+@222.1
+But looking closely, there is some rust...
+
+@222.2
+Do not worry. He will be here soon.
+
+@222.3
+He? Who do you mean?
+
+@222.5
+The spear smith...
+
+@223.2
+That is well enough, but can it be mended?
+
+@225.0
+Oh, truly a splendid skill.
+
+@225.1
+I am honoured by your praise.
+
+@231.0
+They say Kōriyama has a fine training ground.
+
+@232.0
+My old woman nags all the time.
+
+@232.1
+That is nothing. Mine raises her hand to me.
+
+@233.0
+Lord Motonari, you had better shop to prepare for battle...
+
+@233.1
+Oh, have you finished already?
+
+@234.0
+Do you remember what you left in storage?
+
+@235.0
+Lately I cannot sleep...
+
+@235.1
+Then your body will not hold out.
+
+@235.2
+Right... they say a child who sleeps grows.
+
+@236.0
+It is a waste to leave talented people idle.
+
+@238.0
+I am the guard of this storehouse.
+
+@239.0
+How long will the war go on...?
+
+@239.1
+A world like this cannot last forever!\n\nSurely peaceful days will come someday.
+
+@240.0
+You can put tools in and take them out freely.\n\nFor details, ask the storekeeper.
+
+@241.0
+I hope the tools prove useful in battle.
+
+@242.0
+Lord Motonari, I have goods useful in war.\n\nI will give you one of these two.
+
+@243
+Healing Barley\nPlum Cure
+
+@244.0
+Ugh, I am drunk...
+
+@245.0
+Ah, my head hurts... Is it worry, or the sake...?
+
+@246.0
+I hear Saiei has joined your side.
+
+@247.0
+They say the warrior monk called Saiei is skilled with arms...
+
+@247.1
+But he seems to have a dark past and will hardly go to war.
+
+@247.2
+A dark past...? What happened to him in war...?
+
+@247.3
+The old man at the temple seems to know something.
+
+@248.0
+They say the warrior monk Saiei at the temple is a real master!\nWould you not add him to your side?
+
+@249.0
+Lord Motonari, we meet at last.\nI am this one's husband.
+
+@250.0
+The world is dangerous these days.\nPlease take care.
+
+@251.1
+I have a book here, the "3-Monme Guide".
+
+@251.3
+The 3-Monme Guide... It may be useful.\nI gratefully accept it.
+
+@253.3
+Yes, I very much want you to see the power of the cannon I made.
+
+@257.0
+What a pity. Another time, then...
+
+@259.0
+They say reading books gives you knowledge.
+
+@259.1
+It is too hard for me. I cannot read them at all.
+
+@260.0
+Lord Motonari, I am a travelling pedlar.\n\nHow was this year's harvest?
+
+@260.1
+Hmm... In truth it was terribly poor.
+
+@260.2
+We can hardly secure provisions... It is troubling.
+
+@260.3
+That must be hard for you.
+
+@260.4
+Then I have remembered an urgent errand, so please excuse me.
+
+@261.0
+Heh, an interesting tale you told me.\n\nI gratefully take this valuable information!
+
+@261.2
+Now, farewell.
+
+@262.0
+Fool. I saw through a ninja's disguise from the start.
+
+@262.1
+Not knowing the information was false...
+
+@263.0
+If you stock up on items that restore Endurance at the market, they help in battle.
+
+@264.0
+Lord Motonari is truly reliable.
+
+@265.0
+Is this all the bandits stole?
+
+@266.0
+Ah! Yes! Lord Motonari, thank you so much.
+
+@266.1
+Be careful from now on.
+
+@267
+Returned the stolen money to the townsman
+
+@269.0
+Now I must deliver this flute to Kyōshirō in Takayama.
+
+@270.0
+Ah, Lord Motonari... I was attacked by a bandit.
+
+@270.1
+What?! Where is that bandit now?
+
+@270.2
+He went into the tavern.
+
+@270.3
+The tavern, understood! Wait here.
+
+@270.4
+He is the one with a strange flute hanging from his neck.
+
+@270.5
+What?! A flute? Could it be...
+
+@271.0
+Will there be another war soon?
+
+@272.0
+They say Shugen yamabushi can call down lightning. Is it true?
+
+@273.0
+I am bad with sake.
+
+@273.1
+...The reason I am here is that I like the atmosphere of the tavern.
+
+@274.0
+Oh, Lord Motonari, as handsome as ever today.
+
+@274.1
+Can you not act more manly?!
+
+@275.0
+Thanks to you, we three, parent and child, now live in peace.
+
+@276.0
+The market has most things.
+
+@277.0
+Lord Motonari himself has come...
+
+@278.0
+I believe Lord Motonari will make this land better.
+
+@279.0
+It is fine weather today.
+
+@280.0
+My father always said he wanted to be of use to Lord Motonari.
+
+@281.0
+This is my father's keepsake. Please accept it.
+
+@282.0
+I am terribly busy today.
+
+@283.0
+I do not know much about war.\n\nBut I hope I can be of some help.
+
+@284.0
+Lord Motonari, please take this.
+
+@285.0
+Take this as well.
+
+@286.0
+Me? I am no craftsman. Only a farmer.
+
+@287.0
+A war is meaningless unless it is won.
+
+@288.0
+Please, take this.
+
+@289.0
+Oh, Lord Motonari.
+
+@289.1
+Had I known you were coming, I would have brought something to give you...
+
+@290.0
+We can do only little, but please accept our good will.
+
+@291.0
+Please take this. It is our good will.
+
+@292.0
+We farmers know nothing about war.
+
+@292.1
+If only our lives could become a little richer...
+
+@293.0
+Maybe it is because Lord Motonari is here today, but the rough fellows are nowhere to be seen.
+
+@294.0
+Please drop by again any time.
+
+@295.0
+We farmers await the coming of peaceful days.
+
+@296.0
+Will it get cheaper if I haggle?
+
+@297.0
+Ahh... ish that Lord Motonarishama? Hehehe.
+
+@297.1
+Hey! That is rude!
+
+@297.2
+Hyahahaha.
+
+@297.3
+I am sorry. This fellow is drunk...
+
+@297.4
+I can see that.
+
+@297.5
+Please forgive him... Hey, apologise properly to Lord Motonari!
+
+@297.6
+I am sho shorry, my lord...
+
+@298.0
+When buying materials, please take care not to make a mistake.
+
+@299.0
+I am worried about Heizō.
+
+@300.0
+Are you really Lord Motonari?
+
+@300.1
+I am the genuine Mōri Motonari!
+
+@300.2
+I-I beg your pardon!!
+
+@301.0
+What are we living for...?
+
+@301.1
+There is no use thinking about such things.
+
+@301.2
+You should find something worth living for.
+
+@301.3
+If it were that easy to find, I would not suffer so... Haaah.
+
+@301.4
+Find yourself a good husband.
+
+@302.0
+For stamina, Healing Rice is good.
+
+@303.0
+Not everyone in this world is bad.
+
+@304.0
+So you are Lord Motonari. You truly carry an air of dignity.
+
+@305.0
+Ahh... delicious.
+
+@306.0
+I spent too much at the market today, and now I have no money for drinks.
+
+@307.0
+We only wish for a small happiness.
+
+@308.0
+In my youth, I was called the "Master of the Storehouse", you know.
+
+@310.0
+Nothing unusual lately.
+
+@311.0
+Please take care not to be wounded in battle.
+
+@312.0
+Oh, Lord Motonari. I have something to give you.
+
+@313.0
+Nothing unusual lately.
+
+@314.0
+Lord Motonari, do you have all the materials?
+
+@315.0
+The young people these days lack any respect for their elders.
+
+@315.1
+Outrageous!!
+
+@316.0
+People with a bond are fated to meet somewhere, sooner or later.
+
+@317.0
+I hear something terrible happened to Saiei in a war.
+
+@317.1
+...In truth...
+
+@317.2
+Saiei's wife and child were caught up in a war and lost their lives.
+
+@317.3
+Since then, Saiei has taken to drowning himself in sake.
+
+@317.4
+I see...
+
+@318.0
+Saiei seems unwilling to join the fight. Do you know anything?
+
+@319.0
+Ah, that Saiei, again today...
+
+@320.0
+I heard there is a warrior monk called Saiei around here...
+
+@320.1
+Ah... Saiei is a great drinker.\n\nHe has probably gone to the tavern again today.
+
+@321.0
+In case of emergency, I have posted a strong storekeeper.
+
+@322.0
+I will not lose to the young ones yet.
+
+@323.0
+I have improved quite a lot. Take me on once more.
+
+@328.0
+I will not lose to the young ones yet.
+
+@329.0
+I will not lose to the young ones yet.
+
+@331.0
+Combat units grow by gaining experience.
+
+@331.1
+For example, spearmen become Spear Captains, and archers become Archer Captains.
+
+@332.0
+So you are Lord Motonari...\n\nWell, you are as fine a man as they say.
+
+@333.0
+Honestly, the young these days know no manners. Mutter mutter...
+
+@334.0
+When I grow up, I will be a samurai for sure.
+
+@335.0
+I will work hard here to become a fine craftsman.
+
+@336.0
+I want to become a fine craftsman.
+
+@336.1
+Let me work here. Please?
+
+@338.0
+Very well. But if you are only playing, I will throw you out at once.
+
+@338.1
+Thank you! I will work hard.
+
+@339.0
+This is no place for children to work.\n\nCome back when you are older.
+
+@339.1
+I will not give up!
+
+@340.0
+Look after your father and mother.
+
+@341.0
+You are a samurai, right?
+
+@341.1
+Well... yes.
+
+@341.2
+Are you strong?
+
+@341.3
+I wonder.
+
+@341.4
+Hmm. I want to be like a man called Mōri Motonari.
+
+@341.5
+Why is that?
+
+@341.6
+Because my dad said so. He said he is a very strong samurai.
+
+@343.0
+I see... What is your father's name?
+
+@343.1
+He is a physician called Yanohara Hirohide.
+
+@343.2
+Yanohara Hirohide... What, the craftsman from that tavern...
+
+@343.4
+Yes, the man I met at the tavern.
+
+@345.0
+Lord Motonari... play with me.
+
+@346.1
+Um...
+
+@346.4
+Let us go and ask again.
+
+@347.0
+I got scolded for going into the storehouse.
+
+@348.0
+My mother died of illness...
+
+@348.1
+Father said that if we had had the money for medicine, she might have been saved.
+
+@350.0
+In battle, you cannot win without making good use of each unit's traits.
+
+@351.0
+Even true parent and child may have reasons to live apart.
+
+@351.1
+...It is sad.
+
+@353.1
+Hmm, and this child...?
+
+@353.2
+This child is looking for her father.\n\nThey were separated about two years ago, it seems.
+
+@354.0
+Use special skills at the decisive moment.
+
+@355.0
+The craftsmen here are absolutely confident of their quality. Admirable.
+
+@356.0
+You have a fine face. You will succeed at whatever you do.
+
+@357.0
+Unfortunately I am out of medicine today...
+
+@358.0
+Why, Lord Motonari. It has been a long time. Do you remember me?
+
+@358.1
+I am the physician to whom you once lent funds to develop a new medicine.
+
+@358.2
+I remember. From your face, did the new medicine go well?
+
+@358.3
+Yes. It is all thanks to you, Lord Motonari.
+
+@358.4
+Here are the 100 gold I borrowed then. Please accept it.
+
+@360.0
+And here is the new medicine I succeeded in developing.
+
+@360.1
+Oh... so this is it... Then I gratefully accept it.
+
+@361.0
+Keep developing new medicines that help people. I rely on you.
+
+@361.1
+Understood.
+
+@362.0
+I am researching medicine at the moment.\n\nI will report when I have good results.
+
+@363.0
+They say that at the training ground, defeating an opponent with a special skill makes you improve faster.
+
+@364.0
+The Musket Captain has a skill called "Barrage". It is quite troublesome as an enemy.
+
+@365.0
+In battle, units next to a military inspector or a tactician have the advantage.
+
+@366.0
+However strong the weapon, it does not guarantee victory.
+
+@366.1
+What matters is the skill of the commander who uses it.
+
+@367.0
+To grow strong, just gain experience.
+
+@368.0
+What am I doing, you ask? It is still a secret.
+
+@369.0
+Hmm, I see. This is interesting.
+
+@370.0
+Listen, this work takes more than petty technique. In the end, heart is what counts.
+
+@370.1
+It is like our real trade.
+
+@370.2
+But... it seems difficult.
+
+@370.3
+(What are they doing?)
+
+@371.0
+Listen, this work takes more than petty technique. In the end, heart is what counts.
+
+@371.1
+It is like our real trade.
+
+@371.2
+But... it seems difficult.
+
+@371.3
+(What are they doing?)
+
+@372.0
+I am sorry, but please do not speak to me now.
+
+@373.0
+This looks worth trying...
+
+@374.0
+I will be busy looking after Lord Takamoto.\n\nBut if I teach these girls my skills...
+
+@375.0
+Lord Motonari, please visit these girls from time to time.
+
+@376.0
+What are you doing?
+
+@376.1
+I am teaching them about a certain job. In the end, heart is what counts.
+
+@376.2
+It is like our real trade.
+
+@376.3
+But... it seems difficult.
+
+@376.4
+(What is this about?)
+
+@377.0
+Lord Motoharu may not look it, but he cherishes his wife.
+
+@378.0
+The books Lord Takakage orders are all hard to obtain.
+
+@379.0
+At the training ground, how quickly you defeat your opponent changes how much you improve.
+
+@380.0
+I am a traveller. I wander the provinces, training myself.
+
+@381.0
+I am having weapons made here, too.
+
+@382.0
+Lord Motonari, please use me in the Mōri army.
+
+@382.1
+No, though I appreciate it.
+
+@382.2
+Why not?
+
+@382.3
+Hone your skills a little more. Then I may consider it.
+
+@382.4
+Tch.
+
+@383.0
+If you will have me, I am always ready to help.
+
+@384.0
+Thanks to Lord Motonari, Sakurao has become safer.
+
+@385.0
+For me, sake is the source of my strength.
+
+@386.0
+At the drinking table, I try not to think about anything.
+
+@387.0
+Units with great mobility are troublesome. Be careful.
+
+@400.0
+I would like to challenge you to a game of shōgi.
+
+@405.0
+And from here, a swift attack.
+
+@418.0
+Ah, I want to play shōgi... Is there no strong opponent anywhere...?
+
+@419.0
+Lord Motonari, what business brings you here?
+
+@419.1
+You attacked a townsman again.
+
+@419.2
+As expected of you, Lord Motonari. News travels fast.
+
+@419.3
+Don't mock me! Hand over what you took, now!!
+
+@419.4
+All right... This is everything.
+
+@419.5
+And what is that flute hanging from your neck!
+
+@419.6
+This? Um, what was it?
+
+@419.7
+Don't play dumb! You took it from a craftsman in Takayama!
+
+@419.8
+Lord Motonari sees through everything.
+
+@419.9
+Hand that over too!
+
+@419.10
+I was rather fond of it, though.
+
+@419.11
+Silence! Get back to the mountains at once, or I will cut you down!
+
+@419.12
+Whoa, then I will take my leave.
+
+@420.0
+You did not take Nemoto Jinsuke into your service? What a waste.
+
+@421.0
+I hear Nemoto Jinsuke joined Lord Motonari's service. That is good.
+
+@422.0
+They say the armourer Nemoto Jinsuke is a perfectionist.
+
+@422.1
+Even with such skill, he is still not satisfied with himself...
+
+@423.0
+You should definitely meet the armourer Nemoto Jinsuke.
+
+@424.0
+Why, it is Lord Motonari. It has been a while.
+
+@424.1
+You are not making trouble any more, are you?
+
+@424.2
+Of course not. You are cruel, Lord Motonari.
+
+@424.3
+More importantly, I heard there is a skilled craftsman somewhere around here.
+
+@424.4
+What do you say? Interested?
+
+@424.5
+Indeed. And what is this man's name?
+
+@424.6
+The armourer Nemoto Jinsuke.
+
+@424.7
+An armourer... I would very much like to meet him.
+
+@424.8
+If I hear any more good news, I will let you know.
+

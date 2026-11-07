@@ -1,0 +1,1419 @@
+@0
+Episode 5 "The Conditions of Leadership"
+
+@1
+Episode 5 "The Conditions of Leadership"
+
+@2
+Battle of Kanayama Castle - Battlefield
+
+@3.0
+Brother! Brother, hold on!
+
+@3.1
+Lord Mototsune! Ugh... this is...
+
+@3.2
+Heh heh... A shameful blunder. I regret it, but the time has come for me to leave this world.
+
+@3.3
+...Brother.
+
+@3.4
+Tsuneyo... Make my heir Okitsune the head of the house.
+
+@3.5
+I understand.
+
+@3.6
+Motonari... My sister... and the Kikkawa house... I leave them to you...
+
+@3.7
+............
+
+@4.0
+Brother!
+
+@4.1
+Lord Mototsune!
+
+@6.0
+Ha ha ha ha! I have driven off that Ōuchi brat! Well done, Motonari!
+
+@6.1
+Yes, my lord. But we lost Kikkawa Mototsune. It is a very heavy price.
+
+@6.2
+Is that so. A fine commander, but it cannot be helped. In any case, we won the battle.
+
+@6.3
+Kamei, prepare a victory feast!
+
+@8.0
+............ Excuse me.
+
+@9.0
+I feel I have seen Haruhisa's true nature.
+
+@9.1
+Lord Tsuneyo, your anger is only natural, but please bear it for now.
+
+@9.3
+(Perhaps I have reached my limit as an Amago subordinate...)
+
+@10
+Kōnomine Castle - Living Quarters
+
+@11.0
+So it was Motonari again.
+
+@11.2
+If it was to come to this, I should never have let him go back then.
+
+@11.3
+Shall we draw him to our side once more?
+
+@11.4
+Can it be done?
+
+@11.5
+There is a way.
+
+@11.6
+Speak.
+
+@11.7
+Motonari surely knows the Amago were behind Mototsuna's rebellion last year.
+
+@11.8
+He must realise that the Mōri are living among enemies.
+
+@11.9
+Hmm............ Give him the chance, and he will turn to us, you say?
+
+@11.10
+With your permission, I will go to Kōriyama at once.
+
+@11.11
+Very well. Go. Take care that the Amago do not notice.
+
+@14.0
+I hear the birth came while I was on campaign. I have burdened you.
+
+@14.1
+I am used to childbirth by now. Please do not worry.
+
+@14.2
+I hope this boy, Jirō, grows up healthy too.
+
+@14.3
+He will. After all, he was born while his father was at war.
+
+@14.4
+I am sure he will be a brave child.
+
+@15
+Talk to Fukuhara, Shiji and Lady Sugi
+
+@17.0
+As you know, we have come under the Ōuchi.
+
+@17.1
+I have also had word that the Amago, having learned of this, are sending troops against us.
+
+@17.2
+We must prepare for war. But this war is not a war of defence. It is a war of attack!
+
+@17.3
+We will rally the Takeda, Kumagai, Kagawa and Shishido under our banner.
+
+@17.4
+If the local lords of Aki and Bingo stay divided like this,
+
+@17.5
+we will never escape Ōuchi and Amago rule.
+
+@17.6
+There is no way but to unify Aki and build a land that can stand against the Ōuchi and the Amago!
+
+@17.7
+Quite right!
+
+@17.8
+Everyone has been waiting to hear those words.
+
+@17.9
+Yes. Let us begin the unification of Aki! Everyone, follow me!
+
+@29.0
+Amago Tsunehisa has retired, citing his age. They say he has passed the headship to Haruhisa.
+
+@29.1
+Only in form, I expect. We should assume the real power still lies with Tsunehisa.
+
+@30
+Talk to Kuchiba
+
+@31.0
+If we side with the Ōuchi, what will the Kikkawa do, I wonder.
+
+@32.0
+The best way would be to win over the enemy commanders.
+
+@32.1
+Lord Motonari, you should persuade them yourself. Some will surely be moved.
+
+@33.0
+I wonder how Ōuchi Yoshioki judged our conduct in battle. I am very curious.
+
+@34
+Talk to Kuchiba
+
+@35.0
+I wonder how the Kikkawa will react if we join the Ōuchi. What the new head, Okitsune, thinks is still unclear.
+
+@36.0
+This is the first step in unifying Aki.
+
+@38
+Shishido Motoyoshi's Seat - Goryū Castle - Living Quarters
+
+@39.0
+I hear the Mōri have marched. It seems they mean to fight the Takeda, Kumagai, Kagawa and us.
+
+@39.1
+Then let us march at once! We will meet them head on!
+
+@39.2
+No, we will not fight the Mōri. I hear Motonari is an exceptional man. They say he is skilled in war and has never lost.
+
+@39.3
+...What? Have you lost your nerve?
+
+@39.4
+That is not it. We cannot go on being tossed about by the Ōuchi and the Amago either.
+
+@39.5
+That is exactly why we will stake our fortunes on Motonari.
+
+@39.6
+If Aki is unified, we can stand equal to the Ōuchi and the Amago. That is the dream of Aki's local lords.
+
+@39.7
+I cannot accept it! In the end we will only be used by the Mōri this time!
+
+@40.0
+I will fight! Men, follow me!
+
+@40.1
+Takaie!
+
+@41.0
+The first battle is the most important. Prepare carefully.
+
+@42.0
+We have just received the report from the envoy we sent to the Kikkawa.
+
+@42.1
+And?
+
+@42.2
+Okitsune said that switching sides is out of the question, and that he has seen the Mōri's true nature,
+
+@42.3
+and gave us no room to negotiate at all.
+
+@42.4
+I see... What did Lord Tsuneyo say?
+
+@42.5
+Tsuneyo and most of the retainers seem to think they should abandon the Amago.
+
+@42.6
+But ever since the Amago envoy came, Okitsune's dislike of the Mōri has been fierce, and nothing can be done for now.
+
+@42.7
+Hmm. It cannot be helped for now, I suppose...
+
+@43.0
+Resentment toward the Amago is growing among the retainers.
+
+@44.0
+Actually, Seki brought this a little while ago.
+
+@44.1
+A secret letter?
+
+@44.2
+The sender is unknown. It says to talk to a farmer in the market. Could it be a trap?
+
+@44.3
+Seki's ninja keep a close watch over Kōriyama.
+
+@44.4
+Even if it is a trap, they cannot do much. Let us at least go and meet him.
+
+@45
+Talk to the farmer in the market
+
+@46.0
+I know you worry about Lord Tarō, but please bear it.
+
+@46.1
+The retainers' distrust of the Amago is beyond mending now.
+
+@47.0
+Weapons for ninja should be light, even if their power is low.
+
+@47.1
+They make pursuit and critical hits more likely.
+
+@48.0
+I would like to cut ties with the Amago, but if we raise the banner of revolt now, we will surely be destroyed.
+
+@48.1
+Yet if we go on like this...
+
+@49.0
+When facing several enemy units, defeating them one by one is the rule.
+
+@49.1
+Concentrate your troops and strike one unit at a time.
+
+@50.0
+Lord Motonari, I can no longer bear being allied with the Amago.
+
+@51.0
+If you have units with little battle experience, train them at the training ground.
+
+@51.1
+From now on we will need every unit we can get.
+
+@52.0
+Serving under the Amago, we will all end up as dew on the battlefield sooner or later. We should cut ties early.
+
+@53.0
+Have you readied each unit's equipment?
+
+@54.0
+............ Our existence... is only a pawn to the Amago.
+
+@55.0
+............ First survey the whole battlefield... and confirm the march route. It is the first step to victory.
+
+@56.0
+If the chance comes, siding with the Ōuchi would be best.
+
+@56.1
+Devoting our loyalty to the Amago brings nothing in return.
+
+@57.0
+Craftsmen whose skills are honed will produce better weapons.
+
+@58.0
+Tarō... You have grown so strong.
+
+@59.0
+He is a big baby, so he will surely grow up strong.
+
+@60.0
+Is Tarō outside?
+
+@60.1
+Yes... What is it? Has something happened?
+
+@60.2
+An envoy from the Ōuchi came and offered to bring the Mōri over to their side.
+
+@60.3
+Oh, you should accept. The retainers can no longer follow the Amago's ways.
+
+@60.4
+But the condition the Ōuchi set for accepting the Mōri was
+
+@60.5
+that Tarō live at Kōnomine Castle.
+
+@61.0
+............! A hostage... you mean.
+
+@62.0
+Yes. And we do not know when he will be able to return.
+
+@63.0
+So we will not even be able to see him freely...
+
+@64.0
+It is a painful decision, but Tarō must go. We cannot fight beside the Amago any longer.
+
+@64.1
+I understand... I understand...
+
+@64.2
+Okata, bear with it. It is the fate of a lord's child.
+
+@64.3
+But could he not at least wait until he is a little older?
+
+@64.4
+He is still a child...
+
+@65.0
+I will be fine!
+
+@66.0
+Mother, I am no longer a child. Living alone in another province is nothing to me.
+
+@67.0
+Tarō! You were listening!
+
+@67.1
+Forgive me!
+
+@68.0
+I overheard you and panicked. I only thought that I should tell Lord Tarō to refuse...
+
+@68.1
+I am so sorry!
+
+@68.2
+It is not your fault. Father, please order me to take on the great duty of going to Kōnomine Castle!
+
+@68.3
+...Tarō, are you sure?
+
+@68.4
+This is nothing! I am the heir of the Mōri!
+
+@68.5
+Very well. I order you to go to Kōnomine Castle. Carry out this great duty faithfully.
+
+@68.6
+Yes!
+
+@69
+Talk to Naitō at the temple
+
+@70.0
+I will cry no more. For Kiku, Jirō and the child to come.
+
+@71.0
+I have hired one more maid. With so many children, we are short of hands.
+
+@72
+Talk to Kuchiba
+
+@73.0
+Lord Tarō is a strong child. There is no need to worry.
+
+@74.0
+This is the first time Lady Okata is parted from Lord Tarō.
+
+@74.1
+It must be hard, but it is the fate of this age of war.
+
+@74.2
+Even so, I did not see that the maid was a spy.
+
+@75.0
+Father, I have a little brother! At last I have someone to play with. Kiku was not enough.
+
+@76.0
+I will win glory in battle and see that you come home soon. Wait for me.
+
+@76.1
+Yes! But please do not overexert yourself.
+
+@76.2
+Ha ha ha, do not worry.
+
+@76.3
+(Tarō is a gentle, strong child...)
+
+@77.0
+Father, the baby is cute. But with Mother taken up by him, I am a little lonely.
+
+@78.0
+Is Brother going away somewhere?
+
+@79.0
+So that Mother gets well soon, I will be a good girl.
+
+@80.0
+Have you made up your mind?
+
+@80.1
+I leave Tarō in your hands.
+
+@80.2
+Then you will join the Ōuchi!
+
+@80.3
+Indeed. The Mōri will place themselves under the Ōuchi.
+
+@80.4
+That is welcome news. Lord Yoshioki will be glad of it.
+
+@80.5
+Then I will inform you again of the day Lord Tarō moves to Kōnomine Castle.
+
+@80.6
+I count on you.
+
+@81
+Amago Haruhisa's Seat - Gassan-Toda Castle
+
+@83.0
+What is it, Kamei? Summoning even me, a retired man.
+
+@83.1
+In fact, a spy we left in Kōriyama Castle has reported a grave matter.
+
+@83.2
+What is it? Speak.
+
+@83.3
+The Mōri have turned to the Ōuchi. They gave up Shōyū Tarō as a hostage and came under the Ōuchi.
+
+@84.0
+Damn the Mōri! I will send a great army and crush them!
+
+@84.1
+Wait.
+
+@84.2
+Grandfather, why do you stop me? If we leave the Mōri be, we lose face before the other provinces.
+
+@84.3
+Did you not hear Kamei? Hm? The Ōuchi are behind them. We cannot move so easily.
+
+@84.4
+(It seems it was right to call for Lord Tsunehisa...)
+
+@84.5
+Have the Takeda deal with the Mōri.
+
+@84.6
+The Takeda were helped by the Mōri in the last war. They might even follow the Mōri.
+
+@84.7
+Make them show their loyalty to the Amago once more. The Kumagai and Kagawa under the Takeda too. Send envoys at once!
+
+@84.8
+Yes, as you command.
+
+@84.9
+And send an envoy to Kikkawa Okitsune. Tell him the Mōri are traitors and not to be trusted.
+
+@85
+Takeda Mitsukazu's Seat - Kanayama Castle - Council Hall
+
+@86.0
+A request has come from the Amago to subdue the Mōri. Naturally, I accepted gladly.
+
+@86.1
+Brother, we owe the Mōri for relieving Kanayama.
+
+@86.2
+This war would repay a kindness with spite.
+
+@86.3
+The Mōri betrayed the Amago! There is no need to repay a traitor!
+
+@86.4
+But...!
+
+@86.5
+Kumagai, Kagawa, the request must have reached you as well. I have already sent an envoy to Shishido Motoyoshi too.
+
+@86.6
+We will meet the Mōri with all our strength.
+
+@86.7
+Yes, my lord. But............
+
+@86.8
+(We owe the Mōri for saving us. Is there no way to refuse this time...)
+
+@86.9
+What is it?
+
+@86.10
+My army is exhausted from the last battle. I cannot say whether we will be of use in this war.
+
+@86.11
+Rest easy. If the Mōri push you back, I will surely send reinforcements.
+
+@86.12
+There is no need to worry.
+
+@86.14
+(It cannot be helped. I have no stomach for it, but...)
+
+@89.0
+Lord Tarō's departure is ready. Come, Lady Okata, let us go.
+
+@89.1
+............ Yes.
+
+@89.3
+Lord Motonari?
+
+@89.4
+Wait a moment.
+
+@90.0
+(Seki?)
+
+@90.1
+(Yes, my lord! I have a request. Could you send Lady Okata ahead and keep only the new maid back?)
+
+@90.2
+(Could you let Lady Okata go on ahead, and call back only the new maid?)
+
+@90.3
+(...Very well.)
+
+@91.0
+Okata, go on ahead.
+
+@91.2
+............ Lady Okata, let us go on. Come.
+
+@91.3
+New maid, you stay.
+
+@92.1
+It is not Lord Motonari who has business with you. It is I.
+
+@93.0
+Ngh...! You!
+
+@94.0
+As I thought.
+
+@94.1
+Tch!
+
+@95.0
+It is useless.
+
+@95.1
+Mmph!
+
+@96.0
+............! As she vanished, a dagger was already... Impressive...
+
+@97.0
+This maid... was a spy?
+
+@97.1
+Yes. I was watching her on Lord Shiji's orders.
+
+@97.2
+She seemed to be in contact with the Amago's people.
+
+@97.3
+Then they already know about Tarō!
+
+@97.4
+They do.
+
+@97.5
+The Amago have already sent an envoy to the Takeda. The Takeda, Kumagai, Kagawa and Shishido are preparing to attack the Mōri.
+
+@97.6
+Thank you for telling me. I am grateful.
+
+@97.7
+I only followed Lord Shiji's orders. Lord Motonari, first go and see Lord Tarō off. I will tell the retainers myself.
+
+@97.8
+Yes, I count on you.
+
+@98
+Road to Kōnomine Castle
+
+@99.0
+Well then, I am going.
+
+@99.1
+Look forward to hearing of your father's glory in battle.
+
+@99.2
+Be steadfast, so as not to shame yourself as the Mōri heir.
+
+@99.3
+Let us meet again, my lord. *sniff*...
+
+@99.4
+Don't cry. Take care, Lord Tarō.
+
+@99.5
+Tarō............
+
+@99.6
+Mother, I will surely come back.
+
+@99.7
+...Take care of your health.
+
+@99.8
+Then, farewell!
+
+@100.0
+(Father... Mother...)
+
+@102.0
+Tarō...
+
+@102.1
+You must not cry. Lord Tarō left without crying.
+
+@102.2
+...Yes.
+
+@102.3
+For the sake of the child within you, too.
+
+@102.4
+Okata... is it true?
+
+@102.5
+Yes. A new life... is stirring inside me.
+
+@102.6
+I see... I see... There is sorrow, and there is joy.
+
+@102.7
+I cannot stay downcast forever.
+
+@102.8
+...Yes.
+
+@104.0
+Lord Yoshioki does not mind that the Mōri turned to the Amago through the Kikkawa marriage.
+
+@104.1
+For now he only wishes to borrow the strength of the Mōri.
+
+@110.0
+I am the man you lent money to at the Ogurayama market, Lord Motonari.
+
+@117.2
+No, I really cannot accept it.
+
+@117.4
+Then use that money for your family.
+
+@119.0
+As expected of Lord Motonari, you are just the man I took you for!
+
+@119.1
+I am a bowyer by trade. Please let me be of use.
+
+@131.0
+I need a skilled spear smith now. Would you lend me your strength?
+
+@131.1
+It is more than I could hope for.
+
+@131.3
+Yes, I am completely well now.
+
+@134.0
+I cannot hire you now, but let us meet again if fate allows.
+
+@134.1
+Then, regrettably, another time.
+
+@136.0
+Did your lost item come back to you safely?
+
+@137.1
+That we could meet like this must be some kind of fate.
+
+@137.2
+From now on, I would like to offer you my help, Lord Motonari.
+
+@148.2
+Then I would like to join your service too, as a ninja-gear maker.
+
+@153.1
+A spear smith............
+
+@157.0
+I am sorry, but I cannot hire you now.
+
+@163.0
+So an intruder had slipped in... We must keep an even stricter watch...
+
+@166.0
+This is the training ground.
+
+@167.0
+One cannot let one's guard down for a moment. We must keep a close watch.
+
+@169.0
+Do you have the Materials for making tools?
+
+@170.0
+Forgetting work for this one drink... Ahh... it is wonderful.
+
+@172.0
+In any case, you should take many skilled craftsmen into your service.
+
+@173.0
+A man named Yamanoue Tametsugu was looking for you, Lord Motonari.
+
+@174.0
+Temples are nice... They calm the heart.
+
+@175.0
+Honest work is best after all.
+
+@176.0
+This samurai likes to gamble, you see.
+
+@177.0
+Samurai or farmer, at a drinking table we are all just men.
+
+@178.0
+Thank you so much for getting my money back.
+
+@179.0
+Ah! That is my money, for sure! Did you get it back, Lord Motonari!?
+
+@179.1
+Be more careful from now on...
+
+@180
+Gave the townsman back his money
+
+@181.0
+Thank you very much! It is only a token, but please accept it.
+
+@182
+Gained 100 gold as thanks
+
+@183.0
+I lost my precious money. I am finished.
+
+@184.0
+Lord Motonari, a strange man stole all the money I had.
+
+@184.1
+What was he like?
+
+@184.2
+I don't remember clearly. Anyway, he reeked of sake.
+
+@184.3
+Sake... He is probably splurging at a tavern by now.
+
+@185.0
+Can't the world become a richer place?
+
+@186.0
+There is something that looks like Materials here. Please take it if you like.
+
+@187.0
+Before I know it, I am worked up. ...Gambling is frightening.
+
+@188.0
+Ugh, how galling. Lord Motonari, win back our losses for us.
+
+@189.0
+I will not last much longer. Maybe it is time to leave this shop to my son...
+
+@190.0
+Looking at your face, Lord Motonari, I somehow feel very at ease.
+
+@192.0
+Lord Motonari. I just picked up a strange box over there...
+
+@192.1
+Let me see. Hmm... Let us open it anyway.
+
+@192.6
+Oh, so it is... He should be at the tavern by now.
+
+@195.1
+No, I could not trouble you, Lord Motonari...
+
+@195.3
+I see... Then I am sorry to put you to the trouble, but I count on you.
+
+@196.0
+It has been eight years since my father died... I will work hard to become a fine man like him.
+
+@197.0
+...
+
+@200.0
+...Father... I am sorry.
+
+@201.0
+Whatever happens, the bond between parent and child is absolute. He cannot truly hate you from the bottom of his heart.
+
+@201.1
+...Father was a fine soldier once.
+
+@206.0
+I am grateful for the thought, but I cannot take you in.
+
+@207.0
+I am glad if I can be of use to you, Lord Motonari.
+
+@208.0
+Lord Motonari, just in time. Please take this.
+
+@209.0
+Ōuchi retainer Naitō Okimori is waiting for you at the temple.
+
+@210.0
+(I shall go, with Fukuhara and Shiji.)
+
+@211
+Yoshida-Kōriyama Castle - Temple
+
+@212.0
+Thank you for coming. I am Naitō Okimori, a retainer of the Ōuchi.
+
+@212.1
+What brings you so deep into enemy territory? First I would hear your business.
+
+@212.2
+Then I shall come straight to the point.
+
+@212.3
+Lord Ōuchi Yoshioki wishes to welcome the Mōri to the Ōuchi side.
+
+@212.4
+Why is that? To the Ōuchi, the Mōri are hateful enemies who twice thwarted their invasion of the Amago.
+
+@212.5
+Indeed.
+
+@212.6
+We would like to hear why you wish to draw us to your side.
+
+@212.7
+Lord Yoshioki is deeply impressed by Lord Motonari's command at Kagamiyama and Kanayama, and by the strength of the Mōri army.
+
+@212.8
+Therefore, rather than suffer great losses as enemies,
+
+@212.9
+he earnestly wishes to reconcile and have you as allies.
+
+@212.10
+In short, you want us as strength against the Amago.
+
+@212.11
+Indeed. But this should not be a bad offer for the Mōri either.
+
+@212.12
+You have seen the Amago's methods in the Mototsuna affair.
+
+@212.13
+I understand. But from the Ōuchi to the Amago, and now from the Amago back to the Ōuchi...
+
+@212.14
+I cannot think Lord Yoshioki will trust us for nothing, when we change masters so shamelessly.
+
+@212.15
+............ As expected of Lord Motonari. Indeed, there is a condition for joining the Ōuchi.
+
+@212.16
+What is the condition?
+
+@212.17
+That Lord Shōyū Tarō live at Kōnomine Castle.
+
+@212.18
+............ A hostage, then.
+
+@212.19
+Only the place he lives would change, to Kōnomine.
+
+@212.20
+Of course, we would see that he lives in comfort. What do you say?
+
+@212.21
+I would like some time to consider. May I?
+
+@212.22
+Understood. I will wait at this temple. And... please keep this matter secret for now.
+
+@212.23
+There is no telling where an Amago spy may be listening.
+
+@214
+Talk to Okata
+
+@215.0
+I have a living to make, so I can't drink that much.
+
+@216.0
+Do your best, Lord Motonari.
+
+@218.0
+From now on we will keep strict watch. Please rest assured...
+
+@219.0
+If you hand over your tools, I will keep them safe on my own responsibility.
+
+@220.0
+............
+
+@221.0
+Lord Motonari, if you go into the mountains, beware of bandits.
+
+@222.0
+Numata Hachibei the spear smith had stopped working because of a bad arm, but I hear he can work again.
+
+@223.0
+Weapon equipment greatly decides victory or defeat.
+
+@224.0
+For an old man... sake is the only pleasure left.
+
+@225.0
+There is something that looks like Materials here. Please take it.
+
+@226.0
+I will get stronger and stronger.
+
+@228.0
+...Dad played with me a lot...
+
+@229.0
+Welcome, welcome!
+
+@230.0
+From now on I will live strong, like Dad.
+
+@231.0
+Ow, ow, ow...
+
+@232.0
+What is wrong!?
+
+@233.0
+My stomach suddenly started to hurt...
+
+@233.1
+That is bad.
+
+@233.2
+Wait here a moment, I will fetch a physician!
+
+@234.0
+I have brought a physician.
+
+@234.1
+Please examine her.
+
+@235.0
+Does your stomach hurt?
+
+@235.1
+Y-yes... Ow.
+
+@235.2
+Then drink this medicine.
+
+@236
+The physician gave the girl medicine
+
+@237.0
+After that, if you rest quietly at home, you will soon be well.
+
+@237.1
+Thank you...
+
+@238.0
+Thank you for your trouble.
+
+@238.1
+Not at all, it was nothing.
+
+@238.2
+Well then, take care...
+
+@239.0
+How is it? Can you stand?
+
+@240.0
+Can you get home by yourself?
+
+@240.1
+Yes. Thank you very much.
+
+@241.0
+Hey! You! What did you do to my precious daughter!?
+
+@241.1
+Father, it's not that...
+
+@241.2
+What do you mean, not that!
+
+@241.3
+My stomach started to hurt, and this samurai helped me.
+
+@241.4
+I... I see...
+
+@241.5
+Sorry, I jumped to conclusions.
+
+@241.6
+I will repay this favour without fail, so please forgive me.
+
+@241.7
+Just take the child home quickly.
+
+@241.8
+Yes, I will. Thank you for your help.
+
+@242.0
+I do not know your face...
+
+@242.1
+Uh, well, that is... Excuse me!
+
+@243.0
+Who was that?
+
+@243.1
+He said he was a distant relative of yours, Lord Motonari...
+
+@243.2
+I have no such relative! An intruder!
+
+@243.3
+This is serious! After him! After him!!
+
+@244.0
+All people surely grow by gaining experience.
+
+@245.0
+We always do a big cleaning like this in winter.
+
+@246.0
+Who on earth was that merchant?
+
+@247.0
+Cleaning from morning in this cold... This too is the Buddha's way.
+
+@248.0
+I never thought a merchant would rent the whole temple in winter.
+
+@249.0
+A temple in winter is busy preparing for the new year.
+
+@250.0
+Why did that merchant rent the whole temple, I wonder.
+
+@251.0
+I come from Portugal.
+
+@251.1
+Do you believe in God?
+
+@252.0
+Each medicine has its own properties. Please use them wisely.
+
+@253.0
+Lord Motonari, I have brought items that may help in battle. Please choose one of them.
+
+@254
+Defence Tonic\nIntellect Tonic
+
+@255.0
+With one more of us, it is a great help.
+
+@256.0
+Please forgive me! I acted on my own, and I do not know how to explain myself.
+
+@256.1
+It is all right, all right.
+
+@257.0
+I wonder when Lord Tarō will come home.
+
+@258.0
+The new girl works hard, but she is quiet.
+
+@258.1
+She is no use for chatting.
+
+@259.0
+To think Lord Tarō is gone. ...It is lonely.
+
+@260.0
+To think that girl was a kunoichi... You cannot tell from looks.
+
+@261.0
+That girl who went with Lady Fuji... I wonder how she is now.
+
+@262.0
+I want a new master soon.
+
+@263.0
+Poor Lord Tarō. He used to come and play with us sometimes.
+
+@264.0
+Thank you for hiring me. I will do my best.
+
+@265.0
+Poor Lord Tarō...
+
+@266.0
+Gambling is fun.
+
+@267.0
+Lord Motonari, how about a little wager with me?
+
+@268
+Play\nDo not play
+
+@269.0
+No, I do not like gambling, so I will pass.
+
+@269.1
+As stiff as ever.
+
+@270.0
+By the way, Lord Motonari, you do not seem to have much on you today.
+
+@270.1
+Even for you, Lord Motonari, the world of gambling is ruthless.
+
+@270.2
+I am sorry, but please bring at least 100 gold.
+
+@271.0
+Oh, how interesting. Let me try it.
+
+@271.1
+As expected of Lord Motonari. I am delighted.
+
+@271.2
+Here are a red box and a white box.
+
+@271.3
+In one of them is a slip marked as the winner.
+
+@271.4
+If you pick the box with the winning slip, you win, Lord Motonari. Then I will pay you 100 gold.
+
+@271.5
+But if you miss, I take 100 gold from you.
+
+@271.6
+Now, choose one of the boxes.
+
+@272
+Red box\nWhite box\nNever mind
+
+@273.0
+The box is empty... Too bad. I will take 100 gold.
+
+@274
+Paid 100 gold
+
+@275.0
+A winner! You win, Lord Motonari. I will pay you 100 gold.
+
+@277.0
+A winner! You win, Lord Motonari. I will pay you 100 gold.
+
+@279.0
+The box is empty... Too bad. I will take 100 gold.
+
+@280
+Paid 100 gold
+
+@281.0
+No, I think I will pass after all. I am not in the mood...
+
+@281.1
+Lord Motonari, that is not fair.
+
+@282.0
+Shall I tell you about the traits of each unit type?
+
+@283
+Listen\nDo not listen
+
+@284.0
+Ask me any time.
+
+@285.0
+Which unit type would you like to know about?
+
+@286
+Commander type\nSpear type\nArcher type\nCavalry type\nBow cavalry type\nMusket type\nCannon type\nMartial artist type\nCancel
+
+@287.0
+Commander type... Attacks with a spear.
+
+@287.1
+Its abilities are evenly strong overall, and it can use a wide range of skills, offensive and healing.
+
+@287.2
+Of course, you, Lord Motonari, are of this type.
+
+@288.0
+Spear type... Has average abilities and uses skills that make the most of the spear. It can also halt cavalry.
+
+@289.0
+Archer type... Attacks with a bow. Uses attack-oriented skills such as Bane Shot and Fire Arrow.
+
+@289.1
+Abilities are average, but movement is somewhat lacking.
+
+@290.0
+Cavalry type... Attacks with a spear. Uses attack-oriented skills such as 2x Thrust and 3x Thrust.
+
+@290.1
+Excellent movement.
+
+@291.0
+Bow cavalry type... Attacks with a bow.\n\nIts skills and attacks are like the archers', but its movement is excellent.
+
+@292.0
+Musket type... Attacks with muskets.\n\nUses skills such as Barrage and Warn Shot.
+
+@292.1
+Movement is somewhat lacking.
+
+@293.0
+Cannon type... Attacks distant enemies with cannons.\n\nExcellent attack and endurance, but movement is somewhat lacking.
+
+@294.0
+Martial artist type... Attacks with a sword.\n\nUses skills such as Slay Sword, Dance Cut and Whirlwind.
+
+@294.1
+Excellent attack power.
+
+@295.0
+For the other unit types, ask the other one.
+
+@296.0
+Shall I tell you about the traits of each unit type?
+
+@297
+Listen\nDo not listen
+
+@298.0
+Ask me any time.
+
+@299.0
+Which unit type would you like to know about?
+
+@300
+Ninja type\nKunoichi type\nTactician type\nBandit type\nPirate type\nWarrior monk type\nSupply train type\nDrum corps type\nCancel
+
+@301.0
+Ninja type... Excellent movement and speed.\n\nThey cross mountains and wasteland quickly. They use swords, shuriken, bombs and so on.
+
+@302.0
+Kunoichi type... Like the ninja, excellent movement and speed.
+
+@302.1
+They are also known for attacks unique to women, such as Seduce and Bewilder.
+
+@302.2
+They use swords, shuriken, bombs and so on, and have high accuracy when attacking.
+
+@303.0
+Tactician type... Excellent intellect, and can use skills for a wide range of purposes, offensive and healing.
+
+@304.0
+Bandit type... Show tremendous ability when positioned in mountains or forests.
+
+@304.1
+They have skills unique to mountains, such as Tree Fall and Rockfall.\n\nThey can also command the Bear, the mountain brute.
+
+@304.2
+They can also Hunt to restore their own endurance.
+
+@305.0
+Pirate type... Show tremendous ability when positioned at sea or in shallows.
+
+@305.1
+They have skills unique to the sea, such as Rough Sea.
+
+@305.2
+They can also attack with the Shark, king of the sea.\n\nThey can also Fish to restore their own endurance.
+
+@306.0
+Warrior monk type... Have the most skills. With arts such as Ill Luck, Sealing and Binding, they attack the state of enemy units.
+
+@306.1
+They can even command nature with Lightning and Cloud Art.
+
+@307.0
+Supply train type... Excellent at restoring allied units' endurance and the like. Somewhat lacking in attack power and speed.
+
+@308.0
+Drum corps type... Their feature is restoring condition with songs such as Homesick, Rally Song and Cheer Song.
+
+@308.1
+Somewhat lacking in attack power.
+
+@309.0
+For the other unit types, ask the other one.
+
+@310.0
+I hear the two tacticians at the training ground know the traits of each unit type well.
+
+@310.1
+It will be helpful.
+
+@311.0
+Hmm... This fellow reeks of sake... Could it be...
+
+@311.1
+Hey!
+
+@311.3
+Hey! You!
+
+@311.4
+............ What?
+
+@311.5
+Did you steal something at the market?
+
+@311.6
+!!!!
+
+@311.7
+Damn it! How did you know!
+
+@311.8
+Return it honestly and I will let you go.
+
+@311.9
+Shut up, that money is already mine!
+
+@311.10
+It seems you will not understand until you get hurt.
+
+@311.12
+Tch, fine!!
+
+@311.13
+Damn it! Remember this! I will repay this debt someday!
+
+@312
+Took the townsman's money back from the bandit
+
+@313.0
+My pockets are warm today, so I will drink my fill.
+

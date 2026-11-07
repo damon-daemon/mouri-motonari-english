@@ -1,0 +1,123 @@
+@0.0
+Hurry! Hurry back to Kyōto and strike Mitsuhide!
+
+@1.0
+Advance! Pursue Hideyoshi!
+
+@2
+Pursuit of Hashiba's Army\nVictory\n  1. Hashiba Hideyoshi retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@3.0
+Hurry! Hurry!\n\n\nBack at once, to avenge our lord!
+
+@3.1
+Lord Hideyoshi, this is grave!
+
+@3.2
+What is it, Kanbei?
+
+@3.3
+The Mōri army is on our heels!\n\n\nIt seems they learned of the Honnō-ji affair and have come in pursuit!
+
+@3.4
+What!
+
+@3.5
+Hmm... If we are attacked from behind, we will be wiped out on this very ground!
+
+@3.6
+Damn it! I will hold the Mōri off! Lord Hideyoshi, go to Himeji Castle, quickly!
+
+@3.7
+Koroku...!
+
+@3.8
+According to Seki's report, Hideyoshi's army is making for Himeji Castle.
+
+@3.9
+If he escapes into that stout castle, it will be troublesome indeed.
+
+@3.10
+We must settle this in the open field before Hideyoshi reaches it!
+
+@3.11
+Yes! The whole army, pursue Hideyoshi!
+
+@4
+Pursuit of Hashiba's Army\n\nVictory\n  1. Hashiba Hideyoshi retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@5.0
+The Mōri army is this strong...
+
+@6.0
+Curse the Mōri... Is the realm to be theirs?!
+
+@7.0
+N-no... Now that the Master's age was about to begin...
+
+@8.0
+Gaaah!\n\n\nLord Hideyoshi... the realm, I beg you... Tōkichirō...
+
+@9.0
+Guh! Have I been struck down...\n\n...Fallen as dew, vanished as dew, is this body of mine... Uuugh.
+
+@10
+Hashiba Hideyoshi entered the castle
+
+@11.0
+Phew... I somehow made it to the castle.
+
+@24
+Fukushima Masanori's unit appeared
+
+@25.0
+Fukushima Masanori is here!\n\n\nWe attack the Mōri army from behind and catch them in a pincer!
+
+@26
+Katō Kiyomasa's unit appeared
+
+@27.0
+Master! Are you unharmed?
+
+@27.1
+Ah, Kiyomasa!
+
+@27.2
+Master, leave this to Kiyomasa and flee quickly!
+
+@28.0
+I am Katō Kiyomasa! If you value your lives, withdraw at once!
+
+@28.1
+Katō Kiyomasa, one of Hideyoshi's own...
+
+@29.0
+You there, young Mōri warrior! Fukushima will be your opponent. Yaaah!
+
+@29.1
+Whoa! What monstrous strength!
+
+@30.0
+Terumoto, grandson of the wise Motonari...
+
+@31.0
+Raaah! I will not let a finger touch Lord Hideyoshi! I, Hachisuka Koroku Masakatsu, am your opponent!
+
+@32.0
+Curse you, Terumoto...! Breaking the truce after a single day!
+
+@32.1
+What are you saying! A truce made while hiding your lord's death is no truce at all!
+
+@32.2
+Grr. Preaching at me...!
+
+@35.0
+We have slain Hideyoshi!
+
+@35.1
+That monkey-faced upstart always gave us a hard time... Yet now that he is beaten, it was strangely easy.
+
+@35.2
+We now enter Himeji Castle.
+

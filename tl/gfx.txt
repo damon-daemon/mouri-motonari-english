@@ -1,0 +1,27 @@
+# English for the labels of the UI sprite sheet GRAPHIC/MARK.E3 (tools/gfx.py): sprite index<TAB>text
+28	Officer
+29	Int
+30	Luck
+31	Acc
+32	Spd
+33	End
+34	Skill
+35	Atk
+36	Def
+37	Equip
+38	Gold
+39	Exp
+40	Wt
+42	Unit Type
+43	Items
+44	Skills
+45	Eff.
+46	Heal
+47	Sortie
+48	Done
+222	FOC
+223	SEL
+224	WND
+225	BND
+226	CNF
+227	JNX

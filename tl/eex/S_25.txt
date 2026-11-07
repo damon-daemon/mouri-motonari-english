@@ -1,0 +1,84 @@
+@0.0
+Good, we go to Azuchi Castle and strike Akechi Mitsuhide!
+
+@1
+Battle of Azuchi Castle\nVictory\n  1. Akechi Mitsuhide retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@2.0
+A beautiful and magnificent castle... Nobunaga was a great man, for good and for ill. We now take Azuchi Castle. Defeat Mitsuhide!
+
+@2.1
+As expected of the Mōri army... They are on our heels already.\n\nIs it Terumoto's talent? Or the strength of Kikkawa and Kobayakawa?
+
+@2.2
+This is no time for admiration. If we do not drive the Mōri back, we have no tomorrow!
+
+@2.3
+If Sakamoto Castle is taken, Azuchi Castle will be isolated and fall in time. We will not let them pass, at the cost of our lives! Mōri army, prepare yourselves!
+
+@3
+Battle of Azuchi Castle\n\nVictory\n  1. Akechi Mitsuhide retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 90 turns pass
+
+@4.0
+...Since Honnō-ji, I was ready for this day to come. So the Mōri take the realm. That too... may be well...
+
+@5.0
+Damn! Waaaah!
+
+@6.0
+Heh... Who would have thought that I, Mitsuhide, would meet my end at Azuchi Castle. This is why the Sengoku age cannot be understood.\n\n...Heh.\n\n\nHa ha... ha ha...
+
+@7.0
+There is a shrine. Victory to us!\n\nHm? What is this...
+
+@14.0
+...Heh heh heh, so you came. Now, let's go!
+
+@15.0
+Fool! You fell for it!
+
+@16.0
+Now you are caught in a pincer. Underestimating us was your mistake!
+
+@17.0
+Damn! A trap!
+
+@18.0
+Akechi Hidemitsu will be your opponent! Now, take up your sword!
+
+@19.0
+To have come this far. I commend you.
+
+@19.1
+Mitsuhide, why did you betray your lord? However tyrannical Nobunaga was, there was no need to kill him.
+
+@19.2
+Hmph. You say that because you do not know Nobunaga. Had you served the Oda, you would not speak so softly!
+
+@20.0
+Saitō Toshimitsu, you fought well. Surrender.
+
+@20.1
+Heh...
+
+@20.2
+I, Terumoto, guarantee your safety. There is no use in any more...
+
+@20.3
+Lord Terumoto. A warrior must sometimes fight even when he knows it is futile. Look at Yamanaka Shikanosuke of the Amago, or Shimizu Muneharu who served you.
+
+@20.5
+I am grateful for your words, but as a warrior I cannot accept them. ...Lord Terumoto, let us settle this!
+
+@23.0
+What of Mitsuhide?!
+
+@23.1
+He is reported to have fallen in battle.
+
+@23.2
+He felled Nobunaga, yet held the realm for only a moment.
+
+@23.3
+That is not a fate we wish for ourselves.
+

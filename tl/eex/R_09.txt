@@ -1,0 +1,1593 @@
+@0
+Episode 10 "Sue Harukata, the Rebel General"
+
+@1
+Episode 10 "Sue Harukata, the Rebel General"
+
+@2
+Kōnomine Castle - Senior Retainers' Hall
+
+@3.0
+Lord Yoshitaka no longer has the heart of a warrior.\n\nThe culture of Kyōto has hollowed him out!
+
+@3.1
+These days he does not even inspect the troop drills.
+
+@3.2
+Ever since Lord Naitō passed away, Sagara and Reizei have clung to Lord Yoshitaka's side.
+
+@3.3
+It is all their doing. If only they had not led Lord Yoshitaka astray...
+
+@3.4
+Unless those two are pulled away from him, the Ōuchi house has no tomorrow.
+
+@3.5
+But Lord Yoshitaka seems to be wholly in their grip already.
+
+@3.6
+Even if we tried to pull them away, His Lordship would not let go.
+
+@3.7
+Still, we cannot just stand by and watch like this!
+
+@3.8
+Quite so. Waiting in silence is not in my nature.
+
+@3.9
+Lord Sue. Do not think anything rash.
+
+@3.10
+Sugi. I understand how you feel, but... I cannot change my own way.
+
+@5.0
+My lord. Lord Motonari has arrived from Aki.
+
+@5.1
+Oh, Motonari has come! Excellent.\n\nIt has been long since I met a lord who has a true warrior's heart.
+
+@6.0
+Sugi, we shall speak of this another time.
+
+@7.0
+Lord Sue... Just as you cannot change your way, I cannot change mine.
+
+@7.1
+A samurai must stay loyal, whatever kind of lord he serves. Forgive me, Lord Sue...
+
+@9.0
+Welcome. Make yourselves at ease.
+
+@10.0
+The splendour of Yamaguchi has astonished us.\n\nMy two sons here are still quite unsettled.
+
+@10.1
+Oh, so these are Takamoto's younger brothers. Let me see your faces.
+
+@10.2
+Oh, the younger one is to my liking. Later I shall treat him to a feast at my residence.
+
+@10.3
+W-well...
+
+@11.0
+Well, it has been a very long time.
+
+@12.0
+Your valour, Motonari, is often spoken of.
+
+@12.1
+I rarely march out and sit smouldering in my castle, so I am truly envious.
+
+@12.2
+If only you were sent out, Lord Sue, you would surely win glory. Wait for the time of your campaign.
+
+@12.3
+Hm. But...
+
+@12.4
+Ho ho ho. As long as Motonari is here, our army is hardly needed.
+
+@12.5
+Your fight against the Amago in Bingo and the capture of Kannabe Castle were both splendid victories. I commend you.
+
+@13.0
+Yes, my lord. I am grateful for your words.
+
+@13.1
+As a reward of sorts, I have been thinking of arranging a wife for Takamoto.
+
+@13.2
+A wife for Takamoto...
+
+@13.3
+The late Naitō Okimori's daughter, now my adopted daughter. I thought she might be his bride.
+
+@13.4
+Such kindness is more than I deserve. However, I cannot give you an answer at once...
+
+@13.5
+Do you mean to refuse Lord Yoshitaka's goodwill?
+
+@14.0
+Sagara, hold your tongue! Takamoto's feelings matter too! This is no place for you!
+
+@15.0
+It is you who should hold your tongue! How dare you speak so rudely to Lord Sagara, who enjoys Lord Yoshitaka's favour!
+
+@15.1
+Please, stop this.
+
+@16.0
+We gratefully accept the marriage.
+
+@17.0
+Motonari...
+
+@17.1
+If this marriage deepens the bond between the Mōri and the Ōuchi, Takamoto will surely agree.
+
+@18.0
+Oh, is that so? How joyous.\n\nNow the Mōri and the Ōuchi are kin.
+
+@18.1
+My lord, in that case I have a proposal.
+
+@18.2
+What is it?
+
+@18.3
+With the Mōri as kin, our forces have swollen. Now is the time to strike the Amago!
+
+@18.4
+How foolish... We had far more troops during the Izumo expedition.
+
+@18.5
+Ah, yes. As I recall, we lost then by a reckless frontal assault.
+
+@18.6
+So it is of no use as a precedent...
+
+@18.7
+Grrr...!
+
+@18.8
+Now, now, enough of that.
+
+@18.9
+(Is it... this serious...)
+
+@18.10
+(The retainers are split clean in two...)
+
+@18.11
+(What a dangerous state this is...)
+
+@20
+Mountains near Yoshida-Kōriyama
+
+@21.0
+To get lost in the middle of a hunt... I was too absorbed.
+
+@22.0
+Where on earth has everyone gone?
+
+@23.0
+Well, what to do now?
+
+@24.0
+Oh, a person.
+
+@25.0
+Excuse me, reverend. What are you doing here?
+
+@25.1
+I came to gather wild vegetables.
+
+@25.2
+I lost my way during a hunt. Which temple are you from...
+
+@25.3
+I train at Ankoku-ji, near here.
+
+@25.4
+If you are in trouble, let me first guide you to the temple.
+
+@25.5
+Thank you. I am in your debt. I am...
+
+@25.6
+Come, this way.
+
+@25.7
+Ah...
+
+@26.0
+(Well, there is no need to give my name...)
+
+@27
+Ankoku-ji Grounds
+
+@29.1
+It is a magnificent garden, but I see some slight disorder in it. I cannot help wondering what it is.
+
+@29.2
+...I see.
+
+@29.3
+(He saw through the disorder in my heart... Who is this man? Or am I simply still immature...)
+
+@29.4
+Whoever made this garden seems to have left a knot in his heart. I can see his doubt.
+
+@29.5
+But if that doubt were taken away...
+
+@29.6
+Does it trouble you?
+
+@29.7
+Yes.
+
+@29.8
+Then you should visit from time to time.
+
+@29.9
+The gardener here seems to intend to work on it further.
+
+@29.10
+Is that so? Then I will gladly take you at your word.
+
+@30
+Without ever giving his name, Takamoto came to visit Ankoku-ji again and again whenever he had time.\n\n\n\nBut the doubt Takamoto sensed never vanished from the garden.
+
+@32.0
+I have just returned from Yamaguchi. Lord Ōuchi's adopted daughter will become Takamoto's wife.
+
+@32.1
+Oh, a fine match.
+
+@32.3
+But the split among the Ōuchi retainers is worse than I thought.\n\nWe cannot tell what will happen...
+
+@44
+Yoshida-Kōriyama Castle - Mōri Takamoto's Residence
+
+@51
+Ogurayama Castle - Samurai Residence
+
+@60.0
+I suppose Lord Sue's warrior blood could not forgive Lord Yoshitaka.
+
+@61.0
+Takamoto, your bride has been decided. Lord Yoshitaka's adopted daughter.
+
+@61.1
+Lord Naitō's daughter, then. I know the girl.
+
+@61.2
+I settled the match without asking you. I know it may be unwelcome...
+
+@61.3
+It is the way of the Sengoku age. I do not mind it.
+
+@61.4
+Forgive me, Takamoto.
+
+@61.5
+It is no trouble. We shall make a good couple and raise up the Mōri clan.
+
+@62
+A few days later, Yoshitaka's adopted daughter was swiftly wed and became Takamoto's wife.\n\nOn his marriage, Takamoto moved into Okimoto's old residence and set about making full preparations to become the next head of the clan.\n\nMeanwhile, Motoharu formally entered Ogurayama Castle as head of the Kikkawa. Kuchiba Michiyoshi was appointed as his aide, and the two Kawa system was complete.\n\nAround this time, great changes were taking place for Matsudaira Takechiyo, a hostage in Kiyosu, within the Amago house of Izumo, and within the Ōuchi house of Yamaguchi.
+
+@64.0
+What has become of my home, Okazaki? Are Father and Mother well?
+
+@65.0
+Oh, Takechiyo, so here you are.
+
+@65.1
+What is it? You seem more flustered than usual...
+
+@65.2
+Your father has been slain. Betrayed by his own retainer.
+
+@65.3
+What! Father has been slain...!
+
+@65.4
+Imagawa Yoshimoto took advantage of the chaos and seized Okazaki Castle. Mikawa has already fallen into Imagawa hands.
+
+@65.5
+No... Father!
+
+@66.0
+Is this the time for tears!
+
+@66.1
+*sniff*... But...
+
+@66.2
+If the survivors weep, the dead can never rest in peace!
+
+@66.3
+*sniff*... Yes.
+
+@67.0
+Soon the Oda and the Imagawa will exchange hostages.
+
+@67.1
+At that time you will go to the Imagawa stronghold, Sunpu.
+
+@67.2
+I will go to Sunpu...
+
+@67.3
+You will go as the son of a pitiful commander who had his throat cut in his sleep by a retainer.
+
+@67.4
+Show any weakness and you will be mocked for ever.
+
+@67.5
+If that happens, the Matsudaira house will never be restored!
+
+@67.6
+...I understand.
+
+@67.7
+Then hold your head high. Make the Imagawa men see that I am not my father.
+
+@67.8
+Is that clear!
+
+@70.0
+The conduct of the Shingūtō has been beyond bearing lately. They are no better than bandits.
+
+@70.1
+Indeed. They are a handful. I can hardly forgive it.
+
+@70.2
+They still do not seem to grasp that their defeat by the Mōri cost us face.
+
+@70.3
+Yet they are undeniably a great part of our strength.
+
+@70.4
+Hmm. They are most troublesome.
+
+@72.0
+We press again and again, yet he will not allow us to march out. All we do is grumble here.
+
+@72.1
+Can we call ourselves samurai like this!
+
+@73.0
+If this goes on, the Ōuchi house will perish. We must act while we can...
+
+@74.0
+Even so, Lord Yoshitaka is beyond help.\n\nThere is nothing more we can do about him.
+
+@74.1
+Why so weak-hearted! There must be other ways!
+
+@74.2
+...There is one.
+
+@74.3
+Surely not...!
+
+@74.4
+Surely so... We strike down Lord Yoshitaka.
+
+@74.5
+Lord Sue! That, you must not do!
+
+@74.6
+No, it is the only way left.
+
+@74.7
+If you rise, Lord Sue, we will spare no help.
+
+@74.8
+We will take the stain of traitors upon us.
+
+@75.0
+All of you, stop this foolishness!
+
+@75.1
+Have you lost your nerve, Lord Sugi? Lord Yoshitaka cannot carry us through this age!
+
+@75.2
+Lord Sue, if we are to act, let us do so before we are noticed.
+
+@75.3
+Very well. Each of you, go home at once and gather your troops. We attack Yoshitaka's residence after midnight.
+
+@75.4
+Let us go!
+
+@75.5
+Wait!
+
+@76.0
+Wait! Do not be hasty!
+
+@77.0
+What shall we do?
+
+@77.1
+Watch Lord Sugi. If he betrays us... kill him.
+
+@78
+Ōuchi Yoshitaka's Living Quarters
+
+@79.0
+My lord, a grave matter!
+
+@79.1
+What is it now? I am busy preparing for tomorrow's poetry gathering. The next theme is...
+
+@79.2
+This is no time for that! It is a rebellion!
+
+@79.3
+Rebellion? Who would do such a thing?
+
+@79.4
+Lord Sue and the hawkish faction. They are discontent that Your Lordship neglects governing, and they mean to revolt.
+
+@79.5
+There is still time. If you hold a meeting and think again about the future...
+
+@79.6
+Harukata? Impossible. Harukata of all men would never do that.
+
+@79.7
+Speak no nonsense. Leave me.
+
+@79.8
+No, my lord. Please listen!
+
+@79.9
+Now then, tomorrow's theme...
+
+@79.10
+(What folly! Is it useless to say anything...!)
+
+@80.0
+It cannot be helped. Lord Sagara will surely take some measure. We must at least prevent the revolt...
+
+@80.1
+...Who goes there!
+
+@81.0
+Are you one of Lord Sue's men? Surely Lord Sue would not stoop to such a base trick...?
+
+@81.1
+Prepare yourself! Forgive me!
+
+@82.0
+Gah...!
+
+@83.0
+Lord Sue... why...
+
+@84
+Kōnomine Castle - Ōuchi Yoshitaka's Residence
+
+@85.0
+The preparations are complete.
+
+@85.1
+Good. Now, attack!
+
+@86
+Ōuchi Yoshitaka's Living Quarters
+
+@87.0
+My lord, outside... outside...!
+
+@87.1
+Impossible... What Sugi said was true...
+
+@87.2
+It is over. Lord Yoshitaka, at least take your own life. I will go with you.
+
+@87.3
+My glory... my glory...!
+
+@89.0
+Ōuchi Yoshitaka and Reizei Takatoyo have taken their own lives! Sagara Taketō has also been put to death.
+
+@89.1
+Good work. And what of Sugi?
+
+@89.2
+He is nowhere to be seen in so great a matter...
+
+@89.3
+I ordered my ninja to assassinate Lord Sugi.
+
+@90.0
+What! On whose authority did you do such a thing!
+
+@90.1
+With respect, Lord Sue!
+
+@90.2
+Lord Sugi informed Lord Yoshitaka of our revolt, and was about to go straight on to Sagara's residence!
+
+@90.3
+That was an act of betrayal. We might have been wiped out!
+
+@91.0
+Hmm...
+
+@91.1
+I will bear the blame. Please calm your anger, and give us our next orders!
+
+@91.3
+To restore the Ōuchi house, we will welcome Haruhide, the late lord's nephew, from the Ōtomo house. Send a messenger to Usuki!
+
+@91.5
+Have the Mōri seize any local lords in Aki who do not obey!
+
+@91.6
+Yes, my lord! I will send the messenger at once.
+
+@94.0
+Seki, what is it?
+
+@94.1
+Sue Harukata's revolt has led Ōuchi Yoshitaka to take his own life.
+
+@95.0
+What!\n\n...Lord Sue, you acted rashly...
+
+@95.1
+Lord Sue's messenger will arrive shortly.
+
+@96.0
+I have come as a messenger from Lord Sue Harukata.
+
+@96.1
+Lord Sue and the other generals have put to death Ōuchi Yoshitaka, Sagara, Reizei and Sugi,
+
+@96.2
+and have decided to welcome Lord Haruhide as the new head of the clan.
+
+@96.3
+Therefore, to put down the unrest in the realm,
+
+@96.4
+Lord Motonari is asked to subdue the Hiraga and Asonuma of Aki.
+
+@96.5
+I understand the message.
+
+@96.6
+Then I take my leave.
+
+@97.0
+What will you do?
+
+@97.1
+If Lord Sue holds the entire Ōuchi army, the Mōri cannot match him now.
+
+@97.2
+Lord Sue... Why did you not stop yourself!
+
+@97.3
+For now we have no choice but to follow Lord Sue.\n\nHe must have some deeper thought behind this.
+
+@97.4
+It cannot be helped. Everyone, prepare to march!
+
+@99.0
+I will not weep. I have resolved to be strong, as a samurai's wife.
+
+@100.0
+That Father was struck down by Lord Sue... I can only say it is regrettable.
+
+@100.1
+Both my father and my adoptive father are dead. Now I have only Lord Takamoto to rely on.
+
+@100.2
+This is the armour I brought from my home. Please give it to Lord Takamoto.
+
+@101.0
+Brother has not yet returned from the hunt.\n\nWhere in the world is he wandering?
+
+@102.0
+Brother, where have you been?
+
+@102.1
+Hm, I lost my way a little.
+
+@102.2
+Losing your way, still so green. I could walk this area with my eyes shut.
+
+@103.0
+I cannot call Lord Sue's revolt mere folly.
+
+@103.1
+I think I understand how Lord Sue felt.
+
+@104.0
+The Ōuchi wishing to ally by marriage with the Mōri is truly amusing. It would have been unthinkable in the old days.
+
+@105.0
+Have you been to Ogurayama Castle? Why not go and see how Lord Motoharu is doing?
+
+@106.0
+Lord Takamoto was at Kōnomine Castle, so he must know the girl who will be his wife. I think it is a fine match.
+
+@109.0
+Even if you are reluctant, we have no choice but to comply.
+
+@110.0
+Leave Lord Motoharu to me.
+
+@111.0
+It will soon be time for Lord Motoharu to go to Ogurayama Castle.\n\nWho will you send with him?
+
+@111.1
+Hm, in fact I have not decided.
+
+@111.2
+Then please send me.
+
+@111.3
+For gathering information around Ogurayama, it would help to have someone who can liaise with Seki.
+
+@111.4
+I see. That is indeed a weak point of Motoharu's.
+
+@111.5
+Very well, I entrust it to you.
+
+@111.6
+Yes, my lord! Leave it to me!
+
+@112
+Talk to Takamoto in the Living Quarters
+
+@113.0
+Lord Sue's revolt... I understand his feelings, but he acted rashly...
+
+@114.0
+Have you told Lord Takakage about Lord Takamoto's marriage?
+
+@115.0
+I never imagined Lord Yoshitaka had become so lost in Kyōto culture.
+
+@116.0
+With the retainers divided, they do not seem very dependable.
+
+@117.0
+...Lord Takamoto's child. ...I long to see it soon.
+
+@118.0
+Lord Takamoto is the very bond with the Ōuchi. Lord Motonari has a fine heir.
+
+@119.0
+I think this a good match, but Lord Yoshitaka may also intend to make the Mōri a shield against the Amago.
+
+@120.0
+What does Lord Takamoto mean to do about his residence?
+
+@121.0
+I hear Brother is to take a wife.\n\nPlease give him this as a gift.
+
+@122.0
+Please tell Brother congratulations on his marriage.
+
+@123.0
+The Ōuchi retainers are not simply split in two. The Sue faction seems overwhelmingly larger.
+
+@124.0
+Rumours of discord among the Ōuchi retainers have reached even Takayama here. It seems quite serious.
+
+@125.0
+Failing to sense the mood among his own men... I can only say Lord Yoshitaka was careless.
+
+@126.0
+Lord Motonari, do you remember me?
+
+@126.1
+???
+
+@126.2
+Ha ha ha. It is no wonder you do not remember.
+
+@126.3
+As a child I was saved by you, Lord Motonari, in this market.
+
+@126.4
+Saved?
+
+@126.5
+Yes. I hear you shared a cure-all medicine with me...
+
+@126.6
+Something like that may have happened.
+
+@126.7
+Years have passed since... My mother has died, but until her last moments she kept saying I must repay Lord Motonari.
+
+@126.8
+I see... So you are the child from back then... You have grown up splendidly.
+
+@126.9
+That I am here today is all thanks to you, Lord Motonari.
+
+@126.10
+No, no. In any case, I am glad you are well.
+
+@127.0
+I work as a physician. Please let me be of use to you, Lord Motonari.
+
+@129.0
+I see. Then I shall ask for your help.
+
+@131.0
+Then, regrettably, another time...
+
+@132.0
+Sorry, but I am well supplied at present.
+
+@132.1
+I see... Then another time.
+
+@143.0
+I am the man who borrowed money from you, Lord Motonari, at the Ogurayama market some time ago.
+
+@143.3
+No, no. But tell me, have you been all right since?
+
+@143.4
+Thanks to you, my business has since got on track, and I now have some money to spare.
+
+@150.1
+No, no, it is only a token of gratitude. Please accept it.
+
+@161.0
+I am sorry to hear that... but I cannot employ you here either.
+
+@162.0
+I am a gunsmith by the name of Chikuma Sadakuni.
+
+@162.1
+I would like to offer you my services, Lord Motonari.
+
+@162.2
+A gunsmith...
+
+@164.1
+Yes, I will surely live up to your expectations.
+
+@166.0
+What a pity. Another time, then...
+
+@167.1
+I see... Then, regrettably, another time...
+
+@168.0
+I am a cannon smith by the name of Tsuda Yoichi.
+
+@168.1
+Leave anything about cannons to me.
+
+@168.2
+Oh, you sound confident.
+
+@168.3
+Yes. I would very much like you to see the power of the cannons I make.
+
+@170.0
+Very well. We shall meet at the workshop later.
+
+@172.0
+What a pity. Another time, then...
+
+@173.1
+I see... Then, regrettably, another time...
+
+@174.5
+Please let me, too, be of help to you, Lord Motonari.
+
+@181.1
+I see... Then I will take my leave.
+
+@185.0
+It seems you have trained hard at shōgi.\n\nPlease challenge my father again.
+
+@191.5
+I want to work under someone with great skill in tactics and command.
+
+@191.13
+If you can beat my father at shōgi, Lord Motonari, I would like to join your service.
+
+@191.15
+Yes. In his day my father was famed as a tactician of great skill.
+
+@200.0
+I heard you reunited a parent and child who had been parted.
+
+@200.1
+Parent and child are best off living together.
+
+@200.3
+I am Mozu Hitokusa, a ninja-gear maker. Please let me join your company.
+
+@206.0
+A man of such charm, who draws others to him... I would like to work under someone like that.
+
+@207.0
+You are...
+
+@207.1
+This is the samurai, Father. The one who told me about you.
+
+@207.7
+Sir, it may be presumptuous, but could I take up that offer from before?
+
+@207.8
+Very well. I am Mōri Motonari. Go to the workshop and give them my name, and all will be well.
+
+@207.9
+Thank you, my lord. I will give it all I have.
+
+@209.0
+Then, I am sorry, but another time.
+
+@210.0
+I have decided not to work any more. Please leave.
+
+@210.1
+I see. Then I will withdraw for today.
+
+@210.2
+It will be the same however often you come.
+
+@213.2
+I have decided not to work any more. Please leave.
+
+@213.3
+I see. Then I will withdraw for today.
+
+@213.4
+It will be the same however often you come.
+
+@215.0
+They say Yanohara Hirohide has entered Lord Motonari's service.
+
+@216.0
+Anyway, they say he is a master.
+
+@216.1
+Hmm, what a waste.
+
+@216.3
+No, it is just that there is said to be a skilled craftsman in this town...
+
+@216.4
+But he has lost the will to work, and accepts no one's offer.
+
+@216.6
+His name, I think, was... Yanohara Hirohide or so...
+
+@217.0
+I was told, "I see trouble with women in your face." Ah, it is hard being popular.
+
+@222.0
+This is the storehouse. Please use it as you wish.
+
+@223.0
+If you wish to train further, speak to the drill master.
+
+@224.0
+Lord Motonari! Welcome.
+
+@224.1
+Since you have come to the training ground, how about working up a sweat?
+
+@225
+Train lightly\nNo thanks
+
+@226.0
+Why not, let us try.
+
+@226.1
+Then I shall have that man spar with you.
+
+@226.2
+You there, come here.
+
+@227.0
+Yes, sir. You called?
+
+@227.1
+This man travels the provinces honing his martial skills.
+
+@227.2
+He is quite skilled, so I brought him here.
+
+@227.3
+I see. Then let us cross swords at once.
+
+@227.4
+This is Lord Motonari. Be his partner.
+
+@227.5
+Understood. I look forward to it.
+
+@228.0
+Now, here I come.
+
+@228.1
+Yes, sir. I look forward to it.
+
+@229.0
+Hah! Yah!
+
+@229.1
+Ha! Hup!
+
+@230.1
+You are quite good!
+
+@231.0
+Hah!
+
+@231.1
+Not yet!
+
+@232.0
+Phew, it has been a while since I worked up such a sweat.
+
+@232.1
+It is my joy as well, Lord Motonari, to have sparred with you.
+
+@233
+Exp rose by 3
+
+@234.0
+Well done. You may go.
+
+@234.1
+Yes, sir. Then, excuse me.
+
+@235.0
+Hmm, thank you, but not this time.
+
+@235.1
+I see. Then another time... Please, make yourself at home.
+
+@236.0
+For the contents of the storehouse, please ask the storekeeper.
+
+@251.0
+Anyway, they say he is a master.
+
+@251.1
+Hmm, what a waste.
+
+@252.0
+I am no good at using my head. As long as I can sit here and drink, that is enough for me.
+
+@253.0
+Shōgi? ...I am no good at it.
+
+@254.0
+Ah, maybe I should apprentice myself to a skilled craftsman and become a swordsmith.
+
+@255.0
+Too bad, customer... Well, there are days like this.
+
+@255.1
+Oh, time I was heading home.
+
+@256.0
+Customer, why not play a little? This is the last game today. It costs only 100 gold.
+
+@258.0
+Hmm, thank you, but not this time.
+
+@258.1
+I see... Then another time, please.
+
+@260.0
+Why not, let us try. What kind of game is it?
+
+@260.1
+Then I will explain, so listen well.
+
+@260.2
+Here are three boxes. Only one of them holds the prize. Guess which one.
+
+@260.3
+It is 100 gold per try. If you guess right, I will give you 1000 gold.
+
+@260.4
+Good, understood.
+
+@261
+Right box\nMiddle box\nLeft box\nNever mind
+
+@262.0
+No, on second thought, never mind.
+
+@262.1
+I see... Then another time, please.
+
+@263.0
+Then I will take the 100 gold entry fee.
+
+@265.0
+Let us see...
+
+@265.1
+What a pity, a miss.
+
+@265.2
+Too bad. How about it, would you like to try again?
+
+@265.3
+This time it is 200 gold, but if you win, I will give you 2000 gold.
+
+@265.4
+And this time there are only two boxes. A fifty-fifty chance!
+
+@267.0
+Hmm, thank you, but not this time.
+
+@267.1
+I see... Then another time, please.
+
+@269.0
+I cannot leave it like this, it leaves a bad taste. Let me try once more.
+
+@270
+Right box\nLeft box\nNever mind
+
+@271.0
+No, on second thought, never mind.
+
+@271.1
+I see... Then another time, please.
+
+@272.0
+Then I will take the 200 gold entry fee. Do your best this time.
+
+@273
+Paid 200 gold
+
+@274.0
+Let us see...
+
+@274.1
+What a pity, a miss.
+
+@274.2
+Not your lucky day, customer. Come again some time. I will be waiting.
+
+@275.0
+I feel good today.
+
+@277.0
+Phew, somehow I feel empty.
+
+@278.0
+These are dangerous times. Please be careful.
+
+@279.0
+Lord Motonari, greetings.
+
+@279.1
+I have here a book called "3-Monme Guide."
+
+@279.2
+I give it to you, my lord. Please put it to some use.
+
+@279.3
+"3-Monme Guide"... It may prove useful. Let me take it for now.
+
+@280.0
+Then leave it to me!
+
+@281.0
+I am a cannon smith called Tsuda Yoichi.
+
+@281.1
+When it comes to cannons, leave it to me.
+
+@281.3
+Yes. I want you to see the power of the cannon I made.
+
+@286.0
+Sorry, but I will pass this time.
+
+@286.1
+I see... A pity. Then another time...
+
+@287.0
+When I think of a new puzzle, I will put it to you again.
+
+@288.0
+Can you solve my puzzle? If you do, I will give you this item.
+
+@288.1
+Here we go.
+
+@288.2
+There are three people: Matsu, Take and Ume. Two of them are honest, and one is a liar.
+
+@288.3
+Listen to what each says and guess who the liar is.
+
+@288.4
+I will say it only once, so listen well.
+
+@288.5
+Matsu: Take is a liar.
+
+@288.6
+Take: I am not a liar.
+
+@288.7
+Ume: Matsu is a liar.
+
+@288.8
+Well? Do you know who the liar is?
+
+@289
+Matsu\nTake\nUme
+
+@290.0
+What, the right answer!
+
+@290.1
+I am impressed. As expected of you.
+
+@290.2
+Then, as promised, this is yours.
+
+@291.0
+Sadly, that is wrong.
+
+@292.0
+Sadly, that is wrong.
+
+@293.0
+The first time I drank sake, I wondered what was good about it. Now I am hooked.
+
+@295.0
+I really am unlucky, I keep feeling it.
+
+@295.1
+Why is that?
+
+@295.2
+At the market, I played a gamble: picking the prize from three boxes.
+
+@295.3
+Ah, that one.
+
+@295.4
+Not only did I lose, but even when he cut it to two boxes, I still lost...
+
+@295.5
+And that was a fifty-fifty chance!
+
+@295.6
+Of course you lost.
+
+@295.7
+Why?
+
+@295.8
+There was never a prize in any of them to begin with.
+
+@295.9
+What?
+
+@295.10
+You did not know? He is a notorious swindler.
+
+@295.11
+Argh! I was taken!
+
+@296.0
+Oh, Lord Motonari, what is wrong? You look rather pale.
+
+@297.0
+Even when I am drunk, I never cause trouble.
+
+@300.0
+I heard a rumour that treasure lies at the centre of a village laid out in a cross. Where could it be, I wonder?
+
+@301.0
+You there, you look rather down.
+
+@301.1
+I am a little discouraged, that is all.
+
+@303.0
+Oh my, Lord Motonari. We meet again.
+
+@303.2
+Gender does not matter. As long as there is love...
+
+@303.3
+Enough! I told you not to come near me!
+
+@304.0
+Our child will be born soon.
+
+@305.0
+Live together happily, parent and child.
+
+@306.0
+Oh, Lord Motonari! I do not know how to thank you. Thank you so very much.
+
+@306.1
+No, no, no thanks needed. From now on, live together as mother and son.
+
+@306.2
+Yes. I will never let go of this child again.
+
+@306.3
+Thank you so very much. I will pray for your safety in battle, Lord Motonari.
+
+@308.0
+Lord Motonari, I am sorry for the trouble, but I leave it to you.
+
+@309.0
+Oh, Lord Motonari. You have seen me at a bad moment.
+
+@309.1
+What on earth is the matter?
+
+@309.2
+No, it is nothing. It is hardly worth troubling you, my lord...
+
+@309.3
+Do not lie. It cannot be nothing. I will help you, so speak.
+
+@309.4
+Well... About five years ago, I left my only son at a temple in Kōriyama.
+
+@309.5
+At the time, I could not raise him alone as a woman, and had no choice...
+
+@309.6
+It is late to say so, but I cannot forget that child.
+
+@309.7
+Yet I lack the courage to go and see him, and so I have done nothing but weep.
+
+@309.8
+I see. It must have been painful.
+
+@309.9
+Very well. I will go and see the boy. Wait for me here.
+
+@309.10
+What?! Would you really?
+
+@309.11
+Yes, leave it to me.
+
+@309.12
+Thank you. I leave it to you, my lord.
+
+@311.0
+I hope the baby will be a healthy one.
+
+@312.0
+Why do men love sake so much, I wonder?
+
+@313.0
+Lord Motonari is truly someone one can rely on.
+
+@315.0
+Giving thanks to the sun again today.
+
+@316.0
+I live for this one cup.
+
+@317.0
+If you have any trouble, just say so. If the likes of us can help, we will.
+
+@318.0
+We farmers can only wait for the day when peace comes.
+
+@319.0
+Forget the bad things and drink to the bottom!
+
+@320.0
+Work and work, and my life gets no easier...
+
+@321.0
+If I have a son, may I name him Motonari?
+
+@322.0
+Is it true that sake cures illness?
+
+@323.0
+My back has been terrible lately. Is there nothing to be done?
+
+@324.0
+I cannot drink sake. What should I do to be able to?
+
+@325.0
+I said I would retire soon, and that was years ago. Here I am, still at it.
+
+@326.0
+People grow by gaining experience.
+
+@327.0
+I know little of war... But if you throw yourself into something with passion, all goes well.
+
+@328.0
+Please take care not to be wounded in battle.
+
+@330.0
+Keeping the storehouse is an important duty. It cannot yet be left to the young.
+
+@331.0
+When you make weapons or tools, go to the workshop.
+
+@332.0
+I look forward to your great deeds.
+
+@333.0
+Lord Motonari, I have something to give you.
+
+@338.1
+I see, that was most helpful. My thanks.
+
+@343.0
+I seem to have drunk too much today... I cannot even remember a moment ago...
+
+@344.0
+I have heard there is treasure north of the shrine where the rivers cross.
+
+@345.0
+When I grow up, I will be a merchant for sure. Samurai are good too... But merchant is best.
+
+@347.0
+Take good care of your mother.
+
+@348.0
+My mother? I was parted from her when I was little...
+
+@348.1
+Do you want to see her? Do you not hate her?
+
+@348.2
+I do not hate her. The abbot says she will surely come for me someday.
+
+@348.3
+I see, that is good.
+
+@348.4
+In fact, your mother is at Ogurayama.
+
+@348.5
+If you wish, go and see her.
+
+@349
+Told him where his mother is and what she looks like
+
+@350.0
+Thank you, samurai. I will go and see my mother right away.
+
+@351.0
+Will that ninja sister come here again?
+
+@352.0
+That sister was a ninja after all, wasn't she?
+
+@354.0
+A sister in strange clothes has been coming here for a while now.
+
+@367.1
+No. If you do not trust me, I have no wish to serve you any longer.
+
+@374.0
+Train further, and come back when you are satisfied with your skill.
+
+@375.3
+Your kind words... I am still in training, but please take me into your service.
+
+@377.0
+Yes, I want you to lend me your strength right now.
+
+@382.0
+He is without doubt my father.
+
+@383.0
+I see... What is your father's name?
+
+@383.1
+He is a physician called Yanohara Hirohide.
+
+@386.0
+Do you remember what to buy?
+
+@386.1
+Um... I think it was...
+
+@386.2
+I forgot.
+
+@386.3
+You forgot?
+
+@386.4
+Shall I go ask again?
+
+@386.5
+Honestly!
+
+@388.1
+What is it?
+
+@388.2
+I forgot the money.
+
+@388.3
+Honestly!
+
+@389.0
+Even while drinking sake, one must not lower one's guard.
+
+@390.0
+Life itself is training.
+
+@391.0
+In this world, even true parent and child sometimes must live apart. It is sad.
+
+@392.0
+I hope he can meet his father safely.
+
+@393.0
+Lord Motonari, welcome.
+
+@393.1
+Mm. And that child...?
+
+@393.2
+This child is looking for his father. They were parted about two years ago, it seems.
+
+@394.3
+Hmmmmm.
+
+@395.0
+My homeland, Portugal, very, very good place.
+
+@397.0
+Are your medicines fully prepared?
+
+@398.0
+Lord Motonari, I give you a Minor Remedy. Use it when the time comes.
+
+@399.0
+I will make some groundbreaking medicine and make a fortune.
+
+@400.0
+I am researching a new medicine blend now.
+
+@400.1
+But for lack of funds I cannot get the herbs, and the research does not go as I wish.
+
+@400.2
+What do you say? Would you lend me some money? 100 gold will do.
+
+@400.3
+Of course, if I succeed in the new blend, I will repay it at once.
+
+@403.0
+A new medicine benefits the people too, so I will lend it to you.
+
+@404
+Lent 100 gold
+
+@405.0
+Thank you. I will surely succeed and come to repay you.
+
+@406.0
+I understand your trouble, but you must not rely only on others.
+
+@406.1
+You are quite right. I will do my best on my own.
+
+@407.0
+One must never let one's guard down in war.
+
+@409.0
+My lord, you should keep track of the weapon stock yourself, too.
+
+@411.0
+Be mindful of time and place when holding secret talks on strategy.
+
+@412.0
+Soon it will be just the two of us in this sitting room, won't it?
+
+@413.0
+It seems Lord Takamoto is moving into the vacant residence. Everyone is gone. *sniff*
+
+@414.0
+The room feels so wide. It is as if we were in another residence.
+
+@415.0
+We must find something for her to do... She is lonely and cries all the time, it troubles me.
+
+@416.0
+I hear Lord Takamoto will take a wife. Please do have her live here.
+
+@417.0
+At last I can go back to being a maid. But... that skill, I must pass it on to someone...
+
+@418.0
+Amago? Ōuchi? The strongest is me! ...*hic*
+
+@419.0
+The greatest enemy on the road to strength is oneself.
+
+@420.0
+As expected of you, Lord Motonari. Sanjūrō can serve you with ease of mind.
+
+@421.0
+I would like to ask you for a game of shōgi.
+
+@424.0
+I am beginning to understand how to firm up the defence.
+
+@429
+Won a game of shōgi
+
+@430.0
+Ah, I yield. As expected of you, Lord Motonari, I am no match for you now.
+
+@430.1
+I am starting to see the fun of shōgi. It will help in strategy too.
+
+@431.0
+Are you Murata Sanjūrō's father?
+
+@432.0
+I would like to challenge you to a game of shōgi.
+
+@432.2
+Then, here I come.
+
+@435.0
+Do not rush the game, firm up the defence...
+
+@440
+Won a game of shōgi
+
+@441.0
+Ah, I yield. As expected of you, Lord Motonari, such progress in so short a time is splendid.
+
+@443.0
+Heh heh... your attack is still too soft.
+
+@444.0
+Hmm, he is strong indeed...
+
+@449.0
+I yield. I am completely outmatched.
+
+@450.0
+Ah, I want a game of shōgi... Is there no strong opponent anywhere?
+
+@451.0
+You are a ninja, are you not?
+
+@451.1
+I-I am no ninja, I tell you!
+

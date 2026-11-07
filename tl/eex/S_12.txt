@@ -1,0 +1,186 @@
+@0.0
+We crush the Ōuchi in one stroke from here! Men, follow me!
+
+@1
+Advance on Suō and Nagato\nVictory\n  1. Ōuchi Yoshinaga retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@2.0
+Damn it, have the Ōtomo reinforcements still not come?!
+
+@2.1
+No, my lord. There is still no word.\n\nBut do not worry. There are many branch castles between here and Katsuyama Castle. They will surely stop the Mōri...
+
+@2.2
+What are you saying?! This is the Mōri army that even defeated Harukata!\n\nHow can I trust a "surely"?
+
+@2.3
+When I stood against Harukata, Lord Motonari promised me his help. But now he is just a daimyō hostile to the Ōuchi. It cannot be helped. For the time being... I will wait and see.
+
+@2.4
+Against Motonari, who defeated even Harukata, I stand no chance. This is a time to think things over...
+
+@2.5
+That Sugimori of Rengesan Castle... Is he plotting something?!
+
+@2.6
+Damn Motonari... I will never give up this castle!
+
+@2.7
+If we lose to the Mōri like this, everything my father did will have been for nothing...\n\nWe must defeat the Mōri army and somehow leave the Ōuchi name to the world...
+
+@2.8
+Right, sally forth!
+
+@3
+Advance on Suō and Nagato\n\nVictory\n  1. Ōuchi Yoshinaga retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@4
+Ōtomo Sōrin's reinforcements arrived
+
+@5.0
+Lord Yoshinaga! By my lord brother's order, I have come to reinforce you!
+
+@5.1
+Oh, Yoshihiro! Well done in coming!
+
+@6.0
+After all, I cannot go against the Ōuchi house. Sortie! Defeat Mōri Motonari... no, drive him back!
+
+@6.1
+So Masayori has sortied. He too must have agonised over it. It cannot be helped...
+
+@7.0
+Now there is no need to guard a castle like Kurakakeyama! All forces, sortie! Our only target is Motonari's head!
+
+@7.1
+Lord Sugi seems to be leaving his castle...
+
+@8.0
+Ugh... Lord Yoshinaga, forgive me...
+
+@9.0
+Father... Is this fate too...
+
+@10.0
+So this is the end of the Ōuchi house...
+
+@11.0
+Damn you, Motonari...
+
+@27.0
+There is a shrine! I will pray for certain victory!
+
+@31.0
+I am the spear smith Ono Dōken. Please let me work in your workshop.
+
+@37.0
+This was lying in our storeroom.
+
+@40.0
+The Mōri forces have entered our domain! Leave the castle and meet them!
+
+@41
+Sugi Shigesuke's army appeared
+
+@42.0
+I have waited for this moment...\n\n\nI am Sugi Shigesuke! My father Shigenori was killed by Sue Harukata! Now that Harukata is dead, I will strike down his son Nagafusa with my own hand and avenge my father! Lord Mōri, do not interfere! Nagafusa, Nagafusa alone I will cut down!
+
+@42.1
+Damn you, Shigesuke! If you defy the Ōuchi house, I will send you down the same road as your father!
+
+@42.2
+Sugi Shigenori's son, Shigesuke...
+
+@43.0
+Motonari...!
+
+@43.1
+(So this man is Ōuchi Yoshinaga...)
+
+@44.0
+Lord Nagafusa...
+
+@44.1
+Lord Motonari, say nothing. I can only fulfil my duty now as a retainer of the Ōuchi house.\n\nEven if the Ōuchi house is destroyed...
+
+@45.0
+Lord Yamazaki, would you not cooperate with me, Motonari?
+
+@45.1
+I will only be loyal to the Ōuchi house. Say more and I will show no mercy!
+
+@46.0
+Lord Takayasu, would you not cooperate with me, Motonari?
+
+@46.1
+What are you saying?! You were once a retainer of the Ōuchi yourself! Have you no shame? Shame on you!
+
+@47.0
+Lord Motonari...
+
+@47.1
+Lord Masayori, would you please cooperate with me, Motonari?
+
+@47.2
+Very well. Had the Mōri sided with Harukata then, I would not be alive. I will cooperate. Men, stand down!
+
+@48
+Yoshimi Masayori joined the party
+
+@49.0
+Lord Takamoto... We have not met since Yamaguchi.
+
+@49.1
+Lord Masayori, would you please cooperate with me, Takamoto?
+
+@49.2
+Very well. Had the Mōri sided with Harukata then, I would not be alive. I will cooperate. Men, stand down!
+
+@50
+Yoshimi Masayori joined the party
+
+@51.0
+Lord Mōri Motonari... The Mōri, who struck down Sue Harukata, are in a sense my father's benefactors. Please add me to the ranks of the Mōri army, however lowly.
+
+@51.1
+I could ask for nothing better. Lord Shigesuke, I count on you.
+
+@52
+Sugi Shigesuke joined the party
+
+@53.0
+This castle is surrounded by our Mōri army. We can take it whenever we choose to attack. ...Well?
+
+@53.1
+Y-yes! I have no intention of defying the Mōri. I surrender.
+
+@53.2
+(How weak... Does he not even have the resolve to die fighting with his castle?!)
+
+@54
+Sugimori Fusayasu joined the party
+
+@55.0
+We have taken the Mōri main camp!
+
+@57.0
+Father. They say Ōuchi Yoshinaga has fled into Katsuyama Castle.
+
+@57.1
+I see. ...What is his state?
+
+@57.2
+That I do not know.
+
+@57.3
+Shall we have the ninja scout it out?
+
+@57.4
+...Yes. Seki, go and have a look.
+
+@57.5
+Yes, my lord.
+
+@58
+Gained 800 gold
+

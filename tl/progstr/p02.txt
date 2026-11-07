@@ -1,0 +1,464 @@
+PROG:801211c8	Episode 11
+PROG:801211d4	Episode 12
+PROG:801211e0	Episode 13
+PROG:801211ec	Episode 14
+PROG:801211f8	Episode 15
+PROG:80121204	Episode 16
+PROG:80121210	Episode 17
+PROG:8012121c	Episode 18
+PROG:80121228	Episode 19
+PROG:80121234	Episode 20
+PROG:80121240	Episode 21
+PROG:8012124c	Episode 22
+PROG:80121258	Episode 23
+PROG:80121264	Episode 24
+PROG:80121270	Episode 25
+PROG:8012127c	Episode 26
+PROG:80121288	Episode 1 "A Young Eagle's First Battle"
+PROG:801212a0	Episode 2 "A Single Flower"
+PROG:801212b4	Episode 3 "Elder Brother, Younger Brother"
+PROG:801212c8	Episode 4 "The Time of Parting"
+PROG:801212dc	Episode 5 "The Conditions of Leadership"
+PROG:801212f4	Episode 6 "The Tiger of Izumo"
+PROG:80121308	Episode 7 "The Foolish March"
+PROG:80121320	Episode 8 "A Million Hearts as One"
+PROG:80121334	Episode 9 "The Lesson of the Three Arrows"
+PROG:8012134c	Episode 10 "Sue Harukata, the Rebel General"
+PROG:80121364	Episode 11 "Schemes"
+PROG:80121378	Episode 12 "Surprise Attack! Itsukushima"
+PROG:80121394	Episode 13 "The Puppet Lord"
+PROG:801213ac	Episode 14 "Sorin, the Warlord of Bungo"
+PROG:801213c8	Episode 15 "The Maverick of Owari"
+PROG:801213e4	Episode 16 "Takamoto Dies"
+PROG:801213fc	Episode 17 "The Fall of Toda"
+PROG:80121414	Episode 18 "Reinforcements for Iyo"
+PROG:8012142c	Episode 19 "Caught in a Pincer"
+PROG:80121444	Episode 20 "The Dream of Reviving the Amago"
+PROG:80121460	Episode 21 "The Oath of the Three Arrows"
+PROG:8012147c	Episode 22 "A New Enemy"
+PROG:80121494	Episode 23 "The End of Shikanosuke"
+PROG:801214b0	Episode 24 "Loyalty on the Lake"
+PROG:801214cc	Episode 25 "The Crimson Lake Biwa"
+PROG:801214e8	Episode 26 "The Vengeful Ghost of Kyoto"
+PROG:80121500	Final Episode "The Decisive Battle"
+PROG:80121510	There is no profile for this person.
+PROG:80121544	Mōri Retainers
+PROG:80121550	By episode
+PROG:8012155c	People (by name)
+PROG:80121574	%s (%u)
+PROG:80121580	By name
+PROG:8012158c	People (by episode)
+PROG:801226a0	Critical hit!
+PROG:801226b0	Lucky hit!
+PROG:801226c0	I will show them the\nspirit of the Mōri head!
+PROG:801226e0	The fate of the Mōri rests on this.\nI cannot lose!
+PROG:8012270c	Take this!\nThe eldest son's spear!
+PROG:80122730	I must be strong, so\nFather can retire\nin peace.
+PROG:80122768	If I lose here, Father,\nLord Motonari, will laugh\nat me from the next world!
+PROG:801227a4	Father, Lord Motonari!\nProtect me!
+PROG:801227c4	Behold the mightiest\nvalour in the west!
+PROG:801227e4	Who can stop\nMotoharu's advance?
+PROG:80122804	I must do my own part\nand Father's too!
+PROG:80122828	I will not shame\nmy father's name!
+PROG:80122848	I am more than\njust a schemer. Watch!
+PROG:80122878	Attacking blindly\nis not the answer.
+PROG:801228a4	For Lord Terumoto!
+PROG:801228b8	I must protect Lord Terumoto!
+PROG:801228d0	See the fruit of my training!
+PROG:801228ec	Why not just retreat already?!
+PROG:8012290c	Roar, Norimitsu!
+PROG:80122920	The Amago... will not fall!
+PROG:80122938	I cannot lose\nwith the realm ahead!
+PROG:8012295c	Back, you wretch!\nI will cut you down!
+PROG:80122980	The realm is Mitsuhide's.\nNo one will stop me!
+PROG:801229ac	I have come this far.\nI will not fall now!
+PROG:801229cc	Ii's Red Devils serve the Tokugawa!
+PROG:801229e8	Tokugawa vanguard, Ii Naomasa!
+PROG:80122a04	Sakon! Lead the way!
+PROG:80122a1c	Sakon! Scatter them!
+PROG:80122a38	I must protect Lord Mitsuhide!
+PROG:80122a4c	Lord Mitsuhide is our hope!\nWe will not allow it!
+PROG:80122a74	None can stand before Raikiri!
+PROG:80122a88	Advance! Advance!
+PROG:80122a98	Lord, protect us!
+PROG:80122ab4	Men of Mōri!\nYou will pay for this!
+PROG:80122ad8	This ends now!
+PROG:80122aec	Underestimate a woman,\nand this is what happens!
+PROG:80122b14	This is the end!
+PROG:80122b28	Die!
+PROG:80122b34	Have more!
+PROG:80122b44	Take this blow!
+PROG:80122b5c	How is this?!
+PROG:80122b70	This attack\nwill work!
+PROG:80122b84	Namu Hachiman Daibosatsu!\nLet it hit!
+PROG:80122ba4	Will this blow do it?
+PROG:80122bbc	Lucky day for me!
+PROG:80122bd0	There!
+PROG:80122bdc	-
+PROG:801240b4	Ep.
+PROG:8012410c	  
+PROG:80124110	Mōri
+PROG:80124118	Oda
+PROG:80124120	Ōuchi
+PROG:80124128	Amago
+PROG:80124130	Hashiba
+PROG:80124138	Tokugawa
+PROG:80124148	Motonari
+PROG:80124150	Terumoto
+PROG:80124158	%s Castle
+PROG:80124160	0
+PROG:80124164	1
+PROG:80124168	2
+PROG:8012416c	3
+PROG:80124170	4
+PROG:80124174	5
+PROG:80124178	6
+PROG:8012417c	7
+PROG:80124180	8
+PROG:80124184	9
+PROG:80124194	to the storehouse
+PROG:80124198	from the storehouse
+PROG:801241d8	BGM
+PROG:801241e0	SFX
+PROG:8012422c	Ogurayama
+PROG:80124234	Takayama
+PROG:8012423c	Sakurao
+PROG:80124244	Shiraga
+PROG:8012424c	Okayama
+PROG:80124254	Himeji
+PROG:8012425c	Kyōto
+PROG:80124260	Azuchi
+PROG:80124268	Kannabe
+PROG:80124270	Innoshima
+PROG:80124278	Noshima
+PROG:80124280	Kurushima
+PROG:80124288	Kōzan
+PROG:80124290	Hatagaeshi
+PROG:80124298	Shirayama
+PROG:801242a0	Kashirazaki
+PROG:801242a8	Kagamiyama
+PROG:801242b0	Goryū
+PROG:801242b8	Torikoyama
+PROG:801242c0	Hoki
+PROG:801242c8	Arita
+PROG:801242d0	Kanayama
+PROG:801242d8	Koi
+PROG:801242e0	Itsukushima
+PROG:801242e8	Sanbonmatsu
+PROG:801242f0	Iwakuni
+PROG:801242f8	Kōnomine
+PROG:80124300	Mitoya
+PROG:80124308	Misawa
+PROG:80124310	Yamabuki
+PROG:80124318	Onmei
+PROG:80124320	Ōzu
+PROG:80124328	Rengesan
+PROG:80124330	Nanao
+PROG:80124338	Wakayama
+PROG:80124340	Moji
+PROG:80124348	Tachibana
+PROG:80124350	Koshosan
+PROG:80124358	Hōmanzan
+PROG:80124360	Usuki
+PROG:80124368	Gifu
+PROG:80124370	Ōgaki
+PROG:80124378	Kiyosu
+PROG:80124380	Okazaki
+PROG:80124388	Ishiyama
+PROG:80124390	Arioka
+PROG:80124398	Miki
+PROG:801243a0	Kōzuki
+PROG:801243a8	Tottori
+PROG:801243b0	Uneishi
+PROG:801243c8	Storehouse
+PROG:801243d0	Workshop
+PROG:801243d8	Market
+PROG:801243dc	Tavern
+PROG:801243e4	Training Ground
+PROG:801243ec	Samurai House
+PROG:801243f4	House
+PROG:801243fc	Temple
+PROG:80124404	Living Quarters
+PROG:8012440c	Exit
+PROG:80124440	Name
+PROG:80124448	Qty
+PROG:80124450	Price
+PROG:8012445c	Weapon
+PROG:80124464	Support
+PROG:8012446c	Healing
+PROG:80124474	End
+PROG:8012447c	Skill
+PROG:80124484	Atk
+PROG:8012448c	Def
+PROG:80124494	Int
+PROG:8012449c	Bound
+PROG:801244a4	Sealed
+PROG:801244ac	Confused
+PROG:801244b4	Wounded
+PROG:801244bc	Jinxed
+PROG:801244c4	Effect
+PROG:801244cc	%s List
+PROG:80124518	Exit
+PROG:80124578	Orders
+PROG:80124580	Talk
+PROG:80124588	Skills
+PROG:80124590	Attack
+PROG:80124638	-
+PROG:80124640	-
+PROG:8012466c	to the storehouse
+PROG:80124670	from the storehouse
+PROG:801246e8	Swordsmith
+PROG:801246f0	Spearsmith
+PROG:801246f8	Bowyer
+PROG:80124700	Ninja-Gear Maker
+PROG:80124708	Armourer
+PROG:80124710	Physician
+PROG:80124718	Sword & Bow Smith
+PROG:80124720	Spear & Bow Smith
+PROG:80124728	Artisan
+PROG:80124730	Arms Master
+PROG:80124738	Strategist
+PROG:80124740	Merchant
+PROG:80124748	Officer
+PROG:80124750	Craftsman
+PROG:80124758	General
+PROG:80124760	Sword
+PROG:80124764	Spear
+PROG:80124768	Bow
+PROG:8012476c	Musket
+PROG:80124774	Cannon
+PROG:80124778	Thrown
+PROG:80124780	Support
+PROG:80124788	Healing
+PROG:80124790	Materials
+PROG:80124798	Mōri
+PROG:801247a0	Ōuchi
+PROG:801247a8	Amago
+PROG:801247b0	Ōtomo
+PROG:801247b8	Ukita
+PROG:801247c0	Oda
+PROG:801247c8	Akechi
+PROG:801247d0	Hashiba
+PROG:801247d8	Hongan-ji
+PROG:801247e0	Tokugawa
+PROG:801247e8	Sue
+PROG:801247ec	Takeda
+PROG:801247f4	Saiga Band
+PROG:801247fc	Kōno
+PROG:80124804	Independent
+PROG:8012480c	Attack
+PROG:80124814	Defence
+PROG:8012481c	Intellect
+PROG:80124824	Luck
+PROG:8012482c	Endurance
+PROG:80124834	Skill Pts
+PROG:8012483c	Accuracy
+PROG:80124844	Speed
+PROG:8012484c	Level
+PROG:80124854	Exp
+PROG:8012485c	Local Lord
+PROG:80124864	Daimyō
+PROG:8012486c	Spearmen
+PROG:80124874	Spear Gen.
+PROG:8012487c	Archers
+PROG:80124884	Bow Gen.
+PROG:8012488c	Cavalry
+PROG:80124894	Bow Cavalry
+PROG:8012489c	Gunners
+PROG:801248a4	Cannons
+PROG:801248ac	Cannon Gen.
+PROG:801248b4	Swordsman
+PROG:801248bc	Sword Master
+PROG:801248c4	Genin
+PROG:801248cc	Jōnin
+PROG:801248d4	Kunoichi
+PROG:801248dc	Inspector
+PROG:801248e4	Tactician
+PROG:801248ec	Bandits
+PROG:801248f4	Noble Thieves
+PROG:801248fc	Pirates
+PROG:80124904	Pirate Chief
+PROG:8012490c	Warrior Monks
+PROG:80124914	Light Supply
+PROG:8012491c	Heavy Supply
+PROG:80124924	Drum Corps
+PROG:8012492c	War Band
+PROG:80124934	Storehouse
+PROG:8012493c	Workshop
+PROG:80124944	Market
+PROG:8012494c	Tavern
+PROG:80124954	Training Ground
+PROG:8012495c	Samurai House
+PROG:80124964	House
+PROG:8012496c	Temple
+PROG:80124974	Living Quarters
+PROG:8012497c	Exit
+PROG:801249e8	Yes
+PROG:801249f0	No
+PROG:80124a1c	Enemy Unit
+PROG:80124a24	Both
+PROG:80124a40	Move
+PROG:80124a48	Attack
+PROG:80124a50	Skills
+PROG:80124a58	%s's %s
+PROG:80124b20	Plain
+PROG:80124b28	Grass
+PROG:80124b30	Road
+PROG:80124b38	Bridge
+PROG:80124b3c	Field
+PROG:80124b40	Wood
+PROG:80124b44	Waste
+PROG:80124b4c	Hills
+PROG:80124b54	Crag
+PROG:80124b5c	Cliff
+PROG:80124b60	Sea
+PROG:80124b64	River
+PROG:80124b68	Pond
+PROG:80124b6c	Shoals
+PROG:80124b74	Beach
+PROG:80124b7c	Castle
+PROG:80124b80	Town
+PROG:80124b88	Village
+PROG:80124b8c	Fort
+PROG:80124b90	Granary
+PROG:80124b98	Store
+PROG:80124b9c	Manor
+PROG:80124ba0	House
+PROG:80124ba8	Gate
+PROG:80124bb0	Fence
+PROG:80124bb4	Keep
+PROG:80124bbc	Wall
+PROG:80124bc4	Stonewall
+PROG:80124bcc	Rampart
+PROG:80124bd4	Tower
+PROG:80124bd8	Moat
+PROG:80124bdc	Main Camp
+PROG:80124be4	Mine
+PROG:80124bec	Shrine
+PROG:80124bf4	Fire
+PROG:80124bf8	Water
+PROG:80124c24	Healable
+PROG:80124c44	Sortie
+PROG:80124c4c	Storehouse
+PROG:80124c54	Unit
+PROG:80124c68	Atk
+PROG:80124c74	Units
+PROG:80124c88	High Lv
+PROG:80124c90	Low Lv 
+PROG:80124c98	%s
+PROG:80124cac	Equip
+PROG:80124cb4	Unequip
+PROG:80124cbc	Use
+PROG:80124cc4	Give
+PROG:80124ccc	Drop
+PROG:80124cd4	Target
+PROG:80124ce0	None
+PROG:80124ce8	Self
+PROG:80124cf0	Single
+PROG:80124cf8	Multiple
+PROG:80124d1c	Clear
+PROG:80124d20	Cloudy
+PROG:80124d24	Rain
+PROG:80124d6c	OK
+PROG:80124d70	No
+PROG:80124d78	Asc.
+PROG:80124d80	Desc.
+PROG:80124d90	Sword
+PROG:80124d94	Spear
+PROG:80124d98	Bow
+PROG:80124d9c	Musket
+PROG:80124da4	Cannon
+PROG:80124dac	Ninja Tool
+PROG:80124db4	Armour
+PROG:80124dbc	Shield
+PROG:80124dc0	Medicine
+PROG:80124dc4	End
+PROG:80124dcc	Skill
+PROG:80124dd4	Atk
+PROG:80124ddc	Def
+PROG:80124de4	Int
+PROG:80124dec	Bound
+PROG:80124df4	Sealed
+PROG:80124dfc	Confused
+PROG:80124e04	Wounded
+PROG:80124e0c	Jinxed
+PROG:80124e14	(%s)
+PROG:80124e1c	%s List
+PROG:80124e38	Materials
+PROG:80124e40	Buy
+PROG:80124e50	-
+PROG:80124e58	Type
+PROG:80124e64	Can make
+PROG:80124e6c	Craftsman
+PROG:80124e78	Swordsmith
+PROG:80124e80	Spearsmith
+PROG:80124e88	Bowyer
+PROG:80124e90	Ninja-Gear Maker
+PROG:80124e98	Armourer
+PROG:80124ea0	Artisan
+PROG:80124ea8	Physician
+PROG:80124eb8	Weapon
+PROG:80124ec0	Support
+PROG:80124ec8	Healing
+PROG:80124ed0	Name
+PROG:80124ed8	Make
+PROG:80124ee0	Owned
+PROG:80124ee8	Effect
+PROG:80124ef0	Price
+PROG:80124f04	+%u
+PROG:80124f10	Not owned
+PROG:80124f18	------
+PROG:80124f34	(%s)
+PROG:80124f60	=
+PROG:80124f84	Function
+PROG:80124f8c	Info
+PROG:80124f94	Officer
+PROG:80124f9c	Workshop
+PROG:80124fa8	Save
+PROG:80124fb0	Load
+PROG:80124fb8	People
+PROG:80124fc0	Settings
+PROG:80124fc8	Rally
+PROG:80124fd0	Unit List
+PROG:80124fd8	Ongoing
+PROG:80124fe0	Once
+PROG:80124fe8	Skills
+PROG:80124ff0	Items
+PROG:80124ff8	Wait
+PROG:80125000	Attack
+PROG:8012504c	Users
+PROG:80125054	None
+PROG:80125070	-
+PROG:8012507c	OK
+PROG:80125084	Enemy
+PROG:8012508c	Ally
+PROG:80125094	SFX
+PROG:8012509c	BGM
+PROG:801250a4	-
+PROG:801250ac	-
+PROG:801250b4	-
+PROG:801250bc	-
+PROG:801250c4	-
+PROG:801250cc	-
+PROG:801250d4	-
+PROG:80125100	A
+PROG:80125108	Ka
+PROG:80125110	Sa
+PROG:80125118	Ta
+PROG:80125120	Na
+PROG:80125128	Ha
+PROG:80125130	Ma
+PROG:80125138	Ya
+PROG:80125140	Ra
+PROG:80125148	Wa
+PROG:80125150	Ep. 1
+PROG:80125158	Ep. 2
+PROG:80125160	Ep. 3
+PROG:80125168	Ep. 4
+PROG:80125170	Ep. 5
+PROG:80125178	Ep. 6
+PROG:80125180	Ep. 7
+PROG:80125188	Ep. 8
+PROG:80125190	Ep. 9
+PROG:80125198	Ep. 10
+PROG:801251a0	Final

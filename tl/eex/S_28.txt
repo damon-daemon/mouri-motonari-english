@@ -1,0 +1,129 @@
+@0.0
+This will be the last battle. All forces, sortie! Our goal is Gifu Castle!
+
+@1
+Battle of Gifu Castle\nVictory\n  1. Tokugawa Ieyasu retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 99 turns pass
+
+@2.0
+Gifu Castle. Long ago it was called Inabayama Castle, the seat of the Toki, constables of Mino. Later it passed through the hands of Saitō Dōsan, "the Viper", and Oda Nobunaga took it. He changed its name then, following the tale of King Wen of Zhou.\n\nUntil Azuchi Castle was completed, it was the centre of Nobunaga's "Rule the Realm by Force". It is a famous castle with a long history.
+
+@2.1
+As expected, Uncle, you know it well. And now...
+
+@2.2
+It is where Tokugawa Ieyasu holds out, an impregnable fortress... is it not?
+
+@2.4
+Shikanosuke proved less useful than I thought. Was it a waste to lend him troops?
+
+@2.5
+There is no use regretting it now. The question is what to do about the Mōri.
+
+@2.6
+...Say, Kazumasa. Gifu Castle is something, is it not?
+
+@2.7
+Sir?
+
+@2.8
+What a magnificent view. Standing here, I almost feel I could take the realm.
+
+@2.9
+(Lord Ieyasu...?)
+
+@2.10
+Lord Nobunaga and Lord Dōsan must have gazed down from here too. I do not wish to meet such a shameful end as those two, Kazumasa.
+
+@2.12
+Come, Mōri, if you dare! Even if we cannot win, we will pay you back with one arrow!
+
+@2.13
+Gifu Castle is an impregnable fortress. We will drive the Mōri back!
+
+@2.14
+On the pride of the Tokugawa retainers, we will not fight shamefully!
+
+@2.15
+A life-and-death battle in another man's castle, where nothing is familiar... No, a warrior does not complain. Gifu Castle shall be Tadakatsu's grand stage!
+
+@2.16
+Heh heh heh... The greatest crisis of the Tokugawa, one might say. But if I take Terumoto's head here, history's victor will be Lord Ieyasu! Terumoto, wash your neck and wait! Ha ha ha ha!
+
+@2.17
+If we defeat the Tokugawa, no power will be left to rival the Mōri. Then, so long as the Mōri do not lose their way, the realm will be free of war. This will likely be the last battle. Everyone, do your best. Take Gifu Castle! Our goal is Ieyasu!
+
+@3
+Battle of Gifu Castle\n\nVictory\n  1. Tokugawa Ieyasu retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 99 turns pass
+
+@4.0
+...Lord Ieyasu!
+
+@5.0
+Damn you, Mōri!
+
+@6.0
+...A ninja lives in darkness, thrives in darkness... and vanishes into darkness. No, he does not even let anyone notice he is gone. ...Heh heh...
+
+@7.0
+The Mōri army fought magnificently! Farewell...!
+
+@8.0
+Ngh... Damn. If it comes to this, we leave the castle and return to Mikawa! Follow me, men!
+
+@13.0
+You must be Lord Terumoto! I am Sakakibara Yasumasa.\n\nFight me honourably! Come on, come on!
+
+@14.0
+Terumoto! I, Ii Naomasa, will be your opponent! Let us fight fair and square!
+
+@15.0
+...Ah! A shuriken!?
+
+@15.1
+Damn! You dodged Hanzō's shuriken!?
+
+@15.2
+You, a Tokugawa ninja! Give me your name!
+
+@15.3
+...Hanzō of Iga. I will not miss next time!
+
+@16.0
+Is that Terumoto there? I am Honda Tadakatsu, a name known throughout the Tokugawa! Come on!
+
+@17.0
+Ieyasu! You have nowhere left to run!
+
+@17.1
+So you have come this far at last. Look!
+
+@17.3
+Well? A fine view, is it not?
+
+@17.5
+There are few places with such a view. Either you or I will die here. For a warrior, dying in such a place is a true wish fulfilled.
+
+@17.6
+...I will not die! I will not die in a place like this!
+
+@20.0
+What! Ieyasu escaped Gifu Castle and fled! But with that few troops, he cannot get far.
+
+@20.1
+Still, a man like Ieyasu... It is rather anticlimactic.
+
+@20.2
+Anticlimactic, is it... Uncle Motoharu once said something similar. Yes, when was it... It was Hashiba. I think Uncle Motoharu said it when we defeated Hashiba Hideyoshi.
+
+@20.3
+Now that you mention it, he did say something like that.
+
+@20.4
+So all men are the same when they fall... In ten or a hundred years the Mōri may decline, and that cannot be helped, but I would rather not be destroyed. ...Gloomy talk. And on the day of a hard-won victory.
+
+@20.5
+No, those are fitting views for a head of the clan. The late Lord Motonari would be glad.
+
+@20.6
+Yes. ...Ours is the victory!
+

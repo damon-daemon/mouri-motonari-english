@@ -1,0 +1,1260 @@
+@0
+Episode 21 "The Oath of the Three Arrows"
+
+@2.0
+It seems Mimura Motochika meant to betray us from the start.
+
+@2.1
+In the castle I found a secret letter from Nobunaga, promising him a share of the Mōri lands if he struck us down.
+
+@2.2
+I see. Well done.
+
+@3.0
+Motoyoshi! Bring in Mimura and Shimizu.
+
+@4.0
+Mimura Motochika. Your scheme is already exposed.
+
+@4.1
+Conspiring with Nobunaga to strike us down in this war is unforgivable.
+
+@4.2
+Behead him.
+
+@4.4
+Wait! I was merely deceived by Nobunaga!
+
+@5.0
+Now, Lord Shimizu. Did you know of this?
+
+@5.1
+I learned of it during the battle.
+
+@5.2
+Had you known before the battle, would you still have stayed out of the revolt?
+
+@5.3
+No, I would have joined. A samurai's lot is to obey his lord's command.
+
+@5.4
+I will make no excuses. Take my head.
+
+@5.5
+Lord Terumoto, please show mercy this once. A commander like Lord Shimizu would be a great loss if he died for nothing.
+
+@5.6
+What say you, Lord Shimizu? Will you serve the Mōri clan?
+
+@5.7
+I know the defeated have no choice. If you command me to obey, I shall obey.
+
+@5.8
+Then it is settled. I entrust Bitchū Takamatsu Castle to you.
+
+@5.9
+Wh... What?! You would entrust a castle to me, a traitor?!
+
+@5.10
+I was simply moved by your loyalty to Lord Ishikawa. Show the Mōri the same loyalty.
+
+@5.11
+...Yes, my lord!
+
+@5.12
+Good. Take your place among us.
+
+@6.0
+Ekei has returned.
+
+@7.0
+Well done. Let us hear the result of the talks.
+
+@7.1
+A clash between the Mōri and the Oda has been avoided. But Lord Yoshiaki was furious, and walked out of the meeting halfway through.
+
+@7.2
+I see... Lord Yoshiaki walked out... Who was the Oda envoy?
+
+@7.3
+Hashiba Hideyoshi. He is quite a man.
+
+@7.4
+I believe Lord Nobunaga's age will come to an end in about five years.
+
+@7.5
+And the one to rise afterwards will probably be that man.
+
+@7.6
+Is that so? He is such a man?
+
+@7.7
+Kuchiba, have the Seki look into him. He may prove useful later.
+
+@8
+Inaba - Farmhouse
+
+@9.0
+Damn it! To taste defeat three times!
+
+@9.1
+Motonari is long gone, so why can we not win?
+
+@9.2
+For now we must hide. Back to Kyōto, and we wait for another chance.
+
+@9.3
+Forgive me. It is all because of my weakness.
+
+@9.4
+It is not your fault, Lord Katsuhisa. We simply lacked strength.
+
+@9.5
+Come, let us hurry. We must think only of escape.
+
+@9.6
+Shino, let us go.
+
+@10
+Episode 22 "A New Enemy"
+
+@11
+Episode 22 "A New Enemy"
+
+@12
+Kishū - Kōkoku-ji
+
+@13.0
+I walked out of that meeting, but the Mōri are still the only ones I can rely on.
+
+@14.0
+How can I move the Mōri...? What do I know of them...?
+
+@15.0
+Only that they fell out with the Oda again in the recent battle.
+
+@16.0
+...Wait. If I use that, I can move the Mōri.
+
+@16.1
+Together with Hongan-ji and the Uesugi, we shall have Nobunaga struck down.
+
+@17.0
+Someone... Is anyone there?
+
+@18.0
+You called, my lord?
+
+@18.1
+I am sending envoys to Hongan-ji and the Uesugi. Wait while I write the letters.
+
+@19.0
+Now then, I shall make my way to the Mōri.
+
+@19.1
+If I go in person, the Mōri will surely rise. No, they will have no choice but to rise.
+
+@19.2
+Ho ho ho ho.
+
+@20
+Oda Nobunaga's Seat - Azuchi Castle
+
+@21
+Azuchi Castle - Council Hall
+
+@22.0
+What?! The Hongan-ji believers have raised an army?!
+
+@22.1
+Yes, my lord! They are beyond control. We need countermeasures at once.
+
+@22.2
+Katsuie!
+
+@22.4
+Not one Hongan-ji believer is to be left alive. Go!
+
+@22.5
+Understood!
+
+@23.1
+Most of the believers are poor farmers. Slaughtering them all is too cruel!
+
+@23.2
+Fool! Leave them unchecked here, and the rabble that follow will only multiply!
+
+@23.3
+But if you massacre the people, you will make the whole realm your enemy!
+
+@23.4
+Enough! How vexing! I do not want to see your face!
+
+@24.0
+(...Damn!)
+
+@25
+The Hongan-ji army, made up of commoners, was no match for Shibata Katsuie of the Oda, and the Ikkō believers were forced to hold out in Ishiyama Hongan-ji.\n\nNobunaga switched to a blockade to starve them out. The siege dragged on, and food ran out in Hongan-ji.
+
+@26
+Inside Hongan-ji
+
+@27.0
+Mama, I'm hungry.
+
+@27.1
+Oh, I'm sorry. There is nothing left.
+
+@27.2
+Ugh... Water...
+
+@28.0
+Those Oda are demons!
+
+@29
+Hongan-ji
+
+@30.0
+Our food is gone, and many have starved to death.
+
+@30.1
+We must ask for help. Send an envoy to the Mōri.
+
+@31
+Okayama Castle
+
+@32
+Okayama Castle - Council Hall
+
+@33.0
+I have already sent envoys to the Uesugi and Hongan-ji. Join with them, surround Nobunaga and kill him.
+
+@33.1
+As I told you before, we have no intention of fighting the Oda.
+
+@33.2
+This is an order from the shōgun. Take up arms and uphold me.
+
+@33.3
+(...What am I to do?)
+
+@48.1
+What is it?!
+
+@48.2
+Maybe it is a document showing where treasure is!
+
+@48.3
+What?! Here, show me!
+
+@49.0
+Hey, Sis, do not snatch it.
+
+@49.1
+Quiet! Let me see...
+
+@49.2
+What does it say?
+
+@49.3
+What is this? A map to where the finest horse can be found? Ridiculous... I do not want it.
+
+@49.4
+Then I will take it.
+
+@50.1
+Oh... Huh? You are not the usual old man.
+
+@50.3
+Well, no matter.
+
+@52.0
+Here, take it.
+
+@52.1
+Thank you. By the way, who are you two?
+
+@52.2
+Thieves. But we have never once managed to steal from the Mōri.
+
+@52.3
+Every single time, some strange old man gets in the way.
+
+@52.4
+(Could she mean Grandfather?)
+
+@52.5
+See you, cute little boy.
+
+@52.6
+Hmph! I am not a little boy!
+
+@53.0
+Treating me like a little boy... Well, never mind. This scroll says... hmm, hmm...
+
+@53.1
+Good. I shall send soldiers to catch this fine horse later.
+
+@54
+Okayama Castle - Council Hall
+
+@55.0
+(Tiresome, but I must tell him we have no wish to fight Nobunaga)
+
+@56.0
+Lord Terumoto, an envoy has come from Hongan-ji.
+
+@56.1
+What? An envoy from Hongan-ji? Good, show him in at once.
+
+@57.0
+(...! A farmer?!)
+
+@57.1
+P... Please. Send help to Hongan-ji...
+
+@58.0
+What is it, pull yourself together!
+
+@58.1
+Surrounded by the Oda... our food is gone... more people die of hunger every day...
+
+@58.2
+The Hongan-ji Ikkō sect is an army of nothing but poor commoners... Please... help us...!
+
+@58.3
+Motoyoshi! Bring this man some food and drink. Quickly!
+
+@59.0
+You heard him. Nobunaga's attack on Hongan-ji is a war that drags in the common people.
+
+@59.1
+We cannot stand by in silence! We shall carry provisions into Hongan-ji!
+
+@59.2
+An advance by land would be blocked by Nobunaga's army, and a large load of provisions could not get through.
+
+@59.3
+Let us advance with a transport fleet.
+
+@59.4
+Very well. We go with that plan. All of you, prepare to sortie!
+
+@61
+Okayama Castle - Senior Retainers' Hall
+
+@62
+Okayama Castle - Living Quarters
+
+@78
+Okayama - Storehouse
+
+@79
+Okayama - Workshop
+
+@80
+Okayama - Tavern
+
+@81
+Okayama - Market
+
+@82
+Okayama - Temple
+
+@87.0
+Um... This house has been empty for a long time now.
+
+@88.0
+Have you found your feet as head of the clan? Rule well, and make up for your late father.
+
+@89.0
+Why not consult Lords Motoharu and Takakage? They should be in the living quarters.
+
+@92.0
+Right, we sortie!
+
+@94.0
+To think the shōgun himself would come all this way.
+
+@95.0
+Now that Lord Terumoto has resolved to face the Oda, we can only fight with everything we have.
+
+@96.0
+What a troublesome turn of events.
+
+@97.0
+The Seki report that the Oda army has already set up camp at Kizugawa-guchi.
+
+@97.1
+They must have expected us to come. They will be unlike any enemy so far.
+
+@98.0
+To think it would come to this... This is awkward.
+
+@99.0
+"A shōgun in name only" indeed. How well put.
+
+@100.0
+Why not simply throw him out?
+
+@101.0
+...And this is a shōgun.
+
+@102.0
+I have no wish to fight for this fellow.
+
+@103.0
+It is rare to meet a man so mistaken about his own power.
+
+@104.0
+I almost pity him.
+
+@105.0
+At last, war with the Oda! It would be dull otherwise!
+
+@106.0
+We were fated to clash with the Oda sooner or later. It is only a matter of early or late.
+
+@106.1
+Making up our minds now is not a bad thing, I think.
+
+@108.0
+Hiroie has started reading books. What has changed in his heart?
+
+@109.0
+Read closely, books are interesting. I am learning a lot.
+
+@110.0
+Even at the shōgun's request, we cannot fight the Oda rashly. Defeating that army will not be easy.
+
+@112.0
+If Lord Terumoto has resolved, we shall simply follow.
+
+@113.0
+A new book has arrived. It is about escorting transport ships.
+
+@113.1
+It seems it matters not to keep pace with the transports, but to go ahead and secure the route.
+
+@114.0
+The trouble is that we cannot simply ignore him.
+
+@115.0
+Being actually relied upon makes me feel quite sick.
+
+@116.0
+The Uesugi and Hongan-ji will rise. But even allied with them, we could not beat the Oda.
+
+@117.0
+We cannot lose the war with Nobunaga.
+
+@117.1
+If we lose here, they will say the Mōri are nothing to fear and attack us all at once.
+
+@118.0
+The Oda's power now surpasses the Mōri's. Rash action would be dangerous.
+
+@119.0
+Surely you would not refuse my wish.
+
+@120.0
+So you have decided to fight. You could not refuse my request after all. Ho ho ho ho.
+
+@121.0
+I am Katō Gonroku, a swordsmith.
+
+@121.1
+For various reasons I had stopped working for a long time...
+
+@121.2
+But my craftsman's blood will not stay quiet.
+
+@121.3
+Will you take me into your service?
+
+@123.0
+I see. Then I look forward to your work.
+
+@124.0
+Then I shall see you at the workshop.
+
+@125.0
+Sorry, but not this time. If fate allows, we shall meet again.
+
+@125.1
+I understand...
+
+@128.0
+Would you work for me?
+
+@128.1
+Me?! Yes, I would be glad to serve you.
+
+@130.0
+If fate allows, we shall meet again.
+
+@131.0
+I am Kumon Murashige, a ninja-gear maker.
+
+@133.0
+Would you work for me?
+
+@133.1
+Yes, please.
+
+@136.0
+Some day I may have work for you. Then I count on you.
+
+@137.0
+I am Kenmochi Rokurō, a swordsmith.
+
+@139.3
+Thank you. I look forward to working for you.
+
+@142.0
+Some day I may have work for you.
+
+@142.1
+Yes, I count on it then.
+
+@143.0
+I am Kojima Zenbei, a bowyer.
+
+@145.0
+Are you willing to serve as a craftsman of the Mōri army?
+
+@145.2
+Good. Your skill seems sure.
+
+@146.0
+I shall do my best to live up to your hopes. Until we meet again.
+
+@148.0
+Sadly I cannot hire you now, but if fate allows, we shall meet again.
+
+@149.0
+I am Shindō Mitsutane, a swordsmith.
+
+@149.1
+All I want is work. Could you somehow take me on?
+
+@151.1
+Yes, I will surely live up to your hopes...
+
+@153.0
+I see... What a pity...
+
+@155.2
+I would very much like you to use me. What do you say?
+
+@157.0
+I see... Then I count on you.
+
+@160.1
+I see. Then another time.
+
+@161.0
+When I drink, I feel alive.
+
+@162.0
+I am off duty today.
+
+@163.0
+If you leave it in the storehouse, it will be safe.
+
+@164.0
+Am I not cut out to be a soldier?
+
+@165.0
+Stay in here long enough and you lose track of day and night.
+
+@166.0
+We must not make the people victims of war.
+
+@167.0
+The wars will grow harsher by degrees.
+
+@168.0
+Only through training and real battle does one become a full soldier.
+
+@169.0
+Wear weapons and armour, and you look even more dashing.
+
+@170.0
+I try never to lose my drive to improve.
+
+@171.0
+Lord Terumoto's words give us such courage...
+
+@172.0
+Earthquakes are the one thing I cannot stand.
+
+@173.0
+Lord Terumoto's words give us such courage...
+
+@174.0
+Seeing the people's happy faces makes this job worthwhile.
+
+@175.0
+This storehouse may need rebuilding soon.
+
+@176.0
+I cannot imagine life without sake.
+
+@177.0
+When the sake is good, everything you do goes well.
+
+@178.0
+I am from Ogurayama, and I am thinking of moving my whole family here.
+
+@179.0
+So you are Lord Mōri Terumoto. A reassuring figure.
+
+@180.0
+It is already Lord Terumoto's age.
+
+@181.0
+When I drink, it never shows on my face.
+
+@182.0
+If you like, please take this.
+
+@183.0
+He who does not work shall not eat.
+
+@184.0
+Can a person not defy fate?
+
+@185.0
+I hear a sickness is spreading. Please take good care of yourself.
+
+@186.0
+Oh... That earthquake was frightening.
+
+@187.0
+I hear a sickness is spreading. Please take good care of yourself.
+
+@188.0
+My second child will be born soon. Heh heh heh.
+
+@189.0
+Lord Terumoto, you came at just the right time.
+
+@189.1
+In the earthquake just now, this fell from the attic.
+
+@189.2
+I have no use for it, so if it helps you, my lord, please take it.
+
+@190.0
+My second child will be born soon. Heh heh heh.
+
+@191.0
+The priest here always looks after us.
+
+@192.0
+I was dazed, so a pickpocket must have targeted me. I shall be careful from now on.
+
+@193.0
+Thank you for getting my purse back. That was close.
+
+@194.0
+I am busy today.
+
+@195.0
+Lord Terumoto, are you a strong drinker?
+
+@196.0
+The market here is always lively.
+
+@197.0
+Everyone entrusts their dreams to Lord Terumoto.
+
+@198.0
+I do not want to die yet.
+
+@199.0
+Everyone entrusts their dreams to Lord Terumoto.
+
+@200.0
+You cannot judge a person by looks.
+
+@201.0
+I am blessed with two children, and happy now.
+
+@202.0
+Please bring peace to the world.
+
+@203.0
+So young, and so reassuring.
+
+@204.0
+I will never raise my son to be a drinker.
+
+@205.0
+My husband died before me, and I live with my son.
+
+@206.0
+Lord Mōri Motonari was a truly splendid man.
+
+@207.0
+With wars going on like this, we are short of men.
+
+@208.0
+A quake like that is still only the beginning.
+
+@209.0
+With wars going on like this, we are short of men.
+
+@210.0
+I hear some people struck it rich here and became wealthy.
+
+@211.0
+Making weapons is fine, but we are short of hoes and sickles too.
+
+@212.0
+That was quite a shake.
+
+@213.0
+Making weapons is fine, but we are short of hoes and sickles too.
+
+@214.0
+I have forgotten what I came to buy.
+
+@215.0
+How frightening. One must never let one's guard down.
+
+@216.0
+What fine weather we are having.
+
+@216.1
+Yes, indeed.
+
+@217.1
+Oops, sorry.
+
+@218.0
+Hm! You there, wait!
+
+@219.0
+Yes? Do you want something of me?
+
+@219.1
+I want what is in your robe.
+
+@219.3
+Hand it over quietly, and I shall let you off this time.
+
+@219.4
+I beg your pardon...
+
+@220.0
+Here, I return it.
+
+@221.0
+I have been a regular at this tavern for years.
+
+@222.0
+What good timing to meet you.
+
+@222.1
+Please accept this.
+
+@223.0
+I want my children to work the fields in a world without war.
+
+@224.0
+Please keep it secret that I was drinking here.
+
+@225.0
+Meeting Lord Terumoto, I am lucky today.
+
+@226.0
+Days pass by, each the same as the last...
+
+@227.0
+Hey, I hope my house was all right.
+
+@228.0
+Days pass by, each the same as the last...
+
+@229.0
+I want my children to live in comfort.
+
+@230.0
+Which matters more, sake or health?
+
+@231
+Sake\nHealth
+
+@232.0
+Yes, I thought so too.
+
+@233.0
+Is that so? For me, sake matters more, always.
+
+@235.0
+The stylish way is to sip sake slowly.
+
+@236.0
+This sake hits hard on an empty stomach.
+
+@237.0
+I came to make an offering.
+
+@238.0
+I feel it will be a good harvest this year.
+
+@239.0
+I must stock up... Phew.
+
+@240.0
+I like rice cakes better than sake.
+
+@241.0
+I still do not know what is good about sake.
+
+@242.0
+Work every single day... I am worn out.
+
+@243.0
+There is no such thing as a born villain.
+
+@244.0
+Fortune-telling may hit or miss.
+
+@245.0
+Why, Lord Terumoto.
+
+@245.1
+Shall I read your fortune today, for the first time in a while?
+
+@245.2
+Yes, please do.
+
+@245.3
+Then choose one number from one, two and three.
+
+@246
+One\nTwo\nThree
+
+@247.0
+...A great wall lies ahead of you, my lord.
+
+@247.1
+But you will surely overcome it.
+
+@248.0
+Do you seek stability, my lord? That is what your fortune shows.
+
+@249.0
+Hm, I cannot say... But your fortune is changing violently, my lord, that much is certain.
+
+@250.0
+In the days of my great-grandfather's grandfather, they say war was fought very differently from now.
+
+@251.0
+Will a world without war come in my lifetime?
+
+@252.0
+A sword is like a man: the more you forge it, the stronger it grows.
+
+@253.0
+Sake can be medicine or poison.
+
+@254.0
+In a drinking contest I will not lose to the young ones. ...Ho ho.
+
+@255.0
+Someday someone will put an end to this age of chaos.
+
+@255.1
+I believe it will be you, Lord Terumoto.
+
+@256.0
+Under a general they trust, soldiers do not fear even death.
+
+@257.0
+When my time comes, I want to go quickly.
+
+@258.0
+Phew... What a shock.
+
+@259.0
+Why, Lord Terumoto.
+
+@260.0
+Whoa, whoa, have I had too much? Everything is swaying.
+
+@261.0
+No, you are not drunk. ...An earthquake!
+
+@262.1
+That was quite violent, but it seems to have stopped.
+
+@263.0
+A tavern is best when it is lively.
+
+@264.0
+I often come walking around here.
+
+@265.0
+I run this storehouse. Hee hee hee.
+
+@266.0
+Life is much easier now than in the old days.
+
+@267.0
+I want to die on the tatami.
+
+@268.0
+My memory has been terrible lately.
+
+@269.0
+Lord Terumoto, please take this.
+
+@270.0
+Take this one too.
+
+@271.0
+What will I be, a samurai or a merchant?
+
+@271.1
+...A farmer's son is a farmer, I guess...
+
+@272.0
+What is so good about sake?
+
+@273.0
+I want to be like Lord Terumoto.
+
+@274.0
+Lord Terumoto, you can have this.
+
+@274.1
+What is it?
+
+@274.2
+It is a hard book, so I do not really understand it.
+
+@274.3
+Oh, this is...
+
+@274.4
+Then I shall use it with care.
+
+@274.5
+Heh heh...
+
+@275.0
+Samurai are cool.
+
+@276.0
+What shall I play today?
+
+@277.0
+Being a grown-up looks hard.
+
+@278.0
+When I grow up I will be a strong samurai and protect Mama.
+
+@279.0
+I will think more carefully about my future.
+
+@280.0
+When I grow up I will be a doctor, for sure!
+
+@280.1
+A doctor...? Why?
+
+@280.2
+Because it is cool! I will save the lives of lots of sick and hurt people.
+
+@280.3
+A doctor must have wide knowledge.
+
+@280.4
+Knowl... edge?
+
+@280.5
+Yes. You must study a great many things and make them your learning.
+
+@280.6
+What?! I am bad at studying!
+
+@280.7
+Then no doctor.
+
+@281.0
+When I grow up I will be a soldier, for sure!
+
+@281.1
+A soldier...? Why?
+
+@281.2
+Because it is cool! Splendid gear, and strong-looking weapons.
+
+@281.3
+I will rampage in battle and protect the country.
+
+@281.4
+A soldier's work risks his life.
+
+@281.5
+Risks... his life...
+
+@281.6
+Yes. With every battle, many lives are lost.
+
+@281.7
+Young soldiers with a future, shedding blood in bitter regret.
+
+@281.8
+What?! I do not want to die!
+
+@281.9
+Then no soldier.
+
+@282.0
+When I grow up I will be a pirate, for sure!
+
+@282.1
+A pirate...? Why?
+
+@282.2
+Because it is cool! Cool clothes, and a big ship.
+
+@282.3
+What will you do as a pirate?
+
+@282.4
+Well, sail out to sea... and then... hmm...
+
+@282.5
+What do pirates do?
+
+@282.6
+A pirate is a villain who robs people of their money and goods.
+
+@282.7
+What?! I do not want to be a villain!
+
+@282.8
+Then no pirate.
+
+@284.0
+My mama is really kind.
+
+@285.0
+This place is called a market, right? I know that.
+
+@286.0
+Lord Terumoto, come again!
+
+@287.0
+Everybody tells me I am cute.
+
+@288.0
+I have no friends...
+
+@289.0
+Long ago my mama sold flowers here too.
+
+@290.0
+Would you like some flowers?
+
+@290.1
+A bunch is 10 gold.
+
+@293.0
+I would like to buy some, but I have no money on me. Sorry.
+
+@293.1
+No. Your kind thought is enough.
+
+@295
+Paid 10 gold
+
+@296.0
+They say these flowers bring good luck.
+
+@298.0
+Sorry, but I have no need of flowers.
+
+@298.1
+I see. Then perhaps another time.
+
+@303.0
+Then it is a promise... I shall take a little of your strength.
+
+@304
+Attack fell by 2
+
+@305.0
+A strange fellow. What does he want with my strength?
+
+@305.1
+I use it to forge a sword. When it is done, I shall give it to you. Look forward to it.
+
+@306.0
+He vanished before my eyes... Is he a ninja?
+
+@308.0
+Hmm. It is not quite how a ninja vanishes, either...
+
+@309.0
+Oh... So you are the new head of the clan...
+
+@309.1
+Who are you? What are you doing in a place like this?
+
+@309.2
+I was waiting for you.
+
+@309.3
+Waiting...?
+
+@309.4
+Your grandfather did me many favours. Now, how about making a deal with me too?
+
+@309.5
+A deal?
+
+@309.6
+I give you a rare item, and in return you give me... ...
+
+@309.7
+Hm. You do not seem to be a sinner.
+
+@309.8
+(What is he talking about?)
+
+@309.9
+I know. Share some of your strength with me, and I shall give you a rare item.
+
+@312.0
+Then it is a promise... I shall take a little of your strength.
+
+@313
+Attack fell by 2
+
+@314.0
+A strange fellow. What does he want with my strength?
+
+@314.1
+I use it to forge a sword. When it is done, I shall give it to you. Look forward to it.
+
+@315.0
+He vanished before my eyes... Is he a ninja?
+
+@317.0
+...! Gone?!
+
+@318.0
+From now on, it is Lord Terumoto's age.
+
+@319.0
+Craftsmen are the treasure of a land.
+
+@320.0
+To become a fine commander, you must also listen to the people's voices.
+
+@322.0
+In this age, nothing would surprise me.
+
+@323.0
+Would you let me hear your biwa?
+
+@323.1
+Certainly, with pleasure.
+
+@324.0
+Hmm... A fine sound.
+
+@324.1
+You honour me with your kind words.
+
+@325.0
+They say good medicine tastes bitter...
+
+@326.0
+Lord Terumoto, I have brought you a Pine Cure. Please accept it.
+
+@327.0
+If you are ever wounded, my medicine will heal you.
+
+@328.0
+What matters is how to win with the least damage.
+
+@329.0
+Strategy is not about how to kill the enemy, but how to keep your own side from dying.
+
+@330.0
+Even in a tight spot, if you stay calm, there is always a way.
+
+@331.0
+So young, yet you carry such dignity.
+
+@332.0
+When you are stuck, try hearing many people's opinions.
+
+@333.0
+I am prepared to give my life for the Mōri clan.
+
+@334.0
+Today's sake is better than ever.
+
+@335.0
+Many people complain when they drink...
+
+@335.1
+Why, I complain all the time.
+
+@336.0
+I intend to serve with all my might, to make a world where the people live in peace.
+
+@338.0
+Now and then, let us let loose and make some noise.
+
+@339.0
+I too would like to leave my name to posterity.
+
+@340.0
+A man at work is a beautiful sight.
+
+@341.0
+In the next battle I shall win glory for you to see.
+
+@342.0
+E... Earthquakes... d-do not frighten me... at all.
+
+@343.0
+In the next battle I shall win glory for you to see.
+
+@344.0
+A good weapon makes up for some lack of skill.
+
+@345.0
+I too am training in ninjutsu here.
+
+@346.0
+I am the one who has taken charge of this room, after the maid of Lord Motonari's day left.
+
+@346.1
+Pleased to make your acquaintance.
+
+@347.0
+I have taken charge of this room in place of the maid of Lord Motonari's day.
+
+@348.0
+The day I leave draws near. Thank you for everything until now.
+
+@349.0
+This is my last work. Please accept it.
+
+@350.0
+Lord Motoharu cares for his soldiers. He often holds drinking parties to thank them for their daily toil.
+
+@351.0
+This book says that in escorting a fleet, securing the fleet's route comes first.
+

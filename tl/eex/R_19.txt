@@ -1,0 +1,1131 @@
+@0
+Episode 20 "The Dream of Reviving the Amago"
+
+@1
+Episode 20 "The Dream of Reviving the Amago"
+
+@4.0
+Chikuzen is settled for now. The question is what the Murakami and the Amago remnants who joined the Mōri encirclement will do next.
+
+@4.1
+The Seki have a report on the Amago remnants.
+
+@5.0
+We have found Yamanaka Shikanosuke in Kyōto. A kunoichi is already watching him.
+
+@5.1
+Well done.
+
+@5.2
+We simply had a woman named Shino, who seems tied to Shikanosuke, followed.
+
+@5.3
+And what is Shikanosuke doing in Kyōto?
+
+@5.4
+He seems to be searching for an Amago heir.
+
+@5.5
+I see... So there was one after all.
+
+@5.6
+We have yet to confirm it, but perhaps a child of Masahisa...
+
+@5.7
+Understood. Keep watching him.
+
+@5.8
+...Hah.
+
+@5.9
+Father, you look unwell.
+
+@5.10
+I am fine. Now, back to Kōriyama. The encirclement is not yet broken.
+
+@5.11
+Then we shall prepare at once. Father, please rest.
+
+@5.12
+Yes. I think I shall.
+
+@6.0
+Hrm.
+
+@6.1
+(What is this... My sight will not settle)
+
+@7.0
+Ngh!
+
+@9.0
+Fetch a physician!
+
+@11
+Nijō Castle - Council Hall
+
+@12
+Old age and overwork brought on an illness that forced Motonari to rest for a time. In the interval, Shikanosuke met Magoshirō, Masahisa's son, and won his consent to lead the revival army as head of the Amago. When Hashiba Hideyoshi learned of it, he approached Yamanaka Shikanosuke and offered to be the go-between with Nobunaga.
+
+@13.0
+Hmm... You say fighting the Mōri head-on is dangerous?
+
+@13.1
+Unless we grow far stronger, we have no chance.
+
+@13.2
+What?! You say our army cannot win?!
+
+@13.3
+Lord Shibata would understand if he toured the Mōri lands.
+
+@13.4
+Rich silver and copper, strong troops, a well-disciplined body of retainers, and good allies in the Kikkawa and Kobayakawa.
+
+@13.5
+There is hardly a gap to exploit.
+
+@13.6
+Surely you did not just slink home.
+
+@13.7
+Of course not.
+
+@13.8
+I have gauged their strength exactly, and brought a gift to sap the Mōri's power.
+
+@13.9
+Oh...?
+
+@14.0
+Show them in.
+
+@15.0
+Amago Katsuhisa and Yamanaka Shikanosuke.
+
+@15.1
+Hmm...
+
+@15.2
+(So that is Hideyoshi's plan)
+
+@15.3
+Raise your heads.
+
+@16.0
+Thank you for receiving us. We have come with a request.
+
+@16.1
+You mean to raise an Amago revival army?
+
+@16.2
+Indeed. We beg your aid in raising our troops.
+
+@16.5
+My lord, reconsider!
+
+@16.6
+Silence!
+
+@16.9
+Katsuhisa, Shikanosuke, wait in another room. We shall talk details later.
+
+@16.10
+Thank you!
+
+@17.0
+Let us see what the Mōri are made of.
+
+@17.1
+So they are disposable pawns?
+
+@17.2
+Just so. Know your enemy and know yourself, and you will not fear a hundred battles. First, learn the Mōri's strength.
+
+@18
+Yamanaka Shikanosuke's Lodgings
+
+@19.0
+I am going to Tajima. The Amago revival army finally raises its banner.
+
+@19.1
+It is useless to stop you. Even Ekei's words did not move you.
+
+@19.2
+Forgive me. I can no longer turn back.
+
+@21.0
+May I?
+
+@21.1
+Oh...
+
+@22.0
+Please look after Shino.
+
+@22.1
+So you will go after all...
+
+@22.2
+Ekei, our ways of life differ. That is all I can say.
+
+@22.3
+Do not throw your life away. Remember that much.
+
+@22.4
+Shall we go, then?
+
+@23.0
+They have finally moved. I must tell Father.
+
+@26.0
+What did you wish to discuss?
+
+@26.1
+The illness in Chikuzen shook me to the core. I must retire. I mean to pass the headship to you.
+
+@26.2
+Y-you jest! I am only fifteen. I cannot hold a province together.
+
+@26.3
+Motoharu, Takakage and Fukuhara will be your guardians.
+
+@26.4
+Impossible. However able the guardians, a weak head will ruin the province.
+
+@26.5
+So will a province under an aged head.
+
+@26.6
+But I cannot yet decide as Grandfather does.
+
+@26.7
+Terumoto...
+
+@27.0
+Lord Motonari, are you well enough?
+
+@27.1
+Yes, no worry. Has something happened?
+
+@27.2
+Yes. The Seki have learned of the Amago remnants' movements.
+
+@27.3
+I see. I am coming. Gather everyone.
+
+@30.0
+Yamanaka Shikanosuke does mean to raise Masahisa's son.
+
+@30.1
+Oda Nobunaga lurks behind them, and they may form a very large revival army.
+
+@30.2
+Understood. Well done.
+
+@30.3
+This intelligence was Hotaru's doing. Praise her.
+
+@30.4
+Learning the enemy's state in advance is worth a first-class deed.
+
+@30.5
+Well done.
+
+@30.6
+Thank you. It is all thanks to Father Masakiyo's training.
+
+@30.7
+Oh, a Seki daughter. I count on you.
+
+@32.0
+He is leaving already...
+
+@33.0
+When did Seki raise a successor? Remarkable.
+
+@33.1
+(Now, how do I make the Mōri heir nod?)
+
+@34.0
+Hm? What is it, Terumoto?
+
+@34.1
+Ah, no... It is nothing.
+
+@35
+Talk to Motoharu and Takakage
+
+@70.5
+But there's a saying, third time lucky. Sakichi, let's run!
+
+@85
+Gassan-Toda Castle - Senior Retainers' Hall
+
+@112.1
+It's Lord Motonari!
+
+@114.0
+Take mine too, please.
+
+@115.0
+Thank you, thank you.
+
+@123
+Gassan-Toda - Storehouse
+
+@124
+Gassan-Toda - Tavern
+
+@125
+Gassan-Toda - Market
+
+@126
+Gassan-Toda - House
+
+@127.0
+I think Terumoto needs a little more time before he takes the headship.
+
+@128.0
+About what we discussed, I still cannot do it.
+
+@129.0
+I asked Motoharu and Takakage too. Both vouch for you.
+
+@129.1
+But I do not think I can.
+
+@129.2
+Terumoto, I felt the same at first. But you cannot know until you try.
+
+@129.3
+...I know I must become head someday.
+
+@129.5
+Please give me a little more time to think.
+
+@129.6
+I see... Then think until you are satisfied.
+
+@130
+Yamanaka Shikanosuke's Lodgings
+
+@131.0
+Ah! Shikanosuke!
+
+@132.0
+Well met.
+
+@132.1
+Sorry I am late. But I have brought Lord Magoshirō. He now goes by Katsuhisa.
+
+@133.0
+All the Amago retainers have awaited Lord Katsuhisa's arrival.
+
+@133.1
+Yes. I too looked forward to meeting you all.
+
+@133.2
+You honour me.
+
+@134.0
+We have already sent the call to revive the Amago across the land and are gathering the old retainers.
+
+@134.1
+Good. Well done.
+
+@134.2
+Then let us hurry. The Mōri surely know already. We must rise with lightning speed.
+
+@135.0
+Everyone, prepare!
+
+@136
+Amago Katsuhisa's Main Camp
+
+@137.0
+More retainers gathered than expected.
+
+@137.1
+The Ōtomo sent plenty of cannon and muskets too. We are no worse armed than the Mōri.
+
+@137.2
+The day has come to avenge our old grievance.
+
+@137.3
+Shikanosuke, you wanted this day most.
+
+@137.4
+No, what I want is the Amago revived. It only begins now.
+
+@137.5
+Now, Lord Katsuhisa. Give the order to march!
+
+@138.0
+Well done, all. We now march to retake Gassan-Toda Castle.
+
+@138.1
+Forward!
+
+@141.0
+Word comes that the Amago revival army is marching on Toda Castle.
+
+@141.1
+They have come at last.
+
+@141.2
+We shall cut them down.
+
+@141.3
+Good, all of you prepare to march!
+
+@143.0
+So Shikanosuke attacks at last. As Grandfather foresaw... this will sweep away the Amago remnants.
+
+@144.0
+As for Lord Terumoto, why not consult Lord Motoharu and Lord Takakage?
+
+@147.0
+Please hurry.
+
+@148.0
+Did Lord Terumoto not nod to the succession?
+
+@149.0
+They rise with Ōtomo and Oda backing. Do not underestimate them.
+
+@150.0
+Hotaru is not Seki's own child.
+
+@150.1
+Seki raised a baby he found in the flames of war.
+
+@151.0
+Many firearms were brought to the Amago army from the Ōtomo. They have grown tough.
+
+@152.0
+Is this Hashiba Hideyoshi's doing? The Amago remnants even tie in with the Oda...
+
+@153.0
+I hear Yamanaka Shikanosuke is fierce. I would like to fight him.
+
+@154.0
+Not just the Ōtomo, even the Oda side with the Amago. The Mōri are truly disliked.
+
+@155.0
+...The Oda... Are they measuring our strength with the Amago?
+
+@156.0
+Lord Seki and Hotaru are father and daughter, yet look nothing alike.
+
+@157.0
+Hm. Hotaru, Seki's daughter? What an unlike pair.
+
+@158.0
+Now, did Lord Seki have a wife...?
+
+@159.0
+Terumoto is just not ready yet. Why not watch for a while?
+
+@160
+Talk to Mōri Terumoto
+
+@161.0
+Terumoto would not agree to the succession...
+
+@162.0
+Lord Motoharu dotes on Hiroie. In that, he is a good father.
+
+@163.0
+It is dull without Father. Mother will not spar with me.
+
+@164.0
+Lord Terumoto has what it takes to be head. He just lacks the push to resolve himself.
+
+@164.1
+A difficult matter.
+
+@166.0
+Even he knows he must one day inherit the Mōri. We can only wait for him to decide.
+
+@167.0
+Has the new book not come yet? I long to read it.
+
+@168.0
+Whatever has become of the Murakami?
+
+@169.0
+The Amago remnants are said to be numerous. Truly a former great power.
+
+@170.0
+From this battle on, I mean to send Hotaru to the field. Please use her.
+
+@171.0
+I will prove useful. To repay Father, please let me march out.
+
+@180.7
+Until now, the swords I made have taken many lives.
+
+@182.1
+Hm, you seem sober now.
+
+@197.2
+So that was it... I said terrible things to the master...
+
+@228.0
+So you were here. I looked for you.
+
+@230.10
+You may not remember yet, but do not rush. Surely it will come back in time.
+
+@236.2
+I remember nothing. I have even forgotten my own name.
+
+@236.4
+Yes. Where on earth is this place?
+
+@247.5
+That promise was to treat her to good food with the money you earned, was it not?
+
+@254.4
+I take no work unless the client values my skill highly.
+
+@269.3
+Not that you can be blamed, Lord Motonari, since you only knew me as a child...
+
+@269.8
+That child has grown so big. How time flies.
+
+@271.0
+Though I was a child then, I begged to be hired, and was terribly rude.
+
+@272.1
+I have been waiting for you.
+
+@304.0
+My family has guarded this storehouse since my father's day.
+
+@308.0
+I've only just been posted here... To be honest, I'm anxious.
+
+@311.9
+That must be the man who lost his memory...
+
+@314.0
+Hmm... No, not that... Nor that... *mutter*
+
+@315.0
+I respect Lord Motonari greatly.
+
+@316.0
+Ow!
+
+@317.0
+What happened!?
+
+@317.1
+I think I twisted my ankle... Ouch, ouch.
+
+@319
+Gave first aid to the soldier
+
+@320.0
+There. That will do.
+
+@320.2
+Such things are everyday matters in war. Remember how to treat them.
+
+@322.0
+There are two Lord Motonaris! Are you twins? ...Hic!
+
+@324.0
+Do you know anything about that man?
+
+@324.1
+I had never seen his face before.
+
+@328.0
+The more goods in the storehouse, the more worth there is in guarding it.
+
+@330.0
+Why not leave the troublesome work to the young by now?
+
+@331.0
+When you get sleepy, just walk around.
+
+@333.0
+No fighting on an empty stomach. Wise words, eh?
+
+@336.0
+I was off drink until the other day, but I've quit for good.
+
+@337.0
+Please forgive my daughter's rudeness.
+
+@338.0
+Bringing her may have been a mistake.
+
+@338.1
+She only picks up strange things...
+
+@339.0
+I'd like to own a storehouse this size too.
+
+@341.0
+The world is dangerous these days. Take care.
+
+@344.0
+I sincerely pray for your good fortune, Lord Motonari.
+
+@345.0
+Are you not Lord Motonari?
+
+@345.1
+Indeed, I am. And you?
+
+@345.2
+Just a townsman, as you see.
+
+@345.3
+It's a bold request, but could you pat this child's head?
+
+@345.4
+His head?
+
+@345.5
+Yes. Then I think he'll grow up as fine as you.
+
+@345.6
+If that is all, it's easily done.
+
+@346.0
+He has a fine face.
+
+@346.2
+Thank you so much.
+
+@346.3
+May good things come to you too, Lord Motonari. I'll pray for it.
+
+@349.0
+My wife is in a good mood today, so I could come drink openly.
+
+@350.0
+Too much drink is poison to the body.
+
+@351.0
+Stop there now.
+
+@351.1
+Just for today, what's the harm?
+
+@351.2
+I'm telling you because I worry about your health!
+
+@351.3
+So I can't drink after all...
+
+@352.0
+I look forward to your continued favour.
+
+@357.0
+Dear me, how shameful, in front of the child...
+
+@358.0
+Let you talk, and you get high and mighty!
+
+@358.1
+You won't understand unless I say it!
+
+@359.1
+No, I don't know.
+
+@361.1
+...Though it's better to have it.
+
+@376.0
+Oh, Lord Motonari! Good day to you.
+
+@376.1
+Keep away! You disgust me.
+
+@376.2
+Shy, aren't you...
+
+@387.0
+I'm slowly learning how good sake is.
+
+@388.0
+We went a bit too far...
+
+@389.0
+Stay out of this, will you?
+
+@389.1
+Today I'll make this useless husband learn his lesson!
+
+@390.0
+What! Who's a useless husband!?
+
+@390.1
+Stop it! This is the middle of town.
+
+@390.2
+Don't stop me, samurai. This time I can't back down.
+
+@390.3
+Dear me. Nothing I say will help.
+
+@391.0
+Stop it already! It's embarrassing!
+
+@392.2
+Even quarrelling spouses can't beat their child...
+
+@393.0
+My husband eats so much. Shopping is a chore.
+
+@394.0
+For Lord Motonari, I'll do all I can.
+
+@395.0
+My father was caught up in war and died.
+
+@395.1
+Such tragedy must never be repeated.
+
+@396.0
+Oh, I feel unwell. Should I see a physician?
+
+@403.0
+Cowards tend to live longer.
+
+@404.0
+I'd like to live a thin, long life.
+
+@405.0
+You seem troubled. I'll help, so tell me.
+
+@405.1
+In the recent battle my house was burned and my fields ruined. I lost the will to live.
+
+@405.2
+I'll drink my last sake here and prepare to die.
+
+@405.3
+At your age, I once tried to cut my belly too.
+
+@405.4
+Then one of my men
+
+@405.5
+told me never to lose hope to the very end,
+
+@405.6
+and died in my place.
+
+@405.7
+If you'd die for a ruined field,
+
+@405.8
+why not act as if dead and plough it once more?
+
+@405.9
+You are not the only one suffering. I suffer too.
+
+@405.10
+But I always fight that suffering.
+
+@405.11
+You too, fight yours.
+
+@405.12
+Your words give me hope to live.
+
+@405.13
+I'll go and plough my ruined field at once.
+
+@409.2
+That craftsman seems quite skilled.
+
+@414.0
+Lord Motonari, are you in good health?
+
+@415.0
+Lord Motonari, please take this.
+
+@416.0
+Please take care of yourself.
+
+@417.0
+Ah... Am I getting old?
+
+@418.0
+It's like a festival here every day.
+
+@419.0
+I never want my children to go hungry.
+
+@421.0
+Kōriyama has lovely air.
+
+@424.0
+My brother took the tonsure.
+
+@425.1
+No, I don't know.
+
+@426.0
+Sake is my best friend.
+
+@427.0
+Where in the body does sake collect?
+
+@428.0
+My husband made me a drinker too.
+
+@429.0
+I'm still single.
+
+@430.0
+...Oh? Lord Motonari. I didn't notice...
+
+@431.0
+Not just sake, but excess in anything does no good.
+
+@432.0
+All we can do is work hard.
+
+@433.0
+Nothing but sighs every day...
+
+@434.0
+My one talent is a loud voice.
+
+@436.0
+This child will be somebody one day. Ha ha ha.
+
+@437.0
+Children are lovely.
+
+@441.17
+Thinking this bad, I secretly sent Murashige to another craftsman.
+
+@441.21
+What on earth should I do?
+
+@447.0
+If you know a skilled craftsman, please bring him along.
+
+@451.0
+The sake and food at this tavern are the best.
+
+@454.1
+No, I don't know.
+
+@456.0
+Weapons have changed a lot since my day.
+
+@458.0
+Storehouses in the old days weren't this grand.
+
+@459.0
+Please take the realm.
+
+@462.0
+Everyone's face is red and happy... Is sake that good?
+
+@464.0
+I want to get strong too.
+
+@471.0
+What happens... when you die?
+
+@472.0
+I haven't seen you around here... Where are your father and mother?
+
+@472.1
+They died.
+
+@472.2
+So it's just the two of you...
+
+@472.3
+Yes. Just my sister and me now.
+
+@472.4
+Do you have a place to live?
+
+@472.5
+No...
+
+@472.6
+Then go to the temple. The abbot there will surely do something.
+
+@472.7
+Yes, thanks. I'll go.
+
+@472.8
+...Thanks.
+
+@473.0
+I turned ten the other day.
+
+@475.0
+Yay, yay!
+
+@476.0
+Dad and Mom are old enough... Grow up already.
+
+@478.0
+I'll help my dad with his work too.
+
+@479.0
+Lord Motonari's face is red... How cute!
+
+@480.0
+Do you want me to pour for you?
+
+@481.0
+Is there anything I can do too?
+
+@493.0
+I can't hire him as a Mōri craftsman. But with family love, they'll get by somehow.
+
+@495.1
+Dad will come back from his trip soon. So I'm praying for his safety.
+
+@496.0
+I've never seen the sea. What is it like?
+
+@497.0
+Waaah... *sniff* Dad... Mom...
+
+@497.1
+Cheer up. I'm here for you.
+
+@498.0
+Dad! Where did you go? Waaah!
+
+@498.1
+Are you lost?
+
+@498.2
+There, there. I'll find your father, so don't cry.
+
+@498.4
+By the way, do you remember where you got separated?
+
+@498.5
+Yes, when we went to the temple.
+
+@498.6
+Then let's go to the temple again.
+
+@499.0
+There you are! Are you hurt?
+
+@499.1
+No, I'm fine.
+
+@499.2
+I'm sorry for all the trouble.
+
+@499.3
+You are her father. She was crying here.
+
+@499.4
+I see. Thank you.
+
+@499.5
+No thanks needed. Now, I'll be going...
+
+@499.6
+Goodbye.
+
+@499.7
+Yes, take care...
+
+@500.0
+Today I'm playing with Oyuki.
+
+@501.0
+Will the war go on?
+
+@502.0
+This was in our storeroom. Will it help Lord Motonari?
+
+@504.1
+Sorry, I don't know.
+
+@507.0
+People can live without fighting...
+
+@507.1
+Why can't they grasp something so simple...
+
+@513.0
+Why do you want my life? Will you tell me the reason now?
+
+@522.0
+Why do you want my life? Will you tell me the reason now?
+
+@526.0
+Good government is the best memorial to the dead.
+
+@527.0
+You look grave. Is something on your mind?
+
+@527.1
+...I looked back on my life.\n\nI have taken many lives...
+
+@527.2
+Even when I had to win for the people's sake, I preached the value of life yet acted against it...
+
+@527.3
+It pains my heart.
+
+@527.5
+It can't be helped...
+
+@527.6
+...But...
+
+@527.7
+However much you regret, the dead will not return.
+
+@527.8
+Better to govern well. That is the finest memorial.
+
+@527.9
+I see... I shall take those words to heart.
+
+@530.0
+Lord Motonari, welcome.
+
+@530.1
+I came because I thought two children might have come here.
+
+@530.2
+Yes. They're sleeping soundly in the back. They must have been very tired.
+
+@530.3
+They have no kin, so I told them to come here.
+
+@530.4
+I see...
+
+@530.5
+If war goes on, more children like them will appear.
+
+@530.6
+I must make a world where all can live in peace, as soon as possible.
+
+@530.7
+You are doing your best, my lord.
+
+@530.8
+Do not brood too much.
+
+@530.9
+Yes. Sorry to worry you always, Abbot.
+
+@530.10
+Not at all...
+
+@532.0
+This temple has become a playground for children.
+
+@536.0
+Strong weapons are reassuring.
+
+@540.0
+Be prepared and have no worries.
+
+@541.0
+Lord Motonari, please take this medicine.
+
+@542.0
+I'll bring good medicine again, so please remember me then.
+
+@543.0
+I've brought medicine today.
+
+@543.1
+What medicine is it?
+
+@543.2
+This is "Ward Remedy".
+
+@543.3
+How much is it?
+
+@543.4
+Well... It's, um...
+
+@543.6
+No charge this time.
+
+@543.8
+Yes. As a token of friendship...
+
+@543.9
+I look forward to our dealings.
+
+@548.0
+It's not the sake I'm drunk on. It's Lord Motonari's command.
+
+@549.0
+At least around here, I seem the strongest... Gahahaha.
+
+@555.1
+It was a face I'd never seen.
+
+@559.0
+I pray for your fortune in war.
+
+@560.0
+Please put this to use.
+
+@564.0
+One day I'll surely rise in the world.
+
+@566.0
+Wars are won by those who use their heads.
+
+@569.0
+Troop numbers alone don't decide a battle.
+
+@570.0
+Pleasant drunkenness. Like being in a dream...
+
+@571.0
+I'll lose to no one in a drinking contest!
+
+@572.0
+I'll lose to no one in a drinking contest!
+
+@574.0
+My storehouse is a natural cave. Better than this one.
+
+@578.0
+Please give Terumoto time to think.
+
+@579.0
+Told to become head of the clan, it's normal to refuse at first.
+
+@579.1
+Time will surely settle it.
+
+@581.0
+Before battle, Lord Motoharu meditates.
+
+@581.1
+It feels as if he's praying to something.
+
+@582.0
+I must stock new books.
+
+@583.0
+Oh, I've read this one already, so you may have it.
+

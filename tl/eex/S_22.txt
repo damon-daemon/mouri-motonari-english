@@ -1,0 +1,141 @@
+@0.0
+Good, we attack Kōzuki Castle! I must settle things with Shikanosuke too!
+
+@1.0
+So you came, Mōri! Meet your end on this ground!
+
+@2
+Battle of Kōzuki Castle\nVictory\n  1. Amago Katsuhisa retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@3.0
+It seems the Mōri army has begun its attack on Kōzuki Castle.
+
+@3.1
+There is not a moment to lose. Let us head for Kōzuki Castle too.
+
+@3.2
+Please wait.
+
+@3.3
+What, you object, Kanbei? Tell me why.
+
+@3.4
+Let us leave this to Yamanaka and his men. I believe it better to keep some distance from the battlefield.
+
+@3.5
+What nonsense is this!
+
+@3.7
+What do you say, Brother? We could use the cavalry to strike the Mōri camp from behind, while we watch the situation from here...
+
+@3.8
+Hm, let us do that.
+
+@3.9
+Shikanosuke...
+
+@3.10
+Yes, my lord. What is it?
+
+@3.11
+I meant to end my days as a monk of Tōfuku-ji. I never thought I would become lord of a castle, small as it is. Even if I die here, I have no regrets. Shikanosuke, Tachihara, Akiage... I thank you.
+
+@3.12
+What ill omens before a battle. Rest assured, I will deal the Mōri a bitter defeat.
+
+@3.13
+Hm...
+
+@3.14
+This is the Amago castle we finally won. We will not hand it to the Mōri!
+
+@3.15
+The Ten Braves of the Amago are now only me and Shikanosuke... I will show them the true strength of the Ten Braves!
+
+@3.16
+Kōzuki Castle looks strongly defended. Let your guard down and you will pay dearly.\n\nWe begin the attack on Kōzuki Castle now.
+
+@4
+Battle of Kōzuki Castle\n\nVictory\n  1. Amago Katsuhisa retreats\nDefeat\n  1. Mōri Terumoto retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@5.0
+...This is getting us nowhere.
+
+@5.2
+Lord Hideyoshi. I think this is not the time to fight the Mōri army...
+
+@5.3
+True enough... Bessho Nagaharu's Miki Castle has not fallen, and our line of retreat is still cut...
+
+@5.4
+Very well. We abandon Kōzuki Castle and put everything into taking Miki Castle! Retreat!
+
+@6
+Hashiba's army withdrew
+
+@7.0
+What! Hashiba's army has begun to withdraw?!\n\n...We have been abandoned...
+
+@8.0
+Ugh...\n\n\nHyōgonosuke... Sanaenosuke... I am coming to you now...
+
+@9.0
+Restore the Amago...\n\n\nI wanted to see it with my own eyes...
+
+@10.0
+Damn... how bitter.
+
+@10.1
+It seems Shikanosuke has been captured.
+
+@11.0
+It is over for us...
+
+@23.0
+Oh, someone is there.
+
+@23.1
+There is a legend that long ago, someone in this village made a fortune in one lifetime and buried his treasure somewhere around here, but however much we dig, we never find it. Oh, this is nothing much, but please use it.
+
+@25.0
+...This is getting us nowhere.
+
+@25.2
+Lord Hideyoshi. I think this is not the time to fight the Mōri army...
+
+@25.3
+True enough... Bessho Nagaharu's Miki Castle has not fallen, and our line of retreat is still cut...
+
+@25.4
+Very well. We abandon Kōzuki Castle and put everything into taking Miki Castle! Retreat!
+
+@26
+Hashiba's army withdrew
+
+@27.0
+What! Hashiba's army has begun to withdraw?!\n\n...We have been abandoned...
+
+@28.0
+Advance! Do not let the Mōri army near Kōzuki Castle!\n\nFarewell, Shikanosuke! Restore the Amago without fail!
+
+@28.1
+Iorinosuke... Do you mean to die...
+
+@29.0
+Shikanosuke! I leave Lord Katsuhisa to you!
+
+@29.1
+Lord Hisatsuna!
+
+@30.0
+Shikanosuke, surrender. Do not make your soldiers suffer any more.
+
+@30.1
+Silence! I will be loyal to the Amago to the end!
+
+@31.0
+So you have come this far.\n\nThis castle is the Amago's... I will not give it to the Mōri!
+
+@34.0
+Kōzuki Castle has fallen...\n\nThe victory is ours. Do not let one Amago remnant escape!
+

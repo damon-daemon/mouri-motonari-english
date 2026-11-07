@@ -1,0 +1,1722 @@
+@0
+Chapter 1: The Unification of Aki
+
+@1
+Episode 1 "The Young Eagle's First Battle"
+
+@2
+Episode 1 "The Young Eagle's First Battle"
+
+@3
+Battlefield Against the Shishido
+
+@4.0
+Th-this is awful...\n\n\nAwaya's whole unit has been wiped out, hasn't it?
+
+@4.1
+Yes... it looks that way.\n\nAnd not just here. They say the fort at the Sawatari River was a horror to see.\nThe longer this war drags on, the higher the piles of dead.
+
+@5.0
+Ah!
+
+@5.1
+What is it?
+
+@6.0
+Sakichi... Sakichi, is that you!\n\nLook what they've done to you!
+
+@7.0
+Did you know him?
+
+@7.1
+Yes, my wife's brother...\n\n\nDamn it, Sakichi... And him with a baby still at the breast.\n\nHe must have died in agony.
+
+@7.2
+Will we end up like this one day, too...
+
+@7.3
+Standing here does no good. We must report the situation to His Lordship. Hurry!
+
+@8
+Mōri Main Camp
+
+@9.0
+We have driven off the Shishido forces, somehow,\n\nbut the soldiers report that our own losses are severe.
+
+@10.0
+The men are exhausted as well. I think the wise course is to withdraw here.
+
+@11.0
+Withdraw?!\nWould you make all our sacrifices so far mean nothing?
+
+@12.0
+Your feelings are quite understandable. But please, bear with it for now.
+
+@13.0
+Dragging the war out any longer would only cost us men for nothing.
+
+@14.0
+Withdrawal is also a move of strategy, my lord.
+
+@15.0
+Lord Okimoto.
+
+@16.0
+Ah, Mototsune.
+
+@17.0
+Lord Okimoto. I too think we should withdraw here.
+
+@18.0
+Hmph... Then I will take the field myself!
+
+@19.0
+Out of my way, Fukuhara!
+
+@20.0
+My lord, please, calm yourself!
+
+@21.0
+Enough, I said move...\n...Ugh...
+
+@22.0
+...My lord?
+
+@23.0
+...What is the matter?
+
+@24.0
+This is bad. Retreat! Prepare to retreat at once!
+
+@25
+Shishido Main Camp
+
+@26.0
+The Mōri army has begun to retreat.
+
+@27.0
+Hmph...\nThe news that Okimoto collapsed may be true.
+
+@28.0
+A golden chance. Let us pursue them.
+
+@29.0
+Leave the pursuit to me.
+
+@30.0
+No, leave it to me!
+
+@31.0
+Wait. Our own men are worn out too.
+
+@32.0
+Then we withdraw as well?
+
+@33.0
+Yes, back to Goryū Castle. Make ready.
+
+@34
+Amago Tsunehisa's Seat - Gassan-Toda Castle
+
+@35
+Gassan-Toda Castle - Garden
+
+@36.0
+So both the Mōri and the Shishido have pulled back.
+
+@37.0
+Yes, sir.
+
+@38.0
+And how is Okimoto?
+
+@39.0
+There is no sign of recovery. He may not last until tomorrow.
+
+@40.0
+Good. You may go.
+
+@41.0
+Lord Tsunehisa, what shall we do?
+
+@42.0
+There is no need for our army to move. Leave it to Takeda Motoshige.
+
+@43.0
+Understood.
+
+@44
+Yoshida-Kōriyama Castle
+
+@45
+Yoshida-Kōriyama Castle - Town
+
+@46.0
+So did we win against the Shishido in the end?
+
+@46.1
+No, it was a draw.
+
+@46.2
+Never mind who won or lost. I'm worried sick about Lord Okimoto's illness.
+
+@46.3
+Is he that ill?
+
+@46.4
+Yes. Important people keep coming and going at his residence these days...
+
+@47.0
+Even Lord Motonari has come. Oh dear, this must be the end.
+
+@48.0
+Lord Motonari, will Lord Okimoto be all right? We are so worried.
+
+@48.1
+If anything happens to Lord Okimoto, what will become of this land...
+
+@48.2
+Do not worry. My brother will not die.
+
+@49.0
+Lord Motonari!
+
+@50.0
+How is my brother? Unrest seems to have spread even among the people.
+
+@50.1
+Not well, I am afraid. There is no sign at all that he is recovering.
+
+@50.2
+I see...
+
+@51.0
+Fukuhara and Shiji are the elders of the Mōri house, you might say.
+
+@51.1
+Should the worst come, consult those two.
+
+@51.2
+Yes. But for now I believe my brother will recover.
+
+@52
+Yoshida-Kōriyama Castle - Mōri Okimoto's Residence
+
+@53.0
+Brother. We have been expecting you.
+
+@53.1
+You have done well against the Shishido. I am glad to see Lady Aiō in good health.
+
+@53.2
+Yes, well...
+
+@54.0
+Thank you for coming.
+
+@54.1
+I hear my brother is in a very bad way.
+
+@54.2
+For days now he has eaten nothing, and he wastes away day by day.
+
+@54.3
+How terrible...
+
+@54.4
+War after war.\n\n\nThe drink he took to rouse his spirits must have brought this on him.
+
+@54.5
+M-Motonari...? Is that you?
+
+@54.6
+Brother!
+
+@54.7
+...I can no longer even see your face clearly. I will not last long, will I.
+
+@54.8
+Do not speak so weakly. Hold fast.
+
+@54.9
+Ugh... *cough* ...Motonari. Look after Kōmatsumaru.
+
+@54.10
+Together with our half-brother Mototsuna and our senior retainers Fukuhara and Shiji, protect the Mōri house...
+
+@54.11
+Gh, *cough*, *cough*.
+
+@54.12
+Brother, rest is what you need most now. Please lie down.
+
+@54.13
+...Yes. Forgive me, Motonari...
+
+@54.14
+...............
+
+@55.0
+Then we shall take our leave. If anything happens, call for us at once.
+
+@56.0
+Then let us withdraw as well.
+
+@57.0
+Uncle, will Father be all right?
+
+@57.1
+Yes, he will surely get better. Be a good boy.
+
+@57.2
+...Lord Okimoto...
+
+@57.3
+Be strong, Lady Fuji.
+
+@57.4
+Now, we take our leave.
+
+@58
+Yoshida-Kōriyama Castle - Castle Grounds
+
+@59.0
+Lord Okimoto does not seem to have long.\n\nSaka, will you take on the matter of the envoy to the Amago?
+
+@60.0
+You mean to secure a patron while there is still time.
+
+@60.1
+There could be no better chance to set my son Mototsuna up as head of the clan.
+
+@60.2
+I would like you to ask Lord Tsunehisa to back Mototsuna.
+
+@60.3
+Please convey it to Kamei, the Amago senior retainer.
+
+@60.4
+Understood. Leave it to me.
+
+@61
+Yoshida-Kōriyama Castle - Living Quarters
+
+@62.0
+When your mother died, Motonari, there was a dispute between Lady Aiō and me over which of us would become the main wife.
+
+@62.1
+In the end I, who had raised you, took the place,
+
+@62.2
+but Lady Aiō seemed to resent it.
+
+@62.3
+Is she still resentful?
+
+@62.4
+I cannot say.
+
+@62.5
+I only hope it does not grow into a matter that threatens the house...
+
+@63
+Go to the Council Hall
+
+@64
+Yoshida-Kōriyama Castle - Council Hall
+
+@65.0
+Even Lord Okimoto, this time...
+
+@65.1
+Do not speak of ill omens.
+
+@65.2
+No, I think we should consider the worst case.
+
+@65.3
+Kōmatsumaru is the rightful heir, of course, but at his age...
+
+@65.4
+I believe it is best to make Mototsuna, who has fought in battle, the head of the clan...
+
+@65.5
+What do Fukuhara and Shiji think?
+
+@65.6
+The head must remain Kōmatsumaru, with Lord Motonari as his guardian. That is my view.
+
+@65.7
+I am of the same opinion.
+
+@65.8
+But if the Amago have begun to move, we must think of war as well. There will be more battles from now on.
+
+@65.9
+With Lord Motonari, who has yet to see his first battle... Ah.
+
+@66.0
+L-Lord Motonari.
+
+@66.1
+Are you Lord Motonari?
+
+@67.0
+It is an honour to meet you. I am Kuchiba Michiyoshi, younger brother of Shiji Hiroyoshi.
+
+@68.0
+Ah, so you are Michiyoshi. I had heard you were away inspecting Izumo.
+
+@68.1
+I returned only a short while ago.
+
+@68.2
+Michiyoshi, make your report to Lord Motonari.
+
+@68.3
+Then I shall. The Amago in Izumo show signs of moving south.
+
+@68.4
+They may be about to launch a full campaign against Aki.
+
+@68.5
+What! At a time like this...!
+
+@68.6
+Unrest has spread even among Aki's local lords. Some will surely defect to the Amago.
+
+@68.7
+Hmm...
+
+@68.8
+Do not let your guard down. Defectors may come not only from outside.
+
+@68.9
+...............
+
+@69
+Talk to Lady Sugi
+
+@70.0
+Everyone has gone already? I must hurry too.
+
+@71.0
+My brother's condition has taken a sudden turn. Everyone, to his residence at once.
+
+@71.1
+What?!
+
+@71.2
+The thing we feared has come at last...!
+
+@72.0
+Kōmatsumaru is still a child, and Lord Motonari has no battle experience.
+
+@72.1
+To survive these troubled times, we have no choice but to make Mototsuna the head.
+
+@72.2
+A head's worth is not measured by war alone. The strength to hold the land together matters more.
+
+@72.3
+Indeed, that is so.
+
+@72.4
+In that respect, I think Lord Motonari is the right choice for the next head.
+
+@72.5
+No, I cannot bring myself to entrust the land to Lord Motonari, who has yet to fight a battle.
+
+@72.6
+I agree. Mototsuna should be the head.
+
+@72.7
+Wait.
+
+@72.8
+Kōmatsumaru is the legitimate head. I trust you have not forgotten that.
+
+@72.9
+Indeed.\n\n\nTo disregard Lord Okimoto's child would be a breach of loyalty.
+
+@72.10
+But with the young Kōmatsumaru, and Lord Motonari who has yet to fight... Ah!
+
+@73.0
+L-Lord Motonari.
+
+@74
+Talk to Lady Sugi
+
+@75
+Yoshida-Kōriyama Castle - Senior Retainers' Hall
+
+@76.0
+Everyone has gone already? I must hurry too.
+
+@77
+Yoshida-Kōriyama Castle - Living Quarters
+
+@78
+Yoshida-Kōriyama - Storehouse
+
+@79.0
+This is the storehouse.
+
+@79.1
+Would you like an explanation of the storehouse?
+
+@80
+Listen\nNo need
+
+@81.0
+At the storehouse you can store and withdraw items and materials, and equip or swap weapons.
+
+@81.1
+To store or withdraw, talk to the storekeeper and choose "Store/Withdraw".
+
+@81.2
+Your carried items are listed on the left, and the storehouse items on the right.
+
+@81.3
+To give an item to a commander, choose it from the storehouse list.
+
+@81.4
+However, one commander can carry up to 8 items.
+
+@81.5
+Choosing an item from the carried list returns it to the storehouse.
+
+@81.6
+To equip a weapon, choose it from either the storehouse list or the carried list.
+
+@81.7
+There is a storekeeper at the workshop as well.
+
+@82
+Yoshida-Kōriyama - Workshop
+
+@83.0
+This is the workshop.
+
+@83.1
+Would you like an explanation of the workshop?
+
+@84
+Listen\nNo need
+
+@85.0
+At the workshop you can make items.
+
+@85.1
+Making items requires artisans and materials.
+
+@85.2
+Once you have the necessary materials, talk to the official.
+
+@85.3
+Talk to artisans at taverns, markets and the like, and they will join your service.
+
+@85.4
+Each time an artisan makes an item, their skill improves and they level up. However, the artisans' level cap depends on how many artisans you have.
+
+@85.5
+To make better items, you need that many more artisans.
+
+@85.6
+Talk to the people at your base and find many artisans.
+
+@86.0
+To store or withdraw items, please talk to me, the storekeeper.
+
+@87
+Yoshida-Kōriyama - Tavern
+
+@88.0
+This is the tavern.
+
+@88.1
+Would you like an explanation of the tavern?
+
+@89
+Listen\nNo need
+
+@90.0
+All sorts of people come and go in the tavern.
+
+@90.1
+Some will tell you unexpected news, and some will give you items useful in battle.
+
+@90.2
+It would be wise to talk with as many of them as you can.
+
+@90.3
+But each of them is a person like any other.
+
+@90.4
+Some carry worries and troubles of their own.
+
+@90.5
+If you meet someone in trouble, please lend them a hand.
+
+@90.6
+Do that, and you will surely win the people's trust.
+
+@91
+Yoshida-Kōriyama - Market
+
+@92.0
+This is the market.
+
+@92.1
+Would you like an explanation of the market?
+
+@93
+Listen\nNo need
+
+@94.0
+To buy or sell items, talk to the merchant.
+
+@94.1
+Goods for sale are listed on the left, and the storehouse items on the right. Choose an item from the goods list to buy it.
+
+@94.2
+Everything you buy goes into the storehouse.
+
+@94.3
+To sell, choose the item you wish to sell from the storehouse list.
+
+@94.4
+Items held by commanders cannot be sold.
+
+@94.5
+When you choose an item to trade, a number called "Owned" is shown. It is the number in the storehouse plus the number held by commanders.
+
+@94.6
+Use it as a guide when buying and selling.
+
+@95
+Yoshida-Kōriyama - Training Ground
+
+@96.0
+This is the training ground.
+
+@96.1
+Would you like an explanation of the training ground?
+
+@97
+Listen\nNo need
+
+@98.0
+At the training ground you drill in preparation for battle.
+
+@98.1
+To drill, talk to the drill master. The commander selection window will appear.
+
+@98.2
+In that window, choose the commander who will drill.
+
+@98.3
+Drills are a series of bouts. When you defeat one opponent, the next one appears.
+
+@98.4
+In drills, you must bet money suited to your own strength.
+
+@98.5
+Each time you defeat an opponent, you receive your wager.
+
+@98.6
+However, if you lose, your Luck will decrease.
+
+@98.7
+There are 6 opponents. Defeat them all and you receive a prize.
+
+@98.8
+You may also stop the drill partway.
+
+@98.9
+If your strength exceeds that of the opponents, you can no longer challenge them.
+
+@99
+Yoshida-Kōriyama - Temple
+
+@100
+Yoshida-Kōriyama Castle - Mōri Kōmatsumaru's Residence
+
+@102.0
+How is my brother?
+
+@102.1
+He is sleeping quietly now. But his condition could take a sudden turn at any time.
+
+@102.3
+In any case, he must have complete rest. Leave the rest to us.
+
+@102.4
+Yes. Lady Fuji, do not overtax yourself either.
+
+@102.5
+Yes...
+
+@104.0
+Mo... Motonari... Mototsuna.
+
+@104.1
+I am here.
+
+@104.2
+Brother, hold fast.
+
+@104.3
+It is bitter, but... I am done for.\n\nPlease... look after Kōmatsumaru...
+
+@104.4
+Brother, stay with us!
+
+@104.5
+Motonari... Mototsuna... join your strength, and protect the Mōri house...
+
+@104.6
+B-Brother!
+
+@104.8
+He has passed away.
+
+@105.0
+Ahh...!
+
+@106.0
+...Brother!
+
+@107.0
+Father...!
+
+@108
+Kanayama Castle - Living Quarters
+
+@109.0
+What! Okimoto is dead?!
+
+@109.1
+Yes. There is no mistake.
+
+@109.2
+A golden chance! Taking Arita Castle of the Kikkawa can only be done now!
+
+@109.3
+Okimoto's heir is still a child. A succession dispute is certain. The Mōri house cannot be united now.
+
+@109.4
+Until now the Kikkawa and Mōri allied forces have beaten us, but this time the Mōri cannot send reinforcements.
+
+@109.5
+Right. Kumagai, Kagawa, Koi, march out!\n\nWe shall take the Kikkawa's Arita Castle!
+
+@110.0
+Yes, sir!\n\n\nWith Okimoto, the head, dead, the Mōri cannot move. It is the perfect time to strike.
+
+@110.1
+So we remove the obstacles in one stroke.
+
+@110.2
+First we take Arita Castle, then we crush the Mōri as well.
+
+@110.3
+I will return to my castle at once and prepare to march.
+
+@110.4
+Father, permit me to march with you.
+
+@110.5
+No, you stay at the castle. The Mōri will not come out this time anyway. I can manage alone.
+
+@112
+The Day After Okimoto's Death...
+
+@113
+Yoshida-Kōriyama Castle - Senior Retainers' Hall
+
+@114
+Go to the Council Hall
+
+@115.0
+The news of Lord Okimoto's death must have already reached the Amago.
+
+@116.0
+The Takeda and Kumagai will likely move first.\n\nIf we do not install a new head quickly, it will be too late.
+
+@117
+Yoshida-Kōriyama - House
+
+@118.0
+The vanguard will probably be Takeda Motoshige.
+
+@119.0
+If the Amago are moving south, their vanguard will attack soon.
+
+@120.0
+If we do not install a new head quickly, it will be too late.
+
+@121.0
+I know that, but...
+
+@121.1
+If you are troubled, why not consult Lady Sugi?
+
+@122.0
+Formation matters on the battlefield. The order in which units attack is important too.
+
+@123.0
+If only Lord Okimoto would recover...
+
+@124.0
+Now is the time for all to unite. Strife within the family is our greatest enemy.
+
+@125.0
+Since we must install a head quickly, the best course is to choose the rightful heir.
+
+@126.0
+I know that, but...
+
+@126.1
+If you are troubled, why not consult Lady Sugi?
+
+@127.0
+Are your preparations complete?
+
+@128
+March out\nNot yet
+
+@129.0
+Prepare thoroughly.
+
+@130.0
+Be careful of the Amago's movements.
+
+@131.0
+To think Lord Okimoto has come to this. And he is still so young...
+
+@132.0
+With Lord Motonari as guardian, even Kōmatsumaru should be able to keep the house standing.
+
+@133.0
+On the march, the key is to keep step together.
+
+@133.1
+Charge the enemy alone and you will draw concentrated attacks.
+
+@134.0
+If only Lord Okimoto would recover...
+
+@135.0
+With Lord Okimoto as he is, Lord Motonari may have to take the field himself.
+
+@135.1
+It would be wise to learn each commander's unit type.
+
+@135.2
+I, for one, am an archer, Fukuhara is cavalry, Shiji is a tactician, and Kuchiba is bow cavalry.
+
+@136.0
+To rule a land, one must also care for the people.
+
+@136.1
+Whether Mototsuna could show such consideration, I wonder...
+
+@137.0
+Is your equipment ready? The weapon each commander carries changes the range he can attack.
+
+@137.1
+Victory or defeat in battle depends greatly on preparation. So prepare carefully.
+
+@138.0
+Lord Motonari, in your first battle, please keep me at your side.
+
+@138.1
+I will show you the full worth of my cavalry!
+
+@139.0
+Come to think of it, you have yet to see your first battle.
+
+@139.1
+Not to worry, leave everything to me. Ha ha ha ha!
+
+@140.0
+If we keep squabbling over the succession, we only give the Amago an opening.
+
+@140.1
+I truly wish Lord Motonari would become head and unite the house.
+
+@141.0
+Once on the battlefield, first send each unit out to the field.
+
+@141.1
+And please, let me lead the vanguard!
+
+@142.0
+My infantry units are kept ready to march at any time.
+
+@143.0
+Have you heard the talk that the Amago are about to move?
+
+@143.1
+They surely know of Lord Okimoto's condition. That is war for you.
+
+@144.0
+Hmm... This is troublesome.
+
+@145.0
+Attack from a position where the enemy cannot counter, and you save your endurance.
+
+@146.0
+Motonari. If the worst comes, put the unity of the house first of all.
+
+@147.0
+Lord Motonari!
+
+@148.1
+Lord Okimoto's condition has taken a sudden turn.
+
+@148.2
+What!
+
+@148.3
+Please go to his residence at once!
+
+@148.4
+Understood. I will come directly.
+
+@148.5
+I shall go ahead. Lord Motonari, please hurry too.
+
+@149
+Go to Mōri Okimoto's Residence
+
+@150.0
+All we can do now is wait for Lord Okimoto to recover.
+
+@151.0
+This is no time to be here. Hurry to Lord Okimoto's residence.
+
+@152.0
+I pray for your good fortune in battle, Motonari.
+
+@153
+Luck rose by 5
+
+@154.0
+Above all, we must avoid strife within the house.
+
+@155.0
+The rightful next head is Kōmatsumaru. And a guardian need not be only one person.
+
+@155.1
+Think on that, and the path to take should become clear.
+
+@155.2
+...Yes, you are right.
+
+@157.0
+I called you here for one reason: the next head of the Mōri house.
+
+@157.1
+...............
+
+@157.2
+The new head will be Kōmatsumaru. Mototsuna and I will serve as guardians and support the young Kōmatsumaru.
+
+@157.3
+...!
+
+@157.4
+Wait! This is not something Lord Motonari can decide on his own...
+
+@157.5
+This is my late brother's will. Does anyone object?
+
+@158.0
+Gh...!
+
+@159.0
+Fools...!
+
+@160.0
+Lord Motonari! A grave matter!
+
+@161.0
+Ah, Iida. And this soldier is?
+
+@161.1
+Forgive my sudden intrusion. I come as a messenger from Oda Nobutada, lord of Arita Castle.
+
+@161.2
+What, Arita Castle?! Surely not...!
+
+@161.3
+It is just so. The Takeda forces have attacked Arita Castle. Reinforcements, quickly.
+
+@161.4
+Absurd! We cannot send reinforcements at a time like this!
+
+@161.5
+No, if Arita Castle falls, Kōriyama is left bare. We must send reinforcements.
+
+@161.6
+If Arita Castle falls, Kōriyama will indeed be isolated.
+
+@161.7
+Our forces alone could not hold.
+
+@161.8
+Then the best course is to join with the Arita garrison now and face the enemy together.
+
+@161.9
+But who, then, will take command?
+
+@161.10
+Lord Motonari, of course!
+
+@161.11
+You would entrust this crucial battle to Lord Motonari, who has yet to fight one?!
+
+@161.12
+Preposterous!
+
+@162.0
+Brother, I will try to persuade them somehow. Go ahead and march out.
+
+@162.1
+Yes, I count on you.
+
+@162.2
+I will surely bring reinforcements.
+
+@163.0
+Very well, everyone, prepare to march! Let us show the realm that the Mōri have a sense of honour!
+
+@164
+Talk to Shiji Hiroyoshi, then march out
+
+@165.0
+What should I do? The house is now split three ways.
+
+@165.1
+Times like this are when we are most fragile. We must make a sound decision, and as soon as possible.
+
+@167.0
+Uncle, what should I do?
+
+@167.1
+For now, comfort your mother.\n\nYou are all she has to lean on.
+
+@168.0
+That Father has died... I still cannot believe it.
+
+@169.0
+Am I to march out too?
+
+@170.0
+Lady Fuji, do not overtax yourself.
+
+@171.0
+...............
+
+@171.1
+I understand how you feel.
+
+@171.2
+I had steeled myself for it. But when it actually happens...
+
+@172.0
+Please look after Kōmatsumaru.
+
+@173.0
+This is the armour Lord Okimoto wore in his first battle. Please use it.
+
+@174.0
+Please look after Kōmatsumaru.
+
+@175.0
+Still, the Amago, at a time like this.
+
+@176.0
+Experience matters on the battlefield. I hope Lord Motonari gets his first battle soon.
+
+@177.0
+Forgive me, Lord Motonari, but I will keep backing Mototsuna.
+
+@178.0
+We still need Mototsuna, who has experience, to take command.
+
+@179.0
+If the Amago attack now, who will take command, I wonder?
+
+@180.0
+What the Mōri house needs now is Mototsuna's valour.
+
+@181.0
+Depending on events, we may have to abandon the Ōuchi and side with the Amago.
+
+@182.0
+If the Amago attack us now, we will not get off lightly.
+
+@183.0
+Above all, war is about experience. Someone who has not passed through the fire cannot command.
+
+@184.0
+My arm is hurt and I cannot work. How am I to live from now on...
+
+@185.0
+Ah... what trouble...
+
+@186.0
+Are you Numata Hachibei? I hear you are a skilled spear smith...
+
+@186.1
+Indeed, I am a spear smith.
+
+@186.2
+As I thought. Then will you lend me your strength?
+
+@186.3
+I am sorry, but...
+
+@186.4
+What is wrong?
+
+@186.5
+I hurt my arm the other day, and I cannot work now.
+
+@186.6
+If fate brings us together again, we shall meet.
+
+@187.0
+Did you get back what you lost?
+
+@187.1
+Y-yes, thank you. A townsman brought it here a while ago.
+
+@187.2
+If it is important, be careful with it.
+
+@187.3
+Yes.
+
+@188.0
+I found this box at the market. It is yours, is it not?
+
+@188.1
+Ah! Indeed, it holds my precious tools of trade.
+
+@188.2
+If it is precious, be careful with it.
+
+@188.3
+Thank you for going to the trouble.
+
+@188.5
+Ah, please wait.
+
+@188.6
+Is there something more?
+
+@189.0
+I am an armourer. That we met here must be fate.
+
+@189.1
+From now on, I would like to be of use to you, Lord Motonari.
+
+@190
+Hire him\nNot now
+
+@191.0
+I see. Then I look forward to working with you.
+
+@192.0
+Then we shall meet again.
+
+@193.0
+I am sorry, but let us do so another time.
+
+@193.1
+I see... Then, until next time.
+
+@194.0
+Huh? My luggage is gone...?
+
+@195.0
+I am Ōkura Shinnoshin, a swordsmith.
+
+@195.1
+A swordsmith...
+
+@195.2
+I am confident in my skill. I would very much like to serve under Lord Motonari.
+
+@196
+Hire him\nNot now
+
+@197.0
+Then I count on you.
+
+@198.0
+Then we shall meet again at the workshop.
+
+@198.1
+Understood.
+
+@199.0
+I am sorry, but let us do so another time.
+
+@199.1
+I see...
+
+@200.0
+Is it true that Ōkura Shinnoshin the swordsmith has joined you, Lord Motonari?
+
+@200.1
+Yes, I met him at the tavern here.
+
+@200.2
+Then I too, as a ninja-gear maker, would like to join you.
+
+@200.3
+What do you mean?
+
+@200.4
+I am indebted to Lord Ōkura.
+
+@200.5
+My skill as a ninja-gear maker was taught to me by Lord Ōkura...
+
+@200.6
+I feel a great debt of gratitude to him.
+
+@200.8
+Please let me be of service to you too.
+
+@200.9
+You are confident in your skill, I trust?
+
+@200.10
+I will not do anything to shame Lord Ōkura.
+
+@201
+Hire him\nNot now
+
+@202.0
+Then I count on you.
+
+@202.1
+Leave it to me.
+
+@203.0
+Then we shall meet again at the workshop.
+
+@203.1
+Understood. Now, excuse me.
+
+@204.0
+I am sorry, but I will pass this time.
+
+@204.1
+I see...
+
+@205.0
+This is the storehouse.
+
+@206.0
+This is the workshop.
+
+@207.0
+The child over there seems to have been waiting for you, Lord Motonari, for a while now...
+
+@208.0
+I must not lose to him, either.
+
+@209.0
+Please save Arita Castle!
+
+@210.0
+The storehouse can keep up to 99 of each kind of item.
+
+@211.0
+Artisans can make items from materials.
+
+@212.0
+Lord Motonari, you don't drink much sake, do you?
+
+@213.0
+Lord Motonari, I have obtained materials.
+
+@214.0
+To make good items, you need good materials.
+
+@215.0
+Lord Motonari, please bring us skilled artisans.
+
+@216.0
+I don't put any faith in fortune slips.
+
+@217.0
+If only I had materials, I could have an artisan make me something.
+
+@218.0
+What on earth happened?
+
+@219.0
+If only I had materials, I could have an artisan make me something.
+
+@220.0
+Put on armour, and your defence gets a lot tougher, I tell you.
+
+@221.0
+What on earth happened?
+
+@222.0
+Put on armour, and your defence gets a lot tougher, I tell you.
+
+@223.0
+This province is small. It would be no surprise if we were destroyed at any moment.
+
+@224.0
+Lady Aiō just went into Lord Okimoto's residence. What on earth is going on?
+
+@225.0
+This province is small. It would be no surprise if we were destroyed at any moment.
+
+@226.0
+Lovely weather.
+
+@227.0
+There's a commotion at Lord Okimoto's residence. Has something happened?
+
+@228.0
+Lovely weather.
+
+@229.0
+Why, Lord Motonari. Are you looking for something?
+
+@230.0
+Ah...
+
+@230.2
+Someone is running this way.
+
+@232.0
+That was dangerous! Watch where you walk!
+
+@233.0
+Forgive me, I am being chased. Please hide me.
+
+@233.1
+What?!
+
+@234.0
+...?
+
+@235.0
+Lord Motonari, did a suspicious man run through here just now?
+
+@235.1
+A suspicious man?
+
+@235.2
+Yes, we heard word that a suspicious man had slipped into Kōriyama...
+
+@235.3
+He may be one of the Amago's men.
+
+@236
+Hand him over\nHide him
+
+@237.0
+That man? He is hiding right there.
+
+@238.0
+I asked you to help me... Damn you!
+
+@238.1
+So he was here after all! You cannot run now.
+
+@239.0
+Thank you for your cooperation.
+
+@239.1
+All right, come here!
+
+@240.0
+That man ran off over that way.
+
+@240.1
+That way? Thank you, my lord.
+
+@240.2
+All right, that way! Hurry!
+
+@240.3
+Thank you. Now, we must go.
+
+@241.0
+...............
+
+@241.1
+You may come out now.
+
+@242.0
+You saved me from a close call. I cannot find words to thank you.
+
+@242.1
+What is this about? Explain.
+
+@242.2
+I am a bowyer in the service of the Amago...
+
+@242.3
+What! The Amago?!
+
+@242.4
+I was forced into harsh labour for meagre pay.
+
+@242.5
+How terrible...
+
+@242.6
+I have no attachment to the Amago anymore.
+
+@242.7
+Would you take me into the Mōri army?
+
+@242.8
+This story is no lie, is it?
+
+@242.9
+No, my lord. I beg you.
+
+@244.0
+Thank you. Now, I will take my leave.
+
+@245.0
+I am sorry, but I cannot take you on now.
+
+@245.1
+I see...
+
+@246.0
+The sake here is the finest.
+
+@247.0
+Lord Motonari, what will you do if the Shishido attack?
+
+@248
+Tell him\nDo not tell
+
+@249.0
+Do not worry. I have already taken measures.
+
+@249.1
+Is that so... Then I feel reassured.
+
+@250.0
+!
+
+@250.1
+Th-this is...
+
+@250.2
+I must inform my lord...
+
+@251.0
+Let us not speak of this in such a place.\n\nWe cannot know whose ears might hear.
+
+@251.1
+Indeed, my lord.
+
+@251.2
+Tsk!
+
+@252.0
+Have you come for a drink too, Lord Motonari?
+
+@253.0
+When one's luck is bad, does everything go wrong, whatever one does...
+
+@254.0
+Lord Motonari, are you shopping for something?
+
+@255.0
+Lord Motonari, I just picked up a strange box over there...
+
+@255.1
+Let me see it... Hmm... Let us open it for now.
+
+@255.2
+Is it all right to open it?
+
+@255.3
+We may learn who the owner is.
+
+@255.4
+That is true.
+
+@255.5
+The name "Kunigawara Nagataka" is written on the inside of the lid.
+
+@255.6
+So it is. He should be at the tavern about now.
+
+@255.7
+I will take it to him.
+
+@256
+Have it delivered\nDeliver it myself
+
+@257.0
+Then I will be on my way.
+
+@258.0
+No, I will go.
+
+@258.1
+No, I could not trouble you, Lord Motonari...
+
+@258.2
+It is no trouble. I was going to stop by the tavern anyway.
+
+@258.3
+I see... Then I am sorry to put you out. Thank you.
+
+@259.0
+My elder brother's name is Heizō. He turns up at the tavern now and then. Please, I ask this of you.
+
+@260.0
+Did you meet Heizō?
+
+@260.1
+Yes, I gave him the message. He should have set out for here. Has he not returned yet?
+
+@260.2
+Is that so... Where is he wandering off to, I wonder...
+
+@261.0
+My father is gravely ill and suffering.
+
+@261.1
+Lord Motonari, I have a favour to ask.
+
+@261.2
+What is it? Speak.
+
+@261.3
+We have an eldest son, but he does no proper work and just hangs around the tavern from daytime on.
+
+@261.4
+That is not very commendable.
+
+@261.5
+The other day he had a terrible quarrel with Father, stormed out of the house, and has not come back.
+
+@261.7
+And now Father is in this state, as you see.\n\nI want you to tell my brother to come home.
+
+@261.8
+His name is Heizō. He turns up at the tavern now and then.
+
+@261.9
+His name is Heizō, and he is at the tavern. Understood.
+
+@262.0
+They say warrior monks have all kinds of special skills.
+
+@263.0
+For us farmers, drinking at the tavern is a pleasure we would not trade for anything.
+
+@264.0
+Ah, I'm tired today... I ease the weariness with sake.
+
+@265.0
+Hand over your items and I will keep them safe, on my responsibility.
+
+@266.0
+In the end, luck is all in how you take it.
+
+@267.0
+Lord Motonari, how about drawing a fortune slip to pray for victory in battle?
+
+@268
+Draw\nDon't draw
+
+@269.0
+Come again any time.
+
+@270.0
+Then draw just one from either the right or left box.
+
+@271
+Right box\nLeft box
+
+@272.0
+Great fortune! Congratulations.
+
+@273
+Luck rose by 2
+
+@274.0
+Misfortune... Do not take it to heart.
+
+@275
+Luck fell by 1
+
+@276.0
+Great misfortune. But it is only a fortune slip after all. There is no need to despair.
+
+@277
+Luck fell by 2
+
+@278.0
+Good fortune... Well, perhaps this is just about right.
+
+@279
+Luck rose by 1
+
+@280.0
+Numata Hachibei is a spear smith with a reputation for great skill. Please take him into your service.
+
+@281.0
+This is the training ground, a place to hone one's skills.
+
+@282.0
+Even among artisans, swords go to swordsmiths, spears to spear smiths, bows to bowyers...
+
+@282.1
+and muskets to gunsmiths. It differs by what is made.
+
+@283.0
+By talking with many people, townsfolk and farmers alike, you may gain unexpected information.
+
+@284.0
+Someday I will go to war and prove useful to you, Lord Motonari!
+
+@285.0
+Lord Motonari, please let me accompany you to battle.
+
+@285.1
+But you are too young.
+
+@285.2
+No, I am still green, but I will surely be of use!
+
+@285.3
+No! There is no need to rush. Your chance will surely come someday.
+
+@285.4
+...............
+
+@285.5
+For now, devote yourself to training.
+
+@286.0
+Pa will get better, won't he?
+
+@287.0
+I always play here.
+
+@288.0
+The floor boards only under your feet, Lord Motonari, look a different colour somehow.
+
+@289.0
+The floor boards...?
+
+@290
+Pulled up the floor boards
+
+@292
+Found hidden treasure under the floor
+
+@293
+Gained 100 gold
+
+@294.0
+There are things here that might serve as materials, too.
+
+@295.0
+Daddy...
+
+@296.0
+Lord Motonari, I found this. You can have it.
+
+@297.0
+I'll give you more if I find something again.
+
+@298.0
+Good day, Lord Motonari.
+
+@299.0
+...............
+
+@300.0
+This is the temple.
+
+@301.0
+When I obtain something again, I will bring it to you.
+
+@302.0
+Lord Motonari, I offer you some "Butsu Pills". Please make use of them.
+
+@303.0
+Please take this along as well.
+
+@305.0
+Lady Fuji is so dispirited that Lady Sugi seems terribly worried about her.
+
+@306.0
+I am Matsu, Lady Sugi's maid.
+
+@307.0
+Who will succeed Lord Okimoto, I wonder?
+
+@308.0
+Please do not overtax yourself.
+
+@309.0
+Lord Motonari, please do not worry Lady Sugi.
+
+@310.0
+I am Take, Lady Sugi's maid.
+
+@311.0
+If the enemy attacks now... will the Mōri house be all right?
+
+@312.0
+Please return safely.
+
+@313.0
+Poor Lady Fuji...
+
+@314.0
+Lord Motonari, please look after those two.
+
+@315.0
+Lord Motonari, this is the perfect place to polish one's skills.
+
+@316.0
+You still lack training, it seems.
+
+@316.1
+So I do. I am still green.
+
+@316.2
+Go to the training ground. You will improve a little.
+
+@316.3
+Understood. I will go at once.
+
+@317.0
+Have you seen a man named Heizō in this tavern?
+
+@317.1
+Ah, that bandit. He seemed to come by now and then, but he doesn't seem to be around lately.
+
+@318.0
+A bit of rest now and then is necessary.
+

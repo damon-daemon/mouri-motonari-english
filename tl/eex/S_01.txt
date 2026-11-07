@@ -1,0 +1,360 @@
+@0.0
+We take Kagamiyama Castle together with Lord Kikkawa! Follow me!
+
+@1.0
+Send for reinforcements at once!
+
+@2.0
+We go to relieve Kagamiyama Castle! With our forces, the Mōri are nothing!
+
+@3
+Siege of Kagamiyama Castle\nVictory\n  1. Kurata Fusanobu retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@4
+The allied Mōri and Kikkawa forces, siding with the Amago, began their siege of Kagamiyama Castle, held by the Ōuchi side's Kurata Fusanobu.\n\nIn response, the Ōuchi side sent Amano Okisada and Amano Takashige to back up Kagamiyama Castle.
+
+@5.0
+So that is Kagamiyama Castle...
+
+@5.1
+The castle is held by Kurata Fusanobu and his uncle Naonobu.\n\nBelow the castle are the armies of Amano Okisada and Takashige. The Kikkawa will soon engage the Amano.\n\nAlso, Andō Kagetsuna, who turned his back on the Ōuchi, is marching toward this main camp.
+
+@6.0
+We deliver provisions to the Amago main camp! Hurry!
+
+@6.1
+Do not let Andō Kagetsuna's unit escape!
+
+@6.2
+I will defend this Kagamiyama Castle without fail.\n\nNaonobu, I count on you!
+
+@6.3
+Yes, sir!
+
+@6.4
+I hear Mōri Motonari beat the fierce Takeda and Kumagai in his first battle. He is not an enemy to be careless with...
+
+@6.5
+We now attack the Kikkawa army. Men, advance!
+
+@6.6
+I will take Amano Okisada!
+
+@7.0
+Seki's report says Naonobu, the castle lord Fusanobu's uncle, tends to put his own gain first. If I promise him Fusanobu's lands for turning traitor, perhaps I can tempt him.
+
+@8
+Siege of Kagamiyama Castle\n\nVictory\n  1. Kurata Fusanobu retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass
+
+@9.0
+Everyone! Reinforcements have come as far as the mountain over there! They will arrive here soon!
+
+@10
+Morale rose among the soldiers in Kagamiyama Castle
+
+@11.0
+My lord! I see Ōuchi banners on the ridge of the southwest mountain! Every moment counts!
+
+@12.0
+Almost here! The reinforcements will arrive soon!
+
+@13
+Morale rose among the soldiers in Kagamiyama Castle
+
+@14.0
+My lord! The reinforcements seem to be the army of Sugi Shigenori, a senior Ōuchi retainer. With respect, our forces would be no match for them.
+
+@15.0
+I see! The Ōuchi reinforcements have reached Torikoyama! Everyone! Help is coming soon! Until then, we hold this castle!
+
+@16
+Morale rose among the soldiers in Kagamiyama Castle
+
+@17.0
+My lord, we must take Kagamiyama Castle before the enemy reinforcements arrive.
+
+@17.1
+Yes.
+
+@18.0
+My lord! A report says Ōuchi Yoshioki's reinforcements are heading this way!
+
+@18.1
+What!
+
+@18.2
+This battle is urgent!
+
+@19.0
+Kurata Fusanobu seems to be struggling.\n\nI will make short work of the Mōri forces for you!
+
+@19.1
+The reinforcements have arrived at last!
+
+@20.0
+Lord Motonari's reinforcements have crossed the river. We too begin our advance on Amano Okisada's unit!
+
+@20.1
+Kikkawa Mototsune has left his fort!\n\nWe advance too! We beat the Kikkawa and take the Amago main camp!
+
+@20.2
+So you have come at last... Mōri Motonari.
+
+@21.0
+Lord Motonari's reinforcements have arrived. We begin our advance on Amano Okisada's unit!
+
+@21.1
+Kikkawa Mototsune has left his fort!\n\nWe advance too! We beat the Kikkawa and take the Amago main camp!
+
+@21.2
+So you have come at last... Mōri Motonari.
+
+@22
+Enemy reinforcements under Sugi Shigenori arrived
+
+@23.0
+Kurata Fusanobu seems to be struggling.
+
+@23.1
+I will make short work of the Mōri forces for you!
+
+@23.2
+The Ōuchi reinforcements have arrived at last!
+
+@24.0
+Lord Motonari, we retreat.
+
+@25
+Found Materials in the village
+
+@26
+Found Materials in the village
+
+@27.0
+This is the village's savings. Please use it.
+
+@28
+Gained 200 gold
+
+@29.0
+And please take this too.
+
+@30
+Found Materials in the village
+
+@31
+Found Materials in the village
+
+@32.0
+This is the village's savings. Please use it.
+
+@33
+Gained 200 gold
+
+@34.0
+And please take this too.
+
+@35
+Found Materials in the village
+
+@36
+Found Materials in the village
+
+@37.0
+This is a book handed down in our town. Please use it.
+
+@38.0
+I am the swordsmith Hinase Kishū. Please let me work under Lord Motonari.
+
+@39
+Storeroom
+
+@40.0
+Look what was in the storeroom!
+
+@41
+Storeroom
+
+@42
+Got 200 gold!
+
+@43
+Storeroom
+
+@44.0
+Look what was in the storeroom!
+
+@45.0
+We have delivered the supplies to the main camp.
+
+@45.1
+With that, we take our leave.
+
+@46
+Andō Kagetsuna's unit retreated
+
+@47.0
+You are Mōri Motonari, I take it. I am Andō Kagetsuna, who turned from the Ōuchi. I came to deliver supplies to the main camp.
+
+@47.1
+Ah, well done.
+
+@47.2
+Amano cavalry were chasing us and we were in trouble.\n\nThank you for helping us.
+
+@47.3
+In return, I would like to join your retainers.
+
+@47.4
+Very well.
+
+@47.5
+I am most grateful.
+
+@48
+Andō Kagetsuna joined the party
+
+@49.0
+Are you Mōri Motonari?
+
+@49.1
+I am.\n\nLord Amago Tsunehisa's main army will arrive soon. Kagamiyama Castle's fate is sealed. Lord Amano Takashige, surrender while you can.
+
+@49.2
+I see...\n\nUnderstood. I will surrender to the Mōri.
+
+@50
+Amano Takashige joined the party
+
+@51.0
+A Mōri ninja!
+
+@51.1
+Lord Kurata Naonobu, I bring a letter from my master, Mōri Motonari.
+
+@51.2
+What! What, what...\n\nIf I turn to the Amago and withdraw my troops at once, then when the castle falls, he will confirm the lord Fusanobu's lands and give them to me...!
+
+@51.3
+...\n\nHeh, heh, heh...\n\nTell Lord Motonari I accept.
+
+@51.4
+Yes, sir!\n\n...Heh.
+
+@52
+Kurata Naonobu turned to the Amago and retreated
+
+@53.0
+What! Naonobu and his men have retreated!?\n\nDamn you, Naonobu! You betrayed me!
+
+@53.1
+Good, attack all at once!
+
+@53.2
+Ugh... Are Lord Ōuchi's reinforcements still not here...
+
+@54.0
+Lord Kurata Naonobu, Kagamiyama Castle has as good as fallen!
+
+@54.1
+What nonsense!
+
+@54.2
+If you turn to the Amago and withdraw your troops at once, then when the castle falls, I will confirm the lord Fusanobu's lands and give them to you.
+
+@54.3
+What!\n\nIs that true!?
+
+@54.4
+Yes. I give you my word.
+
+@54.5
+Heh, heh, heh...\n\nVery well. I will withdraw my troops.
+
+@54.6
+...Fool.
+
+@55
+Kurata Naonobu turned to the Amago and retreated
+
+@56.0
+What! Naonobu and his men have retreated!?\n\nDamn you, Naonobu! You betrayed me!
+
+@56.1
+Good, attack all at once!
+
+@56.2
+Ugh... Are Lord Ōuchi's reinforcements still not here...
+
+@57.0
+Lord Kurata, the fate of this castle is sealed. Surrender.
+
+@57.1
+...\n\nLord Motonari... Would you spare the lives of my wife, my children and the castle troops in exchange for my suicide?
+
+@57.2
+Lord Kurata...
+
+@57.3
+I beg you.
+
+@57.4
+...\n\nLord Kurata, I accept your offer.
+
+@57.5
+You do! Lord Motonari, I thank you!
+
+@58
+The castle lord Kurata Fusanobu surrendered, and Kagamiyama Castle fell.
+
+@59.0
+Damn! We were too late!\n\nThat Kurata, surrendering so easily!
+
+@59.1
+My lord, what shall we do? Shall we strike the Amago forces?
+
+@59.2
+No, we must not pursue too far. We retreat too!
+
+@59.3
+Yes, sir!
+
+@60
+Gained 500 gold
+
+@61.0
+We have taken the Amago main camp!
+
+@61.1
+D-damn!
+
+@62
+Our main camp was taken
+
+@63.0
+We have taken Kagamiyama Castle!
+
+@63.1
+Ugh... I could not hold the castle...\n\nHow bitter...
+
+@64
+Kagamiyama Castle has fallen
+
+@65.0
+Damn! We were too late!
+
+@65.1
+My lord, what shall we do? Shall we strike the Amago forces?
+
+@65.2
+No, we must not pursue too far. We retreat.
+
+@65.3
+Yes, sir!
+
+@66
+Gained 200 gold
+
+@67
+Andō Kagetsuna joined the party
+

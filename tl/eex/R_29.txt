@@ -1,0 +1,234 @@
+@0
+Final Episode "The Decisive Battle"
+
+@1
+The Coast of Owari
+
+@2
+Defeated by the Mōri at Gifu Castle, Ieyasu\nslipped out with a handful of men\nand made for Mikawa.\n\nBut on the retreat they met\nbands hunting fallen warriors.\nOne man was lost, then another...\nuntil at last only Ieyasu remained.\n\nWounded deeply and barely breathing,\nhe somehow reached the coast of Owari.
+
+@3.0
+I made it... as far as Owari...
+
+@4.0
+Ugh...
+
+@5.0
+I can... go no further...
+
+@6.0
+Argh!
+
+@7.0
+It seems... my last hour has come...
+
+@8.0
+This view... I know it...
+
+@9.0
+Ah... is this not the sea of that day...
+
+@10.0
+Wow! The sea! The sea!
+
+@11.0
+Is this your first time seeing the sea, Takechiyo?
+
+@12.0
+Yes, Father!
+
+@13.0
+Hooray!
+
+@13.1
+Do not go too far, now.
+
+@14.0
+Yes, Mother!
+
+@15.0
+Father... Mother...\n\n\nAh... those days...\n\n\nhow I miss them...
+
+@18
+Terumoto and the Mōri army, victors over\nthe Tokugawa at Gifu Castle,\nreturned to Kyōto...
+
+@19.0
+Has Ieyasu been found?
+
+@19.1
+No.\n\n\nBut we captured soldiers who fled with him. They say Ieyasu was set upon by hunters of fallen warriors on the road and is badly wounded. He will be found soon.
+
+@19.3
+My lord. Hōjō Ujimasa of Sagami, Uesugi Kagekatsu of Echigo, Chōsokabe Motochika of Tosa and Shimazu Yoshihisa of Satsuma have all sent letters pledging loyalty to the Mōri.
+
+@19.4
+Once the court appoints you shōgun, my lord, you will be the ruler of the realm in name and in fact.
+
+@19.5
+But our old foe Ōtomo Sōrin still holds great power in Kyūshū. We must not be careless.
+
+@19.6
+Oh, there is no need for us to move against the Ōtomo. Leave them to the Shimazu.
+
+@19.7
+No. Ōtomo Sōrin gave Lord Motonari and my father Takamoto such trouble. I want to face him myself...
+
+@20.0
+Very well. We return to Kōriyama now, then march at once on Bungo and strike down our old foe, the Ōtomo!
+
+@20.1
+Shidō Hirotada and Kodama Motoyoshi, stay here and guard Kyōto.
+
+@21.1
+Kodama Narikata and Kunishi Mototake, go into Settsu and watch the powers of the Kinai.
+
+@22.0
+Understood!
+
+@22.1
+Ekei, I appoint you our envoy to the court.
+
+@23.0
+Yes, my lord. Understood.
+
+@23.1
+The rest of you, prepare to return home!
+
+@25.0
+You have grown into a fine man, Lord Terumoto.
+
+@25.1
+The late Lord Motonari and your father, my brother Takamoto, would surely be glad to see you now.
+
+@25.2
+No, Uncle.\n\n\nI am what I am thanks to my two uncles, the two Kawa, Motoharu and Takakage, and to our many retainers.
+
+@25.3
+I thank you from my heart, Uncle Motoharu and Uncle Takakage.
+
+@26.0
+Lord Terumoto!
+
+@27.0
+Ah, Uncle Motoharu! Is your wound all right now?
+
+@28.0
+As you see, it has healed completely!
+
+@28.1
+Lord Terumoto...
+
+@28.2
+There is someone I very much want you to meet.
+
+@28.4
+Come in!
+
+@30.0
+...\n\n\nH-Hotaru?
+
+@31.2
+Brother, I think we had better leave them.
+
+@31.3
+Ah, yes. So we should.
+
+@32.0
+...Hotaru.
+
+@33.0
+Hotaru.\n\n\nYou are beautiful...
+
+@33.2
+Come, let us go back to Kōriyama and hold our wedding.
+
+@33.3
+Is someone like me truly acceptable?
+
+@33.4
+Of course. You are the daughter of Seki Masakiyo, a loyal retainer of the Mōri. No one will object.
+
+@34
+What became of the Mōri after reaching Kyōto,\nwhat became of the army sent to Bungo,\nand what became of Terumoto and Hotaru...\n\nthat is another story...
+
+@35.0
+\nMōri Motonari\nThe Oath of the Three Arrows\n
+
+@36.0
+\nSTAFF\n
+
+@37.0
+General Producer\n\n\nEiji Fukuzawa
+
+@38.0
+Producer\n\n\nA.Goto
+
+@39.0
+Director\n\n\nH.Shono
+
+@40.0
+CG Director\n\n\nHiroshi Satou\n\nHaruhiko Kikkawa
+
+@41.0
+Sound Director and Composer\n\n\nKaori Nakabai
+
+@42.0
+Programmer\n\n\nHatake Urano
+
+@43.0
+Character Design\n\n\nHitoshi Natsume
+
+@44.0
+CG Designer\n\n\nMiho Tanaka\n\nMaki Sekiguchi
+
+@45.0
+CG Designer\n\n\nKiyoto\n\nKazunori Hashimoto
+
+@46.0
+CG Designer\n\n\nTakafumi Kiyota\n\nHirotaka Ozeki\n\nT.Kasuga
+
+@47.0
+Movie Editor\n\n\nHiroshi Shoji\n\nAtsushi Saito
+
+@48.0
+Composer and Arranger\n\n\nMasumi Itoh
+
+@49.0
+Sound Effect\n\n\nKenji Nakajo
+
+@50.0
+Sound Programmer\n\n\nKoichi Namiki(SPARKS)
+
+@51.0
+SoftwareManual Editor\n\n\nKyoko Shimomura
+
+@52.0
+Voice\n\n\nHideyuki Tanaka\n\nShinobu Satouchi\n\nAtsushi Kisaichi
+
+@53.0
+Voice\n\n\nKazuya Nakai\n\nKenji Nojima\n\nRika Komatsu
+
+@54.0
+Voice\n\n\nMisa Nakanishi\n\nYoshiyuki Kohno\n\nKenichi Morozumi
+
+@55.0
+Special Thanks\n\n\nNobuhiro Kunishima\n\nEiji Fujii\n\nJec.E
+
+@56.0
+Special Thanks\n\n\nTakeshi Shirato\n\nHideki Takayama\n\nAki Tsunaki
+
+@57.0
+Special Thanks\n\n\nDEEN\n\nVISUAL ARTS PRODUCTION\n\nLOFT\n\nST PLANNING
+
+@58.0
+Special Thanks\n\n\nSPARKS
+
+@59.0
+\nTHANKS FOR PLAYING\n
+
+@60.0
+\nMōri Motonari\nThe Oath of the Three Arrows\n
+
+@61.0
+\nTHANKS FOR PLAYING\n
+

@@ -1,0 +1,120 @@
+@0.0
+We attack Ōzu Castle now!
+
+@1
+Battle of Ōzu Castle\nVictory\n  1. Utsunomiya Toyotsuna retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@2.0
+Curse that Kōno Michinao! Siding with the Mōri...\n\nYuzuki Castle was within our grasp, and now the tables have turned. Lord Saionji, I count on you to crush the Mōri!
+
+@2.1
+My ally is faint-hearted...\n\nThe Mōri seem to have the greater force. Perhaps we should break through the enemy and strike their main camp...
+
+@2.2
+Reinforcements from the southeast?
+
+@2.3
+Utsunomiya Toyotsuna holds Ōzu Castle. The force southeast of us is led by Saionji Kinhiro, an Iyo local lord.
+
+@2.4
+What worries me are the pirates in the west. There is no telling when they will move.
+
+@2.5
+I see. I understand the situation.\n\nWe now attack Utsunomiya Toyotsuna, lord of Ōzu Castle. Sally forth!
+
+@3.0
+Hm! I hear a mournful flute!
+
+@4.0
+Where is that flute coming from...
+
+@5
+Battle of Ōzu Castle\n\nVictory\n  1. Utsunomiya Toyotsuna retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@6.0
+The flute again!
+
+@7.0
+Damn it, keep quiet!
+
+@8
+Thud! Smack!
+
+@9.0
+Ugh...
+
+@9.1
+It seems to come from the island farthest south.
+
+@10.0
+Hm! I hear it again...
+
+@11.0
+It seems to come from a small island to the west.
+
+@12
+Ōtomo Yoshimune's reinforcements arrived
+
+@13.0
+I cannot let Utsunomiya Toyotsuna of Ōzu die. Ōtomo Yoshimune has come to his aid!
+
+@13.1
+Ah, Lord Yoshimune! My thanks, my thanks.
+
+@13.2
+I have brought the latest guns and cannon. We will scatter the Mōri army!
+
+@14.0
+Damn them! Tell the pirates offshore to move! Beat the Mōri and the reward is theirs to name!
+
+@14.1
+Tch! Orders only when it suits you. Still, the reward is tempting. Let's go, lads!
+
+@14.2
+The pirates offshore have moved. Should I send Nomi against them...?
+
+@15.0
+There is no profit in fighting on. Withdraw!
+
+@16.0
+As expected of Motonari, strong despite his years. We shall withdraw here.
+
+@17.0
+Curse you! Curse you, Motonari! Curse you, Michinao!
+
+@24.0
+I am Hazama Motokage, an armourer. Please let me join your company.
+
+@33
+A young man was held captive in the village
+
+@34.0
+I am Tsuchiya Yūken, a travelling performer. On my way to Harima by ship, the pirates in these waters attacked it and I was taken prisoner.\n\nThank you for rescuing me.
+
+@35
+Tsuchiya Yūken joined the party
+
+@36.0
+Motonari, would you break the truce?!\n\nWhy lend your strength to the likes of Kōno?!
+
+@36.1
+And why do you lend yours to Utsunomiya?
+
+@36.2
+Silence!
+
+@37.0
+Lord Motonari. This is a battlefield, and we stand on opposite sides. I shall show no restraint.
+
+@37.1
+(A noble house since the Kamakura age. Graceful even on a battlefield.)
+
+@38.0
+Curse you, Mōri Motonari! This is a matter within Iyo. Do not meddle!
+
+@38.1
+I cannot. I cannot overlook this war. Least of all with the Ōtomo moving behind the scenes.
+
+@41.0
+That is the end of it. The wars of Iyo should now subside.
+

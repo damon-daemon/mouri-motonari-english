@@ -1,0 +1,878 @@
+@0
+An early work by a swordsmith.\nHardly any power.
+
+@1
+An early work by a spear\nsmith. Hardly any power.
+
+@2
+A plain, sound make. Widely\nsold in the markets.
+
+@3
+Both effective and beautiful.\nCuts as well as it looks.
+
+@4
+Broad blade: better at blows than cuts.
+
+@5
+Slim blade: better at\nthrusts than cuts.
+
+@6
+Tantō after Kunimitsu. A\nwell-balanced blade.
+
+@7
+Tantō after Yoshimitsu, swordsmith and\nbowyer. Light and easy to use.
+
+@8
+Tantō after the master Masamune.\nSharp and beautiful.
+
+@9
+Wakizashi after Magobei.\nLight and easy to use.
+
+@10
+Wakizashi after Yoshimitsu, swordsmith\nand bowyer. Well balanced.
+
+@11
+Wakizashi after Muneshige.\nA keen blade.
+
+@12
+Kodachi after Muneshige.\nLight and easy to use.
+
+@13
+Kodachi after the master\nMasamune. Sharp and beautiful.
+
+@14
+Kodachi after Kunimitsu. A\nwell-balanced work.
+
+@15
+Deep curve, edged on half its length.\nVery light. Kunimitsu's finest.
+
+@16
+Beautiful temper line, light to wield.\nAfter Magobei's masterwork.
+
+@17
+A wakizashi that outdoes a tachi.\nYoshimitsu's secret art lives on.
+
+@18
+A kodachi with a mirror-bright blade.\nMuneshige's secret art revived.
+
+@19
+Unsigned and rusted, like scrap\niron. Useless as it is...
+
+@20
+A straight, uncurved blade,\nmostly used for iai.
+
+@21
+A stout, imposing tachi. Its\nfuller keeps it light.
+
+@22
+Billowing wave temper line.\nFairly powerful.
+
+@23
+A curve added to a straight hidden\nblade. Sharper for it.
+
+@24
+Tachi after Osafune. Magnificent form.
+
+@25
+A slim, beautiful tachi. Light,\neasy to use and powerful.
+
+@26
+A blade engraved with a line\nfrom a war text.
+
+@27
+After Yoshimitsu's late work.\nUnfinished, yet very powerful.
+
+@28
+A mighty blade reforged from Denta.\nPowerful and balanced.
+
+@29
+A nagatachi as long as a spear.\nPowerful but unwieldy.
+
+@30
+Carries on the art of the master\nMasamune. Powerful and beautiful.
+
+@31
+Masamune's finest. Renamed Muramasa\nto ward off its sinister edge.
+
+@32
+A cursed blade of terrible power. Its\nsteel is said to be always wet...
+
+@33
+As light as a tantō. Maker unknown,\nbut in Yoshimitsu's style.
+
+@34
+A spear with a tube on the haft,\nextendable. Also good up close.
+
+@35
+A kuda-yari with a\nstronger, smoother haft.
+
+@36
+A short spear with a huge head.
+
+@37
+A naginata with a reinforced haft.
+
+@38
+A nagamaki with a reinforced haft.
+
+@39
+Kunimitsu's secret naginata. Seems\nunfinished going by the manual.
+
+@40
+Magobei's secret nagamaki. Seems\nunfinished going by the manual.
+
+@41
+Kuda-yari of its founder Itō Suketada.\nThe kuda-yari at its peak.
+
+@42
+A cross-bladed spear with a\nginkgo-leaf head.
+
+@43
+A plain spear with a blade-shaped head.
+
+@44
+A long-hafted spear with a big\nshort-spear head.
+
+@45
+A spear with a bamboo-leaf head.
+
+@46
+A spear with a sickle on one side of\nthe head. Ginkgo-leaf head.
+
+@47
+A spear with sickles on both\nsides, curving upward.
+
+@48
+A development of the Tsukushi-yari.\nBuilt for thrusting; stronger haft.
+
+@49
+Hōzōin school spear with\ncrescent-shaped sickles.
+
+@50
+Long spear after Osafune. Mass-\nproduced yet powerful.
+
+@51
+Long spear after Muneshige. Mass-\nproduced yet powerful.
+
+@52
+The finest bamboo-leaf spear. Said to\ncut a dragonfly landing on its tip.
+
+@53
+The finest flat triangular-head\nspear. A refined great spear.
+
+@54
+Kunimitsu's secret art. Light\nnaginata with a hollow haft.
+
+@55
+Magobei's secret art. Said to be\nlong enough to cut the moon.
+
+@56
+A small wooden bow. Weak\ntension and power.
+
+@57
+A small bamboo bow. Too\nsmall for much power.
+
+@58
+A small bamboo bow bound with rattan.
+
+@59
+An improved small wooden\nbow. Still weak.
+
+@60
+The standard bamboo bow. Basis\nof many upgrades.
+
+@61
+A bamboo bow wrapped in\nrattan and lacquered.
+
+@62
+A bigger, stronger wooden\nbow. Fairly powerful.
+
+@63
+Three-ply bamboo bow wrapped in\nrattan, with black lacquer.
+
+@64
+A bamboo bow reinforced with four-\nyear bamboo. Unstable.
+
+@65
+Two-ply bamboo bow braced with three-\nyear bamboo on both sides.
+
+@66
+Three-ply bow with more three-year\nbamboo. Strong and very stable.
+
+@67
+A bamboo bow with green bamboo,\nenlarged. Peak material strength.
+
+@68
+A great bamboo bow wrapped in\nrattan, with red lacquer.
+
+@69
+A bow with a trigger to draw the\nstring. Powerful, heavy and inaccurate.
+
+@70
+An improved four-part bow\nwith more spring.
+
+@71
+An upgraded crossbow. More power,\nbut inaccurate and heavy.
+
+@72
+A Chinese crossbow. As strong as the\nBig Crossbow, but with longer range.
+
+@73
+A Western-style crossbow. Powerful,\nbut inaccurate and heavy.
+
+@74
+A log bow squared off and wrapped in\nbamboo. Springy and powerful.
+
+@75
+Yoshimitsu's masterpiece as a\nbowyer. Excellent in every way.
+
+@76
+A repeating continental crossbow.\nPowerful, but inaccurate and heavy.
+
+@77
+A repeating Namban crossbow. Great\nrange and power, but inaccurate, heavy.
+
+@78
+A copy of Nasu no Yoichi's bow.\nLight and accurate.
+
+@79
+A copy of Minamoto no Yoshiie's bow.\nExcellent power and range.
+
+@80
+Said to be Xiang Yu's bow.\nIncredible power, but very heavy.
+
+@81
+A high-performance Nasu's Bow.\nVery easy to handle.
+
+@82
+A muzzle-loading matchlock rifle, made\nin Japan after the Tanegashima gun.
+
+@83
+A copy of the gun brought by\nthe Portuguese.
+
+@84
+Shorter oak stock to suit Japanese\narmour. Can be fired from the cheek.
+
+@85
+Home-made gun from Sakai in\nSenshū. Built for accuracy.
+
+@86
+Home-made gun from Kunitomo in Ōmi.\nSuccessfully lightened.
+
+@87
+Home-made gun by the Saika\nband. Built for power.
+
+@88
+A pistol. Low power, but\nlight and easy to use.
+
+@89
+Better powder and a sturdier barrel.
+
+@90
+A pistol for use on horseback.\nShort range but accurate.
+
+@91
+A long-range matchlock. Fired\nfrom the shoulder.
+
+@92
+Several barrels bundled together.\nRotates after each shot.
+
+@93
+Six barrels bundled. A short gun to\nsave weight, but still heavy.
+
+@94
+A bronze cannon. Lacks both\naccuracy and power.
+
+@95
+A bigger bronze cannon, but\npower is lacking.
+
+@96
+Home-made iron cannon from\nKunitomo in Ōmi. Accurate.
+
+@97
+Home-made iron cannon from Sakai in\nSenshū. Far stronger than bronze.
+
+@98
+Fires a 4-kan shot. Long\nrange and wide damage.
+
+@99
+The pinnacle of home-made cannons. Uses\nKunitomo and Sakai techniques.
+
+@100
+A Western cannon. Powerful and\naccurate. Shows Western skill.
+
+@101
+A cannon of tremendous power.\nDamages a very wide area.
+
+@102
+A sword with various hidden devices.
+
+@103
+A hand-thrown dart. Little range or\npower, but very light.
+
+@104
+A hooked claw on an iron chain.\nSwung to attack. Low power.
+
+@105
+A cross-shaped shuriken. Very\naccurate, but useless up close.
+
+@106
+A tantō-shaped shuriken. Good up\nclose, but inaccurate.
+
+@107
+A round pot of powder with\npebbles. Thrown to burst.
+
+@108
+A weight and sickle on an iron\nchain. Powerful at a distance.
+
+@109
+Shuriken of the type Iga ninja use.\nEqually powerful? Unclear.
+
+@110
+Shuriken of the type Kōga ninja use.\nEqually powerful? Unclear.
+
+@111
+Improved Flying Claw. Long, sharp\nclaws cause deep wounds.
+
+@112
+Improved dart, thicker and heavier.\nThe chain pulls it back.
+
+@113
+Kōga secret explosive. Strong\npowder packed with shot.
+
+@114
+Iga secret close/long-range weapon.\nThe best ninja melee weapon.
+
+@115
+Kōga secret art. Works as a flash\nbomb as well as an explosive.
+
+@116
+Iga secret art. The most perfected\nshuriken. Accurate and powerful.
+
+@117
+Simple armour of joined iron\nplates. Raises defence.
+
+@118
+Dōmaru with reinforced plates,\nsturdier. Raises defence.
+
+@119
+A dōmaru made from a single iron\nplate. Raises defence.
+
+@120
+Hotoke dōmaru improved to deflect\nbullets and spears. Raises defence.
+
+@121
+Dōmaru with gauntlets and leg guards,\nfull set. Raises defence.
+
+@122
+Gusoku reinforced with a helmet, a full\ngreat armour. Raises defence greatly.
+
+@123
+A book that raises an\nofficer's intellect.
+
+@124
+A charm that raises an officer's luck.
+
+@125
+A shield that raises a\nunit's endurance.
+
+@126
+A statue that raises an\nofficer's skill points.
+
+@127
+Used for class-up. Lv 20+ Local\nLord becomes Daimyō.
+
+@128
+Used for class-up. Lv 20+ Spearmen\nbecome Spear Gen.
+
+@129
+Used for class-up. Lv 20+ Archers\nbecome Bow Gen.
+
+@130
+Used for class-up. Lv 20+ Cavalry\nbecome Cavalry Gen.
+
+@131
+Used for class-up. Lv 20+ Bow Cavalry\nbecome Bow Cav. Gen.
+
+@132
+Used for class-up. Lv 20+ Gunners\nbecome Gun Gen.
+
+@133
+Used for class-up. Lv 20+ Cannons\nbecome Cannon Gen.
+
+@134
+Used for class-up. Lv 20+\nSwordsman becomes Sword Master.
+
+@135
+Used for class-up. Lv 20+\nGenin becomes Jōnin.
+
+@136
+Used for class-up. Lv 20+ Kunoichi\nbecomes Kunoichi Chief.
+
+@137
+Used for class-up. Lv 20+\nInspector becomes Tactician.
+
+@138
+Used for class-up. Lv 20+ Bandits\nbecome Noble Thieves.
+
+@139
+Used for class-up. Lv 20+ Pirates\nbecome Pirate Chief.
+
+@140
+Used for class-up. Lv 20+ Warrior\nMonks become Yamabushi.
+
+@141
+Used for class-up. Lv 20+ Light\nSupply becomes Heavy Supply.
+
+@142
+Used for class-up. Lv 20+ Drum\nCorps becomes War Band.
+
+@143
+A horse that raises a unit's movement.
+
+@144
+A copied text that\nincreases Exp gained.
+
+@145
+Beans that restore a little of\nyour unit's endurance.
+
+@146
+Barley that restores some of\nyour unit's endurance.
+
+@147
+Rice that restores much of\nyour unit's endurance.
+
+@148
+Meat that fully restores your\nunit's endurance.
+
+@149
+A scroll that restores a little\nendurance to several units.
+
+@150
+A scroll that restores some\nendurance to several units.
+
+@151
+A scroll that restores much\nendurance to several units.
+
+@152
+A scroll that fully restores\nendurance to several units.
+
+@153
+A book that restores a little\nendurance to several units.
+
+@154
+A book that restores much\nendurance to several units.
+
+@155
+Medicine that restores some of\nyour unit's endurance.
+
+@156
+Medicine that restores much of\nyour unit's endurance.
+
+@157
+Medicine that fully restores\nyour unit's endurance.
+
+@158
+Medicine that restores a little\nendurance to several units.
+
+@159
+Medicine that restores some\nendurance to several units.
+
+@160
+Medicine that restores much\nendurance to several units.
+
+@161
+Medicine that fully restores\nendurance to several units.
+
+@162
+Special medicine: restores a little\nendurance to several units.
+
+@163
+Special medicine: restores much\nendurance to several units.
+
+@164
+Water that restores a little of\nyour unit's skill points.
+
+@165
+Tea that restores some of your\nunit's skill points.
+
+@166
+Wine that restores much of your\nunit's skill points.
+
+@167
+Holy water that restores much of\nyour unit's skill points.
+
+@168
+Sake that restores a little of\nyour unit's skill points.
+
+@169
+Sake that restores some of your\nunit's skill points.
+
+@170
+Sake that restores much of your\nunit's skill points.
+
+@171
+Medicine that raises your\nunit's attack.
+
+@172
+Medicine that raises your\nunit's defence.
+
+@173
+Medicine that raises your\nunit's intellect.
+
+@174
+Medicine that cures your\nunit's Bound status.
+
+@175
+Medicine that lifts the seal on\nyour unit's special skills.
+
+@176
+Medicine that calms your\nunit's confusion.
+
+@177
+Medicine that heals your unit's wounds.
+
+@178
+Medicine that restores\nyour unit's luck.
+
+@179
+Iron. Material for swords,\narmour, guns and more.
+
+@180
+Small iron plates. Strung\ntogether to make lacing.
+
+@181
+A book on the basic making of\ntantō and wakizashi.
+
+@182
+A book on the basic making of\nkodachi and katana.
+
+@183
+A book on the basic making of\nnodachi and tachi.
+
+@184
+A book on the basic making of spears.
+
+@185
+A book on the basic making of\nnaginata and nagamaki.
+
+@186
+A book on the basic making of bows.
+
+@187
+A book on the basic making of pistols.
+
+@188
+A book on mixing gunpowder.
+
+@189
+A book on making 3-monme\nbullets. Used for repeaters.
+
+@190
+A book on forging iron.
+
+@191
+A book on spearhead shapes,\nfeatures and forging.
+
+@192
+Written by master craftsmen of renown.
+
+@193
+A book on making cannons.
+
+@194
+A Kōga ninjutsu text. A copy, so\nits contents are doubtful.
+
+@195
+An Iga ninjutsu text. A copy, so\nits contents are doubtful.
+
+@196
+Part of Kōga ninjutsu. One of\nthe few genuine ones.
+
+@197
+Part of Iga ninjutsu. One of\nthe few genuine ones.
+
+@198
+Legends of Nasu no Yoichi,\nincluding the bow he used.
+
+@199
+Legends of Minamoto no Yoshiie,\nincluding the bow he used.
+
+@200
+For bows and spear hafts. Gets\nstronger with each year.
+
+@201
+Good-quality bamboo.
+
+@202
+Thin, supple bamboo strips. Bundled to\nstrengthen a bow's spring.
+
+@203
+A climbing vine. Used to bind\nlaminated wood together.
+
+@204
+Timber. Mainly for spear\nhafts and bows.
+
+@205
+A spear haft of bamboo wedges around a\nthin core, bound tightly.
+
+@206
+A spear haft carved from oak, with a\nlug to show the blade's direction.
+
+@207
+A spear haft carved from oak.
+
+@208
+A variant of the hammered haft. No\nwooden core, so light.
+
+@209
+A hardened hammered haft. Hard to cut\nthrough, even with a sword.
+
+@210
+Paint that keeps out rain and\nstrengthens the surface.
+
+@211
+Used for plating. Mainly to intimidate.
+
+@212
+Essential for lacing. Its\ncolour also intimidates.
+
+@213
+Arm protection. No effect alone; use\nwith dōmaru and leg guards.
+
+@214
+Shin guards. No effect alone; use\nwith dōmaru and gauntlets.
+
+@215
+Thigh guards. No effect alone; use\nwith dōmaru and gauntlets.
+
+@216
+Shin and thigh guards combined. Use\nwith dōmaru and gauntlets.
+
+@217
+Head protection. No effect alone;\nuse with gusoku and lacing.
+
+@218
+Strengthens armour and intimidates.\nUse with gusoku and helmet.
+
+@219
+Herb. Used to mix various medicines.
+
+@220
+Fuel for the high heat that\nforging iron needs.
+
+@221
+Used to polish blades.
+
+@222
+Part of a kuda-yari. The haft passes\nthrough it for fast thrusts.
+
+@223
+Softened leather. Fixed to a shield's\nsurface to strengthen it.
+
+@224
+A large cart bed. Used with wheels.
+
+@225
+A large wheel. Used with a cart bed.
+
+@226
+A helmet ornament.
+
+@227
+Bear fur. Fixed to armour or lacing to\nkeep rain off. Also intimidates.
+
+@228
+War funds.
+
+@256
+Deals 4 times normal damage\nto 1 enemy unit.
+
+@257
+Deals 3 times normal damage\nto 1 enemy unit.
+
+@258
+Attacks 1 enemy unit but\nnever kills it.
+
+@259
+Attacks 1 enemy unit. Only in rain.
+
+@260
+Deals 2x damage to 1 enemy unit.\nYou lose 1/10 of your max endurance.
+
+@261
+Wipes out 1 enemy unit.\nYour unit also retreats.
+
+@262
+Attacks 1 enemy unit and\nreduces its skill points by 10.
+
+@263
+Attacks 1 enemy unit and\ngains 2 times normal Exp.
+
+@264
+Attacks 1 enemy unit and wounds it.
+
+@265
+Attacks 1 enemy unit and confuses it.
+
+@266
+Attacks 1 enemy unit twice at once.
+
+@267
+Attacks 1 enemy unit up to\n5 times at once.
+
+@268
+Attacks all units in range,\nfriend or foe.
+
+@270
+Strikes several enemy units\nwith lightning.
+
+@271
+Slashes several enemy units\nswiftly for damage.
+
+@272
+Engulfs several enemy units in flame.
+
+@273
+4x damage to several enemy units.\nYou are hurt, wounded and confused.
+
+@274
+Burns several enemy units\non plains, grass or forest.
+
+@275
+Floods several enemy units\nat sea, shallows or beach.
+
+@276
+Fells huge trees on several enemy\nunits in forest.
+
+@277
+Drops rocks on several enemy units\non mountains.
+
+@278
+Hits several enemy units at sea\nwith rough waves.
+
+@279
+Sets a bear on several enemy units\non mountains. Damages and confuses.
+
+@280
+Sets sharks on several enemy units\nat sea. Damages and confuses.
+
+@281
+Reduces the skill points of\nseveral enemy units.
+
+@282
+Attacks 1 enemy unit and the 1\nunit behind it in line.
+
+@283
+Attacks 1 enemy unit and the 2\nunits behind it in line.
+
+@284
+Attacks 2 enemy units in\nrange in a row.
+
+@285
+Stops 1 enemy cavalry or\nbow cavalry unit from moving.
+
+@286
+Stops 1 enemy unit at sea from moving.
+
+@287
+Stops several enemy units from moving\nand lowers their attack.
+
+@288
+Lowers the attack of\nseveral enemy units.
+
+@289
+Lowers 1 enemy unit's defence.\nNo effect on Kunoichi.
+
+@290
+Lowers several enemy units' attack.\nNo effect on Kunoichi.
+
+@291
+Confuses several enemy units.\nNo effect on Kunoichi.
+
+@292
+Jinxes 1 enemy unit.
+
+@293
+Seals the special skills\nof 1 enemy unit.
+
+@294
+Stops 1 enemy unit from moving.
+
+@295
+Drains 1 enemy unit's skill points,\nup to 4/5 of the enemy's max.
+
+@296
+Fully restores 1 allied\nunit's endurance.
+
+@297
+Restores 1 allied unit's endurance.
+
+@298
+Fully restores several allied\nunits' endurance.
+
+@299
+Restores several allied\nunits' endurance.
+
+@300
+Restores endurance if your unit is\non mountain or forest.
+
+@301
+Restores endurance if your unit is\nat sea or in shallows.
+
+@302
+Fully restores all allied\nunits' endurance.
+
+@303
+Restores all allied units' endurance.
+
+@304
+Calms 1 allied unit's confusion.
+
+@305
+Lifts the seal on 1 allied\nunit's special skills.
+
+@306
+Cures 1 allied unit's Bound status.
+
+@307
+Restores 1 allied unit's luck.
+
+@308
+Heals 1 allied unit's wounds.
+
+@309
+Raises the attack of\nseveral allied units.
+
+@310
+Raises the defence of\nseveral allied units.
+
+@311
+Raises the intellect of\nseveral allied units.
+
+@312
+Restores 1 allied unit's skill points.
+
+@313
+Swaps 1 enemy unit's endurance\nwith your unit's.
+
+@314
+Lets 1 allied unit that has acted\nact again.
+
+@315
+Changes the weather.
+
+@316
+Steals all the money 1\nenemy unit carries.
+
+@317
+Increases your money if your unit is\nin a castle town or village.
+
+@318
+Your unit can move further than\nits current position.
+
+@319
+Your unit can move further,\nbut loses endurance.
+
+@320
+Your unit can move further\nif it is at sea.

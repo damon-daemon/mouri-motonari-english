@@ -1,0 +1,204 @@
+@0.0
+At last, the decisive battle with the Amago! I will not let Takamoto's death be in vain!
+
+@1.0
+So they have come all the way to Toda Castle...
+
+@1.1
+Damn Motonari, we will send him back in defeat!
+
+@2
+Siege of Gassan-Toda Castle\nVictory\n  1. Toda Castle is taken\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@3.0
+You could say my feud with the Amago began when my brother Mototsuna fell for an Amago scheme and lost his life.
+
+@3.2
+Father...
+
+@3.3
+And now Takamoto too has fallen at the Amago's hands. Scheming and plots are the way of the Sengoku age, but... as a father, I cannot forgive this.\n\nThis battle is a memorial battle for the late Takamoto! Terumoto!
+
+@3.4
+Yes, sir!
+
+@3.5
+How you fight will decide the future of the Mōri! Though it is your first battle, do not let your guard down! Fight in a way that will not shame your father in heaven!
+
+@3.6
+Yes!
+
+@3.7
+This battle will be a fierce one. We must be fully resolved.
+
+@3.8
+I thought they would be dispirited by the death of their heir Takamoto... But it seems to have set their hearts on fire instead. We may lose this battle.
+
+@3.9
+As expected of Mōri Motonari... Not a hair out of place in commanding his troops. He is admirable, though an enemy. But... I, Shikanosuke, will claim his white-haired head!
+
+@4.0
+...A great army, Hisanobu.
+
+@4.1
+Yes, my lord, as one would expect of the Mōri. But if we all stand united against them, we may be able to drive the Mōri back.
+
+@4.2
+Drive them back... is it?\n\n\nThe Amago, once masters of eight provinces of the west, can barely drive back the Mōri, let alone defeat them. The Sengoku age is a vain thing...
+
+@4.3
+Hm...? By the way, I do not see Yuhara Harutsuna...
+
+@4.4
+Harutsuna has hidden his troops over there.
+
+@4.5
+Heh heh heh, he has hidden well.
+
+@5
+Siege of Gassan-Toda Castle\n\nVictory\n  1. Toda Castle is taken\n  2. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@6.0
+Hm! A ninja!
+
+@6.1
+I have a report.
+
+@6.2
+What is it?
+
+@6.3
+In truth......
+
+@6.4
+What! Hisanobu has already gone over to the Mōri?!
+
+@6.6
+...Th-there must be some mistake?
+
+@6.7
+No, here is the proof.
+
+@6.9
+Hmm, so it is. This is a letter from the Mōri to Hisanobu assuring him of his domain!
+
+@6.10
+There is no doubt that Lord Uyama has been in contact with them.
+
+@6.11
+Damn you, Hisanobu!\n\n\nNo matter, cut Hisanobu down at once!
+
+@6.12
+My lord, this is some mistake!
+
+@6.13
+You traitor!
+
+@6.14
+Aaargh!
+
+@7
+Uyama Hisanobu was killed
+
+@8
+Enemy reinforcements appeared
+
+@9.0
+The cavalry, send out the cavalry! It is too late to hold anything back!
+
+@10.0
+Ugh...
+
+@11.0
+Guh!
+
+@12.0
+Even if Toda Castle falls... I will not submit to the Mōri!
+
+@13.0
+......Damn the Mōri.
+
+@14.0
+Hmph! Damn them! Untie the ropes, untie them, I say!
+
+@28.0
+There is a shrine! Grant me victory!
+
+@30.0
+There is a shrine! Grant me victory!
+
+@38.0
+What! The enemy circled around behind and is attacking up the hill?!
+
+@39.0
+You all sortie too!
+
+@40
+Kunoichi appeared
+
+@41.0
+Yes, my lord! For the Amago house, we do not fear death.
+
+@42
+Yuhara Harutsuna's unit appeared
+
+@43.0
+You fell for it, Motonari!
+
+@43.1
+He hid troops in the castle town!
+
+@44
+Yuhara Harutsuna's unit appeared
+
+@45.0
+You fell for it, Motonari!
+
+@45.1
+He hid troops in the castle town!
+
+@46.0
+...Lord Motonari. I am Tachihara Hisatsuna, a retainer of the Amago. I will have your life!
+
+@47.0
+Damn Motonari! I will send you to your son!
+
+@47.1
+What...? So it was you, Kamei...!
+
+@48.0
+Is that Mōri Motonari there? I, Shikanosuke, son of Yamanaka Mitsuyuki, am your opponent!
+
+@48.1
+Impudent! Motonari will not lose to a youngster like you!
+
+@49.0
+Motonari! I will defeat you and make this the Amago's world again! Prepare yourself!
+
+@50.1
+Men, Motonari is here... Come out and meet him...
+
+@51.0
+Lord Yuhara. We have already surrendered to the Mōri house. Regrettably, Lord Yoshihisa does not have the capacity to stand above others. You too should surrender to the Mōri house.
+
+@51.1
+...I understand. I will surrender to the Mōri house.
+
+@52
+Yuhara Harutsuna joined the party
+
+@53.0
+Lord Yuhara. We have already surrendered to the Mōri house. Regrettably, Lord Yoshihisa does not have the capacity to stand above others. You too should surrender to the Mōri house.
+
+@53.1
+...I understand. I will surrender to the Mōri house.
+
+@54
+Yuhara Harutsuna joined the party
+
+@57.0
+Good! We have taken Toda Castle!
+
+@58.0
+So this is... the end of the Amago house... How easily it came. The mighty must fall, so they say... ...I would not have the Mōri walk the same road.
+

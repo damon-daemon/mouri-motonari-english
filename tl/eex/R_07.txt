@@ -1,0 +1,1080 @@
+@0
+In the Mountains near Kōriyama
+
+@1.0
+Surely no pursuers will reach us this far.
+
+@1.1
+No, we cannot let our guard down yet. Not until Lord Motonari is safe in Kōriyama Castle!
+
+@1.2
+Seki and the other ninja are watching the surroundings.
+
+@1.3
+If pursuers come, word will reach us at once.
+
+@1.4
+Father, are you all right?
+
+@1.5
+Kobayakawa Masahira... Watanabe Tōru... so many soldiers... What a senseless war I fought!
+
+@1.6
+...Father.
+
+@1.7
+Lord Motonari, think only of getting back to the castle alive. For the sake of those who died.
+
+@1.8
+...Forgive me, Shiji. Regret will change nothing.
+
+@1.9
+I must think only of surviving.
+
+@2
+Motonari and his men narrowly escaped and came back from the brink of death. Ōuchi Yoshitaka got away too, sparing the Ōuchi army the worst.\n\nBut the crushing defeat let the Amago recover their strength, and the two great powers, Ōuchi and Amago, fell into a stalemate again.\n\nThe seasons turned, and spring came.
+
+@3
+Episode 8 "A Million Hearts as One"
+
+@4
+Episode 8 "A Million Hearts as One"
+
+@7.0
+It is time for us to go on the offensive.
+
+@7.1
+The Ōuchi do not seem inclined to move. So we will take down the local lords on their side one by one.
+
+@7.2
+Leave the vanguard to the Shingūtō, my son and me.
+
+@7.3
+Very well. First take Hieoyama Castle and crush Miyoshi Takasuke. Do not fail.
+
+@7.4
+Leave it to me.
+
+@7.5
+Sugihara Masaoki, lord of the Ōuchi's Kannabe Castle, is willing to turn against them. How about putting him to use?
+
+@7.6
+You mean to have Sugihara join the attack on Miyoshi?
+
+@7.7
+No, let him attack another castle. If we strike two castles at once, the Mōri can send help to only one.
+
+@7.8
+Yes. It would be troublesome if the Mōri came out against us.
+
+@7.9
+Good. Have Sugihara attack the Kobayakawa.\n\nMeanwhile Kunihisa and Masahisa will lead the Shingūtō to take Hieoyama Castle.
+
+@7.10
+Kamei, make ready. March as soon as you are prepared!
+
+@8
+Yamanaka Mitsuyuki's House
+
+@9.0
+Thank you for giving me a strong child. I had already decided on his name: Shikanosuke.
+
+@9.1
+It is a fine name. For his sake, please come back from the war.
+
+@9.2
+I will. To restore the glory of the Amago, I cannot lose this Bingo campaign.
+
+@10.0
+Lord Mitsuyuki, the preparations for the march are complete.
+
+@10.1
+Understood. I am coming at once.
+
+@11.0
+As a gift for Shikanosuke's birth, I will leave our family treasure.
+
+@11.1
+That sword which has never been drawn?
+
+@11.2
+Yes, Norimitsu. Perhaps Shikanosuke will be the one to draw it.
+
+@11.3
+Now, I leave Shikanosuke to you.
+
+@12
+Meadow near Kōnomine Castle
+
+@13.0
+Lord Yoshitaka is at a poetry party again today. Is that all he does?
+
+@13.1
+He spends whole days absorbed in Kyōto culture. Has he lost his interest in war?
+
+@13.2
+It is not a matter of interest! The very survival of the realm is at stake!
+
+@14.0
+What is it? Do not disturb me.
+
+@14.1
+My lord, this is no time for poetry parties.
+
+@14.2
+The Amago Shingūtō have invaded Bingo, and Sugihara Masaoki has turned traitor in answer.
+
+@14.3
+Hmm, is that so? And?
+
+@14.4
+Give us leave to march on Bingo!
+
+@14.5
+The power we won at the cost of so many lives, will you let the Amago take it back without a fight?
+
+@14.6
+We have not recovered from our last defeat. We cannot march.
+
+@14.7
+Let the Mōri and the other Aki local lords deal with that. It is not a matter worth our going out.
+
+@14.8
+More to the point, this is a poetry party. Kindly refrain from loud, tactless voices.
+
+@14.9
+Gr... Grrr...!
+
+@14.10
+Lord Sue!
+
+@15.0
+It is no use saying anything now. In time Lord Yoshitaka will surely return to himself. For now we must endure.
+
+@15.1
+Tch...
+
+@18.0
+...I see. Lady Sugi has passed away...\n\nBack then my mother had died and my father was always at war, so I hardly ever saw him...
+
+@18.1
+Life with Lady Sugi was everything to me.
+
+@18.2
+In a castle full of bloodlust, where soldiers rushed in and out, I, a child, could stay unafraid
+
+@18.3
+because Lady Sugi was there.
+
+@18.4
+Lady Sugi protected me from the harshness of the Sengoku age and raised me.
+
+@18.5
+When my brother died, and when I became head of the clan,
+
+@18.6
+how much her words helped me...
+
+@18.7
+Lady Sugi... I could do nothing for you...!
+
+@19.0
+Father... Please, cheer up.
+
+@19.1
+Here, take this...
+
+@20.0
+This is... Lady Sugi's will...
+
+@20.1
+Read it. It is her last advice to you.
+
+@20.2
+...... "A Million Hearts as One"...
+
+@20.3
+"A Million Hearts as One"? What does it mean?
+
+@20.4
+It means that if everyone unites and works together, there is nothing they cannot achieve.
+
+@20.5
+Lady Sugi... Your last words, I have received them well...!
+
+@23.0
+Welcome. What brings you here?
+
+@23.1
+You may already know that the Amago Shingūtō have invaded Bingo.
+
+@23.2
+In answer, Sugihara Masaoki has gone over to the Amago and attacked Kobayakawa lands.
+
+@23.3
+We lost our lord Masahira in the Izumo campaign, and the retainers are in disarray. We cannot hold on our own.
+
+@23.4
+I see. Say no more.
+
+@23.5
+I owe Masahira a great debt. I will send reinforcements at once.
+
+@23.6
+We are most grateful!
+
+@24.0
+We go to save the Kobayakawa.
+
+@24.1
+In this war, carve the words "A Million Hearts as One" into your hearts, all of you, and march.
+
+@24.2
+"A Million Hearts as One"...
+
+@24.3
+If everyone unites and works together, there is nothing they cannot achieve. That is the meaning, is it not?
+
+@24.5
+They are the will of Lady Sugi, who raised me. I make these words the Mōri family precept, and with them we will see through this age of war.
+
+@24.6
+Engrave them firmly in your hearts!
+
+@31.0
+Lord Yoshitaka has come to this, has he.
+
+@31.1
+Days of nothing but Kyōto culture, waka and music with courtiers from the capital. He will not even look at talk of war.
+
+@31.2
+Still, it is amusing. It will make good material for a song.
+
+@38.0
+Father, with the Amago on the move, you cannot stay downcast forever.
+
+@39.0
+Father, how about some sake? A little will do no harm.
+
+@39.1
+It might ease your low spirits a little.
+
+@39.2
+No, I will not drink.
+
+@39.3
+But showing my face at a tavern and watching people laugh happily may do me good...
+
+@40
+Go to the tavern
+
+@41.0
+Father, you cannot stay downcast. First, hear what Shiji has to say.
+
+@42.0
+The time has come to repay the great debt we owe Kobayakawa Masahira.
+
+@43.0
+I hear the Amago have moved. Lord Shiji can tell you the details.
+
+@44.0
+I will engrave "A Million Hearts as One" firmly in my heart.
+
+@45.0
+My brother Kuchiba Michiyoshi is probably investigating the Amago through the Seki ninja.
+
+@46.0
+I hear the Shingūtō under Amago Kunihisa and Masahisa have left Toda Castle to conquer Bingo.
+
+@46.1
+What, the Amago have moved!
+
+@46.2
+There is also suspicious movement around Sugihara Masaoki. We must be wary.
+
+@47
+Talk to Mōri Takamoto
+
+@48.0
+Are you ready to march?
+
+@51.0
+What is it, just before we march!
+
+@51.1
+Lady Okata has collapsed.
+
+@51.2
+What! Okata...!
+
+@52.0
+What!
+
+@53.0
+Lady Okata...!
+
+@54.0
+We will be ready to march at any time. For now, go and see how she is.
+
+@54.1
+Forgive me. Takamoto, come.
+
+@56.0
+Is Okata all right?
+
+@56.1
+She has a high fever. We have sent for a physician, but...
+
+@56.2
+Jirō, Tokujumaru, I leave your mother to you. Take care of her.
+
+@57.0
+Please wait, I will go to battle too.
+
+@58.0
+Do not be stubborn.
+
+@58.1
+Staying off the battlefield to nurse Mother would not please her!
+
+@59.0
+Leave Mother's care to me.
+
+@59.1
+Very well. Follow me!
+
+@60.0
+I will be back soon.
+
+@61.0
+We must hurry, or the reinforcements will not arrive in time.
+
+@62.0
+Seki's ninja are always watching the Amago around Bingo. If anything happens, word will reach us at once.
+
+@63.0
+Hm...! It seems Seki has come.
+
+@63.1
+I am here.
+
+@64.0
+The Amago Shingūtō who invaded Bingo have attacked Kobayakawa lands together with the turncoat Sugihara Masaoki.
+
+@64.1
+And what of Ōuchi Yoshitaka?
+
+@64.2
+Lord Yoshitaka indulges in Kyōto culture day and night and shows no interest in war.
+
+@64.3
+Lord Sue and the other hawks have lost patience, and the castle is split between them and Lord Sagara's civil faction, in a hostile mood.
+
+@64.4
+So the rumours at the tavern were true...
+
+@64.5
+I will keep tracking the Amago. Excuse me.
+
+@65.0
+Father, Nomi Munekatsu of the Kobayakawa has come to the Council Hall.
+
+@65.1
+I see. Gather everyone in the Council Hall!
+
+@65.2
+Then we shall go too.
+
+@67.0
+"A Million Hearts as One"... A fine saying. I have received Lady Sugi's will well.
+
+@68.0
+I heard about the Amago invasion from Lord Shiji. Their will to fight does not seem to have weakened.
+
+@69.0
+This invasion is probably meant to gain a foothold for regaining their strength.
+
+@70.0
+Lord Motonari, if you stay gloomy for long, it will affect the soldiers' morale.
+
+@71.0
+Those Amago, still full of fight, it seems!
+
+@72.0
+Lord Motonari, I understand how you feel at losing the mother who raised you.
+
+@72.1
+But as head of the clan, please keep a resolute bearing.
+
+@73.0
+We were grateful to hear Lady Sugi's words.
+
+@73.1
+They will bind the Mōri clan together even more.
+
+@74.0
+...Ōuchi Yoshitaka. ...I hear rumours that he has gone soft.
+
+@75.0
+...Reinforcements from the Ōuchi. ...Best not to count on them.
+
+@76.0
+The Amago have moved, I hear. We must act quickly.
+
+@77.0
+If we let the Amago advance now, others will follow Sugihara.
+
+@78.0
+After the defeat in the Izumo campaign, some local lords seem to be leaning toward the Amago.
+
+@79.0
+Does Lord Yoshitaka truly mean to send no reinforcements?
+
+@80.0
+I hear the Amago have moved. They mean to recover their strength before a full-scale invasion.
+
+@81.0
+If Lord Yoshitaka does not move, unrest will spread among the Ōuchi's local lords.
+
+@82.0
+Reinforcements, as soon as possible!
+
+@83.0
+Lady Sugi's will will surely reach the retainers too.
+
+@84.0
+What is it? You seem a little feverish...
+
+@84.1
+No, I have only felt a little unwell. But I am all right.
+
+@86.0
+Mother looks unwell. Will she be all right?
+
+@87.0
+If Father is downcast, the retainers will all be uneasy. Please pull yourself together soon.
+
+@88.0
+Mother seems strange. I hope it is not a bad illness.
+
+@89.0
+My name is Suwa Ganjirō.
+
+@89.3
+Oh... Then your skill must be sound.
+
+@115.0
+Then, would you like to work under me?
+
+@117.0
+I am sorry to hear that... but I cannot employ you either.
+
+@125.1
+I see... Then excuse me.
+
+@129.0
+You seem to have trained in shōgi. Try challenging my father again.
+
+@135.6
+Skill in command and tactics... So it depends on my own ability?
+
+@137.0
+My son fell from the roof and hurt himself.
+
+@138.0
+Right, let me see.
+
+@138.1
+Ow... it hurts.
+
+@138.2
+Hold on a little, bear it.
+
+@138.3
+Will he be all right?
+
+@139
+Healed the child's leg
+
+@140.0
+There, he will be fine. Keep him rested for a while and he will soon mend.
+
+@140.1
+Thank you!
+
+@140.2
+Can you walk?
+
+@141.0
+How can I ever thank you...
+
+@141.1
+No need for thanks. To think the bonesetting I learned long ago would prove useful.
+
+@141.2
+I forgot to introduce myself...
+
+@142.0
+Hold on! Is there no one who can treat him?
+
+@142.1
+Hmm, this is trouble. No one in my family has the knowledge.
+
+@142.2
+It hurts, it hurts!
+
+@143.0
+I am a swordsmith. My name is Hiko Shigeharu.
+
+@143.1
+A swordsmith...
+
+@143.2
+I would like to use my skill to serve you, Lord Motonari.
+
+@145.0
+I see, that is welcome. Then I count on you.
+
+@148.0
+That is welcome, but let us leave it for another time.
+
+@148.1
+I see... Then, until next time.
+
+@149.0
+If another chance comes, I look forward to it.
+
+@150.0
+I heard about it.
+
+@150.1
+You saved a child taken by bandits, did you not? As expected of you.
+
+@150.2
+I simply cannot forgive such despicable people.
+
+@150.3
+I have always wanted to work for a man like that.
+
+@150.4
+I am Mozu Hitokusa, a ninja-gear maker. Please take me into your service.
+
+@152.0
+Then I will count on you.
+
+@156.0
+I wanted to work under a man of attractive character...
+
+@172.0
+If that man is to join Lord Motonari's service, then I too wish to lend my strength.
+
+@174.2
+I hear he is a man of real promise.
+
+@180.0
+By the way, did you get the secret of shōgi from the old man at the Training Ground?
+
+@181.0
+I hear the old man at the Training Ground is a shōgi master.
+
+@184.0
+Having a skilled craftsman on our side is very reassuring.
+
+@196.0
+I am no good at using my head. I am content just to sit here and drink.
+
+@197.0
+Shōgi? I am hopeless at it.
+
+@198.0
+Phew, standing for so long is tiring.
+
+@200.0
+So Iki Hironaga did become one of Lord Motonari's men.
+
+@203.0
+Please take this. Make use of it.
+
+@204.0
+Merchants never give a discount.
+
+@205.0
+Ha ha ha... what fun, what fun!
+
+@205.1
+Ah ha ha ha!
+
+@205.2
+Oh, please do not mind him. He is just a laughing drunk.
+
+@207.0
+I brought something useful as materials. Here you are.
+
+@209.0
+Oh no! Someone has collapsed over there!
+
+@210.0
+Business at this shop has only lately started to pick up.
+
+@211.0
+Ah, Lord Motonari. Will you drink with us?
+
+@212.0
+This man always gets nasty when he drinks. He is a real trouble.
+
+@213.0
+Lord Motonari is truly someone to rely on.
+
+@214.0
+I hear you took back the money from the bandits. As expected of Lord Motonari.
+
+@215.0
+Thank you so much for helping us. But the money so precious for my daughter...
+
+@216.0
+I got the money back.
+
+@216.1
+What!? Really!?
+
+@217
+Handed over the money taken back from the bandits
+
+@218.0
+Thank you. Thank you so much.
+
+@218.1
+That settles it, then.
+
+@218.2
+This is only a token of thanks. Please accept it.
+
+@219.0
+I am glad my daughter is safe. But the money...
+
+@220.0
+Please, please take care of my daughter.
+
+@221.1
+My daughter has disappeared.
+
+@221.2
+Your daughter...?
+
+@221.3
+Yes, and there was this letter...
+
+@221.4
+Let me see it.
+
+@222
+We have your daughter. If you want her back safe, bring 1000 gold to the temple.
+
+@223.0
+Hmm, this is a kidnapper after ransom.
+
+@223.1
+It must be the work of bandits.
+
+@223.2
+Bandits...
+
+@223.3
+I have no such sum. Oh, what am I to do?
+
+@223.5
+Oh... Orei...
+
+@223.6
+Right, I will go.
+
+@223.7
+What!?
+
+@223.8
+I cannot let such a despicable act go unpunished.
+
+@223.9
+Truly? Thank you. Then I will go with you...
+
+@223.10
+No, they are bandits. I will go alone.
+
+@223.12
+Never mind, leave it to me.
+
+@223.13
+Y-yes.
+
+@224.0
+Lord Motonari, have you finished your shopping?
+
+@225.0
+I am so glad Orei is safe.
+
+@226.0
+Damn those bandits...
+
+@227.0
+Anyway, it is a relief.
+
+@228.0
+Oh, Orei... At least let her life be spared...
+
+@229.0
+I have worked in this workshop for many years. Perhaps it is time to retire. Lately my body aches so much...
+
+@231.0
+I know little of war. But whatever you do, if you throw yourself into it with passion, it will surely go well.
+
+@232.0
+Please take this. Keep it.
+
+@233.0
+I seem to have drunk too much today... Hm? Did I say something? I remember nothing.
+
+@234.0
+Young man, before I pass out drunk, let me tell you something useful. Do you want to hear it?
+
+@236.0
+Good, then listen well.
+
+@236.1
+What do you think decides the outcome of a battle? Numbers? Or luck?
+
+@236.2
+Strategy, that is what.
+
+@236.3
+Numbers alone will not win. And if you rely on luck, no number of lives will be enough.
+
+@236.4
+A battle is not decided once it begins. It is already decided before it starts.
+
+@236.5
+I see, I understand well. From now on I will study the art of war more.
+
+@236.6
+You will make a fine commander.
+
+@237
+Intellect rose by 3
+
+@238.0
+I have no time now, so let us do it next time.
+
+@238.1
+I see... Then I will just drink in silence.
+
+@239.0
+I will not lose to the young ones yet.
+
+@240.0
+I have improved a great deal. Try challenging me again.
+
+@241.0
+I want to beat the former tactician at the tavern at shōgi...
+
+@241.1
+Then I will teach you the secret of winning.
+
+@242
+Learned the secret of shōgi from the old man
+
+@243.1
+I see, that was very helpful. My thanks.
+
+@245.0
+I will not lose to the young ones yet.
+
+@246.0
+I will not lose to the young ones yet.
+
+@248.0
+Welcome to the temple, Lord Motonari.
+
+@249.0
+Thank you for healing my leg.
+
+@250.0
+It hurts, it hurts.
+
+@267.1
+No. If you do not trust me, I have no wish to serve under you.
+
+@282.0
+Samurai are strong after all.
+
+@283.0
+Beat up those bandits!
+
+@284.0
+Help!
+
+@284.1
+Keep quiet!
+
+@285.0
+I was scared...
+
+@285.1
+You are safe now.
+
+@286.0
+You are Lord Motonari, I take it. I have heard much about you.
+
+@286.1
+Forgive my late introduction. I travel the provinces in ascetic training.
+
+@286.2
+I heard rumours of you at the tavern. They say you cure the sick without medicine.
+
+@286.3
+Yes. I set the body in order and ease the flow of ki.
+
+@286.4
+Hm, it sounds difficult.
+
+@286.5
+Not at all. Let me teach you one simple technique.
+
+@286.6
+Press here, then push in like this all at once. Then this pressure point...
+
+@286.7
+I see, that was instructive. My thanks.
+
+@286.8
+It was nothing.
+
+@287
+Learned bonesetting
+
+@288.0
+Well, until we meet again somewhere.
+
+@289.0
+Lord Yoshitaka's spinelessness has the hawks around Lord Sue seething with indignation.
+
+@290.0
+Have you met the yamabushi who uses a strange art?
+
+@290.1
+Yes, I learned one thing from him.
+
+@291.0
+A yamabushi who uses a strange art is said to be at the temple. Why not go and meet him?
+
+@292.0
+Well, Lord Motonari!
+
+@292.1
+Oh, so drinking is part of your training? Ha ha ha...
+
+@292.2
+No, I did not come to drink. I came to beg for alms.
+
+@292.3
+I see...
+
+@292.4
+By the way, I went to the temple just now, and there was a yamabushi there.
+
+@292.5
+Oh, a yamabushi.
+
+@292.6
+He uses a strange art. He cures the sick without any medicine.
+
+@292.7
+Without medicine?
+
+@292.8
+I have no idea where he learned such an art.
+
+@292.9
+Hm. I would like to meet him once.
+
+@293.0
+Human life is fleeting... All the more must you live each day with care.
+
+@294.0
+The recent defeat must have hit him hard.
+
+@296.0
+I pray for your good fortune in battle.
+
+@297.0
+Lord Motonari, I will give you a Restorative. Please make use of it.
+
+@298.0
+One must never be careless in war.
+
+@301.0
+Since Lady Sugi left us, I feel so helpless.
+
+@302.0
+Lady Okata is unwell. Please tell her yourself, Lord Motonari, that she should rest.
+
+@303.0
+Now that Lady Sugi is gone, we must be strong ourselves...
+
+@304.0
+Lady Okata seems strange. It does not look as if she is with child, either.
+
+@305.0
+Lord Motonari, please stop by before you march. I will show you I have not been idle.
+
+@306.0
+I am honoured that you came. Here, this...
+
+@307.0
+It is something I made as piecework. Please use it if you like.
+
+@308.0
+Take care. Win the battle again, please.
+
+@311.0
+I will not lose so easily now.
+
+@312.0
+Your opening moves are already perfected.
+
+@320.0
+Are you the father of Murata Sanjūrō?
+
+@321.0
+I would like a game of shōgi with you.
+
+@326.0
+And from here, a full attack.
+
+@327.0
+Oh, so that is your move.
+
+@330.0
+Well, I yield. As expected of Lord Motonari, to improve this much in so short a time.
+
+@338.0
+I yield. I was no match for you at all.
+
+@340.0
+Bandit! So you are here!
+
+@340.1
+Ugh, damn.
+
+@340.2
+Trying to kidnap an innocent child, such a despicable act. I will never forgive it!
+
+@340.3
+Shut up! The money is mine now.
+
+@340.4
+What? You will pay for this.
+
+@340.5
+Ugh!
+
+@340.6
+I will cut you down!
+
+@340.7
+...W-wait.
+
+@340.8
+I give up, I give up. Your spirit beat me. I will return the money, so let me go.
+
+@341
+Took back the money from the bandits
+
+@342.0
+Give back the child!
+
+@342.1
+Shut up! Did you bring the money? 1000 gold!
+
+@343
+Hand over the money\nDo not hand it over
+
+@344
+Not enough gold
+
+@345.0
+If you do not hand over the money, the child dies.
+
+@346.0
+I brought the money. If I hand it over, you have no complaint?
+
+@346.1
+Good, then give it here!
+
+@346.2
+Here is your money, take it.
+
+@347
+Gave the bandits 1000 gold
+
+@348.0
+Good, now that I have this, I have no more use for you.
+
+@349.0
+I have no money to give you!
+
+@349.1
+What!? Do you not care what happens to the child!?
+
+@350.0
+Here is the money...
+
+@350.1
+Daddy!
+
+@350.2
+!?
+
+@350.3
+It is money the whole village collected. Take it.
+
+@350.4
+What! There is no need to hand over such precious money!
+
+@350.5
+It is all right. If my daughter is saved.
+
+@351
+Gave the bandits 1000 gold
+
+@352.0
+Good, now that I have this, I have no more use for you.
+
+@353.0
+I was scared.
+
+@353.1
+You are safe now...
+
+@354.0
+Orei, I am so glad you are safe!
+
+@354.1
+Daddy.
+
+@354.2
+Yes, yes, thank goodness.
+
+@354.3
+I am truly glad she is safe.
+
+@354.4
+Thank you so very much.
+
+@355.0
+It is only a token of thanks. Please accept this.
+
+@356.0
+But the money, to that bandit...
+
+@356.1
+Do not worry, I will surely get it back. They are probably still somewhere nearby.
+

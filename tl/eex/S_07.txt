@@ -1,0 +1,234 @@
+@0.0
+There is no longer any need to stay loyal to the Ōuchi. Attack the Kobayakawa's Takayama Castle!
+
+@1.0
+Now is the time to repay the great debt we owe Kobayakawa Masahira! Save Takayama Castle!
+
+@2.0
+It seems the Mōri have gone to Takayama Castle. Good, we take Hieoyama Castle while they are away!
+
+@3
+Battle of Bingo\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass\n  4. Murakami's fort is taken\n  5. Miyoshi's castle is taken
+
+@4.0
+The one attacking Bingo is Sugihara Masaoki, lord of Kannabe Castle.\n\nAnd he owes the Ōuchi such a debt...
+
+@4.1
+They say Yoshitaka has gone soft in the head.\n\nThere is no need to serve the Ōuchi any longer.\n\nThe Mōri and the Kobayakawa are the fools, staying loyal to a house in decline. Now attack, attack!
+
+@4.2
+Now is the time to repay Masahira's kindness! Drive that Sugihara out of Bingo!
+
+@4.3
+They say a great Amago army is coming... Can we Miyoshi hold alone...
+
+@4.4
+We cannot hold on our own!\n\nHas Lord Nomi, who went to Kōriyama, not returned yet!?
+
+@5
+Battle of Bingo\n\nVictory\n  1. All enemies are wiped out\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 50 turns pass\n  4. Murakami's fort is taken\n  5. Miyoshi's castle is taken
+
+@6
+Amago Kunihisa's forces arrived
+
+@7.0
+The main Amago force has finally arrived!
+
+@7.1
+Ha ha ha, what can the Mōri and Kobayakawa do! Can you beat this great Amago army! Surrender at once!
+
+@7.2
+So this is the Amago main force... They are indeed elite troops.
+
+@7.3
+...My wife, Shikanosuke... watch over me. Watch my battle...
+
+@8.0
+The timing is right. We advance too. Press the enemy hard!
+
+@8.1
+Kamei's unit has started to move!
+
+@9
+Amago's Kamei Hidetsuna's army arrived
+
+@10.0
+Good! While they are busy, we take Hieoyama Castle!
+
+@10.1
+The Mōri have their hands full with Sugihara. This is our chance. Go! Attack the Miyoshi!
+
+@10.2
+Lord Ushio, don't be hasty, don't be hasty... The longer this takes, the more it favours us Amago...
+
+@10.3
+The Amago army has finally arrived!
+
+@10.4
+My lord! That looks like the Amago vanguard. Kunihisa's main force will reach this place soon.
+
+@11.0
+Guh! Damn...
+
+@12.0
+Argh, the castle is falling... Damn...
+
+@12.1
+Lord Miyoshi!
+
+@13.0
+Curse you... Fall back to Kannabe Castle!
+
+@14.0
+Guh...!\n\nMy wife! Farewell! Take care of Shikanosuke!
+
+@15.0
+Next time, next time I will surely kill you!
+
+@16.0
+Argh... Retreat!
+
+@17.0
+Curse you, remember this! I will repay this debt without fail!
+
+@18.0
+Hmm... It cannot be helped. Back to Izumo!
+
+@19.0
+Amago Kunihisa has retreated!\n\nThe Amago army must be in disorder! Now is our chance!
+
+@20
+Shrine
+
+@21.0
+There is a shrine! We pray for our victory!\n\n............\n\nHm? What is this scrap of paper? Something is written on it!
+
+@22
+"Four paces south of this spot\nI have buried my treasure."
+
+@37.0
+This is our village's store. Please, use it!
+
+@44.0
+The Mōri reinforcements have arrived! This is bad...\n\nVery well, we take Miyoshi's castle with the main force!
+
+@45.0
+Masahisa! Yamanaka!
+
+@45.2
+Here!
+
+@46.0
+Attack!
+
+@47.0
+This looks like it will be a melee...\n\nCavalry, go for the enemy's main camp! If the main camp falls, we win!
+
+@47.1
+Sugihara is going for our main camp. We must quickly strengthen its defence.
+
+@48
+Amago's Kamei Hidetsuna's army arrived
+
+@49.0
+Good! While they are busy, we take Hieoyama Castle!
+
+@49.1
+The Mōri have their hands full with Sugihara. This is our chance. Go! Attack the Miyoshi!
+
+@49.2
+Lord Ushio, don't be hasty, don't be hasty... The longer this takes, the more it favours us Amago...
+
+@49.3
+The Amago army has finally arrived!
+
+@49.4
+My lord! That looks like the Amago vanguard. Kunihisa's main force will reach this place soon.
+
+@50.0
+This is a battle between me and the Kobayakawa! I have no business with you!
+
+@50.1
+I will not allow that! To repay Masahira's kindness, I will defeat you!
+
+@51.0
+Motonari! For the sake of the Amago, I will take your head! Give up!
+
+@51.1
+A reckless brute like you cannot take this Motonari's head!
+
+@52.0
+Motonari, I mean well. What good is defying the Amago? Withdraw your troops and I will let you go.
+
+@52.1
+That I cannot do. I will not side with the Amago, even if I must defy heaven and earth!
+
+@52.2
+...You go that far. Then we will show no mercy either!
+
+@53.0
+Motonari! Masahisa of the Shingūtō is your opponent! Come, a fair fight!
+
+@54.0
+That Motonari, getting in our way yet again! I will not forgive it!
+
+@55.0
+That banner, the bar and three stars... Oh, it is Motonari's reinforcements!
+
+@55.1
+Lord Miyoshi. Now that we have come, you can rest easy.
+
+@55.2
+From now on I will serve under Lord Motonari's command. Please give your orders!
+
+@56
+Miyoshi Takasuke joined the party
+
+@57.0
+Oh, Lord Nomi.
+
+@57.1
+Murakami Yoshimitsu. You held out well!\n\nI have brought the Mōri reinforcements. You are safe now!
+
+@57.2
+From now on I will serve under the Mōri command. Lord Motonari, please give your orders!
+
+@58
+Murakami Yoshimitsu joined the party
+
+@59.0
+Oh, Lord Motonari.
+
+@59.1
+Murakami Yoshimitsu. You held out well!
+
+@59.2
+From now on I will serve under the Mōri command. Lord Motonari, please give your orders!
+
+@60
+Murakami Yoshimitsu joined the party
+
+@61.0
+We took the Miyoshi castle!
+
+@61.1
+Damn! We were too late...
+
+@62
+Miyoshi's castle was taken
+
+@63.0
+We took the Kobayakawa castle!
+
+@63.1
+Damn! We were too late...
+
+@64
+Murakami's fort was taken
+
+@65.0
+We took the Mōri main camp!
+
+@67.0
+Good, we have driven off the Amago!\n\nSugihara got away. Well, it will do for now...
+

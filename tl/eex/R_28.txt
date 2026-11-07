@@ -1,0 +1,81 @@
+@0
+Final Episode "The Decisive Battle"
+
+@2.0
+Tokugawa Ieyasu seems to have entered Gifu Castle.
+
+@3.0
+You have all followed me faithfully this far.\n\nWith this one battle, we put an end to the age of war.
+
+@4.0
+My father will be bitter that he cannot fight in this war.
+
+@4.1
+So that I can bring him tales to take home, I will win glory in battle.
+
+@5.0
+It has been a long road... I am proud to have served Lord Terumoto this far.
+
+@6.0
+Our enemy is Tokugawa Ieyasu. He may still be hiding schemes. We must not be careless.
+
+@7.0
+As expected of Tokugawa Ieyasu. It seems we cannot finish him without one more battle.
+
+@8.0
+I once swore to bring down the Mōri. Yet here I am, a man of the Mōri, trying to seize the realm...
+
+@8.1
+Strange, is it not?
+
+@9.0
+Lord Terumoto... your father Takamoto must be watching over you somewhere. Now, give the order to march.
+
+@10.0
+Yes...\n\n\nAll of you, we march!
+
+@12.0
+My father will be bitter that he cannot fight in this war.
+
+@12.1
+So that I can bring him tales to take home, I will win glory in battle.
+
+@13.0
+It has been a long road... I am proud to have served Lord Terumoto this far.
+
+@14.0
+Our enemy is Tokugawa Ieyasu. He may still be hiding schemes. We must not be careless.
+
+@15.0
+As expected of Tokugawa Ieyasu. It seems we cannot finish him without one more battle.
+
+@16.0
+The battle looks likely to be fought around Yamazaki.
+
+@18.0
+Nobunaga's fierce nature brought him close to the realm, and then took his life...
+
+@19.0
+I wish to stay at Lord Terumoto's side.
+
+@20.0
+The Oda generals on campaign must be hurrying back in desperation about now.
+
+@23.0
+If we take Azuchi, the famed castle of the realm, the Mōri's valour will be known across the land.
+
+@24.0
+This will be our last battle.
+
+@26.0
+Good! With this one battle, we take the realm! We march!
+
+@27.0
+There is Lake Biwa, you know. Lake Biwa. Heh heh heh.
+
+@29.0
+I once swore to bring down the Mōri. Yet here I am, a man of the Mōri, trying to seize the realm...
+
+@29.1
+Strange, is it not?
+

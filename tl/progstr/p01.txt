@@ -1,0 +1,460 @@
+PROG:800dc1e8	-
+PROG:800dc1ec	-
+PROG:800fed30	That unit cannot act.
+PROG:800fed4c	The skill failed.
+PROG:800fed5c	No units in range.
+PROG:800fed78	No enemy units in range.
+PROG:800ff56c	-
+PROG:8011a14c	Slot 1
+PROG:8011a158	Temp Memory
+PROG:8011a168	Not enough free blocks.
+PROG:8011a184	New Data
+PROG:8011a190	Ep.1  
+PROG:8011a1a8	Ep.2  
+PROG:8011a1bc	Ep.3  
+PROG:8011a1d0	Ep.4  
+PROG:8011a1e4	Ep.5  
+PROG:8011a1fc	Ep.6  
+PROG:8011a210	Ep.7  
+PROG:8011a228	Ep.8  
+PROG:8011a23c	Ep.9  
+PROG:8011a254	Ep.10  
+PROG:8011a26c	Ep.11  
+PROG:8011a280	Ep.12  
+PROG:8011a29c	Ep.13  
+PROG:8011a2b4	Ep.14  
+PROG:8011a2d0	Ep.15  
+PROG:8011a2ec	Ep.16  
+PROG:8011a304	Ep.17  
+PROG:8011a31c	Ep.18  
+PROG:8011a334	Ep.19  
+PROG:8011a34c	Ep.20  
+PROG:8011a368	Ep.21  
+PROG:8011a384	Ep.22  
+PROG:8011a39c	Ep.23  
+PROG:8011a3b8	Ep.24  
+PROG:8011a3d4	Ep.25  
+PROG:8011a3f0	Ep.26  
+PROG:8011a408	Final Ep.  
+PROG:8011a418	Ending  
+PROG:8011a428	Arita Castle
+PROG:8011a438	Kagamiyama Castle
+PROG:8011a448	Funayama Castle
+PROG:8011a458	Kanayama Castle
+PROG:8011a468	Subjugating Aki
+PROG:8011a474	Yoshida-Kōriyama
+PROG:8011a488	Izumo Retreat
+PROG:8011a494	Bingo Interception
+PROG:8011a4a0	Kannabe Castle
+PROG:8011a4b0	Aki and Bingo
+PROG:8011a4c0	Westward into Aki
+PROG:8011a4cc	Itsukushima
+PROG:8011a4d8	Suō and Nagato
+PROG:8011a4e4	Moji Castle
+PROG:8011a4f4	Iwami Silver Mine
+PROG:8011a504	Shiraga Castle
+PROG:8011a514	Gassan-Toda Castle
+PROG:8011a528	Ōzu Castle
+PROG:8011a538	Chikuzen
+PROG:8011a544	Nunobeyama
+PROG:8011a554	Bizen
+PROG:8011a560	Kizugawa-guchi
+PROG:8011a570	Kōzuki Castle
+PROG:8011a580	Hashiba Pursuit
+PROG:8011a590	Home Provinces
+PROG:8011a59c	Azuchi Castle
+PROG:8011a5ac	Mino and Owari
+PROG:8011a5b8	Sekigahara
+PROG:8011a5c8	Gifu Castle
+PROG:8011a5d8	%s %s: 
+PROG:8011a5e4	%s, Turn %2d
+PROG:8011a5f4	%s Camp
+PROG:8011a600	Yes    No
+PROG:8011a610	Saving needs a memory card with\n4 or more free blocks.\nPlease note.
+PROG:8011a668	Load from which?
+PROG:8011a684	Save to which?
+PROG:8011a6a0	No memory card found.\nPlease insert a memory card in slot 1.
+PROG:8011a6ec	The memory card is damaged.\nPlease insert another memory card.
+PROG:8011a734	The memory card is not formatted.\nPlease insert another memory card.
+PROG:8011a784	The memory card is not formatted.\nFormat it now?
+PROG:8011a7c8	Failed to format the memory card.
+PROG:8011a7f0	No data for Mōri Motonari:\nThe Oath of the Three Arrows.\nPlease insert the memory card with\nthe data into slot 1.
+PROG:8011a85c	Which data will you load?
+PROG:8011a87c	Saving needs 4 blocks.\nWhere will you save?
+PROG:8011a8b0	Not enough free blocks.\nPlease insert a memory card with 4 or\nmore free blocks into slot 1.
+PROG:8011a914	Load this data?
+PROG:8011a940	A file already exists on the memory card.\nOverwrite it?
+PROG:8011a98c	Save to Temporary Memory?\nIt is erased on power off or reset!
+PROG:8011a9d4	Load failed.\nTry loading again?
+PROG:8011aa04	Save failed.\nTry saving again?
+PROG:8011aa34	Save complete.
+PROG:8011aa4c	This data is corrupted.\nPlease load other data.
+PROG:8011aa8c	Loading.\nDo not remove or insert the memory card.
+PROG:8011aac8	Saving.\nDo not remove or insert the memory card.
+PROG:8011ab04	Formatting the memory card.\nDo not remove or insert the memory card.
+PROG:8011ab50	Checking the memory card.\nDo not remove or insert the memory card.
+PROG:8011ab9c	The memory card was removed.\nCancelling.
+PROG:8011acd4	%s sent to storehouse
+PROG:8011ace8	No room in storehouse; gave it up
+PROG:8011ad08	Got %s
+PROG:8011ad14	Inventory full.\nPut %s in the storehouse?
+PROG:8011ad44	Cannot carry %s.\nMove items %s?
+PROG:8011ad88	Gave up %s
+PROG:8011add8	%s reached Level %u
+PROG:8011adf0	Learned skill "%s"
+PROG:8011ae90	Can equip
+PROG:8011ae9c	%s joined the party
+PROG:8011af54	OK?
+PROG:8011af64	Failed to load message "%s"
+PROG:8011b250	Sound Output
+PROG:8011b264	Unit Movement
+PROG:8011b278	Battle Animation
+PROG:8011b28c	Enemy Actions
+PROG:8011b2a0	Scroll Width
+PROG:8011b2b8	Grid Display
+PROG:8011b2cc	Stereo
+PROG:8011b2d8	Mono
+PROG:8011b2e4	On
+PROG:8011b2f0	Off
+PROG:8011b2fc	On
+PROG:8011b308	Off
+PROG:8011b314	Quick
+PROG:8011b320	4 Hex
+PROG:8011b32c	3 Hex
+PROG:8011b338	2 Hex
+PROG:8011b344	1 Hex
+PROG:8011b350	Settings
+PROG:8011b35c	                                Game Start
+PROG:8011b374	OK
+PROG:8011b388	Cannot be shown now.
+PROG:8011b474	Save here?
+PROG:8011b48c	Continue without saving?
+PROG:8011b4ac	Enter %s?
+PROG:8011b4c0	Yoshida-Kōriyama
+PROG:8011b4cc	Iyo Yuzuki
+PROG:8011b4d8	Nagato Katsuyama
+PROG:8011b4e4	Gassan-Toda
+PROG:8011b4f0	Hieoyama
+PROG:8011b4fc	Aki Takamatsu
+PROG:8011b508	Bitchū Takamatsu
+PROG:8011b548	Found the pirates' treasure
+PROG:8011b560	Funds are now 50,000 gold
+PROG:8011b574	Council
+PROG:8011b580	Retainers
+PROG:8011b720	Weapons
+PROG:8011b72c	Support
+PROG:8011b738	Healing
+PROG:8011b744	Storehouse (%s)
+PROG:8011b750	Unequip
+PROG:8011b75c	Store
+PROG:8011b768	Equip
+PROG:8011b774	Equip it?
+PROG:8011b784	Item Info
+PROG:8011b790	Officer Side
+PROG:8011b79c	Store Side
+PROG:8011b7a8	No materials stored.
+PROG:8011b7c0	Support Items
+PROG:8011b7cc	Healing Items
+PROG:8011b7d8	Name (%s)
+PROG:8011b7e4	Class Up
+PROG:8011b7f4	Movement +
+PROG:8011b800	Exp Gain +
+PROG:8011b810	------
+PROG:8011b820	No %s
+PROG:8011b830	No items in the storehouse.
+PROG:8011bdd0	No one remains who\ncan serve as your\nsparring partner.
+PROG:8011be08	Who will spar?
+PROG:8011be28	You have no weapon\nequipped, so you\ncannot spar.
+PROG:8011be60	Cancel sparring?
+PROG:8011be78	A stake is required\nfor each opponent.
+PROG:8011bea0	Not enough for the stake.
+PROG:8011beb8	Pay a stake of %d?
+PROG:8011bed0	%s's Luck rose by 1
+PROG:8011beec	Sometimes it is wise\nto withdraw...
+PROG:8011bf0c	Fleeing, too, is\npart of strategy.
+PROG:8011bf30	It is a draw, so your\nstake is returned.
+PROG:8011bf5c	No one here can\nmatch you now.\nPlease spare us\nany more.
+PROG:8011bfa8	In a real battle,\nyou would be dead.
+PROG:8011bfd0	%s's Luck fell by 1
+PROG:8011bfec	The skill cannot be used.
+PROG:8011c29c	If you do not mind,\nmay I have your name?
+PROG:8011c2c8	I am called\n%s.
+PROG:8011c2e0	Then you are\nthat Mōri...\n
+PROG:8011c2f8	I see.\nNow it all\nmakes sense.
+PROG:8011c31c	Take %s along?
+PROG:8011c334	What say you?\nWill you not let\nme come along?
+PROG:8011c368	Lord Motonari,\nwhat will you do?
+PROG:8011c388	%s joined the party
+PROG:8011c39c	Oh, I almost\nforgot.
+PROG:8011c3bc	This has been\nhanded down in\nmy family.
+PROG:8011c3dc	Please put it\nto good use.
+PROG:8011c3fc	What a pity,\nbut it cannot\nbe helped.
+PROG:8011c424	Then please\nmake use of\nthis somehow.
+PROG:8011c454	Your spirit has\nbeaten me.\nI am humbled.
+PROG:8011c484	You seem to have\nyour reasons.
+PROG:8011c4b0	If you wish, I\nwill lend you\nmy strength.
+PROG:8011c4d4	Lord Motonari,\nwhat will you do?
+PROG:8011c4f4	Ah yes, please\nmake use of\nthis somehow.
+PROG:8011c524	I understand.\nThat is fine\ntoo.
+PROG:8011c550	...Ah, I know.\nPlease take\nthis.
+PROG:8011c578	Not enough gold
+PROG:8011c58c	%s appears
+PROG:8011c598	%s reached Level %u
+PROG:8011c5b0	Learned "%s"
+PROG:8011c5c4	No usable skills!
+PROG:8011c5e4	%s's Attack rose
+PROG:8011c5fc	%s's Attack fell
+PROG:8011c614	%s's Defence rose
+PROG:8011c62c	%s's Defence fell
+PROG:8011c644	%s's Intellect rose
+PROG:8011c65c	%s's Intellect fell
+PROG:8011c674	%s is no longer bound.
+PROG:8011c690	%s is no longer sealed.
+PROG:8011c6ac	%s is no longer confused.
+PROG:8011c6c8	%s is no longer wounded.
+PROG:8011c6e4	%s is no longer jinxed.
+PROG:8011c700	-
+PROG:8011c728	%2u turns left
+PROG:8011c734	-
+PROG:8011c760	%s's attack missed
+PROG:8011c774	Got %d gold in prize money
+PROG:8011c788	%s's attack missed
+PROG:8011c79c	%s sent to storehouse
+PROG:8011c7b0	No room in storehouse; gave it up
+PROG:8011c7d0	Got %s
+PROG:8011c7dc	Inventory full.\nPut it in the storehouse?
+PROG:8011c808	Move items %s?
+PROG:8011c824	Give up %s?
+PROG:8011c83c	Gave up %s
+PROG:8011c84c	%s is wounded!
+PROG:8011c864	%s is confused!
+PROG:8011c87c	%s is jinxed!
+PROG:8011c894	%s is sealed!
+PROG:8011d748	Gunsmith
+PROG:8011d754	Sword & Spear Smith
+PROG:8011d760	Chōsokabe
+PROG:8011d76c	Aki Gentry
+PROG:8011d778	Bingo Gentry
+PROG:8011d784	Cavalry Gen.
+PROG:8011d790	Bow Cav. Gen.
+PROG:8011d79c	Gun Gen.
+PROG:8011d7a8	Kunoichi Chief
+PROG:8011d7b4	Yamabushi
+PROG:8011d7c0	Council Hall
+PROG:8011d7cc	Senior Retainers' Hall
+PROG:8011d840	OK?
+PROG:8011d854	    Yes            No
+PROG:8011d9ac	-
+PROG:8011d9e8	-
+PROG:8011da40	Attack
+PROG:8011da4c	Defence
+PROG:8011da58	Intellect
+PROG:8011da64	Allied Unit
+PROG:8011da70	%s's %s rose
+PROG:8011da84	%s's %s fell
+PROG:8011da98	%s took %u damage
+PROG:8011dab0	%s is no longer bound.
+PROG:8011dacc	%s is bound!
+PROG:8011dae4	%s is no longer jinxed.
+PROG:8011db00	%s is jinxed!
+PROG:8011db18	%s is no longer sealed.
+PROG:8011db34	%s is sealed!
+PROG:8011db4c	%s is no longer confused.
+PROG:8011db68	%s is confused!
+PROG:8011db80	%s is no longer wounded.
+PROG:8011db9c	%s is wounded!
+PROG:8011dbb4	-
+PROG:8011dbf8	-
+PROG:8011dc40	-
+PROG:8011dc78	%s retreated, unfulfilled
+PROG:8011dc90	%s retreated
+PROG:8011dca0	The Mōri dream ends here...
+PROG:8011dcbc	End %4u/%3u
+PROG:8011dcc8	SP %4u/%3u
+PROG:8011dce0	-
+PROG:8011de30	%s was bound!
+PROG:8011de44	%s was sealed!
+PROG:8011de58	%s was confused!
+PROG:8011de6c	Required weapon not equipped.
+PROG:8011de90	Usable only in rain.
+PROG:8011deac	%s was jinxed!
+PROG:8011dec0	Cannot heal further.
+PROG:8011ded8	Not enough Endurance.
+PROG:8011def8	Unusable in rain.
+PROG:8011df10	Unusable while wounded.
+PROG:8011df2c	Skill Points too high to use.
+PROG:8011df50	Cannot act while bound.
+PROG:8011df6c	Usable only at sea.
+PROG:8011df88	Usable only in towns, villages.
+PROG:8011dfac	Unusable at sea or in shallows.
+PROG:8011dfc8	Usable only in hills, woods.
+PROG:8011dfe8	Usable only at sea, in shallows.
+PROG:8011e008	Usable only on enemies in hills.
+PROG:8011e028	Usable only on enemies at sea.
+PROG:8011e048	Cavalry types only.
+PROG:8011e068	No enemy unit at sea.
+PROG:8011e084	Cannot use on Kunoichi types.
+PROG:8011e0a0	Defence cannot be lowered more.
+PROG:8011e0c0	Cannot use on that unit again.
+PROG:8011e0e4	Only units yet to act.
+PROG:8011e104	It began to rain.
+PROG:8011e110	The sky cleared.
+PROG:8011e120	Cannot do any more.
+PROG:8011e138	No need to heal.
+PROG:8011e154	Level too low
+PROG:8011e164	Cannot use on that unit.
+PROG:8011e180	No weapon: cannot attack.
+PROG:8011e19c	Cannot attack in rain.
+PROG:8011e1b4	You hold no items.
+PROG:8011e1cc	Gave to %s
+PROG:8011e1dc	Cannot hold more items.
+PROG:8011e1f8	Equip %s?
+PROG:8011e20c	Unequipped %s
+PROG:8011e220	Not enough Skill Points.
+PROG:8011e238	Cannot target commander.
+PROG:8011e254	Cannot do that here.
+PROG:8011e26c	Cannot target supply train.
+PROG:8011e288	Cannot target own unit.
+PROG:8011e2a4	Got %d gold
+PROG:8011e2b0	Out of movement range.
+PROG:8011e2c8	Cannot Class Up further.
+PROG:8011e2e8	Skills are sealed.
+PROG:8011e300	Rally?
+PROG:8011e318	Give the equipped %s?
+PROG:8011e334	Give %s?
+PROG:8011e348	Cannot give to own unit.
+PROG:8011e360	Drop the equipped %s?
+PROG:8011e37c	Drop %s?
+PROG:8011e390	Dropped %s
+PROG:8011e3a0	Cannot equip that item.
+PROG:8011e3bc	Unequip %s?
+PROG:8011e3d4	Not a usable item.
+PROG:8011e3f4	%s used %s
+PROG:8011e404	No usable skills!
+PROG:8011e7c8	The skill failed.
+PROG:8011e7d8	%s dodged the attack
+PROG:8011e7ec	Critical hit!
+PROG:8011e7fc	Lucky hit!
+PROG:8011fad4	No allied units in range.
+PROG:8011faf0	No enemy units in range.
+PROG:8011fb0c	Enemy unit
+PROG:8011fb18	Cannot select that unit.
+PROG:8011fb34	Cannot attack allied units.
+PROG:8011fb50	Out of range.
+PROG:8011fb68	No entry
+PROG:8011fbb4	No one is at the camp.
+PROG:8011fbcc	Not a sortie area.
+PROG:8011fbe4	Cannot sortie any more.
+PROG:8011fbfc	Cancel the ongoing rally?
+PROG:8011fc1c	-
+PROG:8011fc54	-
+PROG:8011fc74	Out of movement range.
+PROG:8011fca8	Found a Book of Secrets
+PROG:80120114	Details
+PROG:80120120	Select All
+PROG:8012012c	By Atk 
+PROG:80120138	By Def 
+PROG:80120144	Select Officer: %s
+PROG:801201e4	Skill
+PROG:801201fc	Req. Item
+PROG:8012020c	Item Info
+PROG:80120218	Skill Info
+PROG:80120278	End all unit commands?
+PROG:8012029c	<< Full Retreat >>\n\nA full retreat returns you to\nthe start of the battle.
+PROG:801202d4	No units can act.
+PROG:801202f0	%s %2d/%2d
+PROG:80120310	-
+PROG:8012033c	-
+PROG:8012036c	Enemy Phase
+PROG:8012037c	-
+PROG:80120394	No units can rally.
+PROG:801203b0	Choose a rally point.
+PROG:801203c8	Cannot move there.
+PROG:801203e0	Player Phase
+PROG:801203f0	The battle dragged on.\nRetreating.
+PROG:80120410	Turn %u  %s
+PROG:80120420	Surviving units each\ngained %u Exp
+PROG:80120458	-
+PROG:801205c4	I am the storekeeper.
+PROG:801205d8	To make %s,\nyou need %s, %s, %s.
+PROG:80120600	Short of %s%s%s%s%s.
+PROG:8012062c	The missing %s can be\nbought for %u gold,\nfee included.
+PROG:80120668	You have %u gold.\nBuy %s for %u gold?
+PROG:80120698	There is no room in the storehouse,\nso it could not be bought.
+PROG:801206d0	Not enough gold.
+PROG:801206e4	Welcome.
+PROG:801206f8	??????
+PROG:80120708	Owned
+PROG:80120714	Usable by
+PROG:80120724	Choose an item.
+PROG:8012073c	Item Info
+PROG:80120748	Main Items
+PROG:80120754	Choose a type.
+PROG:8012076c	------
+PROG:8012077c	Gunsmith
+PROG:80120788	Cannonsmith
+PROG:80120794	%s\nOK?
+PROG:801207ac	%s reached Level %u
+PROG:801207c4	Storehouse is full
+PROG:801207d8	Materials are short.
+PROG:801207f0	Buying the missing\nmaterials costs %u gold.\nBuy them and make it?
+PROG:80120834	Not enough gold
+PROG:80120848	○ Can make
+PROG:80120854	△ Buy materials, make
+PROG:80120870	× Can't make
+PROG:80120880	Class Up
+PROG:80120890	x Unskilled
+PROG:801208a8	Stored
+PROG:801208b4	Carried
+PROG:80120a40	Weapons
+PROG:80120a4c	Support
+PROG:80120a58	Healing
+PROG:80120a64	Materials
+PROG:80120a70	Price
+PROG:80120a7c	Goods
+PROG:80120a88	Storehouse
+PROG:80120a94	Not enough gold
+PROG:80120aa8	Cannot buy more
+PROG:80120abc	Usable by
+PROG:80120acc	Owned
+PROG:80120ad8	Can Buy
+PROG:80120ae4	How many?
+PROG:80120afc	OK?
+PROG:80120b10	Can Sell
+PROG:80120b1c	How many will\nyou sell me?
+PROG:80120b3c	Buy/Sell
+PROG:80120b48	Item Info
+PROG:80120b54	Thank you very much.
+PROG:80120d04	Story
+PROG:80120d10	Item Storage
+PROG:80120d20	Items
+PROG:80120d2c	Materials
+PROG:80120d38	Store/Take
+PROG:80120d44	End Phase
+PROG:80120d54	Victory
+PROG:80120d60	Full Map
+PROG:80120d6c	Turn %u
+PROG:80120db4	SP Cost %3u
+PROG:80120dc4	Needs
+PROG:80120dd0	None
+PROG:80120ddc	-------
+PROG:80120dec	Move Cursor
+PROG:80120dfc	Select/Clear
+PROG:80120e08	Details
+PROG:80120e14	Select All
+PROG:80120e20	Clear All
+PROG:80120e2c	-
+PROG:80120e38	-
+PROG:80120e44	-
+PROG:80120e54	-
+PROG:80120e60	-
+PROG:80120e6c	-
+PROG:80120e78	-
+PROG:80120e88	-
+PROG:80120e98	-
+PROG:80120ea4	-
+PROG:80120eb0	-
+PROG:80120ebc	-
+PROG:80120ec8	-
+PROG:80120ed4	-
+PROG:80120ee0	-

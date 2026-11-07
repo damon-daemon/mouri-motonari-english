@@ -1,0 +1,810 @@
+@3.0
+Thanks to Shibata's sudden attack, we were spared annihilation, but our losses are heavy.
+
+@3.1
+What of the Mōri army?
+
+@3.2
+They seem to have withdrawn to Azuchi Castle.
+
+@3.3
+Now, while they are weary from battle, may be the time to strike. We enter Gifu Castle and use it as our base to take Azuchi.
+
+@3.4
+Let me join your ranks in that battle.
+
+@4.0
+Hm! Who are you?!
+
+@4.1
+It is all right. I know this man.
+
+@4.2
+Very well. You may join our army.
+
+@4.4
+(Who is this man? This killing intent... it is no ordinary one.)
+
+@5
+Azuchi Castle
+
+@7.0
+I hear Tokugawa Ieyasu has entered Gifu Castle.
+
+@7.1
+He means to attack Azuchi Castle.
+
+@7.2
+Azuchi Castle was badly damaged in the fight with Mitsuhide. It is in no state to withstand a siege.
+
+@7.3
+Let us meet the enemy at Sekigahara, between Azuchi and Gifu, before they reach the castle.
+
+@7.4
+Good! Prepare to march!
+
+@26
+Azuchi Castle - Senior Retainers' Hall
+
+@53.0
+What is all this rampaging? You are a nuisance to everyone. Calm down!
+
+@53.1
+Shut up! If I am such a nuisance, I will go over there.
+
+@53.2
+But you are coming too!
+
+@53.3
+Come on!
+
+@53.4
+Oh dear...
+
+@55.0
+I am furious right now!
+
+@55.1
+Acting so high and mighty... I will make you pay!
+
+@55.2
+If you get so hot-headed, you cannot use your strength as you wish.
+
+@55.3
+Shut up! Here I come!
+
+@56.0
+Whoa?!
+
+@57.0
+As I told you. I do not know your reasons, but cool your head a little.
+
+@57.1
+Damn it!
+
+@60
+Azuchi - Storehouse
+
+@61
+Azuchi - Workshop
+
+@62
+Azuchi - Tavern
+
+@63
+Azuchi - Market
+
+@65.0
+Out of my way! Move it!
+
+@66.0
+What a slippery fellow!
+
+@67.0
+Did a man come running this way just now?
+
+@67.1
+Yes. A man bumped into me and ran straight on...
+
+@67.2
+Can you tell me what he looked like?
+
+@67.4
+What was he wearing?
+
+@68
+A farmer's clothes\nA yamabushi's clothes\nA townsman's clothes\nA ninja's clothes
+
+@69.0
+What colour were his clothes?
+
+@70
+Red clothes\nBlack clothes\nWhite clothes\nBrown clothes
+
+@71.0
+Was there anything else about him?
+
+@72
+A white hat\nA very fat face\nA very bushy beard\nA big scar on his brow
+
+@73.0
+Thank you for your help. I will search for the man by those features.
+
+@73.1
+By the way, what did he do?
+
+@73.2
+He stole the money from the tavern.
+
+@73.3
+Then, if you will excuse me...
+
+@74
+Azuchi - Training Ground
+
+@75
+Azuchi - House
+
+@76.0
+You have truly... grown into a fine man. Lord Takamoto must be pleased.
+
+@77.0
+I will not fight in any way that would stain my father's name.
+
+@79.0
+Whoever wins this battle will hold the realm in his hand.
+
+@80.0
+Let this one battle be the last.
+
+@81.0
+The battle looks likely to be fought around Yamazaki.
+
+@83.0
+Nobunaga's fierce nature brought him close to the realm, and also took his life...
+
+@85.0
+The Oda generals on campaign must be hurrying back in desperation about now.
+
+@86.0
+Even so, it was something to defeat the Hashiba army.
+
+@89.0
+Hiroie does nothing but martial training.
+
+@90.0
+Now, let us march.
+
+@93.0
+At last, the decisive battle...\n\n\nLord Motonari... Father... watch over me.
+
+@93.1
+Hm...!
+
+@94.0
+Hotaru...
+
+@95.0
+Lord Terumoto...\n\n\nSo the decisive battle is upon us... I pray for your good fortune in arms.
+
+@95.1
+Hotaru...\n\n\nI still feel the battlefield does not suit you. I may not come back alive from this battle. Do not march with us. Stay in the castle.
+
+@95.2
+Lord Terumoto, what are you saying?! I will fight at your side.
+
+@95.3
+Hotaru, I do not want to put you in any more danger.
+
+@95.5
+When this war is over, live the life of an ordinary woman.
+
+@95.6
+And live with me at Kōriyama.
+
+@95.8
+I will surely come back alive, for your sake. Until then, we part for a short while.
+
+@97.0
+Once peace comes, I will ask Lord Takakage to teach me some interesting calligraphy.
+
+@100.0
+An end to this long age of war.
+
+@101.0
+I would like a lady-in-waiting. It is rather lonely here.
+
+@102.0
+Making a name on the battlefield is the honour of a warrior.
+
+@103.0
+Someone is causing trouble in the market? What is going on?
+
+@104.0
+My father is a gunsmith. But I have no intention of leaving the army.
+
+@105.0
+I feel we can win the coming battles.
+
+@107.0
+So this is how a famous sword is made.
+
+@109.0
+Lord Terumoto, are you all right?
+
+@110.0
+I am ready to go to war at any time.
+
+@112.0
+"Never forget your first resolve"... I always keep those words in mind.
+
+@113.0
+All the craftsmen take pride in their work.
+
+@116.0
+This storehouse will soon need rebuilding.
+
+@119.0
+Someone is rampaging in the market?
+
+@123.0
+If I must work, I do not mind being transferred, but I would like a place with good sake.
+
+@124.0
+I stake my life on guarding the storehouse.
+
+@125.0
+Only by judging the strengths and weaknesses of everything can one show one's full power.
+
+@126.0
+Have you caught the man who stole the tavern's money?
+
+@127.1
+I see. Well done.
+
+@127.2
+This is all thanks to you, Lord Terumoto.
+
+@127.3
+The owner here wishes to thank you.
+
+@128.0
+I am the owner. Thanks to you, Lord Terumoto, the shop's money came back safely.
+
+@128.1
+This is only a token of thanks. Please accept it.
+
+@130.0
+Please, make yourself at home.
+
+@131.0
+No, it is like this...
+
+@131.1
+I searched for a man matching the description you gave...
+
+@131.2
+but I cannot pick up his trail after he left the market.
+
+@131.3
+Perhaps he is no longer in this castle town.
+
+@132.0
+I always think I want to make a world where the people can live in peace.
+
+@133.0
+Everything depends on piling up the days.
+
+@134.0
+How quickly the days and months pass.
+
+@135.0
+When the sake is good, everything goes well.
+
+@136.0
+Have you come today to buy equipment for the war?
+
+@137.0
+Lord Terumoto, were you not hurt?
+
+@137.1
+No, I am fine. See, as you can tell.
+
+@137.2
+So it was needless worry, Lord Terumoto.\n\nWell, I am just glad you are unhurt.
+
+@137.3
+Anyway, this is a small token of thanks from everyone here. Please accept it.
+
+@138.0
+I used to be a merchant, but my business failed.
+
+@138.1
+Now I am training to become a swordsmith.
+
+@139.0
+May my whole family stay healthy...
+
+@140.0
+In life, if you think positively, things work out somehow.
+
+@141.0
+For some reason, being in the market calms my heart.
+
+@142.0
+At least while you are in the tavern, take a rest.
+
+@144.0
+Please, make yourself at home.
+
+@145.0
+I like gambling better than three meals a day.
+
+@146.0
+Life is precious. When I think of the soldiers who lose their lives in war...
+
+@147.0
+I do not know if it will be of use, but please take this.
+
+@148.0
+Something is going on out there.
+
+@149.0
+I drink badly, so I am holding off on sake.
+
+@150.0
+I am truly grateful to you, Lord Terumoto.
+
+@151.0
+Are you Lord Terumoto?
+
+@151.1
+Indeed, I am Terumoto.
+
+@151.2
+I hear you helped my pregnant wife in the market.\n\nThanks to you, nothing serious happened.
+
+@151.3
+I do not know how to thank you...
+
+@151.4
+No thanks are needed. I only did what any person should.
+
+@151.5
+But I will not feel right otherwise.\n\nPlease accept this.
+
+@152.0
+My pregnant wife went shopping in the market and has not come back. I should have gone with her.
+
+@155.0
+I am a swordsmith.
+
+@155.1
+I would very much like to work for you, Lord Terumoto...
+
+@157.0
+I see. Then go to the workshop. I am counting on you.
+
+@158.0
+Hey, you!
+
+@158.1
+That sword I had you make the other day does not cut at all!
+
+@158.2
+It is completely useless. Make it again at once!
+
+@158.3
+Yes, right away...
+
+@158.5
+Forget what I said just now.
+
+@158.6
+Eek, oh no!
+
+@158.7
+Come on, hurry up!
+
+@159.0
+No, I have enough for now.
+
+@159.1
+I see... Then please give me the chance another time.
+
+@160.0
+Helping out? That must be hard.
+
+@160.1
+My mother is sick... But I am used to the tavern work, so I am fine.
+
+@161.0
+Hey, we are out of sake!
+
+@162.0
+Here to see the market today?
+
+@164.0
+Is there some trouble?
+
+@165.0
+Drinking sake in the daytime is like a dream.
+
+@166.0
+It is terrible! Somebody is causing a huge ruckus in the market!
+
+@167.0
+That is it. I am giving up sake from today.
+
+@169.0
+On second thought, I will start tomorrow...
+
+@170.0
+This is a place of rest for working men, is it not?
+
+@172.0
+Please make the world a peaceful one.
+
+@173.0
+Drinking is also a way to forget sorrow.
+
+@176.0
+The way of brewing sake is a steep one.
+
+@177.0
+Lord Terumoto... I feel as if someone is following me...
+
+@177.1
+Is it not your imagination?
+
+@177.2
+I feel it even now. As if someone is watching me.
+
+@177.3
+Then go on ahead. I will keep watch here.
+
+@177.4
+Thank you. I leave it to you.
+
+@178.3
+It was only your imagination after all...
+
+@179.0
+I am so glad to see you safe.
+
+@181.0
+The market is a truly charming place.
+
+@182.0
+Thanks to you, I should be able to give birth to a healthy child.
+
+@183.0
+Thank you so much for helping me, in my condition, in the market.
+
+@183.1
+This is my husband.
+
+@184.0
+Ugh...
+
+@185.0
+What is the matter?
+
+@185.1
+Oh, nothing. I just felt a little unwell.
+
+@185.2
+Hm! You are with child!
+
+@185.3
+Y-yes...
+
+@185.4
+Go home and rest.
+
+@186.0
+Yes. I am sorry to have worried you. I am quite all right now.
+
+@186.1
+Very well. Let me see you part of the way.
+
+@187.0
+I am quite all right now. Thank you so much.
+
+@187.1
+Take care.
+
+@188.0
+I would like to go and see Kyōto once.
+
+@189.0
+My late husband loved sake dearly.
+
+@190.0
+Human beings were not born to fight each other.
+
+@191.0
+Drink in moderation. That is the courtesy owed to sake.
+
+@192.0
+This market has gradually got better, has it not?
+
+@193.0
+What a dangerous fellow he was.
+
+@194.0
+That you were born Lord Motonari's grandson, Lord Terumoto, is fate.
+
+@194.1
+That I was born a farmer's son is fate too.
+
+@196.0
+Someone rampaging... what a nuisance.
+
+@197.0
+Sake is best when you are pleasantly tipsy.
+
+@198.0
+I want my children to have a good life.
+
+@199.0
+Farmers have worries of their own, you know.
+
+@200.0
+When I am here, I end up wasting money without meaning to.
+
+@202.0
+You are working hard.
+
+@202.1
+Yes, I like this work.
+
+@203.0
+The snacks have not come!
+
+@204.0
+Please keep governing us well from now on.
+
+@206.0
+I believe that if you wish strongly enough, dreams come true.
+
+@207.0
+The proprietress seems to be off today.\n\nHer daughter is doing her best in her place.
+
+@208.0
+I hope the world becomes even more peaceful from here on.
+
+@209.0
+That was frightening.
+
+@210.0
+The word for tomorrow is written "bright day". It means we should live with bright hope.
+
+@211.0
+I am gradually coming to understand how good sake tastes.
+
+@212.0
+I often played here as a child.
+
+@213.0
+My children listen well to what their parents say.
+
+@214.0
+Lord Terumoto, this is all we can do, but please accept it.
+
+@215.0
+I come here often.
+
+@216.0
+A family is best living together.
+
+@217.0
+I believe in you, Lord Terumoto.
+
+@219.1
+Listen. In war, troop numbers alone are not enough. What matters is strategy. Only by building strategy well...
+
+@220.0
+When this old man gets drunk his stories get awfully long. Better not keep him company.
+
+@221.0
+Only a man bold enough to aim for the realm can become the lord of even one province. That is how it is.
+
+@222.0
+The storehouses of old were not nearly so grand as this.
+
+@224.0
+When things made by hand break, it cannot be helped.\n\nBut once a person's heart is broken, it cannot be mended.
+
+@225.0
+Everyone has strengths and weaknesses.\n\nOnly one who knows his own abilities can be a true ruler of the realm.
+
+@226.0
+Oh, Lord Terumoto, how fine you have grown! Do you remember my face?
+
+@228.0
+This is unsettling.
+
+@229.0
+My dear only daughter has married and left. I am terribly lonely.
+
+@232.0
+There have always been troublemakers like that.
+
+@234.0
+I am happiest now. I would have no regrets whenever I die.
+
+@237.0
+Being young is a fine thing.
+
+@238.0
+How frightening.
+
+@241.0
+Younger ones go before me. ...How sad.
+
+@242.0
+I am going to help Grandpa with his work.
+
+@243.0
+I wonder if someday I will enjoy sake too.
+
+@244.0
+Grandma is very kind.
+
+@245.0
+Samurai are cool!
+
+@246.0
+When I grow up I will be a fine craftsman.
+
+@247.0
+When I grow up I will be a swordsmith and make fine swords.
+
+@249.0
+That guy looked strong and scary, but he was not much after all.
+
+@250.0
+I turn nine this year.
+
+@251.0
+War must be hard, right? Dad said so.
+
+@253.0
+I want a little sister.
+
+@255.0
+Phew... minding the shop is hard.
+
+@257.0
+Do what you want to do. Leave no regrets.
+
+@259.0
+Everyone makes mistakes at times.
+
+@260.0
+Those who stray from the path of humanity will surely meet heaven's punishment.
+
+@261.0
+I pray for your good fortune in arms, Lord Terumoto.
+
+@262.0
+Lord Terumoto, in battle luck matters too.
+
+@262.1
+Reading a book can sometimes change your luck.
+
+@262.2
+Is there such a book?
+
+@262.3
+Yes. Please read this one.
+
+@263
+Read "Key to Good Luck"
+
+@265.0
+Knowing your enemy and knowing yourself is the secret of constant victory.
+
+@266.0
+Good and evil are like the two sides of a sheet of paper.
+
+@266.2
+Such things happen often in daily life.
+
+@269.0
+Lord Terumoto, I have brought medicine. Please put it to use.
+
+@269.1
+Please choose one of these three.
+
+@270
+Attack Tonic\nDefence Tonic\nIntellect Tonic
+
+@271.0
+There may be wounded. My time may be coming.
+
+@272.0
+It is not for me to say, but do not rely too much on medicine.
+
+@274.0
+Lord Terumoto, while I was tidying the storehouse, some medicine turned up. Please take it, if you will.
+
+@274.1
+Please choose one of these three.
+
+@275
+Bind-Breaker\nSeal-Breaker\nRestorative
+
+@279.0
+Humans are creatures who study all their lives.
+
+@280.0
+A craftsman needs materials.\n\nWithout materials there is no work.
+
+@281.0
+What is going on?
+
+@282.0
+Training never ends. Always keeping the will to improve is what matters.
+
+@283.0
+It is the heart, not profit and loss, that moves people.\n\nYou have that heart, Lord Terumoto.
+
+@284.0
+It is important to train with a clear purpose.
+
+@285.0
+I am still inexperienced.
+
+@285.1
+But I will train hard and grow into a man who is useful in battle.
+
+@286.0
+Drink more, man. It is only polite.
+
+@289.0
+The spirit of a craftsman at work is remarkable.
+
+@292.0
+The path of martial arts goes on, long and endless.
+
+@293.0
+Do not let your guard down just because your skill has risen a little. There is always someone above you.
+
+@294.0
+A craftsman's hands are astonishingly quick.
+
+@295.0
+We will soon have to expand this storehouse.
+
+@296.0
+Impressive, for one so small.
+
+@296.1
+I am already grown up, you know.
+
+@297.0
+Hey, more sake over here!
+
+@298.0
+As long as you are here, Lord Terumoto, the Mōri are secure.
+
+@299.0
+Our shuriken are made here too.
+
+@300.0
+Please come home safely to Kōriyama.
+
+@301.0
+Peace is almost here. Please do your best.
+
+@302.0
+Compared with when I first came, you look a size larger, Lord Terumoto.
+
+@303.0
+Her ladyship is in another room, tending to Lord Motoharu day and night.
+
+@304.0
+When peace comes, I mean to have Lord Takakage teach me scholarship.
+

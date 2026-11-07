@@ -1,0 +1,63 @@
+@0.0
+The time has come to revive the Amago! We retake Gassan-Toda Castle!
+
+@1.0
+The Amago remnants have moved. We must strike them early. Everyone, sally forth!
+
+@2
+Battle of Nunobeyama\nVictory\n  1. Amago Katsuhisa retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@3.0
+The Amago remnants seem to have holed up in Nunobeyama Castle.
+
+@3.1
+From Nunobeyama Castle to Gassan-Toda Castle is only a short distance. Let us crush them here.
+
+@3.2
+They seem to have gathered a good number of guns and cannon. We may assume the Oda and Ōtomo are behind them.
+
+@3.3
+Heh heh, the Mōri seem astonished at our array.
+
+@3.4
+They never expected us to have so many guns and cannon.
+
+@3.5
+Kikkawa, Kobayakawa, what can they do! This Nunobe land will be your grave!
+
+@3.6
+Shikanosuke... The Mōri force looks large. Can we truly win?
+
+@3.7
+Leave it to me. Battles are decided by the number of guns. However elite the Mōri may be, they cannot match us.
+
+@4
+Battle of Nunobeyama\n\nVictory\n  1. Amago Katsuhisa retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 80 turns pass
+
+@5.0
+Retreat!
+
+@6.0
+Ugh!\n\n\nShikanosuke... Sanaenosuke... Iorinosuke... Farewell... Restore... the Amago... without fail...
+
+@8.0
+Damn! Beaten by the Mōri again...
+
+@13.0
+I am Kiryū Shinbei, a spear smith. Please let me join your company.
+
+@18.0
+Motonari!
+
+@18.1
+(A survivor of the Amago clan...)
+
+@18.2
+Eek, retreat! Run, run away!
+
+@22.0
+Find Amago Katsuhisa!
+
+@22.1
+Capture Shikanosuke and the other old Amago retainers!
+

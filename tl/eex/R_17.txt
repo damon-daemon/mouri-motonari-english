@@ -1,0 +1,1518 @@
+@2.0
+You refuse to let me commit seppuku?
+
+@2.1
+The Amago are a noble house. Their name must not be allowed to die out.
+
+@2.2
+You would have me live in shame?!
+
+@2.3
+Living is no shame. Throwing away your life for nothing is the shame.
+
+@2.4
+Is this about Takamoto? Then you are mistaken!
+
+@2.5
+You fought with countless schemes yourself. Did you not scatter many lives for nothing?!
+
+@2.6
+Indeed... And that is why I want to save the lives I can. There is no need for you to die.
+
+@2.7
+The war between the Amago and the Mōri is over.
+
+@3.0
+Stop playing the saint, Motonari!
+
+@3.1
+Spend the rest of your days in Aki. You know well that the defeated have no right to choose.
+
+@3.2
+Damn you... Remember this...!
+
+@4.0
+And what do you mean to do with me?
+
+@4.1
+You may not go with Yoshihisa or Michihisa. Beyond that, do as you please.
+
+@4.2
+You mean to set me free?
+
+@4.3
+I do.
+
+@4.4
+...Then I gratefully accept your offer.
+
+@5.0
+(You will regret this... Motonari...)
+
+@6.0
+Is this wise?
+
+@6.1
+A sprout must be plucked before it grows.
+
+@6.2
+You mean Yamanaka Shikanosuke.
+
+@6.3
+That man is dangerous. We must lure him out and finish him.
+
+@7.0
+Never take your eyes off Yoshihisa, Michihisa and Tachihara. Someone is bound to approach them. Find Yamanaka Shikanosuke among them.
+
+@8.0
+Good, we return to Kōriyama. Make ready!
+
+@9.0
+What is it, Terumoto?
+
+@9.1
+...Grandfather's methods... Are they not the same as the Amago's and the Ōuchi's?
+
+@9.2
+They resemble what our retainers always told us of the Ōuchi and Amago.
+
+@9.3
+Grandfather himself was once feared by them and treated cruelly.
+
+@9.5
+I cannot accept that he does the same to Yamanaka Shikanosuke.
+
+@9.6
+Yes, I understand what you mean. But in this warring age, you kill or are killed. Remember that well.
+
+@9.7
+But...
+
+@9.8
+Come, let us go. You need not answer now.
+
+@11.0
+Calm yourself, Shino.
+
+@11.1
+Toda Castle has surrendered! Do you not wonder what has become of Lord Shikanosuke?
+
+@11.2
+Please trust him.
+
+@11.3
+He would not die so easily, or be taken prisoner.
+
+@11.4
+I know. But...
+
+@12.0
+Ah...! Lord Shikanosuke!
+
+@12.1
+Ugh...!
+
+@13.1
+L-Lord Shikanosuke!!
+
+@14.0
+Lord Shikanosuke! Are you all right?!
+
+@15
+Episode 18 "Reinforcements for Iyo"
+
+@16
+Episode 18 "Reinforcements for Iyo"
+
+@19.0
+Ah, Takakage! You came too.
+
+@19.1
+Yes. How is Father's condition?
+
+@19.2
+I do not know much either. I hear he collapsed suddenly after returning from Toda Castle.
+
+@19.3
+I hope it is not a grave illness...
+
+@19.4
+Anyway, let us hurry.
+
+@21.0
+We have arrived.
+
+@21.1
+Ah, Uncle.
+
+@21.2
+Oh... You came...
+
+@22.0
+Are you feeling well?
+
+@22.1
+Much better now. Thank you all for coming. I was about to send for you.
+
+@22.2
+It concerns the future. Avoid war for the coming year and let the troops rest.
+
+@22.3
+Yes, sir. Understood.
+
+@22.4
+With the West united, our long-cherished wish has been fulfilled.
+
+@22.5
+For a while I mean to watch how the realm moves, then decide our course.
+
+@22.6
+Understood. I will put effort into gathering intelligence everywhere.
+
+@22.7
+Especially in the East. Someone is sure to bid for the realm.
+
+@22.8
+We will clash with him sooner or later. Do not neglect to watch him closely.
+
+@22.10
+Now I will rest. I am tired. I shall recover for a while.
+
+@23
+Gifu Castle - Living Quarters
+
+@24.0
+I have come to congratulate you on the pacification of Mino.
+
+@25.0
+No need to be so formal. Now that you are Tokugawa Ieyasu, you are a fine lord of a province.
+
+@25.1
+And a valued ally of the Oda.
+
+@26.0
+It is an honour to hear you say so.
+
+@26.1
+Yes. The Tokugawa must secure our defences in the East.
+
+@26.2
+Then you mean to aim for the realm from here?
+
+@26.3
+I do. From now on, Inabayama will be my seat.
+
+@26.4
+That opens the road to Kyōto.
+
+@26.5
+Now then. There is something I must tell you all again.
+
+@26.6
+I rename this land of Inokuchi Gifu, and Inabayama Castle on it shall be Gifu Castle too.
+
+@27.0
+Hmm... Gifu, is it?
+
+@27.1
+Gifu. A fine ring to it.
+
+@27.2
+Hmph, the Monkey talks as if he knew.
+
+@27.3
+Hm! And does Lord Shibata know where the name comes from?
+
+@27.4
+Wh-what! Grrr...
+
+@27.5
+Oh, you do not know?
+
+@27.6
+Do YOU know?! Do you?!
+
+@27.7
+Well then...
+
+@27.8
+When China was under the Zhou, King Wu held Mount Qi and pacified the realm. The name comes from that story.
+
+@27.9
+Grrrr...!
+
+@27.10
+Oh, you knew that well.
+
+@27.11
+Yes, sir. Lord Akechi taught me.
+
+@27.12
+Wh-what? I thought it was something like that.
+
+@27.13
+As expected of Mitsuhide. So learned.
+
+@29.0
+...? And this gentleman is...
+
+@29.1
+Pleased to meet you. I am Akechi Mitsuhide.
+
+@29.2
+I plan to march on Kyōto soon, escorting the shōgun, Lord Yoshiaki.
+
+@29.3
+Mitsuhide is to be our guide.
+
+@29.4
+You plan to march on Kyōto? I am astonished.
+
+@29.5
+After that I must reach out to the West too.
+
+@29.6
+For that, I need you to hold the East.
+
+@29.7
+In the West, the Amago of Izumo have fallen and the Mōri have united the West.
+
+@29.8
+With the Kikkawa and Kobayakawa under them, they will not be shaken easily.
+
+@29.9
+The Mōri... How do you mean to deal with them?
+
+@29.10
+First, Hideyoshi will probe them.
+
+@29.11
+Leave it to me.
+
+@29.12
+The Mōri with the Kikkawa and Kobayakawa... A troublesome foe.
+
+@29.13
+Fear not. Soon I shall hold lands greater than the Mōri's. The contest begins then.
+
+@30
+In the West and in the East, the times were moving greatly.\nThe Mōri... and the Oda...\nTheir meeting was becoming unavoidable...\nAnd one year later...
+
+@31
+A Highway
+
+@32.0
+You need not see me off any farther.
+
+@32.1
+Shino, look after Mother. I will not return here until I have crushed the Mōri.
+
+@32.2
+Lord Shikanosuke...
+
+@32.3
+Mother, I shall be going.
+
+@32.4
+Take care...
+
+@32.5
+Then...
+
+@33.0
+Lord Shikanosuke...
+
+@33.1
+(We may never meet again... Do your best, Shikanosuke...)
+
+@36.0
+I see... You mean to retire...
+
+@36.2
+At my age, I am no use any more. I would only be a burden on the field.
+
+@36.3
+I too recovered fully from my sickbed and can move as before. You as well...
+
+@36.4
+Lord Motonari. Generations change; it is the way of the world. An old soldier must step aside in time.
+
+@36.5
+Boys, come in.
+
+@37.0
+Oh, it is you.
+
+@37.1
+I learned archery from my father and trained to serve the Mōri.
+
+@37.2
+I hope to show you the results on the battlefield.
+
+@37.3
+It has been a long time. I, Motoyoshi, will work twice as hard as Father.
+
+@37.4
+Gahaha! Bold words, whelp. Having said it, prove it in battle.
+
+@37.5
+I will show results before you die, Father.
+
+@37.6
+Gahaha! Well said!!
+
+@37.7
+I am counting on you, Motoyoshi, Mototake.
+
+@38.0
+I see... Kiku's son has grown this much already.
+
+@38.1
+I am grateful to my mother. To repay her, I mean to become a commander who supports the Mōri.
+
+@38.2
+Good. I expect much of you.
+
+@39
+Mototake's Attack rose by 5
+
+@40
+Mototake's Defence rose by 5
+
+@41
+Mototake's Intellect rose by 5
+
+@42
+Mototake's Accuracy rose by 5
+
+@43
+Mototake's Speed rose by 5
+
+@44.0
+I see... Kiku's son is going to war already.
+
+@44.1
+Better than Mother's nagging.
+
+@44.2
+Don't say needless things! Fool!
+
+@44.3
+Hahaha. A reliable grandson. Do your best.
+
+@45
+Kodama Motoyoshi's Attack rose by 5
+
+@46
+Kodama Motoyoshi's Defence rose by 5
+
+@47
+Kodama Motoyoshi's Intellect rose by 5
+
+@48
+Kodama Motoyoshi's Accuracy rose by 5
+
+@49
+Kodama Motoyoshi's Speed rose by 5
+
+@50.0
+Grandfather, Michifusa, son of Kurushima Michiyasu, has come. He looked rather grave.
+
+@50.1
+I see. I will go at once. You go ahead to the Council Hall.
+
+@53.0
+Lord Michifusa of Kurushima.
+
+@54.0
+I am Michifusa, son of Kurushima Michiyasu.\n\nMy father died recently, and I am to succeed him as head of the Kurushima.
+
+@54.1
+I see... So Michiyasu has gone... There will be a funeral soon. I shall attend.
+
+@54.2
+Yes, my thanks. And I have one more request today.
+
+@54.3
+Speak freely.
+
+@54.4
+Lord Kōno Michinao of Yuzuki Castle in Iyo has sent a plea for reinforcements.
+
+@54.5
+He can no longer bear the pressure from Utsunomiya Toyotsuna, lord of Ōzu Castle.
+
+@54.6
+Utsunomiya Toyotsuna...
+
+@54.7
+Toyotsuna had ties to the Ōtomo.
+
+@54.8
+It seems the Ōtomo have finally moved. Having made peace, they cannot act themselves, so they provoke us through another land.
+
+@54.9
+Provocation or not, we cannot let this pass.
+
+@54.10
+Hmm... What to do?
+
+@55.0
+I am Kurushima Michifusa. I have come with an earnest request.
+
+@55.2
+The Kurushima are old friends of the Kōno of Iyo.
+
+@55.3
+Lord Kōno Michinao of Yuzuki Castle in Iyo has sent a plea for reinforcements.
+
+@55.4
+He can no longer bear the pressure from Utsunomiya Toyotsuna, lord of Ōzu Castle.
+
+@55.5
+Lord Kōno cannot leave his castle, so I have come in his place.
+
+@55.6
+I see. But still...
+
+@55.7
+Once you send reinforcements, the Kurushima will swear loyalty to the Mōri.
+
+@55.8
+Not a bad offer.
+
+@55.9
+Toyotsuna is close to the Ōtomo. They may be behind this.
+
+@55.10
+Then we cannot ignore it all the more.
+
+@55.11
+Hmm... What to do?
+
+@91.4
+The great thief ninja Ayame, caught out three times! You really are something.
+
+@91.5
+But they say the third time is lucky. Sakichi, we run!
+
+@96
+Iyo Yuzuki Castle - Council Hall
+
+@97
+Iyo Yuzuki Castle - Senior Retainers' Hall
+
+@98
+Iyo Yuzuki Castle - Living Quarters
+
+@99.0
+Hmm, nothing this time.
+
+@99.1
+Tch! What a shabby castle.
+
+@100.0
+Boss, you scare me.
+
+@100.1
+Shut up! No treasure, no business here. Let's go.
+
+@101.2
+Oh, found anything?
+
+@101.3
+Nothing at all. Just wore me out.
+
+@104.0
+Hmm, nothing dropped this time. A pity.
+
+@134
+Iyo Yuzuki - Storehouse
+
+@135
+Iyo Yuzuki - Tavern
+
+@136
+Iyo Yuzuki - Market
+
+@137.0
+Terumoto is still a child. He may have grown big, but his mind is fragile.
+
+@137.1
+That worries me.
+
+@138.0
+Uncle Motoharu has finished copying the Taiheiki. A man skilled in letters and arms.
+
+@138.1
+I must follow his example.
+
+@139.0
+So the Ōtomo came out after all.
+
+@140.0
+Are the preparations for the march complete?
+
+@142.0
+Please hurry.
+
+@143.0
+With the Ōtomo lurking behind, we cannot let this pass.
+
+@144
+Go to Yuzuki Castle\nDo not go
+
+@145.0
+Very well. I will send reinforcements. Guide us.
+
+@145.1
+Thank you. Now the Kōno will be saved.
+
+@146
+Kōno's Seat - Iyo Yuzuki Castle
+
+@147
+Iyo Yuzuki Castle - Council Hall
+
+@148.0
+We thank you from the heart for the reinforcements.
+
+@148.1
+No, I cannot accept thanks until we have driven off Utsunomiya Toyotsuna. First, the situation.
+
+@148.2
+Yes. At present the fighting still sways back and forth.
+
+@148.3
+Utsunomiya learned of the Mōri reinforcements and seems to have asked the Ōtomo for help.
+
+@148.4
+So the Ōtomo are in this after all.
+
+@148.5
+Then it will be hard. Prepare for battle at once!
+
+@150.0
+I think we cannot avoid it.
+
+@151.0
+Having made peace, the Ōtomo would lose other lands' trust by striking directly.
+
+@152.0
+This will not end as a skirmish.
+
+@153.0
+The Seki reported no Ōtomo movement.
+
+@153.1
+Perhaps Utsunomiya acted alone.
+
+@154.0
+It is our first war in a while. I feel a little tense.
+
+@155.0
+The Ōtomo need not be involved. Toyotsuna may have acted on his own.
+
+@156.0
+Never mind the Ōtomo. They have asked for help, so we should send reinforcements.
+
+@157.0
+A good chance to extend our power into Kyūshū. If Lord Motonari wishes it.
+
+@158.0
+...Our first war in a long while... Peaceful days never last long.
+
+@159.0
+We have become such a great power. We cannot move rashly.
+
+@160.0
+It has been a while since the fighting. It may be improper, but I feel like taking the field.
+
+@161.0
+A year of peace without war. I would rather avoid war if I can...
+
+@162.0
+Looks like our first war in a while. Fear not, we have kept drilling without rest.
+
+@163.0
+If the Ōtomo have come out, we must take it seriously.
+
+@164.0
+He learns martial arts, but will not remember a word from books. Please say something to him.
+
+@165.0
+Reading books makes me sleepy.
+
+@166.0
+I do not much favour reaching into Kyūshū.
+
+@166.1
+We may have united the West, but our rule is not yet firm.
+
+@167.0
+We cannot pull back now. We have no choice but to fight the Ōtomo again.
+
+@168.0
+According to this book...
+
+@168.1
+When dividing troops between land and sea, the split must be considered carefully.
+
+@169.0
+We have kept drilling the troops, so we are ready whenever war begins.
+
+@170.0
+Please, send reinforcements.
+
+@171.0
+Thanks to your reinforcements, I can face Lord Kōno with honour. Thank you.
+
+@172.0
+With the Mōri reinforcements, Utsunomiya is no match for us. The problem is the Ōtomo army.
+
+@181.2
+I rate your skill highly. I would very much like your help...
+
+@183.0
+Um, do you need something from me?
+
+@183.1
+Hm, you seem sober now.
+
+@183.2
+You look like a craftsman. What can you do?
+
+@183.3
+I am a spear smith.
+
+@183.4
+A spear smith, was it...
+
+@185.0
+Would you work for me?
+
+@185.1
+Me?! Yes, I would gladly serve you.
+
+@185.2
+Hm. This man's manner has changed a lot.
+
+@185.3
+Then I count on you.
+
+@185.4
+Yes, I will surely live up to your expectations.
+
+@187.0
+I am sorry, but I will pass this time. If we are fated, we shall meet again.
+
+@188.0
+A man drinks his sake quietly.
+
+@189.0
+Want something from me? I want nothing from you.
+
+@206.2
+So you mean to serve the Mōri army...
+
+@211.9
+If you are a skilled ninja-gear maker, would you like to work for me?
+
+@223.2
+Please, I would be glad to put my skills to your use.
+
+@238
+Even if work is not going well, your mother does not mind in the least.\nWhat matters most is that you stay well.
+
+@249.9
+Let us leave the farm to our second son.
+
+@267.0
+My name is Yonekura Yoroku. I am a gunsmith.
+
+@267.2
+I would very much like you to employ me. What do you say?
+
+@268.0
+Well, Lord Motonari. It has been a long time.
+
+@268.1
+Hm, have we met somewhere?
+
+@268.2
+You do not recognise me?
+
+@268.3
+Small wonder, since you only knew me as a child...
+
+@268.4
+...?
+
+@268.5
+Do you remember a child who begged you to take him on at the workshop?
+
+@268.6
+That boy?! The one who asked to work at the workshop...!?
+
+@268.7
+Yes... How many years has it been...
+
+@268.8
+The boy has grown so big. How time flies.
+
+@269.0
+Thank you for employing me then, child though I was.
+
+@269.1
+It was a short time, but it made me want to become a craftsman.
+
+@270.0
+I am sorry for the impertinence of asking for work, child though I was.
+
+@271.0
+Today I came to ask your leave to work at the workshop properly as a gunsmith,
+
+@271.1
+and I have been waiting for you.
+
+@273.0
+I see... Then I count on you.
+
+@276.1
+I see... Then please do come again.
+
+@302.0
+I came to buy materials.
+
+@307.0
+I've only just been posted here...
+
+@309.0
+Hmm... no, not that... Not that either... *mutter mutter*
+
+@310.1
+Oh no, not me. I'm nothing special...
+
+@311.0
+Lorrd Motonarishama... Good dayyy to you.
+
+@314.0
+A dull watch is a good thing.
+
+@315.0
+If we follow Lord Motonari, we'll be fine, won't we?
+
+@316.0
+The more goods in the storehouse, the more worth there is in guarding it.
+
+@317.0
+I can smell a suspicious fellow a mile off.
+
+@318.0
+Always hard at work. Thanks to you, I can sleep soundly.
+
+@318.1
+Your words are too kind for me.
+
+@318.2
+I mean to keep working hard to deserve your trust.
+
+@318.3
+This is a keepsake from my late mother. A charm.
+
+@318.4
+Please, I would like you, Lord Motonari, to have it.
+
+@318.5
+Something so precious...
+
+@318.6
+Please, accept it. My mother would be glad.
+
+@318.7
+Then I gratefully accept.
+
+@319.0
+I can smell a suspicious fellow a mile off.
+
+@320.0
+The Mōri army has grown very strong. But we still mustn't let our guard down.
+
+@321.0
+They say walking around helps when you get sleepy.
+
+@322.0
+One day I hope to become a fine storehouse guard.
+
+@323.0
+Thanks to you men keeping a sharp watch, I rest easy.
+
+@323.1
+Thank you for your warm words.
+
+@323.2
+Just when you arrived, I was about to give you this.
+
+@324.0
+One day I hope to become a fine storehouse guard.
+
+@327.0
+Mother still refuses to accept my brother's death.
+
+@328.0
+I keep myself fit with sake.
+
+@334.0
+Sigh... Isn't there anything good going on?
+
+@338.0
+...Mama said so.
+
+@338.1
+All right, all right... Let's go home together.
+
+@338.2
+You're starting to look more like your mother...
+
+@338.3
+Hurry up, or Mama will be angry.
+
+@340.1
+How about it? Won't you join me for a bite?
+
+@341.1
+Still, nothing would be better than an end to the wars.
+
+@342.0
+Our livelihood depends on Lord Motonari.
+
+@343.0
+Whether materials are wasted or used well is up to the one who uses them.
+
+@344.0
+Lord Motonari, I have some goods that might serve as materials.
+
+@344.1
+If one will do, you may have it.
+
+@345
+Iwami Iron\nIzumo Iron\nHōki Iron\nBizen Iron\nNanban Iron
+
+@346.0
+I pray for peace to come as soon as possible.
+
+@347.0
+Lord Motonari, I have goods useful in battle. You may have one of the two.
+
+@348
+Minor Scroll\nMinor Remedy
+
+@349.1
+...Still, it's good to have them.
+
+@351.0
+In this tavern all sorts of people come and go. Meetings and partings.
+
+@354.1
+He seems to be an old man living in a house in Shiraga.
+
+@355.2
+That man is Kumon Murashige. He was a well-known ninja-gear maker around here...
+
+@355.3
+But his master betrayed him, and now he trusts no one.
+
+@355.5
+A ninja-gear maker... I want him. But a man who trusts no one...
+
+@356.0
+That man over there never answers whatever I say.
+
+@357.0
+In this tavern all sorts of people come and go. Meetings and partings.
+
+@358.0
+I'm not good with drunks.
+
+@359.0
+That Itanokura Genpachi is a fine man, as long as he doesn't drink.
+
+@360.0
+Itanokura Genpachi is sober right now.
+
+@361.0
+If you want Itanokura Genpachi, catch him when he hasn't been drinking.
+
+@362.0
+Itanokura Genpachi here...
+
+@362.1
+His personality changes so much with drink, you'd think he was someone else.
+
+@363.0
+Some people really do change when they drink.
+
+@367.0
+Thank you for always speaking to us.
+
+@368.0
+Aren't you having any sake?
+
+@369.0
+It's lively here. Nice.
+
+@370.0
+My husband eats so much that shopping for food is a chore.
+
+@380.0
+Thanks to you, we live without hardship.
+
+@383.0
+A pretty girl comes by here now and then, so I keep dropping in.
+
+@383.1
+Oh, don't tell my wife.
+
+@384.0
+I'm so busy I'd borrow a cat's paws if I could.
+
+@387.5
+Still, it's a waste to let such skill lie idle.
+
+@388.1
+They say he's stopped making weapons lately.
+
+@389.0
+That's a fine hoe you have there.
+
+@392.0
+I've lived safely to this day thanks to my ancestors... Bless them, bless them.
+
+@394.0
+A peaceful world where people live in ease is the ideal.
+
+@395.0
+Wouldn't it be wonderful to have a beauty pour my drink?
+
+@398.0
+If our rice is of use to you, that is satisfaction enough.
+
+@399.0
+Lord Motonari, please accept this.
+
+@400.0
+Lately the days have been peaceful.
+
+@401.0
+I keep finding myself at the tavern.
+
+@402.0
+I'm getting stronger with sake, you know.
+
+@403.0
+My son is only 10... He still needs a lot of care.
+
+@404.0
+My husband is a soldier. I worry every time there's a battle.
+
+@405.0
+We have so many things we made here.
+
+@406.0
+Not just with sake, going too far is never good in anything.
+
+@407.0
+You seem to really like the "Lucky Sake".
+
+@407.1
+But perhaps it's time to stop.
+
+@409.0
+I see... But drinking too much will only backfire.
+
+@410
+Drank the "Lucky Sake"
+
+@411
+Luck fell by 3
+
+@412.0
+Just as I thought, you drank too much.
+
+@413.0
+Yes. Moderation is best in all things.
+
+@414.0
+You seem to like the "Lucky Sake".
+
+@414.1
+Too much is bad for your health, but...
+
+@414.2
+Would you like another cup?
+
+@415.0
+How is the "Lucky Sake"? Would you like another cup?
+
+@416.0
+The sake I carry is called "Lucky Sake". It has a strange effect.
+
+@416.1
+Would you like a drink?
+
+@418.0
+Here you are, then.
+
+@419
+Drank the "Lucky Sake"
+
+@421.0
+I see. Well, moderation is best.
+
+@422.0
+My one talent is a loud voice.
+
+@424.0
+If only I were a bit younger.
+
+@425.0
+Lord Motonari, it's been a long time.
+
+@425.1
+You are full of spirit. How are the others?
+
+@425.2
+Young folk these days have fine bodies but lack concentration.
+
+@425.3
+Don't just swing the sword about. Gather your spirit...
+
+@425.4
+Hyah!
+
+@425.5
+That's how it's done.
+
+@425.6
+How about it? Won't you try, Lord Motonari?
+
+@425.7
+Very well, I'll try.
+
+@426.0
+Hyah! Ha! Yaaah! ...Is this about right?
+
+@426.1
+As expected of you, Lord Motonari. You learn quickly.
+
+@426.2
+Hm, I feel somehow more focused.
+
+@429.0
+In my youth I was called a famous general...
+
+@433.16
+The envoy from the Amago especially threatened to cut down Murashige's parents in Kōriyama if we refused.
+
+@437.0
+If you meet a skilled craftsman, please bring him along.
+
+@438.1
+Come to think of it, I played here a lot as a child too...
+
+@442.0
+Some have ruined themselves by clinging to a single thing.
+
+@447.0
+The storehouses of old were not nearly this grand.
+
+@448.0
+I was quite popular in my youth, you know.
+
+@449.0
+It's hard living with just my little brother, but I'll do my best.
+
+@449.1
+I'll do my best too.
+
+@451.0
+Everyone's face is red and they look happy... Is sake that tasty?
+
+@453.0
+I'll be a fine soldier like Father!
+
+@459.0
+I want to be a samurai too... They're so cool.
+
+@460.0
+The shop gave me some leftovers. You can have one of them.
+
+@461
+Peach-Cut Oak\nCarved Oak
+
+@462.0
+I'm fine as long as my big brother is here.
+
+@466.0
+I don't like that old man. He gets angry so fast.
+
+@469.0
+Temples feel so solemn. I like them.
+
+@472.1
+Why can't you understand something so simple?
+
+@491.0
+It is truly sad that people must fight one another.
+
+@495.0
+Training is said to be not only for the body: training body and mind is essential.
+
+@496.0
+Lord Motonari, you are this man's saviour.
+
+@496.1
+It was the medicine that saved him, not I.
+
+@497.0
+Could it be that you obtained the medicine?
+
+@497.1
+Yes, he should be saved now.
+
+@498.0
+What?! Even the physician in Sakurao had no medicine...
+
+@499.0
+I hope you can find the Sakurao physician soon.
+
+@500.0
+Lord Motonari, I am glad to see you well.
+
+@501.0
+I am happy to meet a person like you, Lord Motonari.
+
+@502.0
+I have no medicine on hand today.
+
+@503.0
+Did the medicine arrive in time?
+
+@503.1
+Yes, he barely kept his life.
+
+@504.0
+Did you get the medicine from my brother?
+
+@504.1
+Yes, thanks to him I got the medicine. You have my thanks.
+
+@504.2
+You should go to him as quickly as you can.
+
+@505.0
+You may be able to get medicine from my brother at Ogurayama.
+
+@506.0
+You are a physician, are you not?
+
+@506.1
+Yes, that is so.
+
+@506.2
+The physician at Katsuyama is suffering from coughing fits.
+
+@506.3
+I heard you have a good medicine.
+
+@506.4
+Coughing fits? That is bad.
+
+@506.5
+Understood. Please take my medicine.
+
+@506.6
+You saved us. My thanks.
+
+@506.7
+Not at all. Saving lives is our duty. It's only natural.
+
+@506.8
+Now, this medicine...
+
+@507.0
+Um, are you a physician?
+
+@507.1
+I am...
+
+@507.2
+My child, my child!!
+
+@507.3
+Calm down! What has happened?
+
+@507.4
+My child is suffering from coughing fits.
+
+@507.5
+If this goes on, my child will...
+
+@507.6
+That's terrible.
+
+@507.7
+Please, please, could you spare me some medicine?!
+
+@507.8
+Hmm, this is a problem.
+
+@507.9
+What is it? Why not just give it to him?
+
+@507.10
+There is only one dose of that medicine left.
+
+@507.12
+If I give it to this person now, there is none left for you, my lord.
+
+@507.13
+Hmm, that is a problem.
+
+@508
+Give it to the child\nDecline; we asked first
+
+@509.0
+It cannot be helped. I cannot abandon a child's life.
+
+@509.1
+Give the medicine to this man.
+
+@510.0
+I'm sorry, but we asked first.
+
+@510.1
+A life is at stake for us too. I cannot give it up.
+
+@510.2
+N-no...
+
+@510.3
+Um...
+
+@510.5
+Every life must be equal, no matter whose. I understand that well.
+
+@510.6
+But as a physician,
+
+@510.7
+I cannot look away when a child's life is in danger before my eyes.
+
+@510.9
+I ask you too, my lord.
+
+@510.10
+Please, please let me save this child's life with this medicine.
+
+@511
+The physician gave the townsman the medicine
+
+@513.0
+I am truly sorry.
+
+@513.1
+It can't be helped. Don't mind it.
+
+@513.2
+But what should I do now...
+
+@513.3
+My brother is at Ogurayama.
+
+@513.4
+Your brother...
+
+@513.5
+Yes, my brother may have the same medicine.
+
+@513.6
+Ogurayama, then. I have no choice but to go.
+
+@513.7
+Thank you, my lord.
+
+@514.0
+I try to carry as much medicine as I can, just in case.
+
+@516.0
+Thank you so much for saving my life.
+
+@517.0
+Ugh... *cough*, *cough*!
+
+@517.1
+Here, I brought the medicine! Drink it quickly.
+
+@518
+The physician took the medicine
+
+@519.0
+Ah, I am saved. Thank you so very much.
+
+@519.1
+Good, we made it in time.
+
+@519.2
+It is hardly a reward, but please accept this.
+
+@520.0
+Ugh... *cough*, *cough*!
+
+@521.0
+Ugh... *cough*, *cough*!
+
+@522.0
+*Cough*, *cough*!
+
+@522.1
+Hey! What is it?! Hold on.
+
+@522.2
+A physician laid low by illness, my reputation is ruined... Ha ha...
+
+@522.3
+You are a physician! Can't you do something yourself?!
+
+@522.4
+I have no medicine for my own illness. Perhaps my time has come...
+
+@522.5
+Don't lose heart! Hold on!
+
+@522.6
+Ugh... *cough*, *cough*!
+
+@522.7
+This is trouble.
+
+@523.0
+Come to think of it, I heard the physician in Sakurao has a good medicine.
+
+@523.1
+Ugh... *cough*, *cough*!
+
+@523.2
+Y-yes... With his medicine, I might be saved...
+
+@523.3
+That physician is in Sakurao, you say?
+
+@523.4
+Y-yes...
+
+@523.5
+Ugh... *cough*, *cough*!
+
+@523.6
+If there is hope he can be saved, I will go and get it myself.
+
+@523.7
+Ask for the medicine for coughing fits. He'll know...
+
+@523.8
+Ugh... *cough*, *cough*!
+
+@523.10
+For now, I will take this man to the temple.
+
+@524.0
+Please hand over that medicine quickly.
+
+@525.0
+Are you the brother of the physician in Sakurao?
+
+@525.2
+A man is suffering from coughing fits.
+
+@525.3
+I see... So my brother has run out of medicine.
+
+@525.4
+That's right. Can you do anything?
+
+@525.5
+Actually, I have none right now either.
+
+@525.6
+Ah, what a thing...
+
+@525.7
+But an order I placed with an acquaintance should arrive soon.
+
+@526.0
+This was just delivered for you.
+
+@526.1
+Oh! It has come!
+
+@527.0
+That was lucky.
+
+@527.1
+Sorry to have worried you. Please take it.
+
+@532.0
+Battles are won by those who use their heads.
+
+@533.0
+At least around here, I seem to be the strongest... Gahahaha.
+
+@539.0
+I sweated all day yesterday at the drill ground. I'm exhausted.
+
+@542.0
+I'd like to give my swordsmanship some cool name.
+
+@543.0
+I intend to drink till dawn today.
+
+@544.0
+Everything is a real contest. Even drinking.
+
+@545.0
+The market has all sorts of people. It's fun.
+
+@547.0
+A strong weapon is very reassuring.
+
+@552.0
+Being trusted is the greatest encouragement.
+
+@553.0
+If you would, say a kind word to the guards on watch too.
+
+@556.0
+Hyah, Fire Release Art!
+
+@557.1
+Hey, I can't see any fire!
+
+@562.0
+I've been a lady-in-waiting for quite a long time now.
+
+@563.0
+How many years has it been since I began serving the Mōri clan?
+
+@564.0
+Now that Lord Terumoto goes to battle, my hands have begun to be free.
+
+@565.0
+Lord Hiroie eats a lot. He'll surely grow big.
+
+@566.0
+Let me see, this book says...
+
+@566.1
+At sea, making use of the navy's mobility is the secret to victory.
+

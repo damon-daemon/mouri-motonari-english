@@ -1,0 +1,75 @@
+@0.0
+I will strike down Sugihara Masaoki of Kannabe Castle! Sally forth!
+
+@1
+Siege of Kannabe Castle\nVictory\n  1. Sugihara Masaoki retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@2.0
+Now we take Kannabe Castle! Let's go!
+
+@2.1
+Motonari... To attack all the way to Kannabe Castle.
+
+@2.2
+That is a Mōri force. Which means another battle. Even in the Sengoku age, it is a futile thing... Very well, everyone, come out.
+
+@3.1
+I cannot stand by while Kannabe's castle town is exposed to the flames and innocent people are caught up in the war! Stop the Mōri force in front of the bridge. Drive them back.
+
+@4.0
+Hm! Is that ninja trying to block our way... or is he...
+
+@4.1
+He does not look like one of the Amago side.\n\nLet me persuade him.
+
+@5
+Siege of Kannabe Castle\n\nVictory\n  1. Sugihara Masaoki retreats\nDefeat\n  1. Mōri Motonari retreats\n  2. The Mōri main camp is taken\n  3. More than 60 turns pass
+
+@6.0
+How could this be...
+
+@21.0
+There is a shrine!\n\n\nWe pray for our victory!
+
+@30.0
+I am a craftsman living in this village, the swordsmith Sōma Hōsetsu.
+
+@33.0
+Save Kannabe Castle! Charge, Mōri scum!
+
+@33.1
+What is that!? Amago reinforcements...?
+
+@34.0
+You fell for it, you fool. Now, catch them in a pincer!
+
+@35.0
+Motonari! Today I will settle this once and for all!
+
+@36.0
+So you are the chief of the Mōri ninja.\n\nTell Motonari this. If he ravages Kannabe's castle town, I will strike him down.
+
+@36.1
+To lead so many... You are quite something. How about it, will you serve Lord Motonari too?\n\nHe is a man who values the people. Will you not fight with us?
+
+@36.2
+What...? Hmph, very well.\n\nBut if your words prove false, I will take Motonari's head at once. Understood?
+
+@36.3
+...Heh, fine. See for yourself with your own eyes.
+
+@37
+Nojiri Motosuke joined the party
+
+@38.0
+We took the Mōri main camp!
+
+@40.0
+We have finally taken Kannabe Castle.\n\nBy the way... where is the castle's lord, Sugihara?
+
+@40.1
+It seems he relied on the Amago and fled to Izumo.
+
+@40.2
+So Sugihara got away. What a pity.
+

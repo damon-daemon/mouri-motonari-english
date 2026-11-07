@@ -1,0 +1,1140 @@
+@0
+Episode 26 "The Vengeful Ghost of Kyoto"
+
+@1
+Episode 26 "The Vengeful Ghost of Kyoto"
+
+@2
+Okazaki Castle - Council Hall
+
+@3.0
+Thank you for coming. You have heard that the Mōri army struck down Akechi Mitsuhide.
+
+@3.2
+We must get through this grave situation together.
+
+@3.3
+By rights it was for us to strike Akechi down. The Mōri snatched it from under our noses.
+
+@3.4
+Mitsuhide may be dead, but for the Mōri to take up Lord Nobunaga's mantle is simply wrong.
+
+@3.5
+Lord Shibata backs Lord Oda Nobukatsu, and holds that the Mōri must be destroyed.
+
+@3.6
+I propose we surround the Mōri with my army, Nobukatsu's, Shibata's and Takigawa's.
+
+@3.7
+Let all armies attack at once and make certain of the Mōri's defeat.
+
+@3.8
+Understood. I will tell Lord Shibata so.
+
+@3.9
+Then my army will prepare to march accordingly.
+
+@4.0
+To think things would turn out like this...
+
+@4.1
+Everything went to plan until Mitsuhide struck down Nobunaga.
+
+@4.2
+I never imagined the Mōri would act like this.
+
+@4.3
+We underestimated them. They were on the defensive against the Oda invasion only because they were biding their time.
+
+@4.4
+And let us not overlook that they have the shōgun, Lord Yoshiaki, behind them.
+
+@4.5
+A formidable foe. I look forward to the fight.
+
+@4.6
+Can we truly win?
+
+@4.7
+Rest assured.
+
+@4.8
+Even the Mōri cannot win against my army, Shibata's, Takigawa's and Nobukatsu's all at once.
+
+@4.9
+Hm? Hanzō?
+
+@5.0
+Ah! What happened? You are wounded!
+
+@5.1
+A Mōri spy had slipped in.
+
+@5.3
+Sadly, I failed to finish off one kunoichi. She is the one who wounded me.
+
+@5.4
+It seems they know of our simultaneous attack by four armies.
+
+@5.5
+Which army is farthest from Kyōto? Shibata's?
+
+@5.6
+Yes. They campaigned in Hokuriku.
+
+@5.7
+Send a messenger to Shibata. Tell him to hasten his march.
+
+@5.9
+Those Mōri... nothing escapes them!
+
+@8.0
+They say Hiroie is coming as reinforcement.
+
+@8.1
+It has been a while since we met. I wonder what sort of warrior he has become.
+
+@8.2
+They say like father, like son. He must be a fierce warrior beyond control.
+
+@8.3
+Hmm. Though there are cases like Motoyoshi's.
+
+@8.4
+Hm! Are you saying I am beyond control?
+
+@8.5
+Leave you alone and you charge straight in, do you not?
+
+@8.7
+Hahaha. Well, never mind.
+
+@8.8
+I have somewhere to stop by. Go on back ahead of me.
+
+@9.0
+Now, shall I buy something for Hiroie?
+
+@10.0
+You are Kikkawa Motoharu?
+
+@11.0
+Die...
+
+@12.0
+Gah!
+
+@13.0
+You have grown old, Motoharu. You cannot even read a sword stroke like that...
+
+@15.2
+This is bad. Would someone lend a hand? Please help me carry him.
+
+@15.3
+And fetch a physician.
+
+@17.0
+I was careless. That man... who on earth was he?
+
+@18.1
+Ah, Hiroie. Forgive me for this sorry sight.
+
+@18.2
+Who was it?! I will take revenge for you!
+
+@18.3
+Hiroie, this is no time for that. Take my place and play my part well.
+
+@18.4
+...Yes, Father. I will go to Azuchi Castle and fill my father's role with honour.
+
+@18.5
+Good. Go.
+
+@18.6
+Leave it to me!
+
+@19.0
+I am counting on you... Hiroie...
+
+@20
+Azuchi Castle
+
+@22.0
+Motoharu is gravely wounded?!
+
+@22.1
+We do not know who did it. He was struck just when Lord Motoharu was alone.
+
+@22.2
+How could this happen...!
+
+@22.3
+Lord Motoharu said he would follow later, so we went ahead.
+
+@22.4
+He will probably not be able to come to Azuchi Castle.
+
+@22.5
+Still, I am relieved to hear his life was spared.
+
+@22.6
+Indeed.
+
+@23.0
+Grave news.
+
+@23.1
+Hotaru! You are wounded!
+
+@23.2
+Tokugawa's Hattori Hanzō did this. About five of our ninja were also cut down.
+
+@23.3
+You slipped into the Tokugawa camp?
+
+@24.0
+Tokugawa Ieyasu seems to be joining Oda Nobukatsu, Shibata Katsuie and Takigawa Kazumasu to attack the Mōri all at once.
+
+@24.1
+What?!\n\n\nSurrounded by four great armies and attacked at the same time, we can do nothing!
+
+@24.2
+We must strike first. The contest is decided before the enemy is ready.
+
+@24.3
+Before Shibata Katsuie returns from Echizen, we must at least break one wing of the enemy.
+
+@24.4
+Right, we march. Make ready at once!
+
+@39.0
+Oh, Sis, they have come.
+
+@40.6
+The area below Nijō Castle is lively enough, but go a little farther out and it is truly wretched.
+
+@40.8
+I hear the Mōri have been blessed with good lords generation after generation and built a land where people live in peace.
+
+@40.10
+Bring peace to the world and give everyone back a life they can live without fear!
+
+@41.0
+I will return that to you. It is the hidden treasure of Okayama Castle.\n\nUse it to unify the realm.
+
+@45.0
+The noble thieves I heard of in the Himeji tavern... Could they be those people?
+
+@50
+Azuchi Castle - Senior Retainers' Hall
+
+@58.0
+Waaah, waaah.
+
+@58.1
+Hey, hey! Crybaby!
+
+@58.2
+We will not let a crybaby like you play with us.
+
+@58.3
+Leave this crybaby alone and let us go over there.
+
+@59.0
+You are a boy! Stop crying already!
+
+@59.1
+If you carry on like that, you will be bullied forever.\n\nA man does not cry so easily.
+
+@60.1
+Good, a promise between men.
+
+@69.0
+The wind still has not died down.
+
+@70.0
+The wind is strong today.
+
+@71.0
+Whoaaa!
+
+@71.1
+Best move somewhere safe.
+
+@72.0
+In this wind, there is no business to be had.
+
+@72.1
+Shall we take shelter until the wind dies down?
+
+@72.2
+No. What kind of merchant cannot bear a little wind like this?
+
+@72.3
+Splendid spirit. A model for all merchants.
+
+@87
+Azuchi - Storehouse
+
+@88
+Azuchi - Workshop
+
+@89
+Azuchi - Tavern
+
+@90
+Azuchi - Market
+
+@91
+Azuchi - Training Ground
+
+@92
+Azuchi - House
+
+@93.0
+There is nothing more your mother has to say. You have become a proper man. Have confidence.
+
+@94.0
+Hotaru... Does your wound hurt?
+
+@94.1
+No, it is nothing. More importantly, please march at once!
+
+@95.0
+So Tokugawa Ieyasu has moved after all. I thought he would not stay silent, but a simultaneous attack by four armies...
+
+@96.0
+Shibata's army needs time to return to Kyōto. That interval is our chance.
+
+@97.0
+At last we face the Tokugawa.
+
+@98.0
+The battle will likely be fought around Yamazaki.
+
+@100.0
+Nobunaga's fierce nature brought him close to the realm, and it also took his life...
+
+@106.0
+Is Motoharu all right? I told him over and over to be careful...
+
+@107.0
+Come, let us march.
+
+@110.0
+Kikkawa Hiroie, come to join the battle in my father's place, from Kyōto! Please permit me to march!
+
+@110.1
+Ah, Hiroie!
+
+@110.2
+Lord Terumoto, I will fill my father's place. Let me fight alongside you.
+
+@110.3
+Of course. A reliable ally has come. Lend us your strength.
+
+@111.0
+That book was far too difficult. Takakage nodded along as he read it, though.
+
+@114.0
+We cannot spend long on this battle.
+
+@115.0
+Hmm. I would like some maids assigned to me. It is rather lonely.
+
+@116.0
+To make a name on the battlefield is a warrior's honour.
+
+@117.0
+Lord Terumoto, I have brought items that may help in battle. Please choose one.
+
+@118
+Healing Meat\nPine Cure
+
+@119.0
+My father is a gunsmith. But I have no intention of taking over.
+
+@122.0
+So this is how a famous sword is made.
+
+@123.0
+The wind is getting stronger.
+
+@125.0
+I am the lookout. I cannot leave this place.
+
+@125.1
+I am the storekeeper. I cannot leave this place either.
+
+@127.0
+I am ready to go to battle at any time.
+
+@129.0
+Are you all right? Let me see...
+
+@129.1
+Just a scratch. Nothing to worry about.
+
+@129.2
+You are a boy. Put up with an injury like that.
+
+@130.0
+Hm?! Something is buried in the ground.
+
+@130.1
+It looks like a sword... Only the hilt is sticking out of the ground...
+
+@131
+Dug up the buried object
+
+@132.0
+It is a sword after all. To think it was buried in a place like this...
+
+@133.0
+The wind seems strong today.
+
+@135.0
+Never forget your first resolve. I keep those words always in my heart.
+
+@137.0
+Every craftsman takes pride in his work.
+
+@140.0
+This storehouse will need rebuilding soon.
+
+@146.0
+If I must work, I would rather do it where the sake is good. No, I jest.
+
+@148.0
+Only by judging the strengths and weaknesses of everything can one show one's true power.
+
+@149.0
+I always think about making a world where the people can live in peace.
+
+@150.0
+Day-to-day effort is what counts in everything.
+
+@151.0
+How quickly the months and days pass.
+
+@152.0
+When the sake is good, everything you do goes well.
+
+@155.1
+I do my business around here.
+
+@155.2
+If you do not mind, I would like you to see my wares.
+
+@155.5
+This is the scroll "Masa Secrets".
+
+@155.6
+I can let you have it for 500 gold. How about it?
+
+@156.3
+Yes, her trick is to sell shoddy goods at high prices with a smooth tongue.
+
+@156.5
+Please be careful.
+
+@157.0
+Whatever you do, do not trust that woman.\n\nHer trick is to sell shoddy goods at high prices.
+
+@157.1
+I believe you said the same thing before.
+
+@157.2
+Please be careful.
+
+@158.0
+Whatever you do, do not trust that woman.
+
+@158.1
+I know. I have been fooled once already.
+
+@158.2
+But this time it may be genuine.
+
+@158.3
+Lord Terumoto.
+
+@159.0
+How about the "Masa Secrets" scroll?
+
+@159.1
+Only 500 gold. A bargain.
+
+@162.0
+Unfortunately I have no money on me. I will pass after all.
+
+@163.0
+It is rather expensive, but I will take it.
+
+@165
+Got the Masu Secrets
+
+@166.0
+No, I have no need of it. I will pass.
+
+@166.2
+Then I will come again. Please do call on me then.
+
+@167.0
+Lord Terumoto, I went to the trouble of warning you. Why did you buy it?
+
+@167.1
+Yes, the price was high, but I thought it was something I needed, so I bought it.
+
+@167.2
+Please show me what you bought.
+
+@167.4
+This is not "Masa Secrets". It says "Masu Secrets".
+
+@167.5
+I knew it was a fake.
+
+@167.6
+I was had...
+
+@168
+Threw away the Masu Secrets
+
+@169.0
+I used to be a merchant, but my business failed. Now I am training to become a swordsmith.
+
+@170.0
+May my whole family stay healthy...
+
+@171.0
+They say there is a gale outside?
+
+@172.0
+In life, if you think positively, things work out somehow.
+
+@173.0
+For some reason, being in the market calms my heart.
+
+@174.0
+Lord Terumoto, please take this.
+
+@177.0
+Please, make yourself at home.
+
+@178.0
+Me, I like gambling better than three square meals.
+
+@180.0
+I get nasty when I drink, so I am cutting back.
+
+@181.0
+Once war comes, many people die even in victory.
+
+@181.1
+Human life is precious. Is there nothing that can be done?
+
+@185.0
+Ugh, I ate too much. But I think I could still manage some fugu.
+
+@185.1
+Enough. Stop now.
+
+@186.0
+Ugh... my stomach... it hurts...
+
+@186.1
+Is it fugu poisoning again?
+
+@187.0
+No, no, there is no need to worry.
+
+@187.1
+This time it is only overeating.
+
+@188.0
+Thank you. You saved me.
+
+@189.0
+Ugh... my stomach... it hurts...
+
+@189.1
+I have brought the medicinal herbs.
+
+@189.2
+Please, give them to me quickly. Please... ow, ow...
+
+@189.3
+Bear with it a little longer.
+
+@189.4
+Let us boil it and give it to him right away.
+
+@190
+The farmer boiled the herbs and gave them to the man
+
+@191.0
+There, he will be fine. A short rest and he will be back on his feet.
+
+@192.0
+Ugh... my stomach... it hurts...
+
+@193.0
+Ugh... my stomach... it hurts...
+
+@193.2
+After I ate fugu... suddenly...
+
+@193.3
+Fugu poisoning... That is serious.
+
+@194.0
+For fugu poisoning, we must boil medicinal herbs and make him drink them.
+
+@194.1
+What kind of herb is it?
+
+@194.2
+It used to grow in the hills out back, but one hardly sees it these days.
+
+@194.3
+It bears purple berries...
+
+@194.4
+It may still grow around the Training Ground.
+
+@195.0
+Sightseeing at the market today?
+
+@197.0
+The heads of the people around here must be full of nothing but sake.
+
+@198.0
+Is that man all right? He looks to be in great pain.
+
+@199.0
+That settles it! No more drinking from today.
+
+@201.0
+I will start tomorrow...
+
+@202.0
+This is a place of rest for working men.
+
+@203.0
+The wind is so strong. I am very uneasy.
+
+@206.0
+A gale... I wonder if my house is all right.
+
+@207.0
+People drink to forget their sorrows, too.
+
+@209.0
+Please be careful.
+
+@210.0
+The path of the brewer is steep.
+
+@211.0
+This is sake I made myself. Please take one of these home.
+
+@212
+Healing Tea\nBamboo Sake
+
+@215.0
+The market really is a charming place.
+
+@216.0
+I want a baby.
+
+@217.0
+I would love to visit Kyōto just once.
+
+@218.0
+I feel somehow worried.
+
+@219.0
+My late husband was a great lover of sake.
+
+@220.0
+No one in this world was born to fight.
+
+@222.0
+Drink in moderation. That is courtesy toward sake.
+
+@223.0
+They say there is a gale outside?
+
+@224.0
+The gale blew my roof off.
+
+@224.1
+That must have been terrible.
+
+@224.2
+Yes, but my brother is a carpenter, so the repair will be quick.
+
+@224.3
+By the way, this came out from the gap where the roof had been torn off.
+
+@224.4
+If you like, please take it.
+
+@225.0
+In life, if you think positively, things work out somehow.
+
+@226.0
+It was fate that you were born as Lord Motonari's grandson, Lord Terumoto.
+
+@226.1
+And it is fate that I was born a farmer's son.
+
+@227.0
+I looked outside a moment ago, and the wind was howling.
+
+@229.0
+Oh no! I forgot to shop at the market!
+
+@230.0
+I want my children to have a good life.
+
+@231.0
+Farmers have their own worries too, you know.
+
+@232.0
+When I am here, I end up wasting money.
+
+@234.0
+Is it bad that the tavern feels more comfortable than home?
+
+@235.0
+Is it bad that the tavern feels more comfortable than home?
+
+@236.0
+Lord Terumoto saved my life.
+
+@237.0
+Oh, yes! That is exactly the herb. Quick, we must give it to him.
+
+@238.0
+If we do not give him the herbs quickly, it is dangerous.
+
+@239.0
+Is it bad that the tavern feels more comfortable than home?
+
+@241.0
+If I pray here, I feel my wife who left might come back...
+
+@242.0
+I believe dreams come true if you wish hard enough.
+
+@244.0
+Whenever I come, it is the same regulars.
+
+@245.0
+I hope the world becomes more peaceful from now on.
+
+@246.0
+"Bright day" is how we write "tomorrow". It means to live with bright hope.
+
+@247.0
+I cannot even get home like this. What a bother.
+
+@248.0
+I am gradually coming to know how good sake tastes.
+
+@249.0
+I often played here as a child.
+
+@252.0
+Family is best when you all live together.
+
+@253.0
+I believe in you, Lord Terumoto.
+
+@254.0
+I pray for your good fortune in battle, Lord Terumoto.
+
+@255.1
+Listen, war is not only a matter of troop numbers. Strategy is what matters. Only when strategy is well built...
+
+@256.0
+Once drunk, this old man talks on and on. Best not to keep him company.
+
+@257.0
+Only with the ambition to seek the realm can a man become lord of even one province. Well, that is how it is.
+
+@258.0
+The storehouses of old were not so grand as this.
+
+@260.0
+It cannot be helped when a thing with form breaks.\n\nBut a broken heart cannot be mended.
+
+@261.0
+It has broken at last...
+
+@262.0
+A gale like this is nothing to fear.
+
+@263.0
+People have their strengths and weaknesses.\n\nOnly one who knows his own abilities can truly rule the realm.
+
+@264.0
+Oh, Lord Terumoto, you have grown into a fine man. Do you remember my face?
+
+@265.0
+It is by overcoming hardship that people grow.
+
+@266.0
+Old man, you seem to have had too much. Stop there.
+
+@266.1
+Today I want to drink until I drop.
+
+@266.2
+Has something sad happened?
+
+@266.3
+Sad, yes, and happy too, in a way...
+
+@267.0
+Ugh...
+
+@267.1
+I do not know your reasons, but drinking too much will harm your health.
+
+@268.0
+I am sorry my father troubled you.
+
+@268.1
+I have troubled no one!
+
+@268.2
+It is because I am getting married...
+
+@268.3
+Goodness... you have drunk so much...
+
+@268.4
+I see...
+
+@268.5
+Then I will take my father home. I am truly sorry.
+
+@268.6
+No, no, think nothing of it. Take good care of your father.
+
+@271.0
+At my age, I often remember old times.
+
+@272.0
+Now is the happiest time. I would have no regrets if I died today.
+
+@275.0
+Being young is a fine thing.
+
+@276.0
+I turn exactly seventy this year, but I am still hale.
+
+@278.0
+It is sad to see those younger than me go first.
+
+@279.0
+I will help Grandpa with his work.
+
+@280.1
+I broke Grandpa's treasured pot. What should I do?
+
+@280.2
+What is broken is broken. Apologise honestly.
+
+@280.3
+It was no ordinary pot.
+
+@280.4
+The man who made that pot was Grandpa's best friend, and he is already dead.
+
+@280.5
+No one can ever make another like it.
+
+@280.6
+Waaah, what do I do?
+
+@280.7
+I see... that is a problem. But crying will not solve it. All you can do is apologise like a man.
+
+@280.9
+I will go with you.
+
+@280.10
+...Really?
+
+@280.11
+Yes, so stop crying now.
+
+@282.0
+Oh, Lord Terumoto. Please forgive my grandson's rudeness.
+
+@282.2
+You must already know about the pot.
+
+@282.3
+Yes...
+
+@282.4
+Meaning no harm does not excuse everything, but he truly seems to regret it.
+
+@282.5
+Would you forgive him?
+
+@283.1
+Hohoho...
+
+@283.2
+I never meant to scold my grandson. It was a treasured keepsake, true,
+
+@283.3
+but pots break. Memories of a friend never break.
+
+@283.4
+In my heart I still see him as he was, hale and hearty, when he was making pots,
+
+@283.5
+his words, his laughter,
+
+@283.6
+all of it just as it was.
+
+@284.0
+All things with form are fated to break someday.
+
+@284.1
+I am glad the child was not hurt.
+
+@285.0
+Grandpa, I am sorry.
+
+@285.1
+It is all right now. Think nothing of it.
+
+@285.2
+Be careful from now on.
+
+@286.0
+Oh dear, now I cannot go home.
+
+@287.0
+Will I be able to enjoy sake someday too?
+
+@288.0
+My grandma is very kind.
+
+@290.0
+When I grow up, I will be a fine craftsman.
+
+@291.0
+I am not crying any more. I promised Lord Terumoto.
+
+@291.1
+That is right, that is right.
+
+@291.2
+Here, I got this charm at the temple. I will give it to you, Lord Terumoto.
+
+@291.3
+I see. I shall gladly accept it.
+
+@292.0
+I will become strong like you, Lord Terumoto.
+
+@293.0
+I saw a plant with purple berries near the storehouse.
+
+@294.0
+Have you seen a plant with purple berries around here?
+
+@294.1
+No, I have not.
+
+@294.2
+I see...
+
+@294.3
+But I have seen one near the storehouse.
+
+@294.4
+Is that true?
+
+@296.0
+I turned eight this year.
+
+@297.0
+Mama, I am scared.
+
+@298.0
+War is terrible, is it not? Papa said so.
+
+@299.0
+Our house will not fall down, will it?
+
+@300.0
+Hey, the wind has died down. It is all right now.
+
+@301.0
+Oh, good.
+
+@301.1
+I was so scared.
+
+@301.2
+I wondered what would become of us.
+
+@303.0
+I want a little sister.
+
+@305.0
+Today I am helping at the shop.
+
+@307.0
+The berries are such a pretty colour. Maybe I will look for them again.
+
+@308.0
+Have you seen a plant with purple berries around here?
+
+@308.1
+Do you mean this?
+
+@308.2
+Yes, it does bear purple berries.
+
+@308.3
+Shall I give it to you?
+
+@308.4
+Yes, may I have it?
+
+@308.5
+Yes, of course.
+
+@308.6
+I must take this to the man at the tavern quickly.
+
+@309.0
+It has been a long time.
+
+@309.1
+Is the sword finished?
+
+@309.2
+Yes, it is done. I came today to hand it to you.
+
+@310.0
+This is...
+
+@310.1
+Do not stare at the blade. The sword will drain your soul and leave you a wreck.
+
+@310.2
+What a dreadful sword you made...
+
+@310.3
+Give it to a swordmaster among your retainers. It will be a great strength.
+
+@310.4
+Well then... Now I have nothing left to regret.
+
+@311.0
+That man... who was he...
+
+@312.0
+Do what you wish to do. Leave no regrets.
+
+@314.0
+Heaven's punishment will surely fall on those who stray from the way of man.
+
+@315.0
+To command the realm is the true aim of a man.
+
+@316.0
+Knowing the enemy and knowing yourself is the secret of constant victory.
+
+@317.0
+Good and evil are like the front and back of a single sheet of paper. A deed meant for good can backfire.
+
+@317.1
+Such things happen all the time.
+
+@320.0
+I should not be the one to say it, but you must not rely on medicine too much.
+
+@323.0
+Well-trained soldiers are the ones worth commanding.
+
+@325.0
+Man is a creature who studies all his life.
+
+@326.0
+There are no materials without craftsmen.\n\nBut there are no craftsmen without materials, either.
+
+@327.0
+Training never ends. The important thing is to always seek to improve.
+
+@329.0
+It is important to train with a clear purpose.
+
+@330.0
+I am still unseasoned. But I will train hard and grow into a man who is certain to be useful in battle.
+
+@331.0
+Here we can only drink our sake at leisure and wait for the wind to stop.
+
+@332.0
+You, drink more. It is only polite to drink.
+
+@335.0
+The spirit a craftsman puts into making tools is astonishing.
+
+@337.0
+A craftsman's skill is truly magnificent.\n\nNo amateur could imitate it.
+
+@338.0
+The road of martial arts stretches on, far and endless.
+
+@339.0
+Even if your skill has improved, do not let your guard down. There is always someone better.
+
+@340.0
+The craftsmen's hands are astonishingly quick.
+
+@341.0
+It seems this storehouse will soon need expanding.
+
+@342.0
+Do you not think a martial artist drinking sake makes a picture?
+
+@343.0
+As long as you are here, Lord Terumoto, the Mōri house is secure.
+
+@344.0
+Our shuriken are made here too.
+
+@345.0
+They say Lord Motoharu is gravely wounded. Is he all right?
+
+@346.0
+Lord Motoharu is not a man who would earn a grudge...
+
+@347.0
+They say Lord Motoharu is gravely wounded. I hope his life is not in danger...
+
+@348.0
+Lord Hiroie was so looking forward to fighting beside Lord Motoharu...
+
+@349.0
+From now on I will read other books instead of military studies.
+
+@350.0
+I will give you this book. It is too difficult for her ladyship and me.
+
