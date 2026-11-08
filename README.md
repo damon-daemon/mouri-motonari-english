@@ -93,8 +93,8 @@ cp "/path/to/Mouri Motonari - Chikai no Sanshi (Japan).bin" mouri_motonari.bin
 Japanese text from your disc for the translation tools. `script/` and `build/` are
 never committed.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.0` after building:
-it writes `release/Mouri_Motonari_English_v0.9.0.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py <version>` after building:
+it writes `release/Mouri_Motonari_English_v<version>.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout
