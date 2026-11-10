@@ -725,7 +725,7 @@ That is a pity, then. Another time...
 I have decided I will not work any more. Please leave.
 
 @171.1
-I see. Then we will withdraw for today.
+I see. Then we will take our leave for today.
 
 @171.2
 No matter how often you come, it is the same.
@@ -743,7 +743,7 @@ Thank you, but I must refuse.
 I have decided I will not work any more. Please leave.
 
 @174.3
-I see. Then we will withdraw for today.
+I see. Then we will take our leave for today.
 
 @174.4
 No matter how often you come, it is the same.

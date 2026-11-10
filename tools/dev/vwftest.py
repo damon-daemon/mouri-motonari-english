@@ -68,7 +68,7 @@ def names_test():
     blob, lab = build.make_blob()
     build.patch_blob(exe, len(blob), lab['font12'])
     vwf.patch(exe, build.EXE_BASE, lab)
-    names.patch(exe, build.EXE_BASE, lab['names'], lab['names_short'], lab['names_raw'])
+    names.patch(exe, build.EXE_BASE, lab['names'], lab['names_short'], lab['names_raw'], lab['names_stat'])
     jp = names.japanese()
     bad = 0
     for rec, want in [(0, names.officers()[0]), (5, names.officers()[5]), (252, 'Retainer'),

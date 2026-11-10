@@ -1271,13 +1271,13 @@ Of course, you, Lord Motonari, are of this type.
 Spear type... Has average abilities and uses skills that make the most of the spear. It can also halt cavalry.
 
 @289.0
-Archer type... Attacks with a bow. Uses attack-oriented skills such as Bane Shot and Fire Arrow.
+Archer type... Attacks with a bow. Uses attack-oriented skills such as Venom Shot and Fire Arrow.
 
 @289.1
 Abilities are average, but movement is somewhat lacking.
 
 @290.0
-Cavalry type... Attacks with a spear. Uses attack-oriented skills such as 2x Thrust and 3x Thrust.
+Cavalry type... Attacks with a spear. Uses attack-oriented skills such as Double Jab and Triple Jab.
 
 @290.1
 Excellent movement.
@@ -1337,10 +1337,10 @@ Tactician type... Excellent intellect, and can use skills for a wide range of pu
 Bandit type... Show tremendous ability when positioned in mountains or forests.
 
 @304.1
-They have skills unique to mountains, such as Tree Fall and Rockfall.\n\nThey can also command the Bear, the mountain brute.
+They have skills unique to mountains, such as Felled Log and Rockfall.\n\nThey can also command the Bear, the mountain brute.
 
 @304.2
-They can also Hunt to restore their own endurance.
+They can also use Hunting to restore their own endurance.
 
 @305.0
 Pirate type... Show tremendous ability when positioned at sea or in shallows.
@@ -1352,7 +1352,7 @@ They have skills unique to the sea, such as Rough Sea.
 They can also attack with the Shark, king of the sea.\n\nThey can also Fish to restore their own endurance.
 
 @306.0
-Warrior monk type... Have the most skills. With arts such as Ill Luck, Sealing and Binding, they attack the state of enemy units.
+Warrior monk type... Have the most skills. With arts such as Ill Luck, Seal Art and Binding, they attack the state of enemy units.
 
 @306.1
 They can even command nature with Lightning and Cloud Art.
@@ -1361,7 +1361,7 @@ They can even command nature with Lightning and Cloud Art.
 Supply train type... Excellent at restoring allied units' endurance and the like. Somewhat lacking in attack power and speed.
 
 @308.0
-Drum corps type... Their feature is restoring condition with songs such as Homesick, Rally Song and Cheer Song.
+Drum corps type... Their feature is restoring condition with songs such as Home Song, Rally Song and Cheer Song.
 
 @308.1
 Somewhat lacking in attack power.
