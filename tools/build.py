@@ -127,9 +127,9 @@ def make_blob():
     data += names.blob_names(nbase)
     data += bytes(-len(data) % 4)
     at = BLOB + len(data)
-    code, short, raw = names.hook(at, nbase, names.MSGW)
+    code, short, raw, stat = names.hook(at, nbase, names.MSGW, lab['pixw16'])
     data += code
-    lab.update(names=at, names_short=short, names_raw=raw)
+    lab.update(names=at, names_short=short, names_raw=raw, names_stat=stat)
     data += bytes(-len(data) % 4)
     part, lab['title'] = mctitle.blob(BLOB + len(data))
     data += part
@@ -152,7 +152,7 @@ def build_files(disc, recs):
     blob, lab = make_blob()
     assert len(blob) <= BLOB_SIZE and len(blob) < 0x8000, 'blob too large: %d bytes' % len(blob)
     vwf.patch(exe, EXE_BASE, lab)
-    names.patch(exe, EXE_BASE, lab['names'], lab['names_short'], lab['names_raw'])
+    names.patch(exe, EXE_BASE, lab['names'], lab['names_short'], lab['names_raw'], lab['names_stat'])
     mctitle.patch(exe, EXE_BASE, lab['title'])
     datae3.patch(exe, EXE_BASE, lab['town'])
     out[datae3.ISO_NAME], n = datae3.build(disc.file(datae3.ISO_NAME, recs))

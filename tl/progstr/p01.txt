@@ -243,7 +243,7 @@ PROG:8011d7b4	Yamabushi
 PROG:8011d7c0	Council Hall
 PROG:8011d7cc	Senior Retainers' Hall
 PROG:8011d840	OK?
-PROG:8011d854	    Yes            No
+PROG:8011d854	      Yes             No
 PROG:8011d9ac	-
 PROG:8011d9e8	-
 PROG:8011da40	Attack
@@ -435,7 +435,7 @@ PROG:80120d54	Victory
 PROG:80120d60	Full Map
 PROG:80120d6c	Turn %u
 PROG:80120db4	SP Cost %3u
-PROG:80120dc4	Needs
+PROG:80120dc4	Weapon
 PROG:80120dd0	None
 PROG:80120ddc	-------
 PROG:80120dec	Move Cursor

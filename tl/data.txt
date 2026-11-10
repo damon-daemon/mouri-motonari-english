@@ -415,12 +415,12 @@ item:418	Nanban Silver
 skill:0	Deathblow
 skill:1	Slay Sword
 skill:2	Mercy Cut
-skill:3	Rain Ward
+skill:3	Rainshield
 skill:4	Charge
 skill:5	Sacrifice
 skill:6	Smash
 skill:7	Training
-skill:8	Bane Shot
+skill:8	Venom Shot
 skill:9	Fire Arrow
 skill:10	Quickshot
 skill:11	Dance Cut
@@ -428,41 +428,41 @@ skill:12	Barrage
 skill:13	Rampage
 skill:14	Lightning
 skill:15	Whirlwind
-skill:16	Flame Art
-skill:17	Detonate
+skill:16	Fire Art
+skill:17	Self-Blast
 skill:18	Fire Raid
 skill:19	Flooding
-skill:20	Tree Fall
+skill:20	Felled Log
 skill:21	Rockfall
 skill:22	Rough Sea
 skill:23	Bear
 skill:24	Shark
 skill:25	Skill Jam
-skill:26	2x Thrust
-skill:27	3x Thrust
+skill:26	Double Jab
+skill:27	Triple Jab
 skill:28	Rapid Fire
-skill:29	Horse Stop
-skill:30	Ship Stop
+skill:29	Halt Horse
+skill:30	Halt Ship
 skill:31	Warn Shot
-skill:32	Homesick
-skill:33	Fey Dance
+skill:32	Home Song
+skill:33	Dark Dance
 skill:34	Seduce
 skill:35	Bewilder
 skill:36	Ill Luck
-skill:37	Sealing
+skill:37	Seal Art
 skill:38	Binding
 skill:39	Hate Rite
 skill:40	Encourage
-skill:41	Supply
+skill:41	Resupply
 skill:42	All Supply
 skill:43	Big Supply
-skill:44	Hunt
+skill:44	Hunting
 skill:45	Fish
 skill:46	Reinforce+
 skill:47	Reinforce
 skill:48	Lullaby
-skill:49	Unbinding
-skill:50	Vigour
+skill:49	Free Song
+skill:50	Vigor Song
 skill:51	Good Luck
 skill:52	First Aid
 skill:53	Rally Song
@@ -474,9 +474,9 @@ skill:58	Cheer Song
 skill:59	Cloud Art
 skill:60	Plunder
 skill:61	Alms
-skill:62	Fast Foot
+skill:62	Quick Step
 skill:63	Fast Horse
-skill:64	Fast Ship
+skill:64	Fast Boat
 
 # towns (blob table; save description "%s Castle", march prompt "Enter %s?")
 town:0	Yoshida-Kōriyama

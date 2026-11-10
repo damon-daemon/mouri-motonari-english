@@ -112,13 +112,14 @@ def blob_names(base):
     return data
 
 
-def hook(at, base, raw_target):
+def hook(at, base, raw_target, pixw16):
     """New GETNAME at `at` (full names), `at` + 8 (short forms, SHORT_SITES call it) and
     `at` + 16 (MID_PX forms, MID_SITES):
     English of the record if the table has it, else the original (which continues at
     GETNAME + 4; its first instruction, replaced by the jump to here, runs in the delay slot).
-    Then a wrapper for RAW_SITES: a2 = GETNAME(a2 - 0x0c), then jump to `raw_target`.
-    -> (code, short entry, raw entry)"""
+    Then a wrapper for RAW_SITES: a2 = GETNAME(a2 - 0x0c), then jump to `raw_target`, and
+    one for STAT_SITE: s1 = GETNAME(a0 - 0x0c), then `pixw16`(s1).
+    -> (code, short entry, raw entry, stat entry)"""
     lines = [
         ('b', 'common'),
         ('addiu', 't3', 'zero', 0),             # full table: offset 0
@@ -165,7 +166,18 @@ def hook(at, base, raw_target):
         ('lw', 'a3', 24, 'sp'),
         ('j', raw_target),
         ('addiu', 'sp', 'sp', 32)]
-    return asm.assemble(at, lines), at + 8, raw
+    stat = at + 4 * len([x for x in lines if not isinstance(x, str)])
+    lines += [                                  # STAT_SITE: a0 = record + 0x0c
+        ('addiu', 'sp', 'sp', -24),
+        ('sw', 'ra', 16, 'sp'),
+        ('jal', at),
+        ('addiu', 'a0', 'a0', -0x0c),
+        ('addu', 's1', 'v0', 'zero'),
+        ('addu', 'a0', 'v0', 'zero'),
+        ('lw', 'ra', 16, 'sp'),
+        ('j', pixw16),
+        ('addiu', 'sp', 'sp', 24)]
+    return asm.assemble(at, lines), at + 8, raw, stat
 
 
 # officer screens: printf(font, fmt, record + 0x19) prints the kana reading right of the name
@@ -200,8 +212,39 @@ PEOPLE_LIST = [
     (0x80124524, 0x000000e4, 0x000000d4),   # right-hand box x
 ]
 RAW_SITES = [
-    0x800189dc,     # level-up message "%sはレベル%uになった" (message window)
+    0x800189dc,     # level-up message "%sはレベル%uになった" (message window), minor retainers 200+
+    0x80018878,     # the same for officers 0-200 (0x8001878c; a2 set 4 instructions earlier)
 ]
+# level-up stat panel 0x800184ac: s1 = record + 0x0c, title centred by strlen(s1) * 8 (vwf
+# STRLEN8 -> pixw16) and printed from s1 -> stat entry (s1 = English name, v0 = its pixels)
+STAT_SITE = 0x80018544
+
+
+# People (by name), issue #3: the list order is a table of 208 officer ids in kana order
+# (0x80101120; also the order inside the by-episode lists) and the ten groups あ か さ .. わ are
+# cumulative end positions in it (0x8010110a, 10 halfwords; group of an id = 0x8007c318).
+# English: the table sorted by the name as the list shows it (MID form), groups by initial;
+# the group labels are program strings (tl/progstr, 0x80125100.., <= 7 bytes each).
+ORDER_AT, ORDER_N, GROUPS_AT = 0x80101120, 208, 0x8010110a
+GROUPS = ['AB', 'CDEFG', 'HIJ', 'KL', 'M', 'NO', 'PQR', 'S', 'TUV', 'WXYZ']
+# cursor bars 0x800829b4 (by name: x 0x30 + 88 * column) and 0x80081bf4 (by episode: x 0x2c +
+# 92 * column): 60 x 14 px -> 84 px (names <= MID_PX)
+BAR_SITES = [(0x800829c8, 0x2406003c, 0x24060054), (0x80081c08, 0x2406003c, 0x24060054)]
+
+
+def people_order(exe, exe_base):
+    o = ORDER_AT - exe_base
+    ids = struct.unpack_from('<%dH' % ORDER_N, exe, o)
+    rows = _rows(full=True)
+    plain = lambda t: ''.join(c for c in unicodedata.normalize('NFD', t) if not unicodedata.combining(c))
+    key = {i: plain(_short(rows[i], MID_PX)).upper() for i in ids}
+    assert all(k[0] in ''.join(GROUPS) for k in key.values()), 'initial outside GROUPS'
+    order = sorted(ids, key=lambda i: (key[i], i))
+    ends = [sum(key[i][0] <= g[-1] for i in order) for g in GROUPS]
+    assert ends[-1] == ORDER_N
+    struct.pack_into('<%dH' % ORDER_N, exe, o, *order)
+    struct.pack_into('<10H', exe, GROUPS_AT - exe_base, *ends)
+    return ends
 
 
 def _word(exe, exe_base, va, old=None):
@@ -211,7 +254,7 @@ def _word(exe, exe_base, va, old=None):
     return o
 
 
-def patch(exe, exe_base, at, short_entry, raw_entry):
+def patch(exe, exe_base, at, short_entry, raw_entry, stat_entry):
     # GETNAME's first word -> j at; its delay slot (lbu v0, 0xc(a0)) still runs, harmless:
     # the hook's own fallback redoes both instructions and continues at GETNAME + 8
     o = _word(exe, exe_base, GETNAME, GETNAME_FIRST)
@@ -228,14 +271,19 @@ def patch(exe, exe_base, at, short_entry, raw_entry):
         o = _word(exe, exe_base, va)
         assert exe[o:o + 4] == jal, 'no jal GETNAME at %#x' % va
         exe[o:o + 4] = asm.assemble(va, [('jal', short_entry + 8)])
-    for va, old, new in PEOPLE_LIST:
+    for va, old, new in PEOPLE_LIST + BAR_SITES:
         struct.pack_into('<I', exe, _word(exe, exe_base, va, old), new)
+    people_order(exe, exe_base)
     for va in RAW_SITES:
         o = _word(exe, exe_base, va)
         assert exe[o:o + 4] == asm.assemble(0, [('jal', MSGW)]), 'no jal message window at %#x' % va
-        w = struct.unpack_from('<I', exe, o + 4)[0]
-        assert w >> 26 == 9 and (w >> 16) & 31 == 6 and w & 0xffff == 0x0c, 'no addiu a2, rX, 0xc at %#x' % va
+        ws = struct.unpack_from('<6I', exe, o - 16)       # a2 = record + 0xc in the delay slot or just before
+        assert any(w >> 26 == 9 and (w >> 16) & 31 == 6 and w & 0xffff == 0x0c for w in ws[:4] + ws[5:]), \
+            'no addiu a2, rX, 0xc at %#x' % va
         exe[o:o + 4] = asm.assemble(va, [('jal', raw_entry)])
+    o = _word(exe, exe_base, STAT_SITE)
+    assert struct.unpack_from('<I', exe, o - 4)[0] == 0x2471000c and struct.unpack_from('<I', exe, o + 4)[0] == 0x02202021
+    exe[o:o + 4] = asm.assemble(STAT_SITE, [('jal', stat_entry)])
 
 
 # ---------------------------------------------------------------- commands

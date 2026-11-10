@@ -173,6 +173,7 @@ def _code(char, widths):
         ('bnez', 'v1', 'mrow'),                   # v1 = the line's end ('\n' or 0)
         ('nop',),
         ('sll', 'v1', 't6', 4),
+        ('addu', 's2', 't5', 'zero'),             # also s2 (the caller's longest line) = pixels
         ('jr', 't4'),
         ('addu', 'v0', 't5', 'zero'),
 
@@ -258,35 +259,63 @@ def _sites(lab):
         # conditions op 0x2c): text at 0x800fdc68, a0 = lines - 1, s2 = longest line (bytes,
         # rounded up to 4) -> box w fp = 8 * s2 + 32, x [sp+0x168] = 144 - 4 * s2, text column
         # 20 - s2 / 2 (+ [sp+0x160]) -> pixels: w = W + 32, x = 144 - W / 2, text x = x + 16
+        # Type 1 (Yes/No row) has a minimum width 0x78 and h + 0x10: the original kept the box x
+        # of the narrow text (box off-centre); here the box is always centred on x 160, the text
+        # starts at 160 - W / 2 (s2 = W from msgw) and the Yes/No row (86 px: icon, Yes at +18,
+        # icon at +56, No at +74) is centred too (issue #3: it began 8 px left of the box)
         (0x8003f99c, [0x24150078, 0x001210c0, 0x245e0020, 0x24820001, 0x00021900, 0x00121080,
-                      0x240900a0, 0x01221023, 0x2442fff0, 0xafa20168], [
+                      0x240900a0, 0x01221023, 0x2442fff0, 0xafa20168, 0x24020001, 0x16820005,
+                      0x24770020, 0x2fc20078, 0x10400002, 0x24770030, 0x02a0f021], [
             ('addiu', 's5', 'zero', 0x78),
             ('addu', 'a1', 'a0', 'zero'),
             ('lui', 'a0', 0x8010),
             ('jal', lab['msgw']),
             ('addiu', 'a0', 'a0', -0x2398),
             ('addiu', 'fp', 'v0', 0x20),
-            ('srl', 'v0', 'v0', 1),
-            ('addiu', 't1', 'zero', 0x90),
+            ('addiu', 't1', 'zero', 1),
+            ('bne', 's4', 't1', 0x8003f9d0),
+            ('addiu', 's7', 'v1', 0x20),
+            ('sltiu', 't1', 'fp', 0x78),
+            ('beqz', 't1', 0x8003f9d0),
+            ('addiu', 's7', 'v1', 0x30),
+            ('addiu', 'fp', 'zero', 0x78),
+            ('srl', 'v0', 'fp', 1),               # 0x8003f9d0
+            ('addiu', 't1', 'zero', 0xa0),
             ('subu', 'v0', 't1', 'v0'),
             ('sw', 'v0', 0x168, 'sp')]),
         (0x8003fac8, [0x000928c2, 0xa0400000, 0x00121042, 0x00a22823, 0x25100001, 0x00103100,
                       0x8fa90160, 0x02a63021, 0x0c006a67, 0x00a92821], [
-            ('lw', 'a1', 0x168, 'sp'), None, ('nop',), ('addiu', 'a1', 'a1', 16), None, None,
-            ('nop',), None, ('jal', lab['capxy']), ('nop',)]),
+            ('srl', 'a1', 's2', 1), None, ('addiu', 't1', 'zero', 160), ('subu', 'a1', 't1', 'a1'),
+            None, None, ('nop',), None, ('jal', lab['capxy']), ('nop',)]),
+        (0x8003fb7c, [0x8fa90168, 0x24a5ffe8, 0x013e2021, 0x0c00fdb0, 0x2484ff80], [
+            ('nop',), None, ('nop',), None, ('addiu', 'a0', 'zero', 160 - 43)]),
+        # Yes/No row 0x8003f6c0(x, y), 12-px branch: labels at x + 0x10 / + 0x48 touch the icons
+        (0x8003f730, [0x26450010], [('addiu', 'a1', 's2', 0x12)]),
+        (0x8003f754, [0x26450048], [('addiu', 'a1', 's2', 0x4a)]),
         # name label 0x8002e270 (GETNAME of the unit's record, 12-px): x offset s0 =
-        # ((12 - strlen) / 2) * 6 -> (72 - pixw12) / 2
+        # ((12 - strlen) / 2) * 6 -> (72 - pixw12) / 2; x s1 = [sp+0x20] + s0 - 0x10 (0x8002e2c0),
+        # clamped to >= 8 by the game only: a label past the right edge wrapped round to the
+        # left of the screen (issue #3) -> also x <= 312 - width
         (0x8002e27c, [0x0c02a497, 0x00402021, 0x00021400, 0x00021403, 0x2403000c, 0x00621823,
                       0x000317c2, 0x00621821, 0x00031843, 0x00038040, 0x02038021, 0x0c006cb1,
                       0x00108040], [
             ('jal', lab['pixw12']),
             ('addu', 'a0', 'v0', 'zero'),
+            ('lh', 's1', 0x20, 'sp'),
             ('addiu', 'v1', 'zero', 72),
             ('subu', 'v1', 'v1', 'v0'),
-            ('sra', 's0', 'v1', 1),
-            ('nop',), ('nop',), ('nop',), ('nop',), ('nop',), ('nop',),
+            ('sra', 'v1', 'v1', 1),
+            ('addu', 's1', 's1', 'v1'),
+            ('addiu', 's1', 's1', -0x10),         # x
+            ('addiu', 's0', 'zero', 312),
+            ('subu', 's0', 's0', 'v0'),           # the largest x
+            ('subu', 's1', 's1', 's0'),
             None,
             ('nop',)]),
+        (0x8002e2c0, [0x97a20020, 0x2610fff0, 0x00508821], [      # s1 = min(x, largest)
+            ('sra', 'v0', 's1', 31),
+            ('and', 's1', 's1', 'v0'),
+            ('addu', 's1', 's1', 's0')]),
         # menu 0x800599xx: widest item (strlen, twice) * 8 -> pixw16
         (0x80059a24, [0x0c02a497], [('jal', lab['pixw16'])]),
         (0x80059a3c, [0x0c02a497], [('jal', lab['pixw16'])]),
@@ -294,7 +323,7 @@ def _sites(lab):
         # workshop list header: 名前 at x 0x24 + （%s） at x 0x44, Make at 0x74: "(Support)" ran
         # into "Make" -> x 0x41 = right after "Name " (the "(%s)" string is shared with the
         # merchant's sort tag, so it stays)
-        (0x800714d4, [0x24050044], [('addiu', 'a1', 'zero', 0x41)]),
+        (0x800714d4, [0x24050044], [('addiu', 'a1', 'zero', 0x3e)]),     # (" (%s)" has a leading space)
         # town-map place list (Square, 0x80025a14): 64-px box at x 0x18 / 0xe8 (table
         # 0x801243c0) -> 88 px: frame width, centred print columns 8 -> 12, cursor bar width,
         # right-hand box x, side-switch arrow x (left box)
@@ -311,6 +340,63 @@ def _sites(lab):
         # Gold box -> icon x 0xa0, label column 0x16
         (0x800752d0, [0x240600a8], [('addiu', 'a2', 'zero', 0xa0)]),
         (0x800752e0, [0x24050017], [('addiu', 'a1', 'zero', 0x16)]),
+        # item list 0x8006ec18 (merchant / workshop "%s List"): the sort tag "(%s)" was printed
+        # first at x 0x48 and the title over it from x 0x18 (English titles are longer: the tag
+        # was half erased) -> title first, the tag right after it (" (%s)" has a leading space)
+        (0x8006ec5c, None, [
+            ('addu', 'a0', 's0', 'zero'),
+            ('addiu', 'a1', 'zero', 0x18),
+            ('jal', 0x8001a95c),
+            ('addiu', 'a2', 'zero', 0x1a),
+            ('addu', 'a0', 's0', 'zero'),
+            ('lui', 'v1', 0x8010),
+            ('addiu', 'v1', 'v1', -0xc18),
+            ('lw', 'v0', 0x30, 's6'),
+            ('lui', 'a1', 0x8012),
+            ('sll', 'v0', 'v0', 2),
+            ('addu', 'v0', 'v0', 'v1'),
+            ('lw', 'a2', 0, 'v0'),
+            ('jal', 0x8001bc3c),
+            ('addiu', 'a1', 'a1', 0x4e1c),
+            ('addu', 'a0', 's0', 'zero'),
+            ('lui', 'v1', 0x8012),
+            ('addiu', 'v1', 'v1', 0x4d88),
+            ('lw', 't0', 0x20, 'sp'),
+            ('lui', 'a1', 0x8012),
+            ('sll', 'v0', 't0', 2),
+            ('addu', 'v0', 'v0', 'v1'),
+            ('lw', 'a2', 0, 'v0'),
+            ('jal', 0x8001bc3c),
+            ('addiu', 'a1', 'a1', 0x4e14)] + [('nop',)] * 10),
+        # damage number 0x8005517c(x, y, value, colour): outlined digits bounce for 16 frames, each
+        # erased with the 4bpp fill 0x8001b20c(x - 1, y - 1, w + 2, 0x12). That fill clears the
+        # wrong nibble at an odd start (pixel x - 1 instead of x): harmless with the original 8-px
+        # digit cells (blank first column), but our digits put the outline in that column and it
+        # stayed as a black line when the start was odd (issue #3) -> start one pixel earlier
+        (0x8005527c, [0x2644ffff], [('addiu', 'a0', 's2', -2)]),
+        (0x80055284, [0x26860002], [('addiu', 'a2', 's4', 3)]),
+        # same list, attack / defence bonus: " %3u" at x 0x80 and "+" over its padding at 0x80 /
+        # 0x88 / 0x90 by the digit count (8-px cells) -> one "+%u" (string 0x80124e24) ending
+        # at x 160: 6-px digits and plus
+        (0x8006ee68, None, [
+            ('addiu', 'a1', 'zero', 160 - 24),
+            ('sltiu', 'v0', 's1', 100),
+            ('beqz', 'v0', 0x8006ee84),
+            ('sltiu', 'v0', 's1', 10),
+            ('beqz', 'v0', 0x8006ee84),
+            ('addiu', 'a1', 'zero', 160 - 18),
+            ('addiu', 'a1', 'zero', 160 - 12),
+            ('addu', 'a0', 's5', 'zero'),         # 0x8006ee84
+            ('jal', 0x8001a95c),
+            ('addu', 'a2', 's3', 'zero'),
+            ('addu', 'a0', 's5', 'zero'),
+            ('lui', 'a1', 0x8012),
+            ('addiu', 'a1', 'a1', 0x4e24),
+            ('jal', 0x8001bc3c),
+            ('addu', 'a2', 's1', 'zero'),
+            ('j', 0x8006ef14),
+            ('nop',)] + [('nop',)] * 10),
+        (0x80124e24, [0x75332520, 0], [0x0075252b, 0]),       # " %3u" -> "+%u"
     ] + [s for jal, mul, reg in STRLEN6 for s in (
         (jal, [0x0c02a497], [('jal', lab['pixw12'])]),
         (mul, asm_words(mul, [('sll', reg, 'v0', 1), ('addu', reg, reg, 'v0'), ('sll', reg, reg, 1)]),
@@ -318,6 +404,37 @@ def _sites(lab):
     ] + [s for jal, mul, reg in STRLEN8 for s in (
         (jal, [0x0c02a497], [('jal', lab['pixw16'])]),
         (mul, asm_words(mul, [('sll', reg, 'v0', 3)]), [('addu', reg, 'v0', 'zero')]))]
+
+
+# Workshop type list 0x8006f5d4 (issue #3): type labels at x 0x18 (two kanji = 24 px), craftable
+# icons / x marks in 4 columns from x 0x30 / 0x32, then Lv (0x78), makeable (0x96), craftsmen
+# (0x b8), main item icon 0xd0 + name 0xe0. English labels are <= 47 px ("Ninja Tool"): the
+# icon columns move 24 px right and the three number columns close up.
+# (address, old immediate, new immediate) of an addiu
+D = 0x18
+IMMS = [(va, old, old + D) for va, old in (
+    (0x8006f948, 0x32), (0x8006f94c, 0x30),         # rows 0-5: x mark / icon, 3 columns
+    (0x8006f9e4, 0x60), (0x8006f9fc, 0x62),         # 4th column
+    (0x8006fa20, 0x30), (0x8006fa38, 0x32),         # armour row
+    (0x8006fa64, 0x30), (0x8006fa7c, 0x32),         # shield row
+    (0x8006faa8, 0x30), (0x8006fac0, 0x32), (0x8006faf8, 0x40), (0x8006fb10, 0x42),   # medicine
+    (0x8006fb48, 0x50), (0x8006fb60, 0x52), (0x8006fb98, 0x60), (0x8006fbb0, 0x62),
+    (0x8006fc2c, 0x42), (0x8006fc48, 0x52), (0x8006fc64, 0x62))                       # dashes
+] + [
+    (0x8006f618, 0x7a, 143), (0x8006f89c, 0x78, 141),     # Lv: header glyph, value
+    (0x8006f638, 0x8c, 160), (0x8006f810, 0x96, 164),     # "Make"
+    (0x8006f658, 0xb4, 188), (0x8006f848, 0xb8, 192),     # "Staff"
+    # battle skill window 0x80065a84: 96-px columns, icon, name at +0x10, cost "%3u" at +0x44
+    # (padding spaces are 3 px here: a 2-digit cost began 55 px after the name's start and
+    # touched "Double Jab") -> +0x4a: 2 digits start 61 px after the name's start (SKILL_PX 57)
+    (0x80065bac, 0x44, 0x4a),
+]
+
+# original words of the blocks rewritten whole in _sites
+CLEAN_BLOCKS = {
+    0x8006ec5c: [0x02002021, 0x24050048, 0x0c006a57, 0x2406001a, 0x02002021, 0x3c038012, 0x24634d88, 0x8fa80020, 0x3c058012, 0x00081080, 0x00431021, 0x8c460000, 0x0c006f0f, 0x24a54e14, 0x02002021, 0x0c006ab4, 0x24050080, 0x02002021, 0x0c006a96, 0x24050007, 0x02002021, 0x24050018, 0x0c006a57, 0x2406001a, 0x02002021, 0x3c038010, 0x2463f3e8, 0x8ec20030, 0x3c058012, 0x00021080, 0x00431021, 0x8c460000, 0x0c006f0f, 0x24a54e1c],
+    0x8006ee68: [0x02a02021, 0x24050080, 0x0c006a57, 0x02603021, 0x02a02021, 0x3c058012, 0x24a54e24, 0x0c006f0f, 0x02203021, 0x2e220064, 0x14400004, 0x2e22000a, 0x02a02021, 0x0801bbae, 0x24050080, 0x14400003, 0x02a02021, 0x0801bbae, 0x24050088, 0x24050090, 0x0c006a57, 0x02603021, 0x3c08800c, 0x2504091c, 0x3c058012, 0x0801bbc3, 0x24a54e2c],
+}
 
 
 def asm_words(va, lines):
@@ -353,8 +470,16 @@ def listing(at):
 def patch(exe, exe_base, lab):
     for va, old, new in _sites(lab):
         o = va - exe_base
+        if old is None:                       # a rewritten block: checked against CLEAN_BLOCKS
+            old = CLEAN_BLOCKS[va]
+            assert len(old) == len(new), 'block size at %#x' % va
         assert list(struct.unpack_from('<%dI' % len(old), exe, o)) == old, 'unexpected code at %#x' % va
         code = b''.join(struct.pack('<I', w) if n is None else struct.pack('<I', n) if isinstance(n, int)
                         else asm.assemble(va + 4 * i, [n])
                         for i, (w, n) in enumerate(zip(old, new)))
         exe[o:o + len(code)] = code
+    for va, old, new in IMMS:
+        o = va - exe_base
+        w = struct.unpack_from('<I', exe, o)[0]
+        assert w >> 26 == 9 and w & 0xffff == old, 'unexpected code at %#x' % va
+        struct.pack_into('<I', exe, o, w & 0xffff0000 | new)

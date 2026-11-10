@@ -41,7 +41,7 @@ Motonari?! Was that stripling not fighting his first battle?!
 Hmm. I never thought the Mōri's second son had such valour...
 
 @6.4
-What became of the Mōri head?
+What became of the Mōri headship?
 
 @6.5
 Kōmatsumaru is lord, with Motonari and Mototsuna as his guardians.
@@ -752,7 +752,7 @@ Brother, I have brought Lord Motonari.
 Ah, welcome. Thank you for coming.
 
 @157.0
-You may withdraw for now.
+You may leave us for now.
 
 @158.0
 Excuse me.

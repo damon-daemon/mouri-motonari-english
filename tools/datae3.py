@@ -38,7 +38,7 @@ IN_PLACE = ('item', 'skill')
 TOWN_MAX = 31                     # blob strings (sprintf "%s Castle" -> 72-B save description)
 # pixel limits of the narrowest display (measured in the emulator: see notes/survey.md)
 ITEM_PX = 76      # battle item window: text x 35, next icon x 116; storehouse: label at +80 px
-SKILL_PX = 56     # battle skill window: the cost is drawn at +58 px from the name
+SKILL_PX = 57     # battle skill window: "%3u" cost at +58 px from the name (vwf.IMMS): 2 digits start at +61
 TOWN_GET = 0x80019c14
 TOWN_CALLS = (0x80016374, 0x800245b4)
 

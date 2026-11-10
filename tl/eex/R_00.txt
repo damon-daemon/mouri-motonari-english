@@ -260,7 +260,7 @@ Brother, rest is what you need most now. Please lie down.
 Then we shall take our leave. If anything happens, call for us at once.
 
 @56.0
-Then let us withdraw as well.
+Then let us take our leave as well.
 
 @57.0
 Uncle, will Father be all right?
@@ -701,7 +701,7 @@ What! Okimoto is dead?!
 Yes. There is no mistake.
 
 @109.2
-A golden chance! Taking Arita Castle of the Kikkawa can only be done now!
+A golden chance! Taking Arita Castle from the Kikkawa can only be done now!
 
 @109.3
 Okimoto's heir is still a child. A succession dispute is certain. The Mōri house cannot be united now.
@@ -953,7 +953,7 @@ Forgive my sudden intrusion. I come as a messenger from Oda Nobutada, lord of Ar
 What, Arita Castle?! Surely not...!
 
 @161.3
-It is just so. The Takeda forces have attacked Arita Castle. Reinforcements, quickly.
+It is just so. The Takeda forces have attacked Arita Castle. Send reinforcements, quickly.
 
 @161.4
 Absurd! We cannot send reinforcements at a time like this!

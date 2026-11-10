@@ -335,7 +335,7 @@ That Mōri whelp! He should have stayed in his castle and kept out of this.
 Kumagai Motonao! I will not forgive this brutality on our land! Prepare yourself!
 
 @75.0
-Lord Mōri! You would do well to withdraw quietly!
+Lord Mōri! You would do well to back down quietly!
 
 @75.1
 I advise you to leave our land at once, Lord Kagawa.

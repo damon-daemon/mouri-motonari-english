@@ -845,7 +845,7 @@ Then, I am sorry, but another time.
 I have decided not to work any more. Please leave.
 
 @210.1
-I see. Then I will withdraw for today.
+I see. Then I will take my leave for today.
 
 @210.2
 It will be the same however often you come.
@@ -854,7 +854,7 @@ It will be the same however often you come.
 I have decided not to work any more. Please leave.
 
 @213.3
-I see. Then I will withdraw for today.
+I see. Then I will take my leave for today.
 
 @213.4
 It will be the same however often you come.
